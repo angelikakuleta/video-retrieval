@@ -1,0 +1,44 @@
+﻿id;type;start;end;desc;tags
+tbbt_s06e24_m001;mask;2.02;3.38;;przejscie
+tbbt_s06e24_m002;mask;86.70;88.01;;przejscie
+tbbt_s06e24_d72162;event;170.59;172.70;Sheldon, in a beige jacket, and Leonard sit in the car, which suddenly stops, and Sheldon, with eyes wide open, looks at Leonard.;
+tbbt_s06e24_m003;mask;177.95;203.93;;
+tbbt_s06e24_d15730;event;210.58;219.73;A shot of a woman looking through a telescope, standing next to smiling Raj, seen through a window.;
+tbbt_s06e24_m005;mask;273.47;274.80;;przejscie
+tbbt_s06e24_d15745;event;400.16;402.11;Penny bursts out laughing with mouth wide open, while sitting at the dinner table with salad in front of a smiling Leonard.;
+tbbt_s06e24_m006;mask;402.17;403.49;;przejscie
+tbbt_s06e24_d15751;event;483.41;485.07;Raj, while holding a beer bottle, reaches out and slaps Leonard on the back while he eats his food.;
+tbbt_s06e24_d89001;event;517.65;520.64;Howard, in orange plaid shirt, reach out a taps couple of times, Bernadette on the laps, next to food that she is holding.;
+tbbt_s06e24_m007;mask;549.68;551.05;;przejscie
+tbbt_s06e24_d89000;event;551.06;554.29;Raj, in an orange apron, is serving  a bowl of salad to Lucy and Amy who are sitting at the table talking.;
+tbbt_s06e24_d15762;event;607.39;616.03;Lucy puts aside an orange napkin and rushes away from the table where Amy and Raj are sitting.;
+tbbt_s06e24_m008;mask;623.46;624.65;;przejscie
+tbbt_s06e24_d15768;event;629.86;634.39;Penny, in a grocery store with Sheldon, grabs two bottles of vodka and puts them in a cart.;
+tbbt_s06e24_d15769;event;654.15;659.62;Penny, in a grocery store with Sheldon, grabs a six pack of beer from a cooler and puts it in a cart.;
+tbbt_s06e24_d15695;event;673.09;686.02;Penny grabs a bottle of white wine from a shelf in the store and looks at it while talking to Sheldon, then puts it back on the shelf.;
+tbbt_s06e24_d15696;event;723.85;728.75;Penny walks closer to the shelf with wine while talking to Sheldon, and puts two bottles of wine into the shopping cart.;
+tbbt_s06e24_m009;mask;742.89;744.22;;przejscie
+tbbt_s06e24_m010;mask;814.21;815.56;;przejscie
+tbbt_s06e24_d62847;event;815.58;820.40;Leonard, at a house party, pours a shot from a shaker and hands it to Bernadette.;
+tbbt_s06e24_d62845;event;829.93;842.01;Howard, at a house party, picks up a bottle of wine from the kitchen counter, pours himself a glass, and sets the bottle back down.;
+tbbt_s06e24_d13283;event;867.61;870.97;Raj, in a brown shirt, stands up from the couch, where he was sitting next to Amy, and puts his hands in his pockets.;
+tbbt_s06e24_d13284;event;874.09;879.70;Sheldon, in a green shirt with a tie, hits a fork against his glass of milk as a toast.;
+tbbt_s06e24_d13268;event;926.70;931.34;Raj, in a brown shirt, shows Howard something on his cell phone.;
+tbbt_s06e24_d13265;event;931.34;933.42;Bernadette, in red dress, walks up to upset Raj and Howard, looking at something on cell phone.;
+tbbt_s06e24_d13266;event;904.51;913.47;Sheldon, in a green shirt with a tie, lifts his glass of milk as a toast with everybody and drinks it.;
+tbbt_s06e24_m011;mask;967.71;969.01;;przejscie
+tbbt_s06e24_d13267;event;969.04;975.27;Leonard and Penny both unbuckle their seat belts, while sitting in a red car, and turn toward each other.;
+tbbt_s06e24_d51310;event;981.27;983.82;Sheldon, in the back seat, gestures with his thumb out the rear window to Penny behind the wheel.;
+tbbt_s06e24_d51311;event;1019.36;1024.05;Leonard picks up and then hands Penny a small gift in the car with Sheldon in the back seat.;
+tbbt_s06e24_d51314;event;993.73;995.42;Sheldon, in a grey shirt, taps the front seat where Leonard is sitting twice and leans forward toward him.;
+tbbt_s06e24_d51312;event;1036.91;1047.12;Sheldon puts his head out of the car window, then gives a thumbs up while Penny and Leonard are kissing and hugging in the car.;
+tbbt_s06e24_m012;mask;1047.13;1048.50;;przejscie
+tbbt_s06e24_d51983;event;1093.69;1096.74;Penny scoots closer on the couch, then leans over and hugs sad Raj on the couch with colorful patterned pillows.;
+tbbt_s06e24_d60540;event;1122.08;1130.22;Penny raises her head while hugging Raj on the couch with colorful patterned pillows and stops hugging him to look at him;
+tbbt_s06e24_d60541;event;1135.45;1141.55;Penny waves her hands over her face and hugs Raj, who starts to cry, on the couch with colorful patterned pillows.;
+tbbt_s06e24_m013;mask;1144.71;1146.03;;przejscie
+tbbt_s06e24_d60542;event;1146.09;1150.86;Penny is pouring herself wine as she stands in the kitchen with Amy, Raj, and Bernadette, who is wearing a green sweater.;
+tbbt_s06e24_d63727;event;1152.32;1154.88;Penny looks uncomfortable at Amy and Bernadette, who are standing in front of Raj with glasses of wine, at the kitchen table.;
+tbbt_s06e24_d63725;event;1170.25;1175.78;Amy, in a blue sweater, takes a drink from her wine glass as Raj continues to talk, at the kitchen table.;
+tbbt_s06e24_d63729;event;1150.40;1152.32;Penny points at the bottle of wine, then Raj grabs and lifts his bottle of water, while Bernadette and Amy are around the kitchen table.;
+tbbt_s06e24_m014;mask;1175.81;1207.84;;

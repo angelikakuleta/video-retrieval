@@ -1,0 +1,141 @@
+1
+00:00:01,045 --> 00:00:03,045
+== sync, corrected by elderman ==
+@elder_man
+
+2
+00:00:05,069 --> 00:00:06,669
+(Raj:)Hey, you think
+it'd be okay
+
+3
+00:00:06,671 --> 00:00:08,301
+(Raj:)if I brought Claire
+to the wine tasting?
+
+4
+00:00:08,306 --> 00:00:10,106
+(Leonard:)Sure. I'd like to meet her.
+Oh, that's great.
+
+5
+00:00:10,107 --> 00:00:11,777
+(Raj:)I've been wanting her
+to meet you guys, too,
+
+6
+00:00:11,776 --> 00:00:13,406
+(Raj:)so this seems like
+the perfect opportunity.
+
+7
+00:00:13,411 --> 00:00:14,911
+(Sheldon:)Oh, but I won't be there.
+
+8
+00:00:14,912 --> 00:00:16,242
+(Raj:)Funny how that worked out.
+
+9
+00:00:17,648 --> 00:00:20,248
+(Leonard:)Does this mean Emily's not
+in the picture anymore?
+
+10
+00:00:20,251 --> 00:00:21,321
+(Raj:)No, I'm still dating her.
+
+11
+00:00:21,319 --> 00:00:22,489
+(Leonard:)Okay, help me out.
+
+12
+00:00:22,487 --> 00:00:23,817
+(Leonard:)How are you doing this?
+
+13
+00:00:23,821 --> 00:00:25,651
+(Leonard:)Do they know about each other?
+
+14
+00:00:25,656 --> 00:00:27,386
+(Raj:)They know that
+we're not exclusive,
+
+15
+00:00:27,391 --> 00:00:29,521
+(Raj:)and we just don't ask
+too many questions.
+
+16
+00:00:29,527 --> 00:00:32,157
+(Sheldon:)You know, it's like how I play
+Warlords of Ka'a with you
+
+17
+00:00:32,163 --> 00:00:35,933
+(Sheldon:)and Elder Sign with
+Frank and Alicia.
+
+18
+00:00:37,034 --> 00:00:38,504
+(Leonard:)Who's Frank and Alicia?
+
+19
+00:00:38,503 --> 00:00:40,933
+Y... You and I spend
+a lot of time together.
+
+20
+00:00:40,938 --> 00:00:43,538
+(Sheldon:)Can there be a little
+mystery between us?
+
+21
+00:00:43,541 --> 00:00:45,311
+WOLOWITZ:
+Okay.
+
+22
+00:00:45,309 --> 00:00:47,079
+(Howard:)Everything's hooked up.
+We're ready.
+
+23
+00:00:47,078 --> 00:00:50,008
+(Sheldon:)I am going to record
+this for posterity.
+
+24
+00:00:50,014 --> 00:00:51,714
+(Leonard:)All right, here goes nothing.
+
+25
+00:00:51,716 --> 00:00:53,086
+(Sheldon:)Here goes nothing?
+
+26
+00:00:53,084 --> 00:00:54,714
+(Sheldon:)This is the initial test
+of our prototype.
+
+27
+00:00:54,719 --> 00:00:56,319
+(Sheldon:)Can we give it
+a little more gravitas?
+
+28
+00:00:56,320 --> 00:00:57,490
+LEONARD:
+Fine.
+
+29
+00:00:57,488 --> 00:01:00,288
+(Leonard:)Preliminary trial
+of the infinite persistence
+
+30
+00:01:00,291 --> 00:01:03,361
+gyroscopic navigational system:
+phase one commencing.
+

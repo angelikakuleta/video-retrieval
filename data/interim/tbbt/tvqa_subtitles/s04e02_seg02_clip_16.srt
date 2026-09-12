@@ -1,0 +1,101 @@
+1
+00:00:00,790 --> 00:00:03,260
+(Steve Wozniak:)Nerds.
+
+2
+00:00:06,340 --> 00:00:08,660
+(Sheldon:)I'm coming, Woz, I'm coming.
+
+3
+00:00:08,660 --> 00:00:09,630
+(Howard:)Ow!
+
+4
+00:00:09,630 --> 00:00:10,980
+(Sheldon:)Oh!
+
+5
+00:00:13,990 --> 00:00:16,190
+(Sheldon:)Aw.
+
+6
+00:00:29,300 --> 00:00:34,270
+Penny... Penny... Penny.
+
+7
+00:00:36,150 --> 00:00:38,270
+(Penny:)What up, Shel-Bot?
+
+8
+00:00:38,270 --> 00:00:40,140
+(Sheldon-bot:)I can't get out of bed.
+
+9
+00:00:40,140 --> 00:00:41,520
+(Sheldon-bot:)I hurt my ankle.
+
+10
+00:00:41,530 --> 00:00:43,110
+(Penny:)What do you want me to do?
+
+11
+00:00:43,110 --> 00:00:45,440
+Sing me "Soft Kitty."
+
+12
+00:00:45,450 --> 00:00:48,150
+(Penny:)Really, you want me
+to sing "Soft Kitty"
+
+13
+00:00:48,150 --> 00:00:49,780
+(Penny:)to a computer monitor?
+
+14
+00:00:49,780 --> 00:00:52,620
+(Sheldon-bot:)Would you rather come over
+and sing it to me in person?
+
+15
+00:00:52,620 --> 00:00:55,910
+♪ Soft kitty, warm kitty ♪
+
+16
+00:00:55,910 --> 00:00:57,790
+♪ Little ball of fur... ♪
+
+17
+00:00:57,790 --> 00:01:00,410
+(Sheldon-bot:)Closer to the microphone.
+
+18
+00:01:00,410 --> 00:01:03,710
+♪ Happy kitty,
+sleepy... ♪
+
+19
+00:01:03,710 --> 00:01:05,980
+(Sheldon:)No.
+
+20
+00:01:05,980 --> 00:01:09,250
+(Sheldon-bot:)You have to start over.
+
+21
+00:01:09,250 --> 00:01:12,590
+♪ Soft kitty,
+warm kitty ♪
+
+22
+00:01:12,590 --> 00:01:15,720
+♪ Little ball of fur ♪
+
+23
+00:01:15,730 --> 00:01:18,530
+♪ Happy kitty,
+sleepy kitty ♪
+
+24
+00:01:18,530 --> 00:01:20,040
+♪ Purr, purr, purr. ♪
+

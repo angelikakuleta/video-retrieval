@@ -1,0 +1,44 @@
+﻿id;type;start;end;desc;tags
+tbbt_s02e01_d40030;event;0.00;10.91;Leonard and Penny are walking up some stairs and Leonard is talking to Penny while she is eating ice scream.;
+tbbt_s02e01_d40031;event;32.65;36.92;Leonard and Penny kiss in the hall and a camera on the wall watches them.;
+tbbt_s02e01_d40034;event;38.46;40.94;A shot of Leonard kissing Penny through a camera view.;
+tbbt_s02e01_d40105;event;85.72;90.23;Penny kissed Leonard on the cheek, with ice cream in her hands, and walked towards the door.;
+tbbt_s02e01_d40109;event;95.58;103.72;When Leonard walks in the apartment, Howard and Raj sit back on the couch and try to pretend like they weren't spying on him.;
+tbbt_s02e01_d40212;event;156.60;159.69;Sheldon, in a blue plaid shirt, is sitting at his desk and puts a pencil in a pencil cup.;
+tbbt_s02e01_d30695;event;199.36;201.54;Raj is sitting next to Howard, who is wearing a purple shirt, when they lean over to the laptop in front of them.;
+tbbt_s02e01_d30696;event;212.27;219.88;Sheldon, in a blue plaid shirt, walks over to Raj and Howard, with a book in his hand.;
+tbbt_s02e01_d30697;event;191.06;197.19;Leonard, in a suit, takes white cards out of his pocket and shows them to Raj and Howard.;
+tbbt_s02e01_m001;mask;249.44;273.32;;
+tbbt_s02e01_d28225;event;273.32;283.42;Sheldon, in a green shirt, folds a red shirt and places it on top of other folded shirts in a laundry room.;
+tbbt_s02e01_d28226;event;281.46;286.67;Penny, in a pink shirt, walks through the door carrying a laundry basket and puts it on the laundry machine.;
+tbbt_s02e01_d28227;event;302.31;307.02;Penny, in a pink shirt, pours laundry detergent into the washing machine.;
+tbbt_s02e01_d74084;event;293.66;302.69;Penny in pink shirt, takes the basket full of laundry and dumps it into the laundry machine.;
+tbbt_s02e01_d91603;event;416.43;421.85;Penny points her finger at Sheldon while Sheldon is folding a blue shirt, in a laundry room.;
+tbbt_s02e01_d91600;event;426.29;428.99;Penny massages her wrists, while standing next to Sheldon at a laundry room.;
+tbbt_s02e01_m002;mask;515.03;516.39;;przejscie
+tbbt_s02e01_d91595;event;516.39;525.61;Sheldon and Leonard walk up the stairs to their apartment landing, walking past white flowers near the apartment doors.;
+tbbt_s02e01_d91597;event;569.74;573.15;Sheldon, in a mint green shirt, looks panicked and quickly turns and runs upstairs away from Leonard.;
+tbbt_s02e01_d7737;event;596.57;606.55;Sheldon's eyes and mouth begin to twitch uncontrollably, while he wears a mint green shirt.;
+tbbt_s02e01_m003;mask;623.85;625.20;;przejscie
+tbbt_s02e01_d74056;event;638.93;641.81;Sheldon, in a mint green shirt, grabs Penny at the restaurant by the arm to pull her away.;
+tbbt_s02e01_d74057;event;685.26;688.41;Sheldon, in a mint green shirt, holds up both of his index fingers to either side of his head.;
+tbbt_s02e01_d74101;event;796.17;799.38;Sheldon, in a mint green shirt, with a black bag on his shoulder, enters the room where Leonard is standing at the fridge.;
+tbbt_s02e01_d74097;event;861.40;865.34;Leonard jumps onto the couch with a can in hands and lies on it.;
+tbbt_s02e01_m004;mask;865.86;867.19;;przejscie
+tbbt_s02e01_d74099;event;867.20;873.40;Sheldon, in a mint green shirt, walks towards the grey couch with a drink in his hand.;
+tbbt_s02e01_d90955;event;934.05;940.03;Sheldon says something to Raj which make Raj give him a very dirty look.;
+tbbt_s02e01_m005;mask;940.03;941.39;;przejscie
+tbbt_s02e01_d90956;event;948.59;955.08;Howard in maroon pajamas, answers the door and Raj leaves Sheldon at the doorway and leaves quickly.;
+tbbt_s02e01_d29615;event;991.05;1005.77;Sheldon stands up from the floor next to Howard, in maroon pajamas, and gets in the bed, arranging the covers and pillow comfortably.;
+tbbt_s02e01_d29619;event;1013.02;1022.32;Howard  in maroon pajamas, lies down on the blue air mattress.;
+tbbt_s02e01_d29620;event;1077.58;1080.14;Howard grabs his pillow and puts it over his face.;
+tbbt_s02e01_m006;mask;1080.17;1081.52;;przejscie
+tbbt_s02e01_d29622;event;1107.83;1110.42;Howard in maroon pajamas, throws the bag off his shoulder and drops it on the floor in front of Leonard.;
+tbbt_s02e01_d29595;event;1115.05;1117.23;Sheldon in green plaid pajamas, is leaning against his desk, propping himself up with one hand, and holding his hip.;
+tbbt_s02e01_d29596;event;1124.62;1135.32;Sheldon in green plaid pajamas, slumps from the headrest of the armchair down into the chair and makes a shushing gesture.;
+tbbt_s02e01_d29598;event;1153.64;1158.20;Leonard, in a red robe, clenches his hands into fists and puts them up to his face out of frustration.;
+tbbt_s02e01_d29600;event;1173.94;1179.57;Sheldon in green plaid pajamas, lifts his right hand and stares at his fingers.;
+tbbt_s02e01_d29605;event;1232.05;1244.76;Penny in a green tank top, is holding a flyer while talking to Leonard who points his finger at it.;
+tbbt_s02e01_d29606;event;1266.80;1269.54;Penny in a green tank top, closes her apartment door in Leonard's surprised face.;
+tbbt_s02e01_d29607;event;1272.78;1280.11;Leonard leaves Penny's apartment door to go inside his apartment and look up at the camera.;
+tbbt_s02e01_m007;mask;1280.15;1312.29;;

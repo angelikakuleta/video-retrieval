@@ -1,0 +1,95 @@
+1
+00:00:00,620 --> 00:00:03,990
+(Sheldon:)Did he mean
+as if she'd been out in the sun,
+
+2
+00:00:03,990 --> 00:00:07,560
+(Sheldon:)tending an herb garden without
+wearing a hat or sunblock?
+
+3
+00:00:09,600 --> 00:00:11,900
+(Dr. Brian Greene:)No.
+
+4
+00:00:11,900 --> 00:00:15,100
+(Leonard:)That's not what he meant.
+
+5
+00:00:15,100 --> 00:00:18,070
+(Sheldon:)Well, we may never know.
+
+6
+00:00:18,070 --> 00:00:19,210
+(Sheldon:)As my mother would say,
+
+7
+00:00:19,210 --> 00:00:23,080
+(Sheldon:)the Asians are
+an inscrutable folk.
+
+8
+00:00:25,180 --> 00:00:27,580
+(Sheldon:)Now, if you'll excuse me,
+I have work to do.
+
+9
+00:00:27,580 --> 00:00:30,120
+(Leonard:)Yeah, you do.
+You dog, you.
+
+10
+00:00:36,490 --> 00:00:38,090
+(Sheldon:)Did you get that?
+
+11
+00:00:38,090 --> 00:00:40,190
+(Amy(on webcam):)Every word.
+
+12
+00:00:40,200 --> 00:00:43,360
+(Amy(on webcam):)Our false gossip meme appears
+to have reached node lambda.
+
+13
+00:00:43,370 --> 00:00:44,460
+(Sheldon:)This is moving faster
+than we thought.
+
+14
+00:00:44,470 --> 00:00:45,430
+(Sheldon:)Agreed.
+
+15
+00:00:45,430 --> 00:00:46,530
+(Amy:)It appears the rate
+
+16
+00:00:46,530 --> 00:00:47,700
+(Amy:)of gossip transmission
+
+17
+00:00:47,700 --> 00:00:49,770
+(Amy:)is proportional
+to the number of nodes squared.
+
+18
+00:00:49,770 --> 00:00:52,370
+(Sheldon:)I must say, Amy,
+
+19
+00:00:52,370 --> 00:00:54,310
+(Sheldon:)pretending
+to have intercourse with you
+
+20
+00:00:54,310 --> 00:00:58,240
+(Sheldon:)is giving me
+a great deal of satisfaction.
+
+21
+00:00:58,250 --> 00:01:04,020
+(Amy:)Slow down, Sheldon.
+I'm not quite there yet.
+

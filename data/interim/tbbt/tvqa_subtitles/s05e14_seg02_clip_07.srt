@@ -1,0 +1,67 @@
+1
+00:00:00,990 --> 00:00:03,280
+Why don't women Iike me?
+
+2
+00:00:03,492 --> 00:00:05,782
+(Siri:)Let me check on that.
+
+3
+00:00:08,039 --> 00:00:11,999
+(Siri:)How about a web search
+for "Why don't women like me?"
+
+4
+00:00:12,168 --> 00:00:14,878
+Well, no need. L've already done that.
+
+5
+00:00:16,464 --> 00:00:19,214
+Uh, Siri, do you have a last name?
+
+6
+00:00:19,383 --> 00:00:20,843
+(Phone:)My name is Siri.
+
+7
+00:00:21,052 --> 00:00:23,012
+(Raj:)Ah, one name.
+
+8
+00:00:23,179 --> 00:00:27,139
+Like Cher, Madonna, Adele.
+
+9
+00:00:27,308 --> 00:00:29,688
+(Raj:)All the women who rock me.
+
+10
+00:00:31,103 --> 00:00:34,023
+(Raj:)My name is Rajesh,
+but you can call me Raj.
+
+11
+00:00:34,190 --> 00:00:36,900
+Would you like me to call you "Raj"?
+
+12
+00:00:37,068 --> 00:00:39,398
+I'd like you to call me "sexy."
+
+13
+00:00:40,738 --> 00:00:44,988
+From now on, I'll call you "sexy." Okay?
+
+14
+00:00:46,661 --> 00:00:48,701
+(Amy:)Okay.
+
+15
+00:00:55,002 --> 00:00:58,042
+Siri, I'm in the mood for gelato.
+
+16
+00:00:58,381 --> 00:01:01,671
+I found 10 restaurants
+whose reviews mention gelato.
+

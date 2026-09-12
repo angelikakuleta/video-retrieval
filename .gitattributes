@@ -1,0 +1,11 @@
+# Notebooks go into the repository without cell outputs.
+# The filter runs on `git add`; it is enabled once with:
+#     pip install nbstripout
+#     nbstripout --install
+# (writes the filter definition into this repository's .git/config)
+*.ipynb filter=nbstripout diff=ipynb
+
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.pt binary

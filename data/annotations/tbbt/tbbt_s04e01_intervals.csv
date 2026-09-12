@@ -1,0 +1,43 @@
+﻿id;type;start;end;desc;tags
+tbbt_s04e01_m001;mask;2.01;3.35;;przejscie
+tbbt_s04e01_d13988;event;15.42;24.41;A robotic arm reaches into a paper bag and pulls out containers of food onto a table while Raj, Leonard, and Sheldon cheer.;
+tbbt_s04e01_d13987;event;109.20;118.28;The robotic hand drops the small package into Penny's hand, which she held out expectantly.;
+tbbt_s04e01_d80204;event;131.49;139.59;The robotic hand holds up two fingers in front of Sheldon.;
+tbbt_s04e01_m002;mask;142.65;167.97;;
+tbbt_s04e01_d96750;event;168.19;172.22;Leonard grabs a blue napkin from the robotic hand and sits down in a chair.;
+tbbt_s04e01_d62900;event;271.45;281.85;Penny spits water out and the robot hands penny a blue napkin.;
+tbbt_s04e01_m004;mask;407.52;408.85;;przejscie
+tbbt_s04e01_d96740;event;408.85;414.40;Sheldon, in a yellow shirt with grey sleeves, knocks on Penny's door repeatedly.;
+tbbt_s04e01_d62890;event;465.90;470.03;Penny, in a pink patterned tank top, opens her mouth wide in shock, moving her head to the side, at Sheldon.;
+tbbt_s04e01_m005;mask;492.48;493.80;;przejscie
+tbbt_s04e01_d62892;event;519.88;525.86;Howard, in a green shirt, slowly turns his head around and looks at the robot hand massaging his shoulder.;
+tbbt_s04e01_d96745;event;499.83;514.22;The hand of a robot massages Howard's shoulder, while he opens his mouth wide and closes his eyes in pleasure.;
+tbbt_s04e01_m006;mask;525.90;527.53;;przejscie
+tbbt_s04e01_d96747;event;559.51;561.66;Penny, while driving a car, briefly turns toward Sheldon, the corner of her mouth lifting into a smile.;
+tbbt_s04e01_m007;mask;603.80;605.13;;przejscie
+tbbt_s04e01_d62896;event;611.49;626.47;Leonard, while talking to Raj, reaches his hand toward the magazines on the table and holds his hand on them for a moment.;
+tbbt_s04e01_m008;mask;646.86;648.22;;przejscie
+tbbt_s04e01_m009;mask;768.01;769.35;;przejscie
+tbbt_s04e01_d18111;event;804.04;807.02;Leonard reaches for Howard's laptop on the bed, but Howard, under the purple blanket, stops him with a gesture.;
+tbbt_s04e01_d18118;event;825.30;827.38;Raj does a pulling gesture with both hands as he stands beside Leonard, who has his arms crossed.;
+tbbt_s04e01_d18116;event;847.16;848.62;Howard is sitting in his bed with a purple blanket over his private parts and rubs his eyes with his hands.;
+tbbt_s04e01_m010;mask;878.55;879.92;;przejscie
+tbbt_s04e01_d18117;event;943.97;945.44;Sheldon, in a yellow shirt with grey sleeves, raises his head from a plate with a strange expression while smiling in a restaurant.;
+tbbt_s04e01_d18105;event;947.83;950.36;Penny raises her shoulders and body, mouth open and eyes closed, sitting next to Sheldon, in a yellow shirt, at the restaurant.;
+tbbt_s04e01_d18107;event;999.57;1001.48;Penny puts her head down on her hand at the restaurant table.;
+tbbt_s04e01_d96013;event;1032.29;1035.56;Penny points to their table for the waiter at the restaurant, while sitting with Amy and Sheldon.;
+tbbt_s04e01_m011;mask;1072.44;1073.75;;przejscie
+tbbt_s04e01_d96015;event;1075.48;1084.44;Leonard and Raj slowly walk through a doorway into a clinic pulling a robotic arm that is attached, underneath a blanket, to Howard.;
+tbbt_s04e01_d96016;event;1092.85;1104.86;The nurse takes off her glasses and walks over and looks underneath the Howard's purple blanket.;
+tbbt_s04e01_d96017;event;1118.18;1130.06;The nurse walks over to the desk and picks up the phone receiver and talks to it.;
+tbbt_s04e01_d96020;event;1111.38;1115.68;The nurse is speaking to Howard, while Raj and Leonard look at each other beside her and laugh.;
+tbbt_s04e01_d96021;event;1146.07;1150.23;The nurse click something on laptop that Leonard is holding and Howard's robotic arm releases him.;
+tbbt_s04e01_m012;mask;1166.62;1167.92;;przejscie
+tbbt_s04e01_d47092;event;1237.89;1248.78;Penny, at the door, looks angry at Sheldon, wearing a yellow shirt and grey sleeves, then he smiles and opens the door to his apartment.;
+tbbt_s04e01_d47094;event;1248.78;1259.88;Sheldon, wearing a yellow shirt and grey sleeves, enters the apartment while Leonard talks on his cell phone.;
+tbbt_s04e01_m013;mask;1259.93;1289.33;;
+tbbt_s04e01_001;event;1148.15;1158.30;Howard is screaming in shock, then looks under the purple blanket around his hips and smiles, at the clinic.;
+tbbt_s04e01_002;event;674.56;677.44;Sheldon, in a yellow shirt, raises his hand in a stop gesture while in a car with Amy in the back seat and Penny driving.;
+tbbt_s04e01_003;event;870.56;872.57;Howard is sitting in his bed with a purple blanket over his private parts and shaking his spread arms in panic.;
+tbbt_s04e01_004;event;1026.68;1027.96;Amy's expressionless face suddenly shifts into a smug, close-lipped smile at the restaurant table.;
+tbbt_s04e01_005;event;1122.17;1132.28;People in the clinic waiting room suddenly look at Howard, a robotic arm attached under his blanket, after a nurse speaks on the phone.;

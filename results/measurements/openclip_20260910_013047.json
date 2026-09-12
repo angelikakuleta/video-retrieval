@@ -1,0 +1,30 @@
+{
+  "name": "openclip",
+  "when": "2026-09-10T01:30:47",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "label": "OpenCLIP: encoding image and text",
+    "free_before_gib": 6.91,
+    "time": 0.368,
+    "peak_allocated_gib": 3.78,
+    "peak_reserved_gib": 7.63,
+    "free_after_gib": 6.9,
+    "dim": 1024
+  }
+}

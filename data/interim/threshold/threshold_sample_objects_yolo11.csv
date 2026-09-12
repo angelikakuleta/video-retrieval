@@ -1,0 +1,101 @@
+﻿vocabulary;source;desc_id;text;phrase;matched_class;confidence
+objects_yolo11;vatex;NOMUP4W4rWs_000007_000017;A girl is lying in bed and pulls gum out of her mouth.;bed;bed;1.000000
+objects_yolo11;vatex;O1VuRo34nuI_000008_000018;A person is shown teaching a kid how to ride a bicycle.;bicycle;bicycle;1.000000
+objects_yolo11;vatex;F54uOdVcUBI_000063_000073;Two sticks with battery cables are held on a plank of wood, one at the corner and the other in the center on a metal ring, a burn pattern begins starting at the corner stick.;center;book;0.552135
+objects_yolo11;vatex;Gj5pk-V6c7M_000153_000163;Two groups of young boys and girls square dancing as the speaker tells them what to do.;two groups;remote;0.629168
+objects_yolo11;vatex;kFyRVECzFxc_000486_000496;A woman showing off her boxing gloves and how to put them on correctly;boxing gloves;baseball glove;0.805397
+objects_yolo11;vatex;HM8kG41FjXg_000022_000032;a small boy is riding a scooter across the yard;scooter;motorcycle;0.819977
+objects_yolo11;vatex;MR_Dvb-7jKU_000015_000025;A person wearing airsoft gear walks through trees to a wooden structure with windows.;wooden structure;mouse;0.646197
+objects_yolo11;vatex;4147uiLKczU_000001_000011;A toddler stands on a porch and lifts a watering can and walks to a flower bed to water the plants.;flower bed;bed;1.000000
+objects_yolo11;vatex;LQa0E8VlU3Q_000016_000026;A man is pouring water into ahile for a sapling while two small children watch.;ahile;kite;0.499300
+objects_yolo11;vatex;-nTtZiY1He0_000016_000026;A toddler stands in a large apple orchard with a half-eaten apple in his hand.;half - eaten apple;apple;1.000000
+objects_yolo11;vatex;JfYj5OfFe70_000089_000099;A person is using a long knife to cut through a pineapple.;long knife;knife;1.000000
+objects_yolo11;vatex;-1DARulHLgw_000007_000017;The technique to do full situps is being demonstrated on a mat.;full situps;bench;0.476543
+objects_yolo11;vatex;EhZe4kaMXNg_000121_000131;A baker prepares her ingredients in a bowl by adding an egg.;bowl;bowl;1.000000
+objects_yolo11;vatex;uu5CsLQuzN4_000005_000015;Three guys are in a room and the closest up front inserts something into his mouth.;closest up front inserts;book;0.580885
+objects_yolo11;vatex;-q1rHTApl_I_000058_000068;Two women are in the bathroom and one is taking hair off the other ones leg.;bathroom;toilet;0.827670
+objects_yolo11;vatex;C4-ZQjH2tNM_000037_000047;A man is listing weights and then he gets up and shows off his muscle.;muscle;motorcycle;0.660861
+objects_yolo11;vatex;EQ_cfTXhA18_000045_000055;A little girl wearing shorts, tosses a ball back and forth with a man, while both of them wear baseball gloves.;baseball gloves;baseball glove;0.917664
+objects_yolo11;vatex;HxZTtP7Okxg_000021_000031;Little girl is reading to someone out of a colorless child's book.;colorless 's book;book;1.000000
+objects_yolo11;vatex;9cFlNjI7nNg_000014_000024;A band plays musical instruments while two men do dance steps with their feet.;feet;bear;0.637118
+objects_yolo11;vatex;_XH_50Lp8qQ_000013_000023;Two people are unloading a groups of cows from a trailer truck.;trailer truck;truck;1.000000
+objects_yolo11;vatex;tvGgWlJTaGA_000057_000067;A group people outside are horseback riding up a mountain.;horseback;horse;0.822964
+objects_yolo11;vatex;MhIBVCse204_000095_000105;a man using a knife is cutting a pumpkin in a vineyard while giving exolanation;vineyard;wine glass;0.712334
+objects_yolo11;vatex;dyBTNP-O7dY_000000_000010;A boy is sitting in the passenger seat of a sports car and moving the shifter around.;sports car;car;1.000000
+objects_yolo11;vatex;-k25wqPbiC8_000000_000010;A girl is showing how she is putting her eyebrows on with a eyebrow pencil then applying eye shadow.;eyebrow pencil;remote;0.741519
+objects_yolo11;vatex;-gJlTcI3jRI_000000_000010;A person is showing how to cut up a pineapple with a knife.;pineapple;giraffe;0.745975
+objects_yolo11;vatex;3KtJHCvxJ7k_000012_000022;A young woman is holding two colorful birds and talking when one of the birds flies toward another young woman.;birds;bird;1.000000
+objects_yolo11;vatex;KOfdoYwh0f4_000360_000370;A couple of people are playing Monopoly and one of them is buying Pennsylvania Avenue.;pennsylvania avenue;traffic light;0.571314
+objects_yolo11;vatex;y-bo1WgMs5I_000000_000010;A riding lawn mower appears to be reconstructed to perform in races.;riding lawn mower;remote;0.717379
+objects_yolo11;vatex;qXgS_8JWYfc_000023_000033;Someone is popping beans in a machine and pouring them on a paper towel.;beans;bear;0.690570
+objects_yolo11;vatex;3KtJHCvxJ7k_000012_000022;A young woman is holding two colorful birds and talking when one of the birds flies toward another young woman.;two colorful birds;bird;1.000000
+objects_yolo11;vatex;qxyVUUJ-tnk_000074_000084;A person demonstrates how to fry sausage by rolling it back and forth in a black skillet.;sausage;hot dog;0.814570
+objects_yolo11;vatex;Iq_CC6ymRzI_000136_000146;A woman puts a contact in her eye as someone explains the process.;contact;remote;0.770159
+objects_yolo11;vatex;MhIBVCse204_000095_000105;a man using a knife is cutting a pumpkin in a vineyard while giving exolanation;pumpkin;apple;0.766204
+objects_yolo11;vatex;lwlkkdjuptg_000087_000097;A man on a wire jumps off of a cliff which goes down to the watch using a type of bungy cord so he hits the water and springs back up.;watch;tie;0.504534
+objects_yolo11;vatex;XAuZy0IQyJc_000194_000204;A man opens a door to a cabinet he is working on then gathers some tools and sandpaper.;cabinet;refrigerator;0.713997
+objects_yolo11;vatex;5hm5904Xr6A_000010_000020;A man runs into and tackles a snowman near a dog.;snowman;snowboard;0.732038
+objects_yolo11;vatex;iBrNxLvB3XI_000000_000010;Someone smashing a can on a bottle while speaking in what appears to be a foreign language.;bottle;bottle;1.000000
+objects_yolo11;vatex;1C9y9a0-jOQ_000020_000030;The man is sitting on the ground and gently stroking the cow that is laying down with him.;cow;cow;1.000000
+objects_yolo11;vatex;ubihjlgB_Yg_000028_000038;The lady opens the drawer to get a knife and starts to make a sandwich.;sandwich;sandwich;1.000000
+objects_yolo11;vatex;59AP7yEvUrA_000092_000102;A man watches a computer screen while he plays a keyboard that's hooked up to the computer before he adjusts something with the mouse.;keyboard;keyboard;1.000000
+objects_yolo11;vatex;-9Rcf4Fzed8_000002_000012;People are sitting atop horses and looking around at the vast expanse of nature.;nature;bear;0.631446
+objects_yolo11;vatex;BwRwhZUVjvI_000127_000137;A boy and a girl are playing rock, paper, scissors together.;rock , paper , scissors;scissors;0.878869
+objects_yolo11;vatex;QAwvWfn9WVc_000000_000010;"An infant stares while the person holding it says """"hell-oooo.""";""" "" hell - oooo";bench;0.521125
+objects_yolo11;vatex;PbLTZB7gye8_000011_000021;A woman does sign language about a shooting range while a woman translates.;shooting range;bear;0.591057
+objects_yolo11;vatex;59AP7yEvUrA_000092_000102;A man watches a computer screen while he plays a keyboard that's hooked up to the computer before he adjusts something with the mouse.;mouse;mouse;1.000000
+objects_yolo11;vatex;wxgqu30nSLE_000000_000010;A man closes a jar tightly and then tosses cheese onto to a pizza he's making.;pizza;pizza;1.000000
+objects_yolo11;vatex;ZadO0c3OHtU_000035_000045;a group of people are riding bikes in a very busy area.;very busy area;bear;0.631908
+objects_yolo11;vatex;OWeIxQdtVno_000045_000055;People practice playing a game of beer pong and throw ping pong balls into plastic cups.;plastic cups;cup;1.000000
+objects_yolo11;vatex;6EvsxeJTD2Y_000449_000459;A man tells about the bees that he has and shows him how he does things.;bees;bear;0.762785
+objects_yolo11;vatex;Dhas1rn3di4_000069_000079;A black dog is running on a path ahead of its owner trying to get the red ball in his hand.;path;kite;0.684154
+objects_yolo11;vatex;e101YmwqwqY_000002_000012;A hipster man is using a toilet plunger in a bin to wash his clothes.;bin;bear;0.654781
+objects_yolo11;vatex;3KXf6mKouLc_000119_000129;A cook adds ingredients to a mixing bowl and cracks in an egg.;mixing bowl;bowl;1.000000
+objects_yolo11;vatex;e-RvXQJlVi4_000003_000013;A woman on a horse walking through a field with a dog following them.;horse;horse;1.000000
+objects_yolo11;vatex;1WEhv0Znmaw_000009_000019;A person is riding a camel being lead by a man in a long white robe;long white robe;cake;0.602384
+objects_yolo11;vatex;NAp7v4OHWHw_000089_000099;A guy is out in the snow trying to roll a large snowball.;large snowball;sports ball;0.599362
+objects_yolo11;vatex;afRfhgiaMUg_000031_000041;The man jumps down the building as he dives to the bottom.;building;bear;0.594776
+objects_yolo11;vatex;GjpI37k5tcw_000207_000217;A person is adding leaves to a pot on the stove and is mixing the food.;stove;oven;0.846220
+objects_yolo11;vatex;aXBKAMImppU_000056_000066;Two men precariously try to unload a motorcycle from the bed of a pickup truck.;motorcycle;motorcycle;1.000000
+objects_yolo11;vatex;V6I3BjBQwnM_000032_000042;A woman uses a large knife to cut squares of candy;large knife;knife;1.000000
+objects_yolo11;vatex;NAxGdOGE2rg_000094_000104;A paintng device is used to paint several trimmings in different houses.;paintng device;remote;0.743123
+objects_yolo11;vatex;-oVnNlI0z1Q_000078_000088;The young man was driving his car while using his transmission shift gear.;car;car;1.000000
+objects_yolo11;vatex;bJYsix7xgYc_000046_000056;Various young mothers have taken their children with them to a baseball game and are sitting in the seats in the stands but one young boy here is enjoying himself eatting a hot dog.;stands;sandwich;0.676878
+objects_yolo11;vatex;UTLyX6FsLFo_000003_000013;A girl being recorded while kicking a soccer ball at a soccer field.;soccer ball;sports ball;0.859982
+objects_yolo11;vatex;mI924LI4P-U_000000_000010;A man uses a beer can to open his bottled beer.;bottled beer;banana;0.718041
+objects_yolo11;vatex;IFndtAos_rM_000000_000010;Several people are in a gym as one man takes off and jumps backwards over a hurtle.;hurtle;cake;0.446667
+objects_yolo11;vatex;9EioUfhATcw_000004_000014;A dog on a leash catches a frisbee and returns it to the thrower.;frisbee;frisbee;1.000000
+objects_yolo11;vatex;vb5ufNdJsuM_000066_000076;A man is bending over a sink and rubbing his hand on his face.;sink;sink;1.000000
+objects_yolo11;vatex;Qax4NxHP0s4_000067_000077;A person is adding broccoli and carrots into there food.;broccoli;broccoli;1.000000
+objects_yolo11;vatex;jXgvoYqblMM_000027_000037;A man is drinking a cup of coffee while getting his back waxed while a crowd watches.;cup;cup;1.000000
+objects_yolo11;vatex;MhIBVCse204_000095_000105;a man using a knife is cutting a pumpkin in a vineyard while giving exolanation;exolanation;banana;0.480525
+objects_yolo11;vatex;5Td-OQQVXT8_000001_000011;A person wearing a football helmet and pads, catches football thrown to him;pads;remote;0.630785
+objects_yolo11;vatex;bBZcjsU0yuE_000001_000011;A young child is playing with a big toy car, and then a dog walks past him.;big toy car;car;1.000000
+objects_yolo11;vatex;bJYsix7xgYc_000046_000056;Various young mothers have taken their children with them to a baseball game and are sitting in the seats in the stands but one young boy here is enjoying himself eatting a hot dog.;hot dog;hot dog;1.000000
+objects_yolo11;vatex;JOJPfFRuRuY_000261_000271;A man in a workshop is busy demonstrating how to do flint knapping.;flint knapping;knife;0.383270
+objects_yolo11;vatex;8EV2thGZ9zU_000026_000036;A little girl eats a strawberry as a candle burns on a piece of cake in front of her before she blows out the candles.;cake;cake;1.000000
+objects_yolo11;vatex;s_gGtYIrtsc_000118_000128;A dance re-enactment is performed using figurines and some music.;-;book;0.556575
+objects_yolo11;vatex;SkQ7p7FJxpk_000042_000052;A boy is playing chess with the cats head sticking out of his sweter;cats;cat;1.000000
+objects_yolo11;vatex;aEZYx3Mc-dU_000012_000022;a person touches a box that has a gaming system in it;box;bear;0.598294
+objects_yolo11;vatex;RuvSvyq8-9A_000008_000018;Two ladies are demonstrating putting a tube on a hair dryer.;hair dryer;hair drier;0.947004
+objects_yolo11;vatex;lGiyiZh1JbA_000092_000102;two males each sitting in a chair holding an instrument.;chair;chair;1.000000
+objects_yolo11;vatex;lj19viH6U2g_000252_000262;A woman and a boy wearing gloves stand at a table with bottles of dye;bottles;bottle;1.000000
+objects_yolo11;vatex;muD4owEuIxs_000010_000020;A person rides on the back of an elephant, and looks around.;elephant;elephant;1.000000
+objects_yolo11;vatex;vM96wKll2h4_000007_000017;A person is trying to sweep a floor when a cat jumps on the broom and starts spinning on the broom brush.;cat;cat;1.000000
+objects_yolo11;vatex;Pi4JfWslquo_000060_000070;A man drives a tractor with a snowblower attached to clear parking lots.;tractor;motorcycle;0.749290
+objects_yolo11;vatex;aXBKAMImppU_000056_000066;Two men precariously try to unload a motorcycle from the bed of a pickup truck.;pickup truck;truck;1.000000
+objects_yolo11;vatex;AD1P-ZmkxPA_000021_000031;a clip of an older basketball game with the final score 29-12.;clip;truck;0.436379
+objects_yolo11;vatex;umJqRnwaC_c_000000_000010;The mother is holding her sick baby and holding an automatic steamer under her nostrils, which is helping her to cough and break up phlegm;phlegm;zebra;0.339401
+objects_yolo11;vatex;wj3koDeK8ew_000259_000269;Someone is playing on a Rolling Stones pinball machine as the lights flash.;rolling stones pinball machine;cake;0.632750
+objects_yolo11;vatex;eYdzsRaIBT8_000002_000012;A man expresses concern for his career at a bar as a woman walks up to the bar next to him and orders a scotch.;scotch;apple;0.751290
+objects_yolo11;vatex;YSGHvSk3xqY_000001_000011;A man stands behind a podium giving a speech as a crowd watches.;crowd watches;tie;0.504534
+objects_yolo11;vatex;XMQAYSc2Ly8_000379_000389;A man demonstrates using a tool to carve out small notches in a block of wood.;small notches;donut;0.513069
+objects_yolo11;vatex;5eACZyKJ28A_000013_000023;A toddler rolls around on the floor and plays with his toy trains.;toy trains;train;1.000000
+objects_yolo11;vatex;-gJlTcI3jRI_000000_000010;A person is showing how to cut up a pineapple with a knife.;knife;knife;1.000000
+objects_yolo11;vatex;hz-aGijoIc0_000000_000010;Three adolescent school girls are posing for a photo and winking.;photo;book;0.467074
+objects_yolo11;vatex;03SGFTLtuTM_000125_000135;A man looks back and then looks forward in a boat at a dock.;boat;boat;1.000000
+objects_yolo11;vatex;Jm1r-lF68dQ_000028_000038;The opening of a Halo game is featured in this short vignette.;short vignette;kite;0.521197
+objects_yolo11;vatex;r0v3I6yO5h4_000033_000043;A male is in the water near show and is kiteboarding with a parashute attached to his him while he is surfing.;parashute;remote;0.385979
+objects_yolo11;vatex;rsDfe_ikY1I_000010_000020;footage of under the sea and then a scuba diver shows himself;footage;bear;0.535781
+objects_yolo11;vatex;r7AIEmqkHnE_000012_000022;A pair of young girls are riding their scooters down a street with supervision.;scooters;motorcycle;0.819977
+objects_yolo11;vatex;Ya5z_JLEEIA_000051_000061;A child is using scissors to open a package containing a shocking pen,;scissors;scissors;1.000000

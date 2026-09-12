@@ -1,0 +1,47 @@
+﻿id;type;start;end;desc;tags
+tbbt_s01e15_d50303;event;17.09;28.68;Leonard and Raj take a look at the bulletin at the hallway together.;
+tbbt_s01e15_d50302;event;43.58;52.77;Raj, Howard and Leonard notice Sheldon is seated in his office with Missy standing next to him.;
+tbbt_s01e15_d37765;event;70.16;76.43;Leonard takes a drink from the water fountain.;
+tbbt_s01e15_d37766;event;95.13;100.36;Howard, in a brown turtleneck, shakes the hand of the woman who stands next to Sheldon.;
+tbbt_s01e15_d37767;event;115.27;118.86;Missy puts her arm around Sheldon's shoulders.;
+tbbt_s01e15_m001;mask;179.96;204.29;;
+tbbt_s01e15_d85002;event;238.00;240.75;Leonard stops Sheldon with his arm as he was about to leave.;
+tbbt_s01e15_m003;mask;283.40;284.74;;przejscie
+tbbt_s01e15_d85013;event;329.35;334.91;Penny came in and shows Leonard's superman underwear.;
+tbbt_s01e15_d85006;event;391.84;405.84;Raj is waving his hand uncontrollably as he greets Missy.;
+tbbt_s01e15_m004;mask;405.86;407.19;;przejscie
+tbbt_s01e15_d85020;event;448.74;457.28;Penny, in yellow blouse, puts the lid on the jar she is holding.;
+tbbt_s01e15_d85022;event;462.61;469.70;Sheldon, in black shirt, turns from his computer and makes a note in the notebook next to him.;
+tbbt_s01e15_d85015;event;508.20;516.22;Missy leaves with Penny after getting up from the couch.;
+tbbt_s01e15_d85030;event;561.00;566.27;Raj, in purple sweater and blue shirt, is standing next to Howard while talking to him and making strange gestures with his hand.;
+tbbt_s01e15_d85031;event;569.96;574.77;Leonard and Sheldon, in black shirt, walk into Sheldon's room and Leonard closes the door.;
+tbbt_s01e15_d85034;event;585.02;586.30;Sheldon, in black shirt, flicks his head and points up his finger.;
+tbbt_s01e15_d85026;event;646.04;650.38;Leonard, in purple hoodie, reaches out and rests his hand on Sheldon's shoulder.;
+tbbt_s01e15_d85028;event;647.16;651.07;Leonard, in purple hoodie, takes his hand of Sheldon's left shoulder.;
+tbbt_s01e15_d85027;event;681.29;683.94;Sheldon, in black shirt, quickly spins around, opens the door and leaves the bedroom.;
+tbbt_s01e15_d84990;event;689.35;702.57;Raj and Howard are wrestling each other on the ground when Sheldon comes in.;
+tbbt_s01e15_d84992;event;745.11;748.91;Raj, in purple sweater, is sitting at the kitchen island drinking from a green can.;
+tbbt_s01e15_d84985;event;745.11;749.58;Sheldon is putting mayo on a slice of bread while Raj drinks from a green can.;
+tbbt_s01e15_d84986;event;753.51;756.38;Howard is holding a bag of frozen peas on his neck while Leonard is scratching his forehead.;
+tbbt_s01e15_d84989;event;783.41;790.60;Leonard moves Raj's hand down while he wags his hand.;
+tbbt_s01e15_d39985;event;814.48;826.81;Sheldon picks up a slice of cheese and holds it up in front of Leonard, Howard, and Raj.;
+tbbt_s01e15_d39987;event;846.06;849.48;Missy closes the door and turns to face Sheldon.;
+tbbt_s01e15_d39990;event;863.26;866.01;Missy crosses her arms in front of her as she takes a step towards Sheldon.;
+tbbt_s01e15_d39991;event;909.95;911.76;Missy puts her hand on Sheldon's shoulder and pushes him away form her.;
+tbbt_s01e15_d39992;event;913.06;915.42;Missy puts her knee onto the bed and sits down next to Sheldon.;
+tbbt_s01e15_d39975;event;957.03;961.18;Sheldon covers his crotch with his hands as he crosses his legs.;
+tbbt_s01e15_d39977;event;976.54;988.21;Sheldon slowly walks into the living room as he cups his crotch with both hands.;
+tbbt_s01e15_m005;mask;988.22;989.54;;przejscie
+tbbt_s01e15_d96270;event;993.41;999.60;Howard pours the contents of the jar he is holding into a bowl on the coffee table.;
+tbbt_s01e15_d96271;event;1019.98;1021.86;Leonard makes boxing moves as he plays a video game with Howard.;
+tbbt_s01e15_d96272;event;1027.14;1038.84;Leonard excitedly jumps up and down with the nintendo controllers over his head.;
+tbbt_s01e15_d39966;event;1062.63;1067.29;Penny walks away from the doorway and Missy comes to the door to talk to Leonard.;
+tbbt_s01e15_m006;mask;1100.95;1102.31;;przejscie
+tbbt_s01e15_d39973;event;1135.99;1138.40;Howard stands up holding a large yellow sign in front of himself at the doorway.;
+tbbt_s01e15_d39972;event;1142.24;1144.70;Howard folds the yellow sign and throws it behind him while standing in the doorway.;
+tbbt_s01e15_m007;mask;1156.96;1158.27;;przejscie
+tbbt_s01e15_d39958;event;1199.27;1210.00;Raj turns away from Penny and Missy standing at the doorway, then walks down the stairs.;
+tbbt_s01e15_d55960;event;1221.56;1229.09;Sheldon is going downstairs with Missy beside him.;
+tbbt_s01e15_d55961;event;1242.83;1249.86;Missy hugs Sheldon and he pats her back awkwardly.;
+tbbt_s01e15_d55962;event;1274.03;1278.57;Sheldon follows Missy as she exits the building.;
+tbbt_s01e15_m002;mask;1284.40;1316.32;;

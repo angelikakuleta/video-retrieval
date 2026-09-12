@@ -1,0 +1,56 @@
+﻿id;type;start;end;desc;tags
+tbbt_s09e12_m001;mask;0.00;3.37;;
+tbbt_s09e12_d56265;event;17.41;19.94;Sheldon is speaking to video chat on his laptop, pointing his thumb to the right.;
+tbbt_s09e12_d56266;event;20.71;22.42;Amy nods with eyes closed, while speaking to Sheldon on video chat.;
+tbbt_s09e12_d53161;event;81.17;91.03;Raj, in a red and dark blue blouse, is unpacking a bag of Chinese food take out onto the kitchen island.;
+tbbt_s09e12_d53164;event;97.15;98.84;Raj picks up four Chinese food cartons off the kitchen counter.;
+tbbt_s09e12_m002;mask;105.62;131.60;;
+tbbt_s09e12_d61848;event;131.60;133.88;Penny, all in black with a black and white purse, walks in through the apartment's front door, where everybody eats at the living room table. ;
+tbbt_s09e12_d61847;event;132.50;137.41;Leonard walks across the room to greet Penny, all in black, at the door with a kiss on a chick.;
+tbbt_s09e12_d61849;event;140.93;153.44;Sheldon hold up a napkin to his face as a medical mask, while sitting on the couch.;
+tbbt_s09e12_m006;mask;215.08;216.42;;przejscie
+tbbt_s09e12_d61838;event;248.86;253.19;Stuart walks into Bernadette and Howard's bedroom as they are under the covers.;
+tbbt_s09e12_m007;mask;297.46;298.76;;przejscie
+tbbt_s09e12_d61839;event;298.78;304.35;Sheldon, in a green shirt, is walking around Raj's lab as he is on his computer.;
+tbbt_s09e12_d61836;event;305.21;308.01;Raj, while sitting at his desk, talks to Sheldon and points at a monitor at his lab.;
+tbbt_s09e12_d61840;event;308.17;309.97;Raj is sitting in front of computer screens at the lab, moving a bit away at his chair to show them to Sheldon.;
+tbbt_s09e12_d61843;event;316.31;318.27;Sheldon sits down on the table where Raj's computer is, at the lab.;
+tbbt_s09e12_m008;mask;400.68;402.03;;przejscie
+tbbt_s09e12_d61826;event;402.26;406.81;Leonard enters the office, and a woman in dark blue dress with a glasses, closes the door.;
+tbbt_s09e12_d61827;event;412.11;421.10;A woman in dark blue dress with a glasses, walks to her chair, sits down, and picks up a pad of paper and writing utensil.;
+tbbt_s09e12_d61831;event;421.52;424.43;A woman in dark blue dress with a glasses, taps a pad of paper with the reverse end of a writing utensil, while sitting at the office.;
+tbbt_s09e12_m009;mask;459.43;460.77;;przejscie
+tbbt_s09e12_d61833;event;460.78;468.57;Howard and Bernadette load the silver car up with boxes.;
+tbbt_s09e12_d61834;event;472.40;475.48;Stuart puts a box in the trunk of silver car, while Howard and Bernadette standing next to it.;
+tbbt_s09e12_d61816;event;508.41;523.41;Stuart gets into a silver car and drives off.;
+tbbt_s09e12_d61819;event;518.92;523.88;Bernadette waves back at a man in a silver car as he drives off.;
+tbbt_s09e12_d61817;event;524.83;528.22;Howard pops out of the garage in his underwear and pose.;
+tbbt_s09e12_m003;mask;535.15;536.49;;przejscie
+tbbt_s09e12_m010;mask;608.41;609.75;;przejscie
+tbbt_s09e12_d61811;event;644.72;656.87;Penny, in a plaid blue and white shirt, hugs Leonard as they talk in the kitchen.;
+tbbt_s09e12_m011;mask;656.93;658.28;;przejscie
+tbbt_s09e12_d61812;event;689.23;691.46;Bernadette leaves a rag and bottle of cleaning spray at the cleaned desk, at a room.;
+tbbt_s09e12_d96202;event;658.49;664.33;Howard, in a green plaid shirt, is cleaning an open cabinet with a small vacuum.;
+tbbt_s09e12_d96200;event;691.16;697.59;Bernadette, in a blue and beige shirt, places the black suitcase in the closet.;
+tbbt_s09e12_d96201;event;711.38;718.87;Howard takes the Teddy Bear from Bernadette and places it on the dresser.;
+tbbt_s09e12_d20160;event;741.72;754.42;Howard sits on the bed with cleaning accessories on it, and Bernadette places her head on his shoulder.;
+tbbt_s09e12_m012;mask;758.82;760.16;;przejscie
+tbbt_s09e12_d20156;event;807.18;813.66;Leonard, in a grey jacket, opens his water bottle and takes a sip before putting the cap back on, while sitting on the armchair in the living room.;
+tbbt_s09e12_d20157;event;816.30;818.65;Sheldon, in a black shirt, reaches over to put his hand on Raj's shoulder, while sitting next to each other on the couch.;
+tbbt_s09e12_m013;mask;859.87;861.21;;przejscie
+tbbt_s09e12_d20170;event;873.06;875.33;Penny laughs when reading a pharmaceutical brochure to a woman in maroon turtleneck with glasses.;
+tbbt_s09e12_d20172;event;880.70;887.08;A woman in maroon turtleneck, leans forward on her desk, clasping her hands.;
+tbbt_s09e12_d20171;event;888.67;896.20;Penny slides a brochure across the desk to a woman in maroon turtleneck.;
+tbbt_s09e12_d20166;event;893.33;898.62;A woman in maroon turtleneck, moves brochure away and looks straightforward with both hands close together on the desk.;
+tbbt_s09e12_d20165;event;910.87;915.22;A woman in maroon turtleneck, keeps her left hand close to her chin while gesturing to Penny.;
+tbbt_s09e12_m014;mask;923.46;924.94;;przejscie
+tbbt_s09e12_m015;mask;972.36;973.70;;przejscie
+tbbt_s09e12_d20181;event;973.71;979.46;Penny sits on a couch while talking to a woman in maroon turtleneck.;
+tbbt_s09e12_d20183;event;979.55;981.73;Penny places her hands on a couch and then goes from a seated to a lying position, in front of a woman in maroon turtleneck.;
+tbbt_s09e12_d20184;event;1027.64;1035.45;A woman in maroon turtleneck, raises her pen and then writes something down.;
+tbbt_s09e12_d20179;event;1032.61;1040.35;Penny starts to lay back on the couch in the therapist's office, but jumps back up and then lays down again.;
+tbbt_s09e12_m016;mask;1040.40;1041.74;;przejscie
+tbbt_s09e12_d20176;event;1050.14;1063.62;Leonard excitedly talks to a bunch of young girls as he jumps rope with them.;
+tbbt_s09e12_m004;mask;1066.61;1067.96;;przejscie
+tbbt_s09e12_d20177;event;1068.09;1080.87;Stuart stares at Bernadette and Howard laying in bed in the dark.;
+tbbt_s09e12_m005;mask;1080.91;1112.19;;

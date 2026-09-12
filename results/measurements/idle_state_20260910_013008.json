@@ -1,0 +1,29 @@
+{
+  "name": "idle_state",
+  "when": "2026-09-10T01:30:08",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "available": true,
+    "free_gib": 10.68,
+    "total_gib": 15.92,
+    "used_gib": 5.24,
+    "torch_allocated_gib": 3.77,
+    "torch_reserved_gib": 3.85
+  }
+}

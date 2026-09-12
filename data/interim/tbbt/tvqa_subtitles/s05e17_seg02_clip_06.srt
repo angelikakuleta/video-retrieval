@@ -1,0 +1,98 @@
+1
+00:00:00,312 --> 00:00:01,392
+(Kripke:)How does it work?
+
+2
+00:00:01,605 --> 00:00:02,645
+(Sheldon:)Oh, it's very simple.
+
+3
+00:00:02,856 --> 00:00:05,446
+(Sheldon:)Scissors cuts paper,
+paper covers rock...
+
+4
+00:00:05,650 --> 00:00:08,320
+(Sheldon:)...rock crushes lizard,
+lizard poisons Spock...
+
+5
+00:00:08,528 --> 00:00:11,658
+(Sheldon:)...Spock smashes scissors,
+scissors decapitates lizard...
+
+6
+00:00:11,865 --> 00:00:14,535
+(Sheldon:)...lizard eats paper,
+paper disproves Spock...
+
+7
+00:00:14,743 --> 00:00:16,493
+(Sheldon:)...Spock vaporizes rock...
+
+8
+00:00:16,703 --> 00:00:19,993
+(Sheldon:)...and, as it always has,
+rock crushes scissors.
+
+9
+00:00:24,294 --> 00:00:25,964
+I'm sorry, can you repeat that?
+
+10
+00:00:27,255 --> 00:00:30,215
+(Sheldon:)Well, of course.
+Scissors cuts paper, paper covers rock...
+
+11
+00:00:30,425 --> 00:00:32,635
+(Sheldon:)...rock crushes lizard,
+lizard poisons Spock...
+
+12
+00:00:32,844 --> 00:00:35,514
+(Sheldon:)...Spock smashes scissors,
+scissors decapitates lizard...
+
+13
+00:00:35,722 --> 00:00:37,852
+(Sheldon:)...lizard eats paper,
+paper disproves Spock...
+
+14
+00:00:38,058 --> 00:00:39,268
+(Sheldon:)...Spock vaporizes rock...
+
+15
+00:00:39,476 --> 00:00:42,646
+(Sheldon:)...and, as it always has,
+rock crushes scissors.
+
+16
+00:00:45,190 --> 00:00:46,610
+(Kripke:)Almost got it. One more time.
+
+17
+00:00:46,816 --> 00:00:48,656
+(Sheldon:)Scissors cuts paper,
+paper covers rock...
+
+18
+00:00:48,860 --> 00:00:51,610
+(Howard:)Sheldon, stop.
+He's screwing with you.
+
+19
+00:00:52,822 --> 00:00:54,322
+ls he?
+
+20
+00:00:54,533 --> 00:00:57,623
+(Sheldon:)Well, then,
+seems we have reached an impasse.
+
+21
+00:00:57,827 --> 00:01:01,027
+l see no other option
+than to challenge you to a duel.
+

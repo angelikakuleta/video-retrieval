@@ -1,0 +1,230 @@
+{
+  "name": "face_sizes",
+  "when": "2026-09-10T01:11:54",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "split": "test",
+    "floor_px": 8,
+    "production_min_face_px": 32,
+    "datasets": {
+      "tbbt": {
+        "faces": 36584,
+        "buckets": [
+          {
+            "range": "<16",
+            "count": 0,
+            "share": 0.0,
+            "mean_score": null
+          },
+          {
+            "range": "16-24",
+            "count": 20,
+            "share": 0.05,
+            "mean_score": 0.707
+          },
+          {
+            "range": "24-32",
+            "count": 334,
+            "share": 0.91,
+            "mean_score": 0.776
+          },
+          {
+            "range": "32-48",
+            "count": 1886,
+            "share": 5.16,
+            "mean_score": 0.842
+          },
+          {
+            "range": "48-64",
+            "count": 2647,
+            "share": 7.24,
+            "mean_score": 0.899
+          },
+          {
+            "range": "64-96",
+            "count": 6530,
+            "share": 17.85,
+            "mean_score": 0.96
+          },
+          {
+            "range": "96-128",
+            "count": 5567,
+            "share": 15.22,
+            "mean_score": 0.963
+          },
+          {
+            "range": "128-192",
+            "count": 10863,
+            "share": 29.69,
+            "mean_score": 0.987
+          },
+          {
+            "range": ">=192",
+            "count": 8737,
+            "share": 23.88,
+            "mean_score": 0.996
+          }
+        ],
+        "rejected_share": {
+          "16": 0.0,
+          "24": 0.05,
+          "32": 0.97,
+          "40": 3.16,
+          "48": 6.12
+        },
+        "kept_count": {
+          "16": 36584,
+          "24": 36564,
+          "32": 36230,
+          "40": 35428,
+          "48": 34344
+        },
+        "median_side": 136.0,
+        "upscale_to_crop": {
+          "16": 7.0,
+          "24": 4.67,
+          "32": 3.5,
+          "40": 2.8,
+          "48": 2.33
+        },
+        "episodes": [
+          "s01e01",
+          "s01e06",
+          "s02e01",
+          "s02e13",
+          "s02e21",
+          "s03e15",
+          "s03e19",
+          "s04e01",
+          "s04e12",
+          "s05e09",
+          "s05e13",
+          "s06e01",
+          "s06e07",
+          "s06e24",
+          "s07e13",
+          "s08e04",
+          "s08e08",
+          "s09e22"
+        ]
+      },
+      "office": {
+        "faces": 33713,
+        "buckets": [
+          {
+            "range": "<16",
+            "count": 0,
+            "share": 0.0,
+            "mean_score": null
+          },
+          {
+            "range": "16-24",
+            "count": 21,
+            "share": 0.06,
+            "mean_score": 0.762
+          },
+          {
+            "range": "24-32",
+            "count": 221,
+            "share": 0.66,
+            "mean_score": 0.795
+          },
+          {
+            "range": "32-48",
+            "count": 1083,
+            "share": 3.21,
+            "mean_score": 0.879
+          },
+          {
+            "range": "48-64",
+            "count": 1604,
+            "share": 4.76,
+            "mean_score": 0.925
+          },
+          {
+            "range": "64-96",
+            "count": 3875,
+            "share": 11.49,
+            "mean_score": 0.964
+          },
+          {
+            "range": "96-128",
+            "count": 3920,
+            "share": 11.63,
+            "mean_score": 0.973
+          },
+          {
+            "range": "128-192",
+            "count": 7372,
+            "share": 21.87,
+            "mean_score": 0.985
+          },
+          {
+            "range": ">=192",
+            "count": 15617,
+            "share": 46.32,
+            "mean_score": 0.993
+          }
+        ],
+        "rejected_share": {
+          "16": 0.0,
+          "24": 0.06,
+          "32": 0.72,
+          "40": 2.07,
+          "48": 3.93
+        },
+        "kept_count": {
+          "16": 33713,
+          "24": 33692,
+          "32": 33471,
+          "40": 33016,
+          "48": 32388
+        },
+        "median_side": 179.6,
+        "upscale_to_crop": {
+          "16": 7.0,
+          "24": 4.67,
+          "32": 3.5,
+          "40": 2.8,
+          "48": 2.33
+        },
+        "episodes": [
+          "s01e02",
+          "s01e05",
+          "s02e06",
+          "s02e10",
+          "s03e05",
+          "s03e19",
+          "s04e09",
+          "s05e03",
+          "s05e17",
+          "s06e05",
+          "s06e09",
+          "s07e14",
+          "s07e23",
+          "s08e04",
+          "s08e24",
+          "s09e02",
+          "s09e04",
+          "s09e14"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "name": "cost",
+  "when": "2026-09-10T03:10:25",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "dataset": "office",
+    "split": "dev",
+    "strategy": "shots_histogram",
+    "corpus_hours": 2.076,
+    "repeats": 15,
+    "warmup": 3,
+    "index": [
+      {
+        "component": "OpenCLIP ViT-H/14",
+        "mb": 99.881,
+        "mb_per_hour": 48.121
+      },
+      {
+        "component": "OpenCLIP ViT-B/32",
+        "mb": 13.8,
+        "mb_per_hour": 6.649
+      },
+      {
+        "component": "X-CLIP",
+        "mb": 45.922,
+        "mb_per_hour": 22.124
+      },
+      {
+        "component": "SlowFast",
+        "mb": 2.639,
+        "mb_per_hour": 1.271
+      },
+      {
+        "component": "BLIP",
+        "mb": 77.555,
+        "mb_per_hour": 37.365
+      },
+      {
+        "component": "LLaVA-1.5",
+        "mb": 85.372,
+        "mb_per_hour": 41.131
+      },
+      {
+        "component": "YOLO11",
+        "mb": 0.71,
+        "mb_per_hour": 0.342
+      },
+      {
+        "component": "YOLOE-11",
+        "mb": 1.256,
+        "mb_per_hour": 0.605
+      },
+      {
+        "component": "RetinaFace (crop buffer)",
+        "mb": 1316.642,
+        "mb_per_hour": 634.334
+      },
+      {
+        "component": "ArcFace",
+        "mb": 86.412,
+        "mb_per_hour": 41.632
+      },
+      {
+        "component": "HSEmotion",
+        "mb": 1.366,
+        "mb_per_hour": 0.658
+      },
+      {
+        "component": "face regions",
+        "mb": 173.368,
+        "mb_per_hour": 83.526
+      }
+    ],
+    "query": {
+      "config": "configs/full_office.yaml",
+      "collection": 879,
+      "queries": 218,
+      "components": {
+        "scene_embedding": {
+          "model": "openclip_vit_h14",
+          "prompting": false
+        },
+        "caption": {
+          "model": "llava_1_5_7b",
+          "do_sample": false
+        },
+        "objects": {
+          "detector": "yolo11"
+        },
+        "face_regions": {
+          "mode": "clip_regions",
+          "query": "phrases"
+        },
+        "identity": {},
+        "motion": {
+          "model": "slowfast_k400"
+        }
+      },
+      "signals": [
+        {
+          "signal": "scene_embedding",
+          "median_ms": 6.862,
+          "p95_ms": 7.681
+        },
+        {
+          "signal": "caption",
+          "median_ms": 7.467,
+          "p95_ms": 7.899
+        },
+        {
+          "signal": "objects",
+          "median_ms": 7.665,
+          "p95_ms": 13.781
+        },
+        {
+          "signal": "face_regions",
+          "median_ms": 0.003,
+          "p95_ms": 7.531
+        },
+        {
+          "signal": "identity",
+          "median_ms": 0.577,
+          "p95_ms": 0.723
+        },
+        {
+          "signal": "motion",
+          "median_ms": 7.717,
+          "p95_ms": 11.034
+        }
+      ],
+      "phrases": {
+        "median_ms": 4.414,
+        "p95_ms": 6.655
+      },
+      "fusion": {
+        "median_ms": 0.149,
+        "p95_ms": 0.423
+      }
+    },
+    "elapsed_min": 0.4
+  }
+}

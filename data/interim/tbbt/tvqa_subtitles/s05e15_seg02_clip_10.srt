@@ -1,0 +1,76 @@
+1
+00:00:00,819 --> 00:00:03,859
+- Oh, good, your power's out too.
+- Why is that good?
+
+2
+00:00:04,531 --> 00:00:07,911
+(Penny:)Last month, I sent the electric company
+a Starbucks gift card...
+
+3
+00:00:08,076 --> 00:00:11,246
+(Penny:)...an apology note
+and a few snapshots of me in a bra.
+
+4
+00:00:13,665 --> 00:00:15,915
+(Sheldon:)Power failure.
+Implementing power-failure protocol.
+
+5
+00:00:17,127 --> 00:00:20,917
+(Leonard:)What happened to all your glow-in-the-dark
+emergency-exit stuff painted on the floor?
+
+6
+00:00:21,089 --> 00:00:23,129
+(Sheldon:)Oh, that was wildly carcinogenic.
+
+7
+00:00:23,633 --> 00:00:28,343
+Anyway, too bad you're no longer entitled
+to the full benefits of my friendship...
+
+8
+00:00:28,513 --> 00:00:32,223
+(Sheldon:)...because I happen to be
+extremely prepared for such an emergency.
+
+9
+00:00:32,392 --> 00:00:35,142
+(Sheldon:)Please try not to see anything
+by this light.
+
+10
+00:00:35,562 --> 00:00:36,602
+(Sheldon:)It's not for you.
+
+11
+00:00:38,356 --> 00:00:40,946
+It's a blackout,
+I'm sure the power will be back on soon.
+
+12
+00:00:41,109 --> 00:00:45,409
+(Sheldon:)And I'm sure some fool in the Donner Party
+said the snow would stop any day now.
+
+13
+00:00:47,157 --> 00:00:48,867
+(Sheldon:)I like to think they ate him first.
+
+14
+00:00:50,160 --> 00:00:51,870
+I got candles in my apartment.
+
+15
+00:00:52,037 --> 00:00:55,377
+(Sheldon:)Candles? During a blackout?
+Are you mad? That's a fire hazard.
+
+16
+00:00:55,540 --> 00:01:01,020
+(Sheldon:)No, Pasadena Water and Power
+recommends the far safer glow stick.
+

@@ -1,0 +1,109 @@
+1
+00:00:05,732 --> 00:00:06,762
+(Scene:)Mrs. Davis.
+
+2
+00:00:06,766 --> 00:00:08,796
+(knocking)
+Guess who?
+
+3
+00:00:08,801 --> 00:00:10,001
+(Mrs Davis:)Dr. Cooper.
+
+4
+00:00:10,003 --> 00:00:12,103
+(Sheldon:)That's right, good job.
+
+5
+00:00:13,106 --> 00:00:14,806
+(Sheldon:)Hello.
+
+6
+00:00:14,807 --> 00:00:16,907
+(Sheldon:)Uh, you wanted
+to see me?
+
+7
+00:00:16,909 --> 00:00:18,539
+(Mrs Davis:)Yes. Uh, welcome back.
+
+8
+00:00:18,544 --> 00:00:20,014
+(Sheldon:)Thank you.
+
+9
+00:00:20,013 --> 00:00:22,683
+(Sheldon:)I assume you'd like
+to reopen our dialogue
+
+10
+00:00:22,682 --> 00:00:25,412
+(Sheldon:)about the university forcing me
+to continue with string theory?
+
+11
+00:00:25,418 --> 00:00:27,088
+(Mrs Davis:)You mean the dialogue that went,
+
+12
+00:00:27,086 --> 00:00:30,426
+"Please?" "No." "Please?" "No."
+"Please?" "No."
+
+13
+00:00:31,391 --> 00:00:33,421
+(Sheldon:)That's the one.
+
+14
+00:00:34,861 --> 00:00:38,231
+(Sheldon:)I believe you went last,
+so, uh, please?
+
+15
+00:00:38,231 --> 00:00:42,031
+(Mrs Davis:)Dr. Cooper, while you were away,
+we came up with a solution
+
+16
+00:00:42,035 --> 00:00:44,365
+(Mrs Davis:)that would allow you to change
+your field of study.
+
+17
+00:00:44,370 --> 00:00:46,100
+(Sheldon:)Wow.
+
+18
+00:00:46,105 --> 00:00:49,105
+(Sheldon:)Pouting and running away
+actually worked.
+
+19
+00:00:50,143 --> 00:00:52,143
+Yeah, I must say,
+that may not be a lesson
+
+20
+00:00:52,145 --> 00:00:53,375
+(Sheldon:)you want to reinforce with me.
+
+21
+00:00:55,148 --> 00:00:57,218
+(Sheldon:)So, um, what is the solution?
+
+22
+00:00:57,216 --> 00:00:58,916
+(Mrs Davis:)Currently, you're being paid
+under a grant
+
+23
+00:00:58,918 --> 00:01:00,818
+(Mrs Davis:)to specifically research
+string theory.
+
+24
+00:01:00,820 --> 00:01:02,720
+(Mrs Davis:)If we promote you
+to junior professor,
+

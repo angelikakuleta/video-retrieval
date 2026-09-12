@@ -1,0 +1,68 @@
+1
+00:00:00,100 --> 00:00:01,440
+(Sheldon:)You okay?
+
+2
+00:00:02,335 --> 00:00:04,445
+(Amy:)Just really glad you're back.
+
+3
+00:00:04,638 --> 00:00:05,638
+(Penny:)Me, too.
+
+4
+00:00:07,374 --> 00:00:09,154
+(Sheldon:)I got a lot of TV to catch up on.
+
+5
+00:00:15,482 --> 00:00:17,052
+(Amy:)I missed you.
+
+6
+00:00:17,884 --> 00:00:20,294
+To quote Han Solo, "I know."
+
+7
+00:00:24,891 --> 00:00:27,001
+(Amy:)Did you miss me?
+
+8
+00:00:27,127 --> 00:00:29,467
+(Sheldon:)I would've preferred
+to have you there with me.
+
+9
+00:00:29,562 --> 00:00:30,542
+(Leonard:)Oh...
+
+10
+00:00:31,031 --> 00:00:32,411
+(Sheldon:)Or instead of me.
+
+11
+00:00:35,902 --> 00:00:37,812
+(Amy:)Did you hold the baby?
+
+12
+00:00:37,904 --> 00:00:39,884
+-l did.
+-And?
+
+13
+00:00:40,674 --> 00:00:42,884
+(Amy:)How did it make you feel?
+
+14
+00:00:43,009 --> 00:00:45,579
+(Sheldon:)Looking into the blank, innocent eyes
+
+15
+00:00:45,679 --> 00:00:49,149
+(Sheldon:)of a creature that couldn't begin to
+comprehend anything I was saying?
+
+16
+00:00:49,549 --> 00:00:58,019
+(Sheldon:)Basically just another day
+at the office.
+

@@ -1,0 +1,33 @@
+{
+  "run_id": "E1-C_office_dev_20260908_012509",
+  "created": "2026-09-08T01:25:21",
+  "config_file": "configs/e1c_office.yaml",
+  "experiment": "E1-C",
+  "dataset": "office",
+  "split": "dev",
+  "seed": 1234,
+  "packages": {
+    "torch": "2.13.0+cu130",
+    "open_clip_torch": "3.3.0",
+    "faiss-cpu": "1.14.3",
+    "numpy": "2.5.1",
+    "opencv-python": "4.14.0.94",
+    "pydantic": "2.13.4",
+    "transnetv2-pytorch": "1.0.5"
+  },
+  "inputs": {
+    "data\\cache\\segmentation\\shots_transnetv2\\office_segments.csv": {
+      "sha256": "a8d04e9faa40ef1edad2f5ba05c7aacab162e6c46c1e7963470ea5866040065b",
+      "bytes": 71822
+    },
+    "data\\interim\\office\\office_ranges.csv": {
+      "sha256": "ed8b7fa89cf52fdc22adff28e09aa73e89cda16951fbd71d043ec90e30c946b9",
+      "bytes": 2458
+    },
+    "data\\annotations\\office\\office_queries_dev.jsonl": {
+      "sha256": "d6b66bb6419a239f3fc3139999762ec74c80373ec7ce1b081d7b6df696382c8f",
+      "bytes": 67108
+    }
+  },
+  "queries_skipped_no_relevant": []
+}

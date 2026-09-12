@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Interval Annotator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&display=swap">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="bar">
+  <h1 class="brand">Interval Annotator</h1>
+
+  <div class="bar-fields">
+    <div class="field">
+      <span class="field-label">Video (MP4)</span>
+      <div class="file-pick">
+        <input type="file" id="videoFile" accept="video/mp4,video/*" hidden>
+        <button id="pickVideo" class="btn btn-secondary btn-tiny">Choose file</button>
+        <span class="file-name" id="videoName">No file chosen</span>
+      </div>
+    </div>
+    <label class="field">
+      <span class="field-label">Episode</span>
+      <input type="text" id="episode" placeholder="office_s02e01" class="input" size="14">
+    </label>
+    <label class="field">
+      <span class="field-label">FPS</span>
+      <input type="number" id="fps" value="23.976" step="0.001" min="1" class="input input-num">
+    </label>
+    <div class="field">
+      <span class="field-label">
+        Duration [s]
+        <span class="hint">
+          <button type="button" class="hint-mark" id="durationHintToggle" aria-expanded="false" title="Duration limits">?</button>
+          <span class="hint-body" id="durationHintBody" hidden>
+            How long an <strong>annotation</strong> may last. Masks are not checked - the
+            intro and the closing credits have whatever length they have.<br><br>
+            <strong>Minimum 1.25 s</strong> is the frame sampling step of the pipeline. A shorter
+            annotation can fall between two sampled frames, so nothing would ever find it.<br><br>
+            <strong>Maximum 15 s</strong> is the point above which a described event spreads over
+            several segments - then "the correct answer" stops being one fragment and the
+            measure becomes arbitrary.<br><br>
+            Adding an annotation outside the range is refused; a row that drifts outside it
+            while being edited is marked, and the counter below the form says how many there
+            are. Change either field to work with different limits.
+          </span>
+        </span>
+      </span>
+      <span class="pair">
+        <input type="number" id="minDuration" value="1.25" step="0.05" min="0" class="input input-num input-xs">
+        <span class="pair-sep">-</span>
+        <input type="number" id="maxDuration" value="15" step="0.5" min="0" class="input input-num input-xs">
+      </span>
+    </div>
+    <label class="check">
+      <input type="checkbox" id="soundOn"><span>Sound</span>
+    </label>
+    <label class="check">
+      <input type="checkbox" id="lockMasks" checked><span>Lock masks</span>
+    </label>
+  </div>
+
+  <div class="bar-actions">
+    <div class="tag-manage">
+      <button id="tagManage" class="btn btn-secondary" aria-expanded="false">Tags</button>
+      <div class="tag-panel" id="tagPanel" hidden>
+        <div class="tag-panel-head">
+          <span class="field-label">Tag vocabulary</span>
+          <button type="button" class="btn btn-icon btn-tiny" id="tagPanelClose" title="Close">✕</button>
+        </div>
+        <p class="tag-panel-note">
+          Free-form labels on a row - the tool attaches no meaning to any of them.
+          Every tag used is remembered in this browser and suggested afterwards.
+          Renaming updates the rows that carry it; removing takes it off them too.
+          Tags go out in the <code>tags</code> column of the CSV, comma separated.
+        </p>
+        <div class="tag-panel-add">
+          <input type="text" id="tagNew" class="input" placeholder="new_tag">
+          <button type="button" class="btn btn-secondary btn-tiny" id="tagAdd">Add</button>
+        </div>
+        <ul class="tag-list" id="tagList"></ul>
+        <p class="tag-panel-empty" id="tagListEmpty">No tags yet. Add one here, or type one on a row.</p>
+      </div>
+    </div>
+    <button id="importCsv" class="btn btn-secondary">Import CSV</button>
+    <span class="hint hint-end">
+      <button type="button" class="hint-mark" id="csvHintToggle" aria-expanded="false" title="File format">?</button>
+      <span class="hint-body" id="csvHintBody" hidden>
+        <strong>Format:</strong> <code>id;type;start;end;desc;tags</code> - semicolon separator,
+        dot decimal, UTF-8, one header line. File name <code>&lt;episode&gt;_intervals.csv</code>.<br><br>
+        <strong>type</strong> is <code>event</code> (an annotation) or <code>mask</code>
+        (intro, closing credits - no annotation may overlap one). A file with no
+        <code>type</code> column imports as annotations.<br><br>
+        <strong>tags</strong> is a comma separated list of free-form labels
+        (<code>wymaga_osoby,reshoot</code>), empty when the row has none. Only a column
+        named <code>tags</code> is read; a file without it imports untagged. Spaces in a
+        tag become <code>_</code>.<br><br>
+        <strong>id</strong> is taken from the file exactly as it stands and never renamed.
+        Its last part says where the row came from: <code>tbbt_s01e01_d97650</code> was
+        imported and carries the source id 97650, <code>office_s02e03_001</code> was
+        created here, <code>office_s02e03_m001</code> is a mask. A row whose id is
+        already on the list is skipped and reported - keeping ids intact is what
+        makes it possible to tell later which annotations were removed here.<br><br>
+        Importing onto a non-empty list offers to <strong>replace</strong> it; cancelling
+        adds the rows instead.
+      </span>
+    </span>
+    <input type="file" id="csvFile" accept=".csv,text/csv" hidden>
+    <button id="exportCsv" class="btn btn-primary">Export CSV</button>
+  </div>
+</header>
+
+<p class="status" id="status">No file loaded - CSV export is the actual save.</p>
+
+<main class="layout">
+
+  <section class="pane">
+    <video id="video" controls muted preload="auto"></video>
+
+    <div class="readout">
+      <div class="readout-main">
+        <span class="readout-label">t</span>
+        <span class="clock" id="timeSeconds">0.00</span><span class="unit">s</span>
+      </div>
+      <div class="readout-side">
+        <span class="readout-label">timecode</span>
+        <span class="clock clock-sm" id="timeCode">0:00.00</span>
+      </div>
+      <div class="readout-side">
+        <span class="readout-label">frame</span>
+        <span class="clock clock-sm" id="frame">0</span>
+      </div>
+    </div>
+
+    <div class="keys">
+      <div class="keys-row"><kbd>Space</kbd><span>play / pause</span></div>
+      <div class="keys-row"><kbd>←</kbd><kbd>→</kbd><span>± 1 s</span></div>
+      <div class="keys-row"><kbd>Shift</kbd><kbd>←</kbd><kbd>→</kbd><span>± 0.1 s</span></div>
+      <div class="keys-row"><kbd>Ctrl</kbd><kbd>←</kbd><kbd>→</kbd><span>± 1 frame</span></div>
+      <div class="keys-row"><kbd>S</kbd><span>start = current time</span></div>
+      <div class="keys-row"><kbd>E</kbd><span>end = current time</span></div>
+      <div class="keys-row"><kbd>Ctrl</kbd><kbd>Enter</kbd><span>add annotation</span></div>
+    </div>
+  </section>
+
+  <section class="pane">
+    <h2 class="pane-title">
+      New event
+      <span class="hint">
+        <button type="button" class="hint-mark" id="hintToggle" aria-expanded="false" title="Interval convention">?</button>
+        <span class="hint-body" id="hintBody" hidden>Intervals are half-open <code>[start, end)</code>: <strong>start</strong> = first frame with the event, <strong>end</strong> = first frame without it (e.g. first frame of the next scene). Touching boundaries are allowed.</span>
+      </span>
+    </h2>
+
+    <div class="new">
+      <label class="field">
+        <span class="field-label">Start</span>
+        <input type="number" id="newStart" step="0.01" min="0" class="input input-num clock-input">
+        <span class="mmss" id="newStartCode"></span>
+      </label>
+      <label class="field">
+        <span class="field-label">End</span>
+        <input type="number" id="newEnd" step="0.01" min="0" class="input input-num clock-input">
+        <button id="endOfVideo" class="btn btn-icon btn-tiny" title="End = end of video">⏭</button>
+        <span class="mmss" id="newEndCode"></span>
+        <span class="duration" id="newDuration"></span>
+      </label>
+      <div class="describe">
+        <textarea id="newDescription" class="input textarea"
+          placeholder="What happens here - who, doing what, where / with whom. Annotations may overlap each other, but never a mask."></textarea>
+        <span class="words" id="newWords">0 words</span>
+      </div>
+      <div class="tag-field">
+        <span class="field-label">Tags</span>
+        <div class="tags" id="newTags"></div>
+      </div>
+      <button id="previewRange" class="btn btn-secondary">▶ Preview start-end</button>
+      <div class="add-row">
+        <button id="addAnnotation" class="btn btn-primary" title="Ctrl+Enter">Add annotation</button>
+        <button id="addMask" class="btn btn-secondary" hidden>Add mask</button>
+        <select id="maskClass" class="input input-xs" hidden
+                title="Class of the mask being added; saved as a tag">
+          <option value="">structural (logo, titles, credits)</option>
+          <option value="przejscie">przejscie (scene transition)</option>
+        </select>
+      </div>
+    </div>
+
+    <hr class="hr">
+
+    <div class="counters">
+      <div class="counter"><span class="counter-value" id="annotationCount">0</span><span class="counter-label">annotations</span></div>
+      <div class="counter"><span class="counter-value" id="maskCount">0</span><span class="counter-label">masks</span></div>
+      <div class="counter"><span class="counter-value" id="overlapCount">0</span><span class="counter-label">overlapping pairs</span></div>
+      <div class="counter"><span class="counter-value" id="onMaskCount">0</span><span class="counter-label">on a mask</span></div>
+      <div class="counter"><span class="counter-value" id="outOfRangeCount">0</span><span class="counter-label">outside duration</span></div>
+      <button id="sortRows" class="btn btn-secondary" title="Sort by start; on equal start the shorter interval first">Sort by start</button>
+    </div>
+
+    <div class="list">
+      <table class="table">
+        <thead>
+          <tr><th>#</th><th>Start</th><th>End</th><th></th></tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <p class="empty" id="emptyHint">No events yet. Set start and end, then add one.</p>
+    </div>
+  </section>
+
+</main>
+
+<datalist id="tagOptions"></datalist>
+
+<script src="js/time.js"></script>
+<script src="js/tags.js"></script>
+<script src="js/csv.js"></script>
+<script src="js/store.js"></script>
+<script src="js/player.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

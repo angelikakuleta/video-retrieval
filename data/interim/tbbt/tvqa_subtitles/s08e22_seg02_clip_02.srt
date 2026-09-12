@@ -1,0 +1,88 @@
+1
+00:00:00,161 --> 00:00:02,391
+(Howard:)Just flip the switch
+
+2
+00:00:02,396 --> 00:00:05,496
+(Howard:)until the lights on the drone
+change to solid yellow.
+
+3
+00:00:05,499 --> 00:00:07,699
+(Sheldon:)All right,
+that seems simple enough.
+
+4
+00:00:07,702 --> 00:00:10,772
+(Sheldon:)Initiating calibration sequence.
+
+5
+00:00:10,771 --> 00:00:12,741
+(Sheldon:)One, two, three, four,
+
+6
+00:00:12,740 --> 00:00:16,510
+(Sheldon:)five, six, seven,
+eight, nine, ten.
+
+7
+00:00:19,112 --> 00:00:22,482
+(Sheldon:)Well, I suppose ten
+is technically "at least ten."
+
+8
+00:00:24,517 --> 00:00:27,187
+(Sheldon:)But they're still getting
+at least one angry letter.
+
+9
+00:00:29,589 --> 00:00:32,029
+(Howard:)Now I rotate
+it horizontally
+
+10
+00:00:32,026 --> 00:00:35,966
+on its center axis until
+the lights turn green.
+
+11
+00:00:35,963 --> 00:00:38,033
+(Sheldon:)Initiating rotation sequence.
+
+12
+00:00:40,100 --> 00:00:43,000
+(Sheldon:)Don't look at me, initiate.
+
+13
+00:00:46,239 --> 00:00:47,909
+(Raj:)Oh...
+What does red
+and yellow mean?
+
+14
+00:00:47,908 --> 00:00:49,408
+(Howard:)It means the
+calibration failed.
+
+15
+00:00:49,410 --> 00:00:50,910
+(Howard:)We have to start over.
+
+16
+00:00:50,911 --> 00:00:51,941
+(Sheldon:)Oh. Very well.
+
+17
+00:00:51,946 --> 00:00:54,746
+(Sheldon:)Reinitiating
+calibration sequence.
+
+18
+00:00:54,749 --> 00:00:56,649
+(Sheldon:)One, two, three, four,
+
+19
+00:00:56,651 --> 00:01:02,021
+(Sheldon:)five, six,
+seven, eight, nine, ten...
+

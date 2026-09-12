@@ -1,0 +1,42 @@
+{
+  "name": "library_versions",
+  "when": "2026-09-10T01:30:12",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "torch": "2.13.0+cu130",
+    "torchvision": "0.28.0+cu130",
+    "transformers": "5.14.1",
+    "open_clip_torch": "3.3.0",
+    "ultralytics": "8.4.115",
+    "onnxruntime-gpu": "1.28.0",
+    "insightface": "1.0.1",
+    "hsemotion-onnx": "0.3.1",
+    "faiss-cpu": "1.14.3",
+    "pytorchvideo": "0.1.5",
+    "transnetv2-pytorch": "1.0.5",
+    "accelerate": "1.14.0",
+    "numpy": "2.5.1",
+    "pandas": "3.0.5",
+    "opencv-python": "4.14.0.94",
+    "av": "18.0.0",
+    "matplotlib": "3.11.1",
+    "pydantic": "2.13.4",
+    "ffmpeg": "9.0.1"
+  }
+}

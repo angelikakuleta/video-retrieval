@@ -1,0 +1,827 @@
+﻿desc_id;episode;split;desc;wymaga_osoby;wymaga_obiektu;wymaga_scenerii;wymaga_ruchu;wymaga_mimiki;complexity;identities
+2030001;s02e03;dev;Sitting and working Jim bangs his head at the desk.;1;0;0;1;0;P;Jim
+2030002;s02e03;dev;A wide shot of parking space at night with blue and silver car on it.;0;1;1;0;0;P;
+2030003;s02e03;dev;Michael takes out bun out of the burger and eats it.;1;1;0;1;0;Z;Michael
+2030004;s02e03;dev;Jim throwing paper to cup on the desk.;1;1;0;1;0;P;Jim
+2030005;s02e03;dev;Dwight opens sunroof in the car driven by Michael.;1;1;0;1;0;Z;Dwight,Michael
+2030007;s02e03;dev;Jim and Toby are playing ball, bouncing it off a wall.;1;1;0;1;0;Z;Jim,Toby
+2030008;s02e03;dev;A frame with a photo of two men on the farm.;1;1;1;0;0;Z;
+2030009;s02e03;dev;Jim walk up to Stanley sitting and looks surprised over conversation they have.;1;0;0;1;1;Z;Jim,Stanley
+2030010;s02e03;dev;Michael runs to one room in the house and spreads his arms.;1;0;1;1;0;Z;Michael
+2030011;s02e03;dev;Dwight presses his ear against the white wall.;1;0;0;0;0;P;Dwight
+2030012;s02e03;dev;Jim light up the orange candle around other people.;1;1;0;1;0;Z;Jim
+2030013;s02e03;dev;Pam hang a banner with colorful words written on it in the kitchen.;1;1;1;1;0;P;Pam
+2030014;s02e03;dev;Jim light up the orange candle while popped out his eyes.;1;1;0;1;1;P;Jim
+2030015;s02e03;dev;Jim presents self-made gold and silver medals on the chain to other people.;1;1;0;1;0;Z;Jim
+2030016;s02e03;dev;Angela walk through other people to the fridge and takes the bag out of it.;1;1;0;1;0;Z;Angela
+2030017;s02e03;dev;Angela holds in a hands a cat picture.;1;1;0;0;0;P;Angela
+2030018;s02e03;dev;Man in suit bends forward near the outdoor doors.;1;0;1;0;0;P;
+2030019;s02e03;dev;Jim with the gold medal chain on his neck claps, wave his hands while smiling.;1;1;0;1;1;Z;Jim
+2030020;s02e03;dev;Phyllis enters the room and put one foot on white boxes wrapped in yellow stripes.;1;1;0;1;0;Z;Phyllis
+2030021;s02e03;dev;Dwight and Michael laught while seating at the floor and eating food.;1;1;0;1;1;Z;Dwight,Michael
+2030022;s02e03;dev;Phyllis and Kevin race while standing on white boxes wrapped in yellow stripes.;1;1;0;1;0;Z;Phyllis,Kevin
+2030023;s02e03;dev;Kevin in suit puts whole jar of candies in his mouth.;1;1;0;1;0;P;Kevin
+2030024;s02e03;dev;Michael turns around and open wide his mouth at Dwight to scare him.;1;0;0;1;1;Z;Michael,Dwight
+2030025;s02e03;dev;Man walks of the elevator where people are standing and cheering.;1;0;1;1;0;Z;
+2030026;s02e03;dev;Pam open up a grey box to Jim with gold medal around his neck.;1;1;0;1;0;Z;Pam,Jim
+2030027;s02e03;dev;Angela writes on the pink small paper near the flower in pink and purple pot.;1;1;0;1;0;P;Angela
+2030028;s02e03;dev;Toby and Oscar race around the office with coffee mugs in their hands.;1;1;0;1;0;Z;Toby,Oscar
+2030030;s02e03;dev;Sad Michael behind venetian blind move keys in the hand.;1;1;0;1;1;P;Michael
+2030031;s02e03;dev;Ryan with a stack of papers in his hand throws a medal into the wastebasket.;1;1;0;1;0;P;Ryan
+2030032;s02e03;dev;Michael stand on the boxes and Jim hangs self-made medal around his neck.;1;1;0;1;0;Z;Michael,Jim
+2030033;s02e03;dev;Dwight stand next to Michael and Jim hangs self-made medal around his neck.;1;1;0;1;0;Z;Dwight,Michael,Jim
+2030034;s02e03;dev;White paper birds move behind three men standing next to each other.;1;1;0;1;0;Z;
+2030035;s02e03;dev;Michael gets emotional and cry with white paper bird in the background.;1;1;0;1;1;P;Michael
+3150001;s03e15;dev;Michael positions himself next to the bridesmaids in blue dresses and the bride for a photo.;1;0;0;1;0;Z;Michael
+3150002;s03e15;dev;Pam, wearing a striped purple shirt, shows two white invitation cards against a wall.;1;1;0;0;0;P;Pam
+3150003;s03e15;dev;Pam in pink coat drives a blue car.;1;1;0;1;0;P;Pam
+3150004;s03e15;dev;Michael fixes the hair of the bride sitting in front of the mirror.;1;1;0;1;0;Z;Michael
+3150005;s03e15;dev;Michael pushing the man in wheelchair through church aisle.;1;1;1;1;0;Z;Michael
+3150006;s03e15;dev;A man gets up from a wheelchair to walk the bride down the aisle.;1;1;1;1;0;Z;
+3150007;s03e15;dev;Michael push and then drag wheelchair through church aisle.;1;1;1;1;0;Z;Michael
+3150008;s03e15;dev;Michael slowly walks up the stairs to stand next to the groomsmen.;1;0;0;1;0;Z;Michael
+3150009;s03e15;dev;Creed change the card on the present and fastly walks away.;1;1;0;1;0;Z;Creed
+3150010;s03e15;dev;Whole crowd in the church clapps happily for the newlyweds.;1;0;1;1;1;Z;
+3150011;s03e15;dev;An old man in a brown jacket, standing by the buffet, puts food in his pocket.;1;1;0;1;0;P;
+3150012;s03e15;dev;Dwight takes the old man under his arm and out of this place.;1;0;0;1;0;Z;Dwight
+3150013;s03e15;dev;Michael smells and stirs the champagne glass in his hand.;1;1;0;1;0;Z;Michael
+3150014;s03e15;dev;Kevin in the hat move drum sticks to band starts to play.;1;1;0;1;0;Z;Kevin
+3150016;s03e15;dev;Kevin with the hat read something from paper through microphone.;1;1;0;0;0;P;Kevin
+3150018;s03e15;dev;A man crosses the crosswalk after the traffic light changes.;1;1;1;1;0;Z;
+3150019;s03e15;dev;The groom turn around in schock and take microphone from Michael when he is speaking .;1;1;0;1;1;Z;Michael
+3150020;s03e15;dev;Michael and a men are fighting over microphone at the wedding.;1;1;0;1;0;Z;Michael
+3150021;s03e15;dev;Man puts two white napkins on the bar.;1;1;0;1;0;P;
+3150022;s03e15;dev;Dwight in a bow tie turn around and smile with raising his eyebrowns.;1;0;0;1;1;Z;Dwight
+3150023;s03e15;dev;Dwight dances closely with Angela outside, in front of a glass window.;1;0;1;1;0;Z;Dwight,Angela
+3150024;s03e15;dev;Michael seating alone at night surrounded with trees, ivy wall with lights.;1;0;1;0;0;P;Michael
+3150025;s03e15;dev;Jim rise phone in his hand and waving it at the party.;1;1;0;1;0;Z;Jim
+3150026;s03e15;dev;The bride is throwing a bouquet of flowers behind her.;1;1;0;1;0;P;
+3150027;s03e15;dev;Woman in black dress catch the bouquet of flowers at the wedding.;1;1;0;1;0;P;
+3150028;s03e15;dev;Toby in brown suit looks happy and move his hand to celebrate.;1;0;0;1;1;P;Toby
+3150029;s03e15;dev;The bride gives Michael a kiss in cheek.;1;0;0;1;0;Z;Michael
+3150030;s03e15;dev;A shot of cans attached to the car as it drives away.;0;1;0;1;0;P;
+3150031;s03e15;dev;Two people smearing cake on each other's faces.;1;1;0;1;0;Z;
+3150032;s03e15;dev;Michael takes a napkin from the table and runs to the couple with cake smeared on their faces.;1;1;0;1;0;Z;Michael
+3150033;s03e15;dev;Michael smearing cake on his own face and laugh.;1;1;0;1;1;P;Michael
+3150034;s03e15;dev;A shot of people walking together with presents in hands.;1;1;0;1;0;Z;
+3150035;s03e15;dev;People getting up in the church when doors open.;1;0;1;1;0;Z;
+3150036;s03e15;dev;A wide shot of the dance floor at the wedding venue.;0;0;1;0;0;P;
+3150037;s03e15;dev;Group of people dancing in front of the band playing at the wedding.;1;0;0;1;0;Z;
+3150038;s03e15;dev;Pam waves her hand from behind the steering wheel of a car.;1;1;0;1;0;P;Pam
+5100001;s05e10;dev;A shot of office desk wrapped in Christmas paper.;0;1;0;0;0;P;
+5100002;s05e10;dev;Dwight falls as he tries to sit at his desk wrapped in Christmas paper.;1;1;0;1;0;Z;Dwight
+5100003;s05e10;dev;Phyllis hides a few animal and Christian figures from the desk in the drawer.;1;1;0;1;0;P;Phyllis
+5100004;s05e10;dev;Dwight brings a lot of purple boxes with dolls and put them on the desk.;1;1;0;1;0;Z;Dwight
+5100005;s05e10;dev;Michael raises his index finger to his forehead, wearing a Christmas tie.;1;0;0;1;0;P;Michael
+5100006;s05e10;dev;People take off their shoes in one place.;1;1;0;1;0;Z;
+5100007;s05e10;dev;Meredith drinks from a gold disposable cup in one go.;1;1;0;1;0;P;Meredith
+5100008;s05e10;dev;"Michael points both index fingers forward in a ""finger guns"" gesture, smiling widely.";1;0;0;0;1;P;Michael
+5100009;s05e10;dev;Jim rubs a gold and black genie lamp.;1;1;0;1;0;P;Jim
+5100010;s05e10;dev;Andy sits on the ground and plays a sitar .;1;1;0;0;0;P;Andy
+5100011;s05e10;dev;Creed  is smoking a hookah on the ground.;1;1;0;0;0;P;Creed
+5100012;s05e10;dev;Kevin plays a small drum with his hands.;1;1;0;0;0;P;Kevin
+5100013;s05e10;dev;A woman dances wildly with her belly exposed.;1;0;0;1;0;P;
+5100014;s05e10;dev;A shot of Dwight surrounded by many princess unicorn dolls.;1;1;0;0;0;P;Dwight
+5100015;s05e10;dev;A woman with her hair on fire dances.;1;0;0;1;0;P;
+5100016;s05e10;dev;Dwight runs up with a fire extinguisher and puts out Meredith's burning hair.;1;1;0;1;0;Z;Dwight,Meredith
+5100017;s05e10;dev;Dwight counts from a fist to five fingers.;1;0;0;1;0;P;Dwight
+5100018;s05e10;dev;A man in a brown jacket stands by a coat rack, raising his index finger to his forehead.;1;0;0;1;0;P;
+5100019;s05e10;dev;Phyllis shows a shot glass with a company name on it.;1;1;0;0;0;P;Phyllis
+5100020;s05e10;dev;Angela in kitchen puts on a black hairnet.;1;1;1;1;0;P;Angela
+5100021;s05e10;dev;Angela quickly spits food into a red napkin.;1;1;0;1;0;P;Angela
+5100022;s05e10;dev;Andy sits on the desk and plays a sitar.;1;1;0;0;0;P;Andy
+5100023;s05e10;dev;Michael puts the red jacket on unhappy Meredith.;1;1;0;1;1;Z;Michael,Meredith
+5100024;s05e10;dev;Michael throws a black pen at Toby's face.;1;1;0;1;0;Z;Michael,Toby
+5100025;s05e10;dev;Toby is smiling and crying while hugging another man.;1;0;0;0;1;Z;Toby
+5100026;s05e10;dev;Michael is dragging Meredith out of the car.;1;1;0;1;0;Z;Michael,Meredith
+5100027;s05e10;dev;Michael is chasing Meredith in the parking lot.;1;0;1;1;0;Z;Michael,Meredith
+5100028;s05e10;dev;Meredith is being dragged along the ground by Michael.;1;0;0;1;0;Z;Meredith,Michael
+5100029;s05e10;dev;A policeman stands in the doorway to make sure the couple has left.;1;0;1;0;0;Z;
+5100030;s05e10;dev;Angela in a red plaid jacket turns around and looks shocked.;1;0;0;1;1;P;Angela
+5100032;s05e10;dev;Michael and Meredith exit the building through the automatic doors.;1;0;1;1;0;Z;Michael,Meredith
+5100033;s05e10;dev;A red car reverses and hits a dumpster.;0;1;0;1;0;Z;
+5100035;s05e10;dev;A shot of pillows on the floor in the office.;0;1;0;0;0;P;
+5100036;s05e10;dev;Angela is seen through the blinds dragging a Christmas tree.;1;1;0;1;0;P;Angela
+5100037;s05e10;dev;Angela holding a gold tray with colorful shot glasses and a silver teapot on it walks up to Andy.;1;1;0;1;0;Z;Angela,Andy
+5100038;s05e10;dev;Stanley looks threateningly at Andy, signaling him to stop playing the instrument.;1;1;0;1;1;Z;Stanley,Andy
+5100039;s05e10;dev;People raise their hands while sitting on the floor.;1;0;0;1;0;Z;
+7060001;s07e06;dev;Kevin in a pink sweater with a colorful necklace around his neck and glasses.;1;1;0;0;0;P;Kevin
+7060002;s07e06;dev;Andy with a bare chest wearing only a tie around his neck.;1;1;0;0;0;P;Andy
+7060003;s07e06;dev;Jim places a cardboard box resembling that screen over the computer monitor.;1;1;0;1;0;P;Jim
+7060004;s07e06;dev;Stanley in brown suit passes by Michael, who has fake teeth sticking out of his mouth.;1;1;0;1;0;Z;Stanley,Michael
+7060005;s07e06;dev;Stanley enters the room and sits down facing a different direction than everyone else.;1;0;0;1;0;Z;Stanley
+7060006;s07e06;dev;Stanley grabs his briefcase and coat and walks past Pam with a drawn-on mustache.;1;1;0;1;0;Z;Stanley,Pam
+7060007;s07e06;dev;Dwight standing behind white and brown pony in the office.;1;1;0;0;0;P;Dwight
+7060008;s07e06;dev;Michael holding a puppet, with fake teeth sticking out of his mouth.;1;1;0;0;0;P;Michael
+7060009;s07e06;dev;Kevin and Oscar enter the room, one wearing a cap and glasses, the other wearing an afro wig and a gold chain.;1;1;0;1;0;Z;Kevin,Oscar
+7060010;s07e06;dev;A person wears a bloody mask while talking on a phone.;1;1;0;0;0;P;
+7060011;s07e06;dev;Michael, wearing a blonde wig and sunglasses, pretends that a fake cardboard bomb on his desk explodes.;1;1;0;1;0;P;Michael
+7060012;s07e06;dev;Dwight in white gloves grabs Jim sitting at the computer by the neck from behind.;1;0;0;1;0;Z;Dwight,Jim
+7060013;s07e06;dev;Jim in a black tie puts a pipe into his mouth.;1;1;0;1;0;P;Jim
+7060014;s07e06;dev;Jim in a white shirt with black holes on it puts something into an inflatable orange pumpkin.;1;1;0;1;0;P;Jim
+7060015;s07e06;dev;"Jim wearing a nametag that says ""Dave"" points at it with his finger.";1;1;0;0;0;P;Jim
+7060016;s07e06;dev;A person with a blonde wig and a lightning bolt painted on their face points at it with their finger.;1;1;0;0;0;P;
+7060017;s07e06;dev;A man pouring himself water from the water dispenser gets slapped on the butt by Kevin.;1;1;0;1;0;Z;Kevin
+7060018;s07e06;dev;Dwight in a coat and hat takes down the magnets off the fridge.;1;1;0;1;0;P;Dwight
+7060019;s07e06;dev;Creed dressed as a mummy walks slowly out of the smoke.;1;0;0;1;0;P;Creed
+7060020;s07e06;dev;Stanley dressed as a samurai, wearing a helmet and robe, holds up and swing a sword with an intense expression.;1;1;0;1;1;Z;Stanley
+7060021;s07e06;dev;A person with a blonde wig and a lightning bolt painted on their face, dances through the office.;1;0;0;1;0;P;
+7060022;s07e06;dev;Kelly in a colorful dress and a green wig moves like a doll.;1;0;0;1;0;P;Kelly
+7060023;s07e06;dev;Angela in a white doctor's suit walks awkwardly and spins around.;1;0;0;1;0;Z;Angela
+7060024;s07e06;dev;Orange and yellow candies are falling onto the Ouija board.;0;1;0;1;0;P;
+7060025;s07e06;dev;People are pulling up Erin who has its head into silver backet with water and apples.;1;1;0;1;0;Z;Erin
+7060026;s07e06;dev;Jim dressed in a sailor's outfit with pipe in his mouth, carrying a child in his arms, walks into.;1;1;0;1;0;Z;Jim
+7060027;s07e06;dev;Pam dressed in red dress with white collar looks in happy schock.;1;0;0;0;1;P;Pam
+7060028;s07e06;dev;Pam dressed in red dress with white collar looks happy and clap her hands.;1;0;0;1;1;P;Pam
+7060031;s07e06;dev;Michael pats his belly with a flat palm.;1;0;0;1;0;P;Michael
+7060033;s07e06;dev;"Ryan in a cap and a green hoodie raises his hand in a ""stop"" gesture.";1;0;0;1;0;P;Ryan
+7060034;s07e06;dev;Dwight stretches a white rope and squeezes it between his hands near Michael's ear.;1;1;0;1;0;Z;Dwight,Michael
+7060035;s07e06;dev;Kevin in hat, glasses and black hoodie is crying while talking.;1;0;0;0;1;P;Kevin
+7060036;s07e06;dev;Phyllis walks off from conversation looking confused on halloween party.;1;0;0;1;1;Z;Phyllis
+7060038;s07e06;dev;A man is ambushed by Jim and Pam when he come out of the bathroom.;1;0;1;1;0;Z;Jim,Pam
+7060039;s07e06;dev;Pam dressed in red dress with white collar and dark wig sticks out her tongue.;1;0;0;0;1;P;Pam
+7060040;s07e06;dev;A shot of a white ghost, its arm in chains, hanging from the ceiling.;0;1;0;0;0;P;
+8120001;s08e12;dev;Dwight stand up from armchair and finds he's sitting on a meatball.;1;1;0;1;0;Z;Dwight
+8120002;s08e12;dev;Stanley, sitting at the desk, laughs and gives a thumbs up.;1;0;0;0;1;P;Stanley
+8120003;s08e12;dev;A shot of office desk built out of Lego bricks.;0;1;0;0;0;P;
+8120005;s08e12;dev;Dwight opens his desk drawer and finds meatballs.;1;1;0;1;0;Z;Dwight
+8120006;s08e12;dev;A dog with glasses sits at office desk.;0;1;0;0;0;P;
+8120007;s08e12;dev;Dwight raise up a stapler inside a large meatball.;1;1;0;1;0;P;Dwight
+8120009;s08e12;dev;Stanley and Dwight sit smiling in a car with bags of meatballs.;1;1;0;0;1;Z;Stanley,Dwight
+8120010;s08e12;dev;A shot of Stanley and Dwight eating a meatballs while holding a bags.;1;1;0;1;0;Z;Stanley,Dwight
+8120011;s08e12;dev;Andy holding a silver ring and waveing his both hands in emotions.;1;1;0;1;0;P;Andy
+8120012;s08e12;dev;Kevin next to a printer points at himself with happy pride.;1;0;0;0;1;P;Kevin
+8120013;s08e12;dev;A group of people on their knees putting hands in the pool.;1;0;1;1;0;Z;
+8120014;s08e12;dev;Jim in grey sweater taking selfie using his phone.;1;1;0;0;0;P;Jim
+8120015;s08e12;dev;Two people clinking red cups together at the party.;1;1;0;1;0;Z;
+8120016;s08e12;dev;Dwight lying on a lounge chair by the pool waves Erin away.;1;0;1;1;0;Z;Dwight,Erin
+8120017;s08e12;dev;Dwight lying on a lounge chair kicks Erin into the pool.;1;0;1;1;0;Z;Dwight,Erin
+8120018;s08e12;dev;Andy in red shorts is looking for something in the jacket and under the lounge chair.;1;1;0;1;0;P;Andy
+8120019;s08e12;dev;A men is taking wine out of a wine cabinet.;1;1;0;1;0;P;
+8120021;s08e12;dev;Jim in a grey sweater makes a circle with his finger in the air while holding wine in his other hand.;1;1;0;1;0;P;Jim
+8120022;s08e12;dev;Dwight puts Erin's head under the water in the pool.;1;0;1;1;0;Z;Dwight,Erin
+8120023;s08e12;dev;Dwight splashes water on Erin in the pool.;1;0;1;1;0;Z;Dwight,Erin
+8120024;s08e12;dev;Dwight picks Erin up in his arms in the pool and spins around with her.;1;0;1;1;0;Z;Dwight,Erin
+8120027;s08e12;dev;Dwight and Erin feed each other, half naked.;1;0;0;1;0;Z;Dwight,Erin
+8120028;s08e12;dev;Erin with wet hair makes a fierce face, baring her teeth.;1;0;0;0;1;P;Erin
+8120029;s08e12;dev;Kevin runs fast, undressing down to his shorts.;1;0;0;1;0;Z;Kevin
+8120030;s08e12;dev;A woman play chicken fight in the pool, sitting on the shoulders of two men.;1;0;1;1;0;Z;
+8120031;s08e12;dev;Dwight throws Erin in the green swimsuit off his shoulders in the pool.;1;0;1;1;0;Z;Dwight,Erin
+8120032;s08e12;dev;Two brown bear rugs, their mouths open and sharp teeth showing.;0;1;0;0;0;P;
+8120033;s08e12;dev;A shot of a room with a large sofa, a fireplace, and dimmed lights.;0;1;1;0;0;P;
+8120034;s08e12;dev;Kevin dives underwater and lifts his legs above the surface.;1;0;1;1;0;Z;Kevin
+8120036;s08e12;dev;Dwight with Erin on his shoulders falls into the water but immediately resurfaces.;1;0;1;1;0;Z;Dwight,Erin
+8120038;s08e12;dev;Erin with wet hair raises her fist triumphantly, shouting with her mouth wide open.;1;0;0;1;1;P;Erin
+8120039;s08e12;dev;Dwight loses consciousness in the pool and starts drowning.;1;0;1;1;0;Z;Dwight
+8120040;s08e12;dev;Dwight lying on the ground spits water out of his mouth.;1;0;0;1;0;P;Dwight
+8120041;s08e12;dev;Dwight is crawling into the pool while Erin is trying to stop him.;1;0;1;1;0;Z;Dwight,Erin
+8120042;s08e12;dev;The women set fire to a floating paper boat with a ring on it in the pool.;1;1;1;1;0;Z;
+8120043;s08e12;dev;People hit each other with pool noodles in the water.;1;1;1;1;0;Z;
+8120044;s08e12;dev;Darryl does a cannonball style into the water.;1;0;1;1;0;P;Darryl
+8120046;s08e12;dev;Dwight spins Erin's arm, in the green swimsuit, like a windmill.;1;0;0;1;0;Z;Dwight,Erin
+8120047;s08e12;dev;Creed wearing only underwear and a crown lies by the pool, playing a guitar.;1;1;1;0;0;P;Creed
+8120048;s08e12;dev;Oscar with wine splashed on his face shouts and waves his arms with joy.;1;0;0;1;1;Z;Oscar
+9100001;s09e10;dev;Jim punches the kitchen table with a container of carrots on it.;1;1;1;1;0;P;Jim
+9100003;s09e10;dev;Pam, partially hidden in a brown coat, a pink scarf and hat, enters the office and takes off her hat.;1;1;0;1;0;Z;Pam
+9100004;s09e10;dev;Pam drags two trash bins down the driveway in front of a house.;1;1;1;1;0;P;Pam
+9100005;s09e10;dev;A shot of an office with concrete walls, brick surrounds around the windows, and large windows.;0;0;1;0;0;P;
+9100007;s09e10;dev;Darryl and a woman talk closely in a parking lot, seen through window blinds.;1;0;1;0;0;Z;Darryl
+9100008;s09e10;dev;A person with dreadlocks tightly hugs Darryl, gritting his teeth with a wide smile.;1;0;0;0;1;Z;Darryl
+9100009;s09e10;dev;Meredith scratches her head intensely at her desk.;1;0;0;1;0;P;Meredith
+9100011;s09e10;dev;Erin shines a flashlight into Meredith's hair as she leans over the reception desk.;1;1;0;1;0;Z;Erin,Meredith
+9100012;s09e10;dev;Dwight walks through the door with a threatening expression and throws the cup he's holding in his hand.;1;1;0;1;1;Z;Dwight
+9100014;s09e10;dev;Dwight sprays a can of aerosol at people leaving the office.;1;1;0;1;0;Z;Dwight
+9100015;s09e10;dev;Angela with a headband shows a tense expression of disgust.;1;0;0;0;1;P;Angela
+9100016;s09e10;dev;Dwight walks into the office wearing a full yellow hazmat suit with a bag over his shoulder.;1;1;0;1;0;P;Dwight
+9100017;s09e10;dev;Erin in a pink sweater climbs onto a man's back and pushes him onto the desk.;1;0;0;1;0;Z;Erin
+9100018;s09e10;dev;Jim drinks from a champagne glass in the back seat of a car.;1;1;0;1;0;P;Jim
+9100019;s09e10;dev;Jim takes something from the car and hides it in the inside pocket of his jacket.;1;0;0;1;0;Z;Jim
+9100020;s09e10;dev;Meredith shaves her head with electric clippers in the office kitchen.;1;1;1;1;0;P;Meredith
+9100021;s09e10;dev;A bald Meredith stands in the doorway, screaming and waving her arms.;1;0;1;1;1;P;Meredith
+9100022;s09e10;dev;Jim in a tie answer his phone while a coach waiting with basketball.;1;1;0;1;0;Z;Jim
+9100023;s09e10;dev;Jim talking on the phone reaches for a smoothie from a tray at a basketball court.;1;1;1;1;0;P;Jim
+9100024;s09e10;dev;Pam pulls groceries from the trunk while talking on the phone, and some items fall and spill on the ground.;1;1;0;1;0;Z;Pam
+9100025;s09e10;dev;Dwight in a hazmat suit stands before seated coworkers as people hand out jars of mayonnaise.;1;1;0;1;0;Z;Dwight
+9100026;s09e10;dev;Dwight plays with a pair of scissors and cuts through his hazmat suit.;1;1;0;1;0;Z;Dwight
+9100027;s09e10;dev;Angela scoops mayonnaise from a jar and puts it on a man's head.;1;1;0;1;0;Z;Angela
+9100028;s09e10;dev;A bald Meredith rubs mayonnaise into a seated man's hair with a disgusted expression.;1;1;0;1;1;Z;Meredith
+9100030;s09e10;dev;Pam sticks out her tongue and frowns in disgust while rubbing the man's head.;1;0;0;1;1;Z;Pam
+9100031;s09e10;dev;A man and Erin with a white substance covering their hair pretend to be gorillas in the office.;1;0;0;1;0;Z;Erin
+9100032;s09e10;dev;A man rubs a white substance into Erin's hair while she spins around.;1;0;0;1;0;Z;Erin
+9100033;s09e10;dev;A bald Meredith grits her teeth in a fierce, angry expression.;1;0;0;0;1;P;Meredith
+9100034;s09e10;dev;Dwight pulls the pin from a can of insect fogger while speaking into a walkie-talkie.;1;1;0;1;0;Z;Dwight
+9100035;s09e10;dev;Dwight drops the can, and it explodes, filling the room with a white cloud.;1;1;0;1;0;Z;Dwight
+9100036;s09e10;dev;Dwight, half out of his hazmat suit, falls to the floor.;1;1;0;1;0;P;Dwight
+9100037;s09e10;dev;Angela pours water from a pitcher over Oscar's face at the kitchen sink.;1;1;1;1;0;Z;Angela,Oscar
+9100038;s09e10;dev;Dwight gets into the car, and the dropped can fills it with a white cloud.;1;1;0;1;0;Z;Dwight
+9100039;s09e10;dev;A watch, keys, phone, and tie lie scattered on the floor next to a bag.;0;1;0;0;0;P;
+9100040;s09e10;dev;Pam pours beer into a glass in a bar.;1;1;1;1;0;P;Pam
+9100041;s09e10;dev;A crowded bar scene with people at the counter with green lamps.;1;1;1;0;0;Z;
+1020001;s01e02;test;Michael lightly nudges Jim, who is talking on the phone with a finger stuck in his own ear.;;;;;;;
+1020002;s01e02;test;Someone cross the words with black marker on paper.;;;;;;;
+1020003;s01e02;test;Dwight put up shredder while sitting at his desk.;;;;;;;
+1020004;s01e02;test;Focused Dwight put bank card through a shredder.;;;;;;;
+1020005;s01e02;test;Jim takes champagne from bag and hides it in the desk drawer.;;;;;;;
+1020006;s01e02;test;A shot of Kevin sitting at the desk, writing something in a giant book with a big red pencil.;;;;;;;
+1020007;s01e02;test;Jim takes candy from a candy jar at Pam's desk.;;;;;;;
+1020008;s01e02;test;Angela seating in front of whiteboard eats banana.;;;;;;;
+1020009;s01e02;test;Michael and other man exit a separate rooms at the same time.;;;;;;;
+1020010;s01e02;test;A bored Pam behind the counter rest her head on her hand.;;;;;;;
+1020011;s01e02;test;Zoom in for messy desk with phone next to cups.;;;;;;;
+1020012;s01e02;test;Man with glasses collect cards from other people.;;;;;;;
+1020013;s01e02;test;Man with glasses next to Michael touch his nose with one finger.;;;;;;;
+1020014;s01e02;test;Michael with upset face sits down on the chair next to men in glasses.;;;;;;;
+1020015;s01e02;test;People in the room raise their hands in the air at the same time.;;;;;;;
+1020016;s01e02;test;"Whiteboard next to man has written words: ""Honesty, Empathy, Respect, Open-Minded=hero"".";;;;;;;
+1020017;s01e02;test;Black man with brown briefcase exit in a rush Michaels room.;;;;;;;
+1020018;s01e02;test;Michael laughts while holding yellow paper in his hand.;;;;;;;
+1020019;s01e02;test;Surprised Jim, sitting at a computer, turns his head very fast to look at Michael.;;;;;;;
+1020020;s01e02;test;Michael tear down yellow paper in front of people.;;;;;;;
+1020021;s01e02;test;Jim is chewing his pencil, looking to the side.;;;;;;;
+1020022;s01e02;test;A shot of blue screen on TV in the room.;;;;;;;
+1020023;s01e02;test;Michael push turns off button on big black TV.;;;;;;;
+1020024;s01e02;test;Jim run out of the room to pick up the phone.;;;;;;;
+1020025;s01e02;test;"Pam puts a card on her forehead with ""Jewish"" written on it.";;;;;;;
+1020026;s01e02;test;Jim takes candy from candy jar next to Ryan sitting at the desk with headphones on.;;;;;;;
+1020027;s01e02;test;Kelly in colorful dress punch Michael on his face.;;;;;;;
+1020028;s01e02;test;Man puts champagne on desk with black nameplate on it.;;;;;;;
+1020029;s01e02;test;Pam fall asleep putting her head on Jim's shoulder.;;;;;;;
+1020030;s01e02;test;Pam wake up with one's head on a Jim's shoulder.;;;;;;;
+1020031;s01e02;test;Jim spins around toward Pam, who sits at the reception desk behind him, her eyes wide and mouth open.;;;;;;;
+1050001;s01e05;test;Darryl with the cupboard walking straight through warehouse.;;;;;;;
+1050002;s01e05;test;Michael walks up and slams both his hands on the reception desk where Pam sits.;;;;;;;
+1050003;s01e05;test;Pam flinches, scared by Michael, as she sits at the reception desk.;;;;;;;
+1050004;s01e05;test;Worried Dwight plays with the toy that he pick up from the desk.;;;;;;;
+1050005;s01e05;test;A wide shot of the warehouse space with basketball hoop.;;;;;;;
+1050006;s01e05;test;Darryl sits and drinks next to boxes wrapped in foil.;;;;;;;
+1050007;s01e05;test;Michael dance and move his mouth in front of warehouse employees.;;;;;;;
+1050008;s01e05;test;Jim flips his hair back with an energetic head movement, covering his sore mouth with his hand.;;;;;;;
+1050009;s01e05;test;Dwight throws black cup in the bin direction.;;;;;;;
+1050010;s01e05;test;Kevin throws an empty tissue box into the bin.;;;;;;;
+1050011;s01e05;test;Pam gets hit in the head with paper while sitting on the reception desk.;;;;;;;
+1050012;s01e05;test;Dwight raise his hand up for a hive-five but Michael walks away.;;;;;;;
+1050013;s01e05;test;Michael, in athletic wear, walks confidently through the warehouse space with the basketball hoop.;;;;;;;
+1050014;s01e05;test;Michael doing arm swings and jumping in the warehouse.;;;;;;;
+1050015;s01e05;test;Angela looks for something, moving staff on the shelf in the office.;;;;;;;
+1050016;s01e05;test;Dwight lifts first aid kit above his head while sitting at the desk.;;;;;;;
+1050017;s01e05;test;Jim ties his shoes while sitting on the armchair and talking to Pam.;;;;;;;
+1050018;s01e05;test;Dwight rips the white bag, spraying its contents into Michael's face.;;;;;;;
+1050019;s01e05;test;A man walks into the warehouse and kisses Pam.;;;;;;;
+1050020;s01e05;test;Jim, in athletic wear, and another man shake hands, and then he runs away.;;;;;;;
+1050021;s01e05;test;Group of people stretch together in the warehouse.;;;;;;;
+1050022;s01e05;test;Dwight takes off his shirt in the warehouse and spreads his arms.;;;;;;;
+1050023;s01e05;test;Pam throws a basketball up in the air between to men.;;;;;;;
+1050024;s01e05;test;Michael holds out his hand, looking badly surprised in the warehouse, as people run past him.;;;;;;;
+1050025;s01e05;test;Dwight drinks from the bottle with his mask on face and spit.;;;;;;;
+1050026;s01e05;test;Michael looks scared when ball strike to the boxes near him.;;;;;;;
+1050027;s01e05;test;Darryl and other man dancing together with the basketball hoop and Michael in the background.;;;;;;;
+1050028;s01e05;test;Michael bumps his chest to Ryan, who holds the ball.;;;;;;;
+1050029;s01e05;test;Oscar talk through the phone while reading newspaper in a warehouse.;;;;;;;
+1050030;s01e05;test;Michael dribbles the ball around on one knee.;;;;;;;
+1050031;s01e05;test;Jim and other guys push and punch each other during a basketball game.;;;;;;;
+1050033;s01e05;test;Stanley and Ryan are washing themselves in the sink in bathroom.;;;;;;;
+1050035;s01e05;test;Michael walks out of his office clapping, a tissue in his nose.;;;;;;;
+2060001;s02e06;test;Dwight finds his desk in a men's bathroom.;;;;;;;
+2060002;s02e06;test;Dwight answers the phone at his desk in the bathroom.;;;;;;;
+2060003;s02e06;test;Dwight talks on the phone at his desk in the bathroom while a man holding a candle walks past him.;;;;;;;
+2060004;s02e06;test;Dwight practices karate kicks among a group of children in a martial arts class.;;;;;;;
+2060005;s02e06;test;Dwight makes a traditional martial arts salute sitting among a group of children in karate uniforms.;;;;;;;
+2060006;s02e06;test;Dwight kneels on the martial arts mat cleaning it.;;;;;;;
+2060007;s02e06;test;Michael sitting with his legs crossed taps his finger against a black mug.;;;;;;;
+2060008;s02e06;test;Michael crosses his fingers to form a cross shape near his eye.;;;;;;;
+2060009;s02e06;test;Michael peers through the blinds while talking on the phone, pulling them apart with his hand.;;;;;;;
+2060010;s02e06;test;Dwight strikes a training dummy with an open-palm hit to the head.;;;;;;;
+2060011;s02e06;test;A man practices writing his sign in different handwriting styles on a sheet of paper.;;;;;;;
+2060012;s02e06;test;Michael grabs Dwight by his neck and head from behind while he sits at his desk.;;;;;;;
+2060013;s02e06;test;Dwight karate-chops Michael in the stomach in the office.;;;;;;;
+2060014;s02e06;test;Michael falls to his knees, weeping his things off the desk.;;;;;;;
+2060016;s02e06;test;Dwight in a yellow shirt pulls his shirt aside and shows his stomach.;;;;;;;
+2060017;s02e06;test;Dwight, with a black bag under his arm, gets into a crowded elevator.;;;;;;;
+2060018;s02e06;test;Dwight stretches on the mat, reaching for his foot.;;;;;;;
+2060019;s02e06;test;Jim runs his finger along a training mitt while Pam looks at it.;;;;;;;
+2060020;s02e06;test;Jim leans his face closer to the mitt, and Pam playfully taps him in the face with it.;;;;;;;
+2060021;s02e06;test;Jim playfully pats Pam on top of the head with an open palm.;;;;;;;
+2060022;s02e06;test;Jim lifts Pam holding a training mitt by the waist.;;;;;;;
+2060023;s02e06;test;Jim in blue shirt looks stunned in front of a whiteboard.;;;;;;;
+2060024;s02e06;test;A karate instructor gives a downward hand signal to start a fight between Dwight and Michael.;;;;;;;
+2060025;s02e06;test;The karate instructor rushes in between two sparring men with his arms spread wide.;;;;;;;
+2060026;s02e06;test;Michael, in the karate uniform, makes strange hopping movements with his feet.;;;;;;;
+2060028;s02e06;test;Phyllis takes a photo with a camera while people watch from behind a barrier.;;;;;;;
+2060029;s02e06;test;Dwight takes off his headgear and throws it at Michael.;;;;;;;
+2060030;s02e06;test;Michael takes off his helmet and lunges at Dwight, hitting him with it.;;;;;;;
+2060031;s02e06;test;Dwight stands up from his chair, makes a traditional martial arts salute and bows forward.;;;;;;;
+2060032;s02e06;test;Dwight applies white-out with a small brush to business card.;;;;;;;
+2060033;s02e06;test;Michael pins Dwight to the mat while an instructor in the background covers his mouth and laughs.;;;;;;;
+2100001;s02e10;test;Someone puts Christmas cards with a photo into green envelopes.;;;;;;;
+2100002;s02e10;test;Michael and Dwight try to get the big Christmas tree through the doors.;;;;;;;
+2100003;s02e10;test;Michael and Dwight set up a Christmas tree whose top pokes through the ceiling.;;;;;;;
+2100004;s02e10;test;Michael, with a big smile, stands next to the tree in front of the window decorated with gold and red Christmas ornaments.;;;;;;;
+2100005;s02e10;test;Kevin cut off the top of the Christmas tree.;;;;;;;
+2100006;s02e10;test;Dwight vacuums up needles under the Christmas tree.;;;;;;;
+2100007;s02e10;test;Jim holds up an old black-and-white photo, smiling.;;;;;;;
+2100008;s02e10;test;A person counts money in their hand and places it on the counter near the notebook.;;;;;;;
+2100009;s02e10;test;Michael wearing a Santa hat and beard, brings Angela's and Phyllis's heads together.;;;;;;;
+2100010;s02e10;test;Kevin and Oscar in Christmas ties try to lift a desk in the office.;;;;;;;
+2100011;s02e10;test;Dwight in an elf costume with a green hat places a present under the Christmas tree.;;;;;;;
+2100012;s02e10;test;A shot of a decorated Christmas tree that barely lights up.;;;;;;;
+2100013;s02e10;test;Dwight in an elf costume with pointy ears pulls a plastic-wrapped item out from under the Christmas tree.;;;;;;;
+2100014;s02e10;test;Dwight throws a small christmas present wrapped in red paper.;;;;;;;
+2100015;s02e10;test;Phyllis in a floral shirt and cream sweater vest with poinsettia, smiles.;;;;;;;
+2100016;s02e10;test;Michael in a Santa hat looks alarmed as he holds up his hand wearing a pink oven mitt.;;;;;;;
+2100017;s02e10;test;Michael exits the room tossing his Santa hat onto the sofa.;;;;;;;
+2100018;s02e10;test;Angela in a sweater with a Santa pin cries.;;;;;;;
+2100019;s02e10;test;Ryan holds up a pink floral name plate.;;;;;;;
+2100020;s02e10;test;A nighttime office building with Christmas lights and falling snow.;;;;;;;
+2100021;s02e10;test;Michael pulls the ears off Dwight, who is in an elf costume, and throws them at his face.;;;;;;;
+2100022;s02e10;test;Dwight shoots at a silhouette target with a paintball gun.;;;;;;;
+2100023;s02e10;test;Michael in a Santa hat, buys a lot of drinks at the store.;;;;;;;
+2100024;s02e10;test;A colorful disco light ball sits on a stereo system in an office decorated for Christmas.;;;;;;;
+2100025;s02e10;test;Kevin stands in a small foot spa tub in the office.;;;;;;;
+2100026;s02e10;test;Dwight in an elf costume holds a teapot spout up to his own nose.;;;;;;;
+2100027;s02e10;test;Michael in a Santa hat photographs two men sitting on the sofa.;;;;;;;
+2100028;s02e10;test;Four people knock their shot glasses against the counter and drink up.;;;;;;;
+2100029;s02e10;test;Jim tucks a white envelope into the back pocket of his pants.;;;;;;;
+2100030;s02e10;test;A man jumps onto the back of Michael, who is wearing a Santa hat, and they take a picture together.;;;;;;;
+2100031;s02e10;test;A group of people exit the office decorated for Christmas.;;;;;;;
+2100032;s02e10;test;Kevin in headphones grimaces up close, while Darryl in the background laughs and moves his hand up and down.;;;;;;;
+2100033;s02e10;test;A man wearing a white lampshade on his head walks into the room.;;;;;;;
+2100034;s02e10;test;A man sleeps at his desk with garland around his neck, as someone sprays something on his head.;;;;;;;
+2100035;s02e10;test;Angela smashes Christmas ornaments in anger outside in the falling snow.;;;;;;;
+2100036;s02e10;test;A group of people throw snowballs at each other in a snowy parking lot.;;;;;;;
+3050001;s03e05;test;Michael sips coffee at his cluttered desk, a globe and colorful fuzzy ball nearby.;;;;;;;
+3050002;s03e05;test;Angry-looking Dwight with a trench coat on walks out of a building beside Ryan.;;;;;;;
+3050003;s03e05;test;Dwight turns and smiles at Ryan while driving past fields.;;;;;;;
+3050004;s03e05;test;A marina full of docked boats sits below a tall brown glass-paneled building on the left.;;;;;;;
+3050005;s03e05;test;Jim in a blue shirt rolls backward on his office chair toward the photocopier.;;;;;;;
+3050006;s03e05;test;A wide shot from far away shows two men by a car surrounded by a green field, near farmland.;;;;;;;
+3050007;s03e05;test;Dwight opens and closes his hand while Ryan reaches in and takes something from it in a field.;;;;;;;
+3050008;s03e05;test;Stanley suddenly stands up from his desk, grabs a crossword puzzle under his arm, and runs out.;;;;;;;
+3050009;s03e05;test;Michael steps out of the elevator, sees a huge line of people, and looks disappointed.;;;;;;;
+3050010;s03e05;test;A shot of a baked good being prepared: sprinkled with toppings, then placed into the oven to bake.;;;;;;;
+3050011;s03e05;test;A crowded hallway with a line of bored employees, one yawning.;;;;;;;
+3050012;s03e05;test;Ryan in a suit kneels in dirt planting something.;;;;;;;
+3050013;s03e05;test;A car speeds away kicking up dust, leaving Ryan in a suit behind in the field.;;;;;;;
+3050014;s03e05;test;Stanley stands in a long line laughing joyfully.;;;;;;;
+3050015;s03e05;test;Stanley waves his hand in disagreement, outraged, pointing back toward the end of the line.;;;;;;;
+3050016;s03e05;test;Ryan, in a suit, walks across a field toward a wooden barn.;;;;;;;
+3050017;s03e05;test;Dwight throws his arms up shouting excitedly outside a wooden barn.;;;;;;;
+3050018;s03e05;test;Jim works at his computer while a woman in blue blazer beside him swaying back and forth in her chair.;;;;;;;
+3050019;s03e05;test;Michael stands hunched forward, pinching the bridge of his nose in frustration while Pam steps out of the elevator.;;;;;;;
+3050020;s03e05;test;A wide shot of dusty barn filled with straw and scattered farm equipment.;;;;;;;
+3050021;s03e05;test;Dwight opens a coffin lid, standing beside it in dim barn.;;;;;;;
+3050022;s03e05;test;Ryan walks through tall grass as a red car slows alongside.;;;;;;;
+3050023;s03e05;test;Ryan grab eggs from a straw basket on the car seat.;;;;;;;
+3050024;s03e05;test;Dwight and Ryan throw something at a white building, then flee back to the red car.;;;;;;;
+3050025;s03e05;test;Two security guards walk out of a building, one with his arms spread out.;;;;;;;
+3050026;s03e05;test;A parking sign splattered with dripping yellow egg.;;;;;;;
+3050027;s03e05;test;Dwight and Ryan sit at a bar chugging their beers while one chokes.;;;;;;;
+3050028;s03e05;test;Ryan chugging a beer while Dwight slaps his palms on the table, then pounds his fists.;;;;;;;
+3050029;s03e05;test;Andy at the front sits at his desk, moving a pen up and down while looking down, coworkers behind him.;;;;;;;
+3050030;s03e05;test;Ryan sits slumped in a chair, Dwight stands behind him, a third man rushes past behind.;;;;;;;
+3050031;s03e05;test;Dwight leans in close, his mouth near the head of seated Ryan in the wheelchair.;;;;;;;
+3050032;s03e05;test;Andy in a blue checkered shirt and green tie at the front looks furious, while Jim works at a computer behind him.;;;;;;;
+3050033;s03e05;test;Man in the suit knocks on the wooden door.;;;;;;;
+3190001;s03e19;test;Andy turns and shouts, slamming his hand against the wall.;;;;;;;
+3190002;s03e19;test;Michael pulls on a yellow barrier, so Darryl on crutches touches it to stop him.;;;;;;;
+3190003;s03e19;test;Michael scrunches his face, tears in his eyes, laughing hard.;;;;;;;
+3190004;s03e19;test;Darryl on crutches presses a button on a red industrial machine as its small panel door opens and lifts up.;;;;;;;
+3190006;s03e19;test;Michael stands among other people in a warehouse, looking embarrassed and glancing sideways awkwardly.;;;;;;;
+3190007;s03e19;test;Dwight leans in trying to peek at the red machine with a strained, grimacing expression while Darryl talking.;;;;;;;
+3190008;s03e19;test;Michael hops onto the reception desk while Pam sits behind it and a man leans against it.;;;;;;;
+3190009;s03e19;test;A woman yawns widely on a couch beside a man with crutches.;;;;;;;
+3190010;s03e19;test;Michael stands with hands clasped, lightly bouncing on a trampoline in a parking lot.;;;;;;;
+3190011;s03e19;test;Ryan holds up his watch, glancing between it and Kelly talking to him.;;;;;;;
+3190012;s03e19;test;Creed sits at his desk while another man swaps the apple on his desk for a potato.;;;;;;;
+3190013;s03e19;test;Michael and Dwight stand on a rooftop above a parking lot, one gripping a watermelon.;;;;;;;
+3190014;s03e19;test;Dwight drops the watermelon from the roof, which bounces off a trampoline below.;;;;;;;
+3190015;s03e19;test;The watermelon smashes to pieces on a car.;;;;;;;
+3190016;s03e19;test;Dwight in a suit plays air guitar on a rooftop.;;;;;;;
+3190017;s03e19;test;Dwight runs into the warehouse shouting through a megaphone.;;;;;;;
+3190018;s03e19;test;Jim and Pam approach a red and pink inflatable bounce castle outside a building.;;;;;;;
+3190019;s03e19;test;Pam stands outside shouting through a megaphone, surrounded by people.;;;;;;;
+3190020;s03e19;test;Michael climbs down a caged ladder on the side of a building as people applaud below.;;;;;;;
+3190021;s03e19;test;Stanley stares in shock at a car covered in smashed watermelon.;;;;;;;
+3190022;s03e19;test;Michael hugs Darryl on crutches tightly, pushing him back slightly.;;;;;;;
+3190023;s03e19;test;Michael flings his hands up, fingers splayed beside his head.;;;;;;;
+3190024;s03e19;test;Dwight scrunches his face and nods, agreeing reluctantly.;;;;;;;
+3190025;s03e19;test;Ryan stands up and kisses Kelly on the nose.;;;;;;;
+3190026;s03e19;test;Ryan smiles and scoops cash off his desk.;;;;;;;
+3190027;s03e19;test;A group of coworkers gathers as Kevin hands out cash.;;;;;;;
+3190028;s03e19;test;Dwight takes a binder from the shelf and stands beside Andy, who turns to him.;;;;;;;
+3190030;s03e19;test;Michael peers over a rooftop edge, gripping it tightly.;;;;;;;
+3190031;s03e19;test;Two pink turrets peek above a tall hedge.;;;;;;;
+3190032;s03e19;test;Pam and Jim looks up in shock in front of an inflatable red bounce castle.;;;;;;;
+4090001;s04e09;test;Dwight cries, covering his eyes with his hand, sitting near an office window.;;;;;;;
+4090002;s04e09;test;Pam hands a bottle of wine to a woman in a red dress.;;;;;;;
+4090003;s04e09;test;A wide shot of a cozy living room with a lit lamp, framed photos, a couch and a large potted plant by the window at night.;;;;;;;
+4090004;s04e09;test;Jim and Pam in dark coats stand smiling in a doorway at night.;;;;;;;
+4090005;s04e09;test;A wide shot of an elegant dining room, a table set for dinner with candles, wine glasses, and a red painting on the wall.;;;;;;;
+4090006;s04e09;test;Jim turns with a shocked, nauseated expression, two people talking in a cluttered storage room behind him.;;;;;;;
+4090007;s04e09;test;A woman holds a candle up to Jim's nose for him to smell.;;;;;;;
+4090008;s04e09;test;A woman in a red dress spots a camera on a tripod and moves to set it aside quickly.;;;;;;;
+4090009;s04e09;test;Michael folds a wall-mounted TV back against the wall in living room.;;;;;;;
+4090010;s04e09;test;A dark glass shelf displays gold trophies on lower tiers, with candles on top.;;;;;;;
+4090011;s04e09;test;Andy hands a bouquet to one woman, then gives a single flower from it to Angela beside her.;;;;;;;
+4090012;s04e09;test;Jim and Pam, in front of a wall of framed photos, look startled and glance sideways with concern.;;;;;;;
+4090013;s04e09;test;A woman sways her hips oddly facing a wooden dresser, her back to Michael sitting nearby.;;;;;;;
+4090015;s04e09;test;A group of smiling people sits around a coffee table with wine and appetizers in the cozy living room.;;;;;;;
+4090017;s04e09;test;A woman in red takes Jim's hand and spins under it while he sits on the couch.;;;;;;;
+4090018;s04e09;test;Pam is in a bathroom with her arms crossed, giving a worried and upset look.;;;;;;;
+4090019;s04e09;test;A woman raises her hands like horns beside her head, sticking out her tongue with a playful expression by a fireplace.;;;;;;;
+4090020;s04e09;test;A woman in red talks in the kitchen while transferring some seasoning into a small bowl.;;;;;;;
+4090021;s04e09;test;A woman with a bottle grabs Pam by the arm and steers her somewhere.;;;;;;;
+4090022;s04e09;test;A woman in red checks inside the oven in a home kitchen.;;;;;;;
+4090023;s04e09;test;Three men enter a cluttered garage with boxes, equipment, and colorful hand-shaped chairs.;;;;;;;
+4090024;s04e09;test;Dwight bites into a large drumstick at a dinner table.;;;;;;;
+4090025;s04e09;test;Michael and Pam lean over a dinner table talking.;;;;;;;
+4090026;s04e09;test;Michael dips a piece of food into a wine glass on the table and eats it.;;;;;;;
+4090027;s04e09;test;Michael hangs a light-up beer brand sign on the wall.;;;;;;;
+4090028;s04e09;test;A woman throws something and smashes a small TV mounted on the wall.;;;;;;;
+4090029;s04e09;test;Two police officers arrive outside a house at night, patrol lights flashing behind them.;;;;;;;
+4090030;s04e09;test;A wide shot of a hot dog diner at night with cars parked out front.;;;;;;;
+4090031;s04e09;test;A red car drives with Michael leaning out the passenger window at night.;;;;;;;
+4090032;s04e09;test;Angela angrily smears an ice cream cone onto the side of a blue car.;;;;;;;
+4090033;s04e09;test;A woman tries to glue a broken trophy back together.;;;;;;;
+5030001;s05e03;test;Jim points a marker at a whiteboard diagram of family tree.;;;;;;;
+5030002;s05e03;test;Dwight with a fake pregnant belly under his shirt leans over a wastebasket, liquid spilling into it.;;;;;;;
+5030003;s05e03;test;Dwight fakes giving birth to a watermelon at an office desk.;;;;;;;
+5030004;s05e03;test;Michael eats a slice of watermelon at his desk while a man beside him gets dressed.;;;;;;;
+5030005;s05e03;test;A close-up of a baby shower table with a balloon pump, colorful candy bowls and duck-print tablecloth decorations.;;;;;;;
+5030006;s05e03;test;Phyllis pumps up a balloon with a hand pump while Michael watches her through the office blinds.;;;;;;;
+5030007;s05e03;test;Creed sits on the couch bandaging his leg while Jim on the phone turns away.;;;;;;;
+5030008;s05e03;test;A person with a brown envelope approaches Jim on the phone, who puts cash inside.;;;;;;;
+5030009;s05e03;test;A woman in a floral dress wheels a baby stroller into the office.;;;;;;;
+5030010;s05e03;test;Michael lifts a baby carrier, holding it close to his chest with a serious expression.;;;;;;;
+5030011;s05e03;test;Michael happily holds a baby beside pink flowers, a woman smiling behind them.;;;;;;;
+5030012;s05e03;test;A woman steps out of the bathroom, laughing as Michael holds a giggling toddler in a hallway.;;;;;;;
+5030013;s05e03;test;Michael holds two babies, bobbing his head playfully as two women watch and smile at a reception desk..;;;;;;;
+5030014;s05e03;test;Michael lifts a little girl up playfully outside.;;;;;;;
+5030015;s05e03;test;Michael holds a baby carrier above his head while a woman reaches up trying to grab the baby.;;;;;;;
+5030016;s05e03;test;Andy unwraps pink gift wrapping off a baby stroller.;;;;;;;
+5030017;s05e03;test;Dwight buckles a watermelon into a stroller's seatbelt inside an elevator.;;;;;;;
+5030018;s05e03;test;Pam talks on the phone in a laundromat while a woman on the left sits on a washing machine folding clothes.;;;;;;;
+5030019;s05e03;test;A shot of Pam in a laundromat, standing with a stained green towel, a detergent box, and a basket of clothes on the counter.;;;;;;;
+5030020;s05e03;test;Dwight shoves a stroller forward, sending it tumbling upside down in an abandoned lot.;;;;;;;
+5030021;s05e03;test;Dwight throws a stroller up and into the chain-link fence.;;;;;;;
+5030022;s05e03;test;Dwight is throwing the stroller off the top of the stack of tires.;;;;;;;
+5030023;s05e03;test;Michael holds a baby with a tight, unconvincing smile, at a baby shower.;;;;;;;
+5030024;s05e03;test;A woman wakes up sprawled on a couch, wrapped in pink gift paper with decorative bows.;;;;;;;
+5030025;s05e03;test;Andy and Angela photograph a baby lying surrounded by fruits and vegetables.;;;;;;;
+5030026;s05e03;test;A red car rams into the baby stroller.;;;;;;;
+5030027;s05e03;test;Michael watches a car drive past outside an office building, a baby stroller sitting nearby.;;;;;;;
+5030028;s05e03;test;A woman stands facing Michael with tearful eyes by a filing cabinet stacked with boxes.;;;;;;;
+5030030;s05e03;test;Creed rubs his forehead with a pained expression at his desk, solitaire open on screen.;;;;;;;
+5030031;s05e03;test;Michael screams with arms spread out, while Dwight, with his fake belly, screams behind him.;;;;;;;
+5030032;s05e03;test;Old photo showing a baby sitting on a red toy car outside.;;;;;;;
+5030033;s05e03;test;Michael dropping  watermelon to shatter on the floor.;;;;;;;
+5170001;s05e17;test;Michael sets buttered bread with a stick stuck in it on the reception desk.;;;;;;;
+5170002;s05e17;test;Michael wipes his hand with the bread before a Pan hands him a tissue.;;;;;;;
+5170003;s05e17;test;Michael gets quickly slapped in the face by Dwight.;;;;;;;
+5170004;s05e17;test;A man tries to slap Dwight, who dodges.;;;;;;;
+5170005;s05e17;test;Jim sits at his desk in the office and slaps Dwight, who stands beside him.;;;;;;;
+5170006;s05e17;test;A man in a top hat and tuxedo walks through the door into the office, carrying an umbrella and coat.;;;;;;;
+5170007;s05e17;test;Michael, in a top hat and tuxedo, points his umbrella at a woman.;;;;;;;
+5170008;s05e17;test;Michael, in a top hat and tuxedo, puts something into the boxes in a warehouse.;;;;;;;
+5170009;s05e17;test;A group of people  stands in the elevator, Kavin holding the door open for a woman in grey coat.;;;;;;;
+5170010;s05e17;test;Michael in a top hat and tuxedo does a somersault on the office floor.;;;;;;;
+5170011;s05e17;test;Michael, in a top hat and tuxedo, looks shocked, mouth open, eyes wide with disbelief.;;;;;;;
+5170012;s05e17;test;Michael, in a tracksuit, throws a bundle of clothes into a large green dumpster, standing by tall hedges.;;;;;;;
+5170013;s05e17;test;Michael, in a tan blazer over a graphic tee, sits at his messy desk, reading from a black notebook.;;;;;;;
+5170014;s05e17;test;Three coworkers sit talking, the man in the middle in a grey sweater vest gesturing emotionally with a frustrated expression.;;;;;;;
+5170015;s05e17;test;Michael, in a tan blazer over a graphic tee, raises his eyebrows with wide, alert eyes and an open mouth, looking startled.;;;;;;;
+5170016;s05e17;test;Two men in suits shake hands laughing in an office with blinds, while a man sits looking on.;;;;;;;
+5170017;s05e17;test;Pam rushes over and hugs Dwight, another man beside them watches.;;;;;;;
+5170018;s05e17;test;A man with glasses stands up, hand out flat, and walks out, leaving three people at the desk with a phone.;;;;;;;
+5170019;s05e17;test;Two men struggle over a black notebook in the office.;;;;;;;
+5170020;s05e17;test;Pam covers the phone receiver and speaks sternly to Michael, who stands at the reception desk.;;;;;;;
+5170021;s05e17;test;Dwight claps happily, laughing widely with cheeks puffed on the reception desk.;;;;;;;
+5170022;s05e17;test;Michael holds a golden card up to his face in a warehouse.;;;;;;;
+5170023;s05e17;test;A wide shot of a warehouse with boxes, a man in a top hat hopping oddly, back turned.;;;;;;;
+5170024;s05e17;test;Michael, in a top hat, hits boxes with his umbrella in the warehouse.;;;;;;;
+5170025;s05e17;test;Michael stands beside a whiteboard, leaning on his umbrella, angry.;;;;;;;
+5170026;s05e17;test;Kevin and  Andy at a break room table with coffee mugs and plates of pastries. Andy drinking from a white and blue mug.;;;;;;;
+5170027;s05e17;test;Michael takes off his top hat and tosses it onto his desk.;;;;;;;
+5170028;s05e17;test;A close-up profile shot of a Michael pinching the bridge of his nose, eyes closed, against a wood-paneled wall.;;;;;;;
+5170029;s05e17;test;Kevin man places his hand on Jim's hand, both looking down at their hands.;;;;;;;
+5170030;s05e17;test;Dwight kicks a piece of trash into the air while walking with Michael.;;;;;;;
+5170031;s05e17;test;Michael quickly touches Dwight's shoulder, then Dwight shrugs it off, annoyed.;;;;;;;
+5170032;s05e17;test;Michael sits at his desk squeezing a purple squishy toy, his gaze distant and blank.;;;;;;;
+6050001;s06e05;test;Kevin leans back with his feet up on his desk, chewing colorful candy from an open jar next to a football.;;;;;;;
+6050002;s06e05;test;Meredith stands next to Michael in front of the whiteboard at the office, as he lightly moving her away from him.;;;;;;;
+6050003;s06e05;test;Michael slowly paces back and forth around the office, speaking into a voice recorder.;;;;;;;
+6050004;s06e05;test;Michael puts his finger in his mouth, mock-shooting himself with a finger gun.;;;;;;;
+6050005;s06e05;test;A shot of Kevin doing sit-ups, seen through a window with blinds.;;;;;;;
+6050006;s06e05;test;A man in a suit with a black suitcase grabs his coat from a coat rack, knocking it over.;;;;;;;
+6050007;s06e05;test;Michael reaches for the phone on his desk, when Andy suddenly rips the cord out of it.;;;;;;;
+6050008;s06e05;test;Andy, dressed as a mechanic, drives up to the parking lot where Dwight and Michael wait.;;;;;;;
+6050009;s06e05;test;Andy, dressed as a mechanic, sitting at the restaurant table with Michael, is smelling a tire iron.;;;;;;;
+6050010;s06e05;test;Andy is covering up the tire iron with a napkin at the restaurant.;;;;;;;
+6050011;s06e05;test;Dwight pours a worm out of a brown package onto the restaurant table.;;;;;;;
+6050012;s06e05;test;Dwight and Michael review flyers with a man at the restaurant table, while Andy, dressed as a mechanic, leans back drinking.;;;;;;;
+6050013;s06e05;test;A man in a suit slams the restaurant table, making Dwight, Michael, and Andy jump in fright.;;;;;;;
+6050014;s06e05;test;Andy, dressed as a mechanic, holds jumper cables at a car as a woman and boy watch.;;;;;;;
+6050015;s06e05;test;Andy causes sparks to fly from the car while working with cables under the open hood.;;;;;;;
+6050016;s06e05;test;Andy, dressed as a mechanic, stands awkwardly with his arms crossed as smoke rises from the open hood of a car behind him.;;;;;;;
+6050017;s06e05;test;A woman and boy watch with concern as smoke rise from a car in a parking lot.;;;;;;;
+6050018;s06e05;test;Michael, Dwight, and Andy, dressed as a mechanic, walk past a fountain outside a restaurant plaza with serious expressions.;;;;;;;
+6050019;s06e05;test;Michael and Dwight get in the car as a tow truck driver talks to the woman and boy behind them.;;;;;;;
+6050020;s06e05;test;Dwight looks happily disbelieving while Andy, beside him, holds his hands together, shocked, in the office with blinds and a desk lamp behind them.;;;;;;;
+6050021;s06e05;test;Ryan sits in a meeting, staring at the phone in his hand, while others sit around him watching something.;;;;;;;
+6050022;s06e05;test;Erin works at the reception desk while a man in a suit sits waiting on the couch behind her.;;;;;;;
+6050023;s06e05;test;Andy sits sideways at his desk with his legs crossed, thinking, with a shelf of office supplies behind him.;;;;;;;
+6050024;s06e05;test;A shot of Creed sitting deep in thought, with Kevin tilted back in his chair behind him, tossing something above his head.;;;;;;;
+6050025;s06e05;test;Michael, in a suit, is standing in front of people at the office, taking a card out of his pocket.;;;;;;;
+6050026;s06e05;test;Dwight and Michael sit closely together, staring at the computer screen with an open email on it.;;;;;;;
+6050027;s06e05;test;A man in a suit walks into the restaurant as a woman points him toward Michael's table.;;;;;;;
+6050028;s06e05;test;A man in a suit gestures with his hand, showing the waitress where to sit.;;;;;;;
+6050029;s06e05;test;A close-up of Kevin looking down, anxious and nervous, mouth slack, blinds visible behind him.;;;;;;;
+6050030;s06e05;test;A man in a suit and glasses hands Michael a document and a pen at the restaurant table.;;;;;;;
+6050031;s06e05;test;A shot through blinds of Oscar standing with his head inside the open office fridge as Michael walks in.;;;;;;;
+6090001;s06e09;test;Phyllis tries to attack Dwight who grabs her wrist and pretends to karate-chop her in the office.;;;;;;;
+6090002;s06e09;test;Jim stands next to internal windows with blinds, pointing at a taped note about a martial arts presentation, his face unfazed.;;;;;;;
+6090003;s06e09;test;Dwight pretends to karate-chop Meredith in the throat in the office.;;;;;;;
+6090004;s06e09;test;Pam, in a suit, looks secretly pleased, glancing sideways, a pink mug held in both hands.;;;;;;;
+6090005;s06e09;test;Dwight stomps on his own foot in the office in front of Meredith sitting at the desk;;;;;;;
+6090006;s06e09;test;A group of people gathered around Oscar's desk, Jim clicking on his computer.;;;;;;;
+6090007;s06e09;test;A group of people walks toward Oscar sitting at the desk.;;;;;;;
+6090008;s06e09;test;A worried-looking Kevin walks into the bathroom and finds Michael wiping his face with paper.;;;;;;;
+6090009;s06e09;test;Serious, worried-looking people sit in the office canteen.;;;;;;;
+6090010;s06e09;test;Worried-looking people stand at the reception desk where Erin sits.;;;;;;;
+6090011;s06e09;test;Serious, worried-looking people stand near a whiteboard and cabinets with files on them.;;;;;;;
+6090012;s06e09;test;Michael rushes over to a cabinet in the office and takes out board games.;;;;;;;
+6090013;s06e09;test;A shot of the inside of a cabinet with a football, a safe, board games, some books and documents.;;;;;;;
+6090014;s06e09;test;Michael sits at the desk with colorful pipes connected around the office, with a hamster in it.;;;;;;;
+6090015;s06e09;test;Jim puckers his lips slightly, pressing them together, moving his head forward and down.;;;;;;;
+6090016;s06e09;test;Michael stands in front of people with a music player held in one hand.;;;;;;;
+6090017;s06e09;test;Michael takes Oscar's phone with a big smile.;;;;;;;
+6090018;s06e09;test;Michael opens his mouth and eyes wide in joyful shock, holding a music player.;;;;;;;
+6090019;s06e09;test;Angela holds a small creepy head next to her own head.;;;;;;;
+6090020;s06e09;test;Pam, smiling, reads a card to everyone, wearing white lace gloves.;;;;;;;
+6090021;s06e09;test;Kevin, wearing suspenders, stands with a card and puts a cigar in his mouth.;;;;;;;
+6090022;s06e09;test;Andy looks at Erin, who is talking to other people, with a disgusted, forced smile.;;;;;;;
+6090023;s06e09;test;Creed is seen through a window with blinds, running through the parking lot to a white car and driving away fast.;;;;;;;
+6090024;s06e09;test;Dwight, in white gloves, points his finger at people's faces in the office room.;;;;;;;
+6090025;s06e09;test;Angela rolls her eyes up and nods her head, standing next to a snack machine and Oscar.;;;;;;;
+6090026;s06e09;test;Andy walks up, moving stiffly, to the reception desk where Erin sits.;;;;;;;
+6090027;s06e09;test;A shot through blinds of Dwight, in white gloves, pointing his finger at Michael's face in the office canteen.;;;;;;;
+6090028;s06e09;test;Jim walks in on Andy and Kevin frozen in a pose, Dwight taking a photo, and Michael kneeling over Meredith, lying on the floor.;;;;;;;
+6090029;s06e09;test;Three men stand facing each other, pointing finger guns with both hands and yelling.;;;;;;;
+6090030;s06e09;test;Pam, wearing white lace gloves, points finger guns with both hands and yells.;;;;;;;
+6090031;s06e09;test;Three men are shooting finger guns with both hands, yelling and pretending to die.;;;;;;;
+6090032;s06e09;test;Dwight, standing in the office near Meredith and Oscar, punches himself in the crotch.;;;;;;;
+6090033;s06e09;test;Pam flinches, shrugging her shoulders up in surprise, and drinks from a mug.;;;;;;;
+7140001;s07e14;test;Kelly stands next to Ryan, presenting a ring with her hand outstretched, then throws it on the ground.;;;;;;;
+7140002;s07e14;test;Ryan, in a light shirt and striped tie, stands by Kelly, in a yellow cardigan over a floral top, who touches his arm while he covers his eyes and scratches his head, stressed.;;;;;;;
+7140003;s07e14;test;Jim, with a bag over his shoulder, leans down and kisses Pam on the head at her desk.;;;;;;;
+7140004;s07e14;test;Michael and Jim walking out the entrance as a silver car is parked out front.;;;;;;;
+7140005;s07e14;test;Jim and Michael riding in a car, Michael rubbing his eyes with his fingers while talking.;;;;;;;
+7140006;s07e14;test;Jim is leaving the gas station by car in a rush.;;;;;;;
+7140007;s07e14;test;Jim is pounding and yelling at closed doors in a rush.;;;;;;;
+7140008;s07e14;test;A man in a navy blue jumpsuit stands outside the gas station.;;;;;;;
+7140009;s07e14;test;Pam talks on the phone, smiling flirtatiously, tongue slightly poking out, eyebrows raised.;;;;;;;
+7140010;s07e14;test;A man in a striped shirt with long white sleeves takes something from Michael's hand in a store.;;;;;;;
+7140011;s07e14;test;A shot of Michael in front of a gas station, gas pumps behind him and someone cleaning the window of his car.;;;;;;;
+7140012;s07e14;test;Pam finds a white sheet of paper with a drawing on it on the office fridge.;;;;;;;
+7140013;s07e14;test;Darryl stands in the office glass doorway holding his mug, calmly yelling something with his mouth open.;;;;;;;
+7140014;s07e14;test;A shot of a sidewalk lined with trees, a large donut bakery sign hanging on the storefront.;;;;;;;
+7140015;s07e14;test;Dwight and Erin, standing next to another woman, high-five each other and run towards the car.;;;;;;;
+7140016;s07e14;test;Michael is playing with energetic puppies in cages.;;;;;;;
+7140017;s07e14;test;Michael stands and talks to colorful parrots at a pet store.;;;;;;;
+7140018;s07e14;test;Michael is looking at a snake in a glass cage and making a disgusted face.;;;;;;;
+7140019;s07e14;test;Michael holds a light-colored puppy up to his face and gets licked.;;;;;;;
+7140020;s07e14;test;A man in a suit holds two packs of sticky notes, pink and yellow, up to his face.;;;;;;;
+7140021;s07e14;test;Michael looking around and standing by a busy road, a food stand with a man in the window behind him.;;;;;;;
+7140022;s07e14;test;A shot through the glass of Michael at the restaurant table, searching his jacket pockets.;;;;;;;
+7140023;s07e14;test;Michael bites his lip, uncomfortable, when a big man in a kitchen apron comes up to him.;;;;;;;
+7140024;s07e14;test;A shot of Dwight talking to a waiter at a restaurant while Erin points at a photo on a wooden board.;;;;;;;
+7140025;s07e14;test;Dwight talks to a waiter at the restaurant, gesturing with his hands to explain something.;;;;;;;
+7140026;s07e14;test;Meredith presses a key on her keyboard very expressively while sitting at her desk.;;;;;;;
+7140027;s07e14;test;A tall man in a suit approaches Phyllis's desk and pushes her chair back from the computer.;;;;;;;
+7140028;s07e14;test;The tall man turns around, revealing many sticky notes covering the back of his suit.;;;;;;;
+7140029;s07e14;test;Michael walking around a poor area with homeless people, then hiding in an alley with dumpsters.;;;;;;;
+7140030;s07e14;test;Dwight presses his fingers to his temples with a focused expression and closed eyes, standing on the street next to Erin.;;;;;;;
+7140031;s07e14;test;A shot of a blonde woman climbing stairs to the roof of a building, with Erin following her.;;;;;;;
+7140032;s07e14;test;A blonde woman standing on the rooftop meets Michael, who is leaning his hands on the edge of the roof.;;;;;;;
+7140033;s07e14;test;Erin walks through the door onto the rooftop and finds Michael and blonde woman kissing.;;;;;;;
+7140034;s07e14;test;A wide shot of a brown brick building with a silver car parked in front of it.;;;;;;;
+7140035;s07e14;test;Pam smiles as he sees a drawing of a printer pinned to the fridge.;;;;;;;
+7230001;s07e23;test;Ryan and another man are playing foosball at the office.;;;;;;;
+7230003;s07e23;test;Dwight answers the phone at his desk, then reacts in shock, raises his eyebrows, eyes wide and mouth open.;;;;;;;
+7230004;s07e23;test;Dwight slowly approaches a door, stands in the doorway, and touches the frame of the door with both hands.;;;;;;;
+7230005;s07e23;test;Dwight sits at his desk, seen through blinds, mouth wide open in shock, both hands resting on the desk.;;;;;;;
+7230006;s07e23;test;Dwight talks on the phone, seen through blinds, then suddenly smirks slyly, pulling it from his ear and flinching upward.;;;;;;;
+7230007;s07e23;test;Jim is sitting in the car, rolling the window down to talk to Pam outside.;;;;;;;
+7230008;s07e23;test;Angela is checking a punch card that's stuck at the time clock on the wall.;;;;;;;
+7230009;s07e23;test;Jim sticks his pencil into the time clock on the wall, which snaps it.;;;;;;;
+7230010;s07e23;test;Jim tries to fit an oversized business card into his wallet.;;;;;;;
+7230011;s07e23;test;A wide shot of Dwight, hand on chest, facing an American flag near Erin at the reception desk, his portrait on the wall.;;;;;;;
+7230012;s07e23;test;Dwight jumps out, scaring Kelly as she enters her cubicle in the office.;;;;;;;
+7230013;s07e23;test;Dwight, standing in front of Kelly, crouches down and points his finger from her feet up to her stomach.;;;;;;;
+7230014;s07e23;test;The tall man in a suit exits the office room before Andy, fake-smiling widely while crying.;;;;;;;
+7230015;s07e23;test;Jim pins a poster with a drawing of a fist to the bulletin board in the office hallway.;;;;;;;
+7230016;s07e23;test;Dwight rips the fist poster off the board and tosses it into the trash bin by the bathroom.;;;;;;;
+7230017;s07e23;test;Jim walks in and pins two fist posters side by side on the bulletin board in the office hallway.;;;;;;;
+7230018;s07e23;test;Kevin inserts a card's numbers into a machine, with an impatient Angela and Darryl waiting behind him.;;;;;;;
+7230019;s07e23;test;Stanley is pouring himself coffee from a pitcher, under the watch of a camera above him in the office kitchen.;;;;;;;
+7230020;s07e23;test;A shot of excited Dwight sitting at a desk, surrounded by samurai armor, a sword, and a display case with a revolver.;;;;;;;
+7230021;s07e23;test;A shot of Dwight opening a box with a small sword.;;;;;;;
+7230022;s07e23;test;Dwight drops the sword he used to open the box, shocked and moved, sits down pulling something from the box.;;;;;;;
+7230023;s07e23;test;Dwight, standing tall, proudly walks up to Jim's desk with a revolver in a leather holster on his belt.;;;;;;;
+7230024;s07e23;test;A straight-backed Dwight stretches in the office around people, with a revolver in a leather holster on his belt.;;;;;;;
+7230025;s07e23;test;A close-up shot of Dwight's belt with a revolver and phone holster.;;;;;;;
+7230026;s07e23;test;Dwight plays with the gun in front of people, and it fires, startling everyone.;;;;;;;
+7230027;s07e23;test;Andy clutches his ear after the gunshot right in front of him.;;;;;;;
+7230028;s07e23;test;Oscar sits on the carpet floor, touching a hole in it with a concerned face.;;;;;;;
+7230029;s07e23;test;Dwight is giving away a gun to Creed.;;;;;;;
+7230030;s07e23;test;Andy gets up from his chair, holding on to Darryl, and walks away with him, limping.;;;;;;;
+7230031;s07e23;test;Dwight hops into the office wearing a cowboy hat, pretending to shoot with his fingers and lasso something.;;;;;;;
+7230032;s07e23;test;Dwight walks out of the bathroom holding a large glass aquarium.;;;;;;;
+7230033;s07e23;test;Kevin walks into the bathroom and immediately runs out, terrified, pulling up his pants.;;;;;;;
+7230034;s07e23;test;A gray-haired woman walks into the office with two dogs on a leash.;;;;;;;
+7230035;s07e23;test;Dwight presses on Kevin's back as he sits at his desk, bracing both feet hard against a cabinet behind the desk.;;;;;;;
+7230036;s07e23;test;Oscar photographs Dwight pressing on Kevin's back, feet braced against a cabinet.;;;;;;;
+7230037;s07e23;test;Creed sets his things out on the counter in the office room and sits in the leather armchair, satisfied.;;;;;;;
+8040001;s08e04;test;Stanley walks in laughing hard, eyes half-closed, passing Pam, Jim, and Andy at reception.;;;;;;;
+8040002;s08e04;test;A close-up shot of someone holding a banner with an ad featuring Andy.;;;;;;;
+8040003;s08e04;test;Dwight runs out of the office, through the street and park, and shouts at the sight of a large ad banner featuring him and Andy.;;;;;;;
+8040004;s08e04;test;An outraged Dwight shouts with his mouth wide open on a street lined with lots of greenery.;;;;;;;
+8040005;s08e04;test;A shot of Dwight drawing a map on a whiteboard.;;;;;;;
+8040006;s08e04;test;Andy puts a laptop on the desk in front of people and clicks play on it.;;;;;;;
+8040007;s08e04;test;Andy points at something in the video playing on the laptop.;;;;;;;
+8040008;s08e04;test;Jim shows something on his computer screen while Dwight watches with interest, both seated at their desks.;;;;;;;
+8040009;s08e04;test;Pam sits with Angela in the office cafeteria, eating with her bare feet up on another chair.;;;;;;;
+8040010;s08e04;test;Andy ties his shoe with his foot up on the desk.;;;;;;;
+8040011;s08e04;test;A blue car drives onto the property past a mailbox and stops next to a man in a vest and bow tie.;;;;;;;
+8040012;s08e04;test;A man in a vest and bow tie struggles to pull Toby out of the car.;;;;;;;
+8040013;s08e04;test;A speeding blue car races down a dirt road and drives into a field of tall green and yellow plants.;;;;;;;
+8040014;s08e04;test;Kevin gorges on snacks from a waiter's tray, putting a finger to the waiter's lips as he tries to leave.;;;;;;;
+8040015;s08e04;test;Erin and Kelly talk by a table with a checkered cloth and sunflowers in a garden tent.;;;;;;;
+8040016;s08e04;test;Dwight, dressed in vintage period costume, stands stiffly by a porch as Ryan walks past him with a pipe in his mouth.;;;;;;;
+8040017;s08e04;test;Jim and Pam, with the stroller and a kid on Jim's arm, walk past Dwight standing stiffly by the porch.;;;;;;;
+8040018;s08e04;test;Erin, wearing a large autumn hat, stands outside with Kelly when a bird snatches her hat away.;;;;;;;
+8040019;s08e04;test;Dwight dances strangely with a maid, waving a light scarf, as people watch in the garden.;;;;;;;
+8040020;s08e04;test;A man parks his car in a tight spot between other cars and gets out through the sunroof.;;;;;;;
+8040021;s08e04;test;Darryl and smiling Jim sit at a table decorated with sunflowers.;;;;;;;
+8040022;s08e04;test;Ryan is stuck up high on a seesaw while Kevin sits down at the bottom.;;;;;;;
+8040023;s08e04;test;Erin shakes a small tree where her hat got stuck.;;;;;;;
+8040024;s08e04;test;Dwight stands stiffly in the middle as waiters and maids around him freeze in a dance pose, arms outstretched.;;;;;;;
+8040025;s08e04;test;Andy walks past a waiter with his guitar, knocking his tray and scattering food.;;;;;;;
+8040026;s08e04;test;A man in a helmet on a scooter speeds toward a ramp set up in front of a row of cars.;;;;;;;
+8040027;s08e04;test;A man in a helmet runs up a ramp set beside a row of cars and jumps across them.;;;;;;;
+8040028;s08e04;test;Kelly rubs her arms, cold, while Ryan drinks beside her at a table with wine bottles, at the outdoor party.;;;;;;;
+8040029;s08e04;test;Oscar, Darryl, Pam, Jim, and Erin sit at a table with sunflowers and drinks, listening to a baby monitor with worried expressions.;;;;;;;
+8040030;s08e04;test;Ryan puts his jacket on a man, and a moment later a tall man does the same, at the outdoor party.;;;;;;;
+8040031;s08e04;test;Dwight stands in the middle, holding a torch, as waiters and maids circle around him, raising their torches.;;;;;;;
+8040032;s08e04;test;A wide outdoor shot of people at picnic tables and blankets, Darryl and Kevin at the front, all looking the same way.;;;;;;;
+8040033;s08e04;test;Dwight, dressed in a period costume with a black top hat,  stands stone-faced while Jim nods and looks up.;;;;;;;
+8040034;s08e04;test;Jim stands beside Phyllis, both holding drinks at outdoor party, as Jim awkwardly waves at someone, looking uncomfortable.;;;;;;;
+8040035;s08e04;test;Oscar throws a can toward Andy at an outdoor party.;;;;;;;
+8240001;s08e24;test;A close-up of Oscar talking into the camera, as Dwight and Phyllis approach curiously behind him.;;;;;;;
+8240002;s08e24;test;A close-up of Oscar, with Kelly behind him applying makeup and staring at the camera.;;;;;;;
+8240003;s08e24;test;Kevin and another man bump heads, both holding their faces in pain, as Dwight and Phyllis watch.;;;;;;;
+8240004;s08e24;test;A man and a young girl excitedly wave their hands in front of a blue backdrop for a photo shoot.;;;;;;;
+8240005;s08e24;test;Stanley smiles with his arm around a young woman for a photo, standing in front of a blue backdrop with giant toy blocks nearby.;;;;;;;
+8240006;s08e24;test;Creed poses for a photo with two elderly people beside him as a woman photographs them in front of a blue backdrop.;;;;;;;
+8240007;s08e24;test;Meredith stands beside a young man with face tattoos and crossed arms for the photo.;;;;;;;
+8240008;s08e24;test;Jim tears off Dwight's clothes at the parking lot.;;;;;;;
+8240009;s08e24;test;Darryl, at his office desk, drinks from a pink can with a disgusted expression.;;;;;;;
+8240010;s08e24;test;Andy walks into the office wearing gray coveralls, looking down with a defeated expression.;;;;;;;
+8240011;s08e24;test;Andy, wearing gray coveralls, gets down on his knees in front of a woman sitting at the desk.;;;;;;;
+8240012;s08e24;test;Andy, in gray coveralls, mops a carpet on the office floor, as coworkers sit at their desks nearby.;;;;;;;
+8240013;s08e24;test;Pam, with the stroller and a kid holding her hand, enters the office, Jim surprised and fake-smiling.;;;;;;;
+8240014;s08e24;test;A woman with a stuffed duck takes photos of Jim and Pam with the kids, as Dwight jumps behind her.;;;;;;;
+8240015;s08e24;test;Dwight pulls a comb out of his jacket pocket and walks up to Angela, who is taking a photo with a man and a child.;;;;;;;
+8240016;s08e24;test;Andy, in the bathroom, pours alcohol on himself from a bottle, standing in front of the mirror and sink.;;;;;;;
+8240017;s08e24;test;Andy, in coveralls, carries a bowl of soup and then pours it over himself.;;;;;;;
+8240018;s08e24;test;Andy eats the soup he poured on himself off his sleeve.;;;;;;;
+8240019;s08e24;test;Dwight with small scissors walks up to Angela, who is taking a photo with a man and a child.;;;;;;;
+8240020;s08e24;test;Dwight is leaving the office with a  clear plastic bag as Angela chases him, seen through the kitchen door blinds.;;;;;;;
+8240021;s08e24;test;A red car leaves the office parking lot in a rush, when blue car starts chasing it.;;;;;;;
+8240022;s08e24;test;Dwight, driving in the car, waves a clear plastic bag with a smile, while another car is visible in the rear window.;;;;;;;
+8240023;s08e24;test;A tall man in a birthday hat, holding a cupcake with a candle, walks into a room with people at a table.;;;;;;;
+8240024;s08e24;test;A red car speeds down a country road, a blue car right behind it.;;;;;;;
+8240025;s08e24;test;Kelly poses for a photo with a man, hugging him against a blue photo backdrop.;;;;;;;
+8240026;s08e24;test;The man in glasses hugs and then kisses Andy on the lips near the reception desk.;;;;;;;
+8240027;s08e24;test;Two red cars drive through a quiet suburban street lined with houses and trees, a blue car chasing the other one by mistake.;;;;;;;
+8240028;s08e24;test;Andy stands near the reception desk taking off his coveralls, revealing a suit underneath, as coworkers watch.;;;;;;;
+8240029;s08e24;test;A blue car cuts off the red one, and Angela runs out of the blue car.;;;;;;;
+8240030;s08e24;test;Angela slaps her hand on the window and opens the driver's door of the red car, who then gets out.;;;;;;;
+8240031;s08e24;test;Angela slaps the man from the red car, who later runs away.;;;;;;;
+8240032;s08e24;test;A shot of a man taking down the 'Sabre' sign next to the Dunder Mifflin logo on the wall.;;;;;;;
+8240033;s08e24;test;Angela puts her hand on Dwight's hand as they sit together in a waiting room.;;;;;;;
+8240034;s08e24;test;Dwight tries to kiss Angela, who pushes him away, then kisses him hard, as they sit together in a waiting room.;;;;;;;
+9020001;s09e02;test;A shot of an office full of trash.;;;;;;;
+9020002;s09e02;test;Kevin, sitting at his desk, throws trash on the floor beside him, where other trash already lies.;;;;;;;
+9020003;s09e02;test;Kevin and Pam stand with a spinning wheel turning between them, as people clap.;;;;;;;
+9020004;s09e02;test;Kevin spins around in circles at his desk, seen through the blinds.;;;;;;;
+9020005;s09e02;test;Stanley and Erin sit at the cafeteria table, Stanley taps her hand and slides the sandwich toward himself.;;;;;;;
+9020006;s09e02;test;Meredith and Pam stand with a shiny spinning wheel turning between them, as people clap.;;;;;;;
+9020007;s09e02;test;Meredith and Pam stand with a shiny spinning wheel turning between them, as Pam moves the tiny wheel in front of everyone.;;;;;;;
+9020008;s09e02;test;A shot of a rat moving along the floor among the trash in a cluttered office.;;;;;;;
+9020009;s09e02;test;A little girl spins around in the yard in front of the house, as Jim leaves it with a present in his hand.;;;;;;;
+9020010;s09e02;test;Jim is putting his bag in the trunk of a silver car, when Pam runs out of the house with a banana in her hand.;;;;;;;
+9020011;s09e02;test;A young man in glasses leans over the reception desk, holding a magazine, where Erin sits talking to another young man.;;;;;;;
+9020012;s09e02;test;A young man in glasses winks, while leaning over the reception desk.;;;;;;;
+9020013;s09e02;test;A wide shot of guests at an outdoor party, with Phyllis in the back sipping an orange drink next to a man.;;;;;;;
+9020014;s09e02;test;A shot of Darryl smiling at the outdoor party, as a woman with dreadlocks adjusts his tie.;;;;;;;
+9020015;s09e02;test;Jim and Pam walking in the street with concerned expressions, Jim holding a wrapped present and Pam eating a banana.;;;;;;;
+9020016;s09e02;test;A man with a tray of drinks approaches Jim and Pam, and Pam takes a drink from his tray, handing him the banana peel.;;;;;;;
+9020017;s09e02;test;Dwight, sitting at his desk, takes a piece of paper, crumples it in his hands, and throws it behind.;;;;;;;
+9020018;s09e02;test;A man is giving a toast with a glass of champagne, as the bride smiles beside people around tables with flowers in the garden.;;;;;;;
+9020019;s09e02;test;A man in a suit sits down at the piano in the garden, a glass of champagne resting on it.;;;;;;;
+9020020;s09e02;test;Oscar sits in the office kitchen, reading a newspaper and choking on his drink, as Pam and Jim stand nearby.;;;;;;;
+9020021;s09e02;test;A woman in the office canteen pulls out a cleaver and holds it up in front of Dwight's eyes.;;;;;;;
+9020022;s09e02;test;Andy takes his card out of his wallet and hands it to a young man in glasses.;;;;;;;
+9020023;s09e02;test;Seen through a half-open door, Jim leans against the stair railing, resting his forehead on his hand.;;;;;;;
+9020024;s09e02;test;Dwight grabs the woman's hand and lifts it repeatedly, letting it drop onto the cutting board.;;;;;;;
+9020025;s09e02;test;Dwight repeatedly raises a cleaver above his head, preparing to bring it down on the woman's hand, while she drinks from a can.;;;;;;;
+9020026;s09e02;test;Dwight swings his arms left and right, stretching, while a redheaded woman watches, in the office cafeteria.;;;;;;;
+9020027;s09e02;test;Dwight makes circles with a cleaver in his hand above the cutting board, where the woman holds her hand.;;;;;;;
+9020028;s09e02;test;Dwight stretches his interlocked hands out in front of the break room vending machines, stern and determined.;;;;;;;
+9020029;s09e02;test;Darryl walks into the canteen finds Dwight holding a cleaver over a woman's hand on the cutting board, and walks out unfazed.;;;;;;;
+9020030;s09e02;test;Darryl walks into the canteen and places his laptop on the table, opening it, while Dwight stands with a cleaver.;;;;;;;
+9020031;s09e02;test;Andy, Erin, and a young man with a worried expression stand in a hallway by the door as he knocks.;;;;;;;
+9020032;s09e02;test;The young man in glasses rests his head against the door frame, looking disappointed, as another man stands in front of  the door.;;;;;;;
+9020033;s09e02;test;A wide shot of a restaurant seen at night through its front windows, with a neon sign glowing as people sit inside.;;;;;;;
+9020034;s09e02;test;Dwight and a redhead woman sit across from each other in the office canteen at night, both making disgusted faces while looking at a laptop.;;;;;;;
+9020035;s09e02;test;A young man leans over the reception desk, holding a Newsweek magazine with a brain-map illustration of a head on the cover.;;;;;;;
+9040001;s09e04;test;Pam rests her head on Jim's shoulder, smiling, as he kisses her forehead outdoors.;;;;;;;
+9040002;s09e04;test;Jim and Pam scoop cake onto their forks and eat it, sitting side by side at a bench outdoors.;;;;;;;
+9040003;s09e04;test;Oscar smears cake onto Kevin's face with a small plate.;;;;;;;
+9040004;s09e04;test;Kevin raises his hands up happily, his face covered in cake.;;;;;;;
+9040005;s09e04;test;A shot of a mother and daughter sharing a picnic on the grass.;;;;;;;
+9040006;s09e04;test;"A wide shot of people gathered around a roadside stand called ""Laverne's Pies,"" while a man fixes a tire nearby.";;;;;;;
+9040007;s09e04;test;Dwight drives a bus with a stern, angry expression, gripping the steering wheel tightly.;;;;;;;
+9040009;s09e04;test;Jim climbs down into the bus through the sunroof, while Dwight steps down onto his shoulders with his shoes.;;;;;;;
+9040010;s09e04;test;Andy peeks around the curtain, while a woman wipes Erin's face with a tissue on the bus.;;;;;;;
+9040011;s09e04;test;A giant chicken statue stands in the foreground while a man walks toward another man sitting on the roof of a bus parked nearby.;;;;;;;
+9040012;s09e04;test;Andy angrily pulls the curtain closed on the bus, standing near Creed and Phyllis.;;;;;;;
+9040013;s09e04;test;Jim climbs into the bus through the sunroof.;;;;;;;
+9040014;s09e04;test;Stanley shouts angrily, his mouth and eyes wide open, as Jim and Erin watch behind him on the bus.;;;;;;;
+9040015;s09e04;test;Dwight climbs into the bus through the sunroof, while Pam and Jim, sitting nearby, dodge.;;;;;;;
+9040016;s09e04;test;Dwight angrily drops the keys with a yellow keychain onto Jim's.;;;;;;;
+9040017;s09e04;test;A worried Kevin sits pointing at a map with a pen, while a skeptical Angela sits across from him in a bus.;;;;;;;
+9040018;s09e04;test;People pose together beside the giant chicken statue while a man takes their picture.;;;;;;;
+9040019;s09e04;test;A big white bus leaves the parking lot, while Darryl and a young man in glasses sit at a table outside the building.;;;;;;;
+9040020;s09e04;test;A shot of a bus stopping for a hitchhiker in a light suit and hat, waving it down.;;;;;;;
+9040022;s09e04;test;Jim strides firmly past the yellow line on the bus.;;;;;;;
+9040023;s09e04;test;Jim claps his hands and high-fives people as he walks through the bus.;;;;;;;
+9040024;s09e04;test;Andy, wearing a red cap and tie, stands next to the TV and winks.;;;;;;;
+9040025;s09e04;test;Jim gets up from his chair toward the TV, as Andy in a red cap walks out of the office where everyone else is sitting.;;;;;;;
+9040026;s09e04;test;Jim clicks something on the laptop next to the TV and plays a video for everyone.;;;;;;;
+9040027;s09e04;test;A displeased Andy stands next to a laptop playing a video of him in a baseball uniform falling and dousing himself in dark liquid from a large orange cooler jug.;;;;;;;
+9040028;s09e04;test;Toby holds a device up to the wall, while a worried Dwight watches, writing on a whiteboard, and Erin holds tape.;;;;;;;
+9040029;s09e04;test;Erin sticks red tape on the wall where Toby pointed, tapping his fingers.;;;;;;;
+9040030;s09e04;test;Erin sticks red tape in the shape of an X on the office carpet.;;;;;;;
+9040031;s09e04;test;Meredith bends over nearby with a red X on the wall beside her.;;;;;;;
+9040032;s09e04;test;Jim, walking with Pam through the parking lot, jogs ahead and opens the door, holding it for her to pass through.;;;;;;;
+9040033;s09e04;test;Jim, walking after Pam, jogs ahead, clicks the button to the lift, and lets her pass into the lift.;;;;;;;
+9040034;s09e04;test;Jim puts a bag of popcorn into the microwave in the office kitchen.;;;;;;;
+9040035;s09e04;test;Jim takes the bag of popcorn out of the microwave and rush out of the kitchen, while Darryl and a young man in glasses talk.;;;;;;;
+9040036;s09e04;test;Dwight, sitting at the desk near Jim, places a napkin on his lap.;;;;;;;
+9040037;s09e04;test;The people walk out of the building as Dwight waves for the bus pulling into the office parking lot.;;;;;;;
+9040038;s09e04;test;Meredith and Kevin push each other backward while sitting in their chairs on the bus.;;;;;;;
+9040039;s09e04;test;Erin tapes a clear bowl of candy to the railing on the bus.;;;;;;;
+9040041;s09e04;test;A young man near Angela presses a button on the bus ceiling, blowing her papers away.;;;;;;;
+9040042;s09e04;test;An outraged Angela, her mouth wide open, frantically grabs at her flying papers on the bus.;;;;;;;
+9040043;s09e04;test;Angela opens the overhead compartment above Jim, Pam, and Meredith on the bus, and a stack of papers falls onto them.;;;;;;;
+9140001;s09e14;test;Erin in front of the reception desk in the office doing jumping jacks.;;;;;;;
+9140002;s09e14;test;Erin, carrying a giant teddy bear, meets Darryl while walking up the stairs in the stairwell.;;;;;;;
+9140003;s09e14;test;Pam, in a brown coat, carrying a folded blanket under her arm, walks through the warehouse carrying a blanket, then stops and scre ams in shock.;;;;;;;
+9140004;s09e14;test;A shot of Creed at his desk, holding a colorful kite up to a fan in the office.;;;;;;;
+9140005;s09e14;test;"A close-up of the forest-and-logging mural, defaced with orange spray-painted graffiti reading ""THIS SUCKS"" and a crude drawing.";;;;;;;
+9140006;s09e14;test;A shot of Angela talking angrily on the phone on the staircase.;;;;;;;
+9140007;s09e14;test;Jim stands in a messy kitchen in his pajamas, eating breakfast at the counter, as Darryl walks in wearing a suit.;;;;;;;
+9140008;s09e14;test;Darryl stands in a small bedroom, arms spread wide, showing off his room with a plaid bed and blinds behind him.;;;;;;;
+9140009;s09e14;test;Jim jumps onto the bed in his pajamas, arms spread wide.;;;;;;;
+9140010;s09e14;test;Jim lies on the bed with one hand behind his head, next to a pile of clothes on the floor by the bed.;;;;;;;
+9140011;s09e14;test;Darryl's hand gestures toward one side of the bathroom counter, clean and organized, and the other side, messy and cluttered.;;;;;;;
+9140012;s09e14;test;Darryl looks unimpressed, while Jim, reflected in the mirror, stands on the bed wrapped in a blanket, playing guitar.;;;;;;;
+9140013;s09e14;test;Jim washes his hands in a dirty sink, wipes his hands with a towel, and throws it onto the sink.;;;;;;;
+9140014;s09e14;test;Darryl walks into the bathroom and flips the light switch.;;;;;;;
+9140015;s09e14;test;Pam rides up on a forklift in the warehouse, holding a megaphone.;;;;;;;
+9140016;s09e14;test;Pam rides down on a forklift in the warehouse, speaking through a megaphone.;;;;;;;
+9140017;s09e14;test;"A shot of a silver metallic coffee thermos sitting on a desk, with a sticker reading ""Darryl"" on it.";;;;;;;
+9140018;s09e14;test;Jim, sitting at his desk by the computer, drinks from a silver metallic coffee thermos.;;;;;;;
+9140019;s09e14;test;Pam, in a grey hoodie, storms into the office yelling, as Erin at the reception desk looks at her.;;;;;;;
+9140020;s09e14;test;An angry Dwight approaches the young man in glasses' desk from behind and takes his landline phone out of his hand.;;;;;;;
+9140021;s09e14;test;Angela, in a black dress, runs up to Dwight in the office and touches his chest, and he flinches, stepping back.;;;;;;;
+9140022;s09e14;test;Dwight hands out white papers to the workers in uniforms, sitting at a long table in the warehouse.;;;;;;;
+9140023;s09e14;test;A redheaded woman stands with her hands on her hips, draws a circle in the air with her fingers.;;;;;;;
+9140024;s09e14;test;A man in a warehouse worker uniform crouches with his head buried in his hand beside some boxes.;;;;;;;
+9140025;s09e14;test;Pam, in a grey hoodie, stands next to Dwight in the warehouse, pressing her hands to the sides of her face and ears, stressed.;;;;;;;
+9140026;s09e14;test;Oscar and Kevin, eating a snack from small plates, stand in a living room of some house, glancing at a portrait of an angry-looking, posing Angela.;;;;;;;
+9140027;s09e14;test;Jim pours out coffee onto the floor, standing next to a red wall.;;;;;;;
+9140028;s09e14;test;Jim forcefully shoves the thermal silver mug into Darryl's chest as he walks past him, handing it to him.;;;;;;;
+9140029;s09e14;test;A man standing behind Oscar, hands on his shoulders, pats his cheek in front of everyone at a gathering.;;;;;;;
+9140030;s09e14;test;Darryl sits down in a leather armchair white and blue portable cooler  in the room.;;;;;;;
+9140031;s09e14;test;Darryl takes a green can out of a cooler, while Jim eats at a table nearby in the room.;;;;;;;
+9140032;s09e14;test;Dwight leads a young man in a warehouse uniform by the arm down the street, with Pam walking beside them.;;;;;;;
+9140033;s09e14;test;Pam puts a cap on the young man in glasses' head and shushes him, pressing her finger to his lips.;;;;;;;
+9140034;s09e14;test;Dwight peeks through binoculars, as Pam ends the call and exits through a door behind the boxes.;;;;;;;
+9140035;s09e14;test;A young man in glasses, taped to a chair with something written on his chest, looks down at his phone.;;;;;;;
+9140036;s09e14;test;A man pushes a woman in a wheelchair toward the spot where everyone is posing for a photo.;;;;;;;
+9140037;s09e14;test;Pam, holding a bucket and paintbrush, walks around a car covered in white paint as Dwight keeps painting it.;;;;;;;
+9140038;s09e14;test;Dwight, with a shocked and admiring expression, walks around the car and admires the large painting on its side.;;;;;;;
+9140039;s09e14;test;A satisfied Pam stands by the open trunk as an angry warehouse worker storms toward her across the parking lot.;;;;;;;
+9140040;s09e14;test;A camera operator with headphones swings a long boom microphone and hits an angry warehouse worker in the office parking lot.;;;;;;;

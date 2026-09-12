@@ -1,0 +1,101 @@
+{
+  // ===========================================================
+  // Interpreter — the `wideo` Conda environment
+  // ===========================================================
+  // The same path that was entered in the NVIDIA driver
+  // (CUDA — Sysmem Fallback Policy → Prefer No Sysmem Fallback).
+  // If you ever create the environment under a different name,
+  // fix it HERE and in the driver setting.
+  "python.defaultInterpreterPath": "C:\\Users\\PC\\miniforge3\\envs\\wideo\\python.exe",
+  "python.terminal.activateEnvironment": true,
+
+  // Conda initializes without friction in cmd; in PowerShell it requires
+  // `conda init powershell` and relaxing the script execution policy.
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+
+  // ===========================================================
+  // Jupyter
+  // ===========================================================
+  // The working directory of every notebook is the repository root,
+  // not the notebooks/ folder. Thanks to this `import src.utils.notebook`
+  // and paths such as `data/raw/vatex` work the same way
+  // in a notebook and in a script run from the command line.
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+
+  // After every change in src/ the modules reload by themselves —
+  // no kernel restart and no reloading models into GPU memory.
+  "jupyter.runStartupCommands": [
+    "%load_ext autoreload",
+    "%autoreload 2"
+  ],
+
+  "jupyter.askForKernelRestart": false,
+  "jupyter.interactiveWindow.textEditor.executeSelection": true,
+  "jupyter.themeMatplotlibPlots": true,
+
+  // ===========================================================
+  // Notebook behaviour
+  // ===========================================================
+  "notebook.lineNumbers": "on",
+  "notebook.output.scrolling": true,
+  "notebook.output.textLineLimit": 80,
+  "notebook.formatOnSave.enabled": false,
+
+  // Diffs in git: skip metadata and cell outputs.
+  // Outputs are stripped by nbstripout before commit anyway (see notebooks/README.md),
+  // but when one slips through, the diff stays readable.
+  "notebook.diff.ignoreMetadata": true,
+  "notebook.diff.ignoreOutputs": true,
+
+  // ===========================================================
+  // Code analysis
+  // ===========================================================
+  // Repository root on the path — otherwise Pylance does not find `src`
+  // and underlines imports in red even though the code works.
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}",
+    "./src"
+  ],
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": false,
+
+  // ===========================================================
+  // Encoding — Polish characters in comments and descriptions
+  // ===========================================================
+  "files.encoding": "utf8",
+  "files.autoGuessEncoding": false,
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+
+  // ===========================================================
+  // Editor performance — data/ is tens of GB
+  // ===========================================================
+  // Without these exclusions VS Code indexes the VATEX clips and the feature
+  // cache, which with a 4.9 GB archive ends in the whole window crawling.
+  "files.watcherExclude": {
+    "**/data/**": true,
+    "**/results/**": true,
+    "**/.git/objects/**": true,
+    "**/__pycache__/**": true
+  },
+  "search.exclude": {
+    "**/data": true,
+    "**/results": true,
+    "**/.ipynb_checkpoints": true,
+    "**/__pycache__": true
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.ipynb_checkpoints": true,
+    "**/*.egg-info": true
+  },
+
+  "[python]": {
+    "editor.rulers": [88],
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda"
+}

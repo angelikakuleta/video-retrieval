@@ -1,0 +1,28 @@
+{
+  "name": "video_decoding",
+  "when": "2026-09-10T01:33:34",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "file": "office_s01e02.mp4",
+    "resolution": "1920x1080",
+    "frames": 31914,
+    "time": 65.03,
+    "frames_per_second": 490.8
+  }
+}

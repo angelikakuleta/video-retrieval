@@ -1,0 +1,78 @@
+1
+00:00:04,164 --> 00:00:05,334
+(Penny:)Okay.
+
+2
+00:00:05,499 --> 00:00:08,749
+(Leonard:)Her apartment's on the fourth floor,
+elevator is broken, you're gonna...
+
+3
+00:00:08,919 --> 00:00:11,459
+Oh, you're just gonna be done?
+Okay, cool, thanks.
+
+4
+00:00:12,923 --> 00:00:16,673
+(Leonard:)- I guess we'll just bring it up ourselves.
+- I hardly think so.
+
+5
+00:00:17,386 --> 00:00:18,806
+(Leonard:)Why not?
+
+6
+00:00:18,971 --> 00:00:20,551
+(Sheldon:)Well, we don't have a dolly...
+
+7
+00:00:20,722 --> 00:00:24,472
+(Sheldon:)...or lifting belts,
+or any measurable upper-body strength.
+
+8
+00:00:25,060 --> 00:00:27,310
+(Leonard:)We don't need strength.
+We're physicists.
+
+9
+00:00:27,479 --> 00:00:29,819
+(Leonard:)We are the intellectual
+descendents of Archimedes.
+
+10
+00:00:29,982 --> 00:00:32,522
+(Leonard:)Give me a fulcrum and a lever
+and I can move the Earth.
+
+11
+00:00:32,693 --> 00:00:35,363
+It's just a matter... I don't have this!
+I do not have this!
+
+12
+00:00:36,321 --> 00:00:39,071
+(Sheldon:)Archimedes would be so proud.
+
+13
+00:00:44,830 --> 00:00:46,580
+(Leonard:)Do you have any ideas?
+
+14
+00:00:46,748 --> 00:00:49,878
+(Sheldon:)Yes, but they all involve
+a Green Lantern and a power ring.
+
+15
+00:00:51,378 --> 00:00:54,968
+(Leonard:)Easy. Easy.
+
+16
+00:00:57,509 --> 00:01:00,799
+Okay. Now we've got an inclined plane.
+
+17
+00:01:00,971 --> 00:01:04,431
+(Leonard:)Force required to lift is reduced
+by the sine of the angle of the stairs...
+

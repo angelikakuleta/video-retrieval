@@ -1,0 +1,83 @@
+{
+  "name": "cost",
+  "when": "2026-09-10T05:36:24",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "e4d": {
+      "phrases": {
+        "n": 23,
+        "median_ms": 7.74,
+        "mean_ms": 8.41,
+        "p95_ms": 10.98,
+        "min_ms": 5.83,
+        "max_ms": 18.96,
+        "total_s": 0.2
+      },
+      "decoding": {
+        "n": 23,
+        "median_ms": 374771.08,
+        "mean_ms": 335042.1,
+        "p95_ms": 523718.34,
+        "min_ms": 0.0,
+        "max_ms": 590897.79,
+        "total_s": 7706.0
+      },
+      "detection": {
+        "n": 23,
+        "median_ms": 7044.76,
+        "mean_ms": 6619.97,
+        "p95_ms": 8012.91,
+        "min_ms": 0.0,
+        "max_ms": 8020.15,
+        "total_s": 152.3
+      },
+      "fusion": {
+        "n": 23,
+        "median_ms": 0.51,
+        "mean_ms": 0.54,
+        "p95_ms": 0.67,
+        "min_ms": 0.0,
+        "max_ms": 0.68,
+        "total_s": 0.0
+      },
+      "total": {
+        "n": 23,
+        "median_ms": 382434.09,
+        "mean_ms": 341676.46,
+        "p95_ms": 531298.87,
+        "min_ms": 6.42,
+        "max_ms": 598958.63,
+        "total_s": 7858.6
+      },
+      "queries_total": 25,
+      "warmup_skipped": 2,
+      "dataset": "office",
+      "split": "test",
+      "loop": "natural: one query at a time, each opening the recordings its own candidates lie in. The stage itself runs the inverted loop and is faster; this is the cost of a query asked alone.",
+      "partial": true,
+      "sample": {
+        "measured": 25,
+        "population": 608,
+        "seed": 1234,
+        "draw": "random without replacement, original order kept",
+        "p95_rests_on": 2
+      }
+    }
+  }
+}

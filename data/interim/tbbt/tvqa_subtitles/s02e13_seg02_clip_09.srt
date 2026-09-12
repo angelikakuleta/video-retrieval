@@ -1,0 +1,91 @@
+1
+00:00:00,559 --> 00:00:03,849
+You see, my initial approach to Kripke
+had the same deficiencies...
+
+2
+00:00:04,020 --> 00:00:07,820
+(Sheldon:)...as those that plagued Stu the Cockatoo
+when he was new at the zoo.
+
+3
+00:00:08,900 --> 00:00:10,650
+(Raj:)Stu the Cockatoo?
+
+4
+00:00:10,819 --> 00:00:12,989
+(Leonard:)Yes. He's new at the zoo.
+
+5
+00:00:13,488 --> 00:00:16,988
+(Sheldon:)It's a terrific book. I've distilled its essence
+into a simple flow chart...
+
+6
+00:00:17,159 --> 00:00:18,829
+...that will guide me through the process.
+
+7
+00:00:20,203 --> 00:00:22,083
+(Howard:)Have you thought about putting him
+in a crate...
+
+8
+00:00:22,247 --> 00:00:24,207
+(Howard:)...while you're out of the apartment?
+
+9
+00:00:24,833 --> 00:00:27,583
+(Sheldon(on phone):)Hello, Kripke.
+Yeah, Sheldon Cooper here.
+
+10
+00:00:27,753 --> 00:00:30,503
+(Sheldon(on phone):)It occurred to me you hadn't returned
+any of my calls...
+
+11
+00:00:30,672 --> 00:00:34,342
+...because I hadn't offered any suggestions
+for pursuing our friendship.
+
+12
+00:00:34,509 --> 00:00:39,259
+Yeah, perhaps the two of us
+might share a meal together.
+
+13
+00:00:39,806 --> 00:00:41,056
+Yeah, I see.
+
+14
+00:00:41,224 --> 00:00:45,184
+(Sheldon(on phone):)Well, then perhaps you'd have time
+for a hot beverage?
+
+15
+00:00:45,353 --> 00:00:49,063
+(Sheldon(on phone):)Popular choices include tea,
+coffee, cocoa.
+
+16
+00:00:49,316 --> 00:00:51,396
+(Sheldon(on phone):)I see. No, no, no, wait.
+Don't hang up yet.
+
+17
+00:00:51,568 --> 00:00:54,358
+But what about a recreational activity?
+
+18
+00:00:54,529 --> 00:00:56,699
+(Sheldon(on phone):)I bet we share some common interests.
+
+19
+00:00:56,865 --> 00:00:59,705
+(Sheldon(on phone):)Tell me an interest of yours.
+
+20
+00:00:59,868 --> 00:01:04,028
+(Sheldon(on phone):)Really? On actual horses?
+

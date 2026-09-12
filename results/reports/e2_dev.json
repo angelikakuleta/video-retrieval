@@ -1,0 +1,282 @@
+{
+  "metric": "recall@10",
+  "split": "dev",
+  "reference": "E2-A",
+  "contrast": [
+    "requirements:wymaga_ruchu"
+  ],
+  "control": [
+    "E2-Ap",
+    "E2-Bp"
+  ],
+  "datasets": [
+    "tbbt",
+    "office"
+  ],
+  "skipped": [],
+  "runs": {
+    "E2-A": {
+      "tbbt": "results\\runs\\E2-A_tbbt_dev_20260908_013737",
+      "office": "results\\runs\\E2-A_office_dev_20260908_012642"
+    },
+    "E2-Ap": {
+      "tbbt": "results\\runs\\E2-Ap_tbbt_dev_20260908_013852",
+      "office": "results\\runs\\E2-Ap_office_dev_20260908_012659"
+    },
+    "E2-B": {
+      "tbbt": "results\\runs\\E2-B_tbbt_dev_20260908_013918",
+      "office": "results\\runs\\E2-B_office_dev_20260908_012722"
+    },
+    "E2-Bp": {
+      "tbbt": "results\\runs\\E2-Bp_tbbt_dev_20260908_014746",
+      "office": "results\\runs\\E2-Bp_office_dev_20260908_013719"
+    }
+  },
+  "results": {
+    "E2-Ap": {
+      "per_dataset": {
+        "office": {
+          "n": 6,
+          "mean": -0.06338725088725089,
+          "low": -0.12887947970140678,
+          "high": 0.002104977926905019,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.6467889908256881,
+          "reference_value": 0.7110091743119266
+        },
+        "tbbt": {
+          "n": 6,
+          "mean": -0.07534330522945325,
+          "low": -0.22293601524780143,
+          "high": 0.07224940478889492,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.5721153846153846,
+          "reference_value": 0.6490384615384616
+        }
+      },
+      "pooled": {
+        "n": 12,
+        "mean": -0.06936527805835206,
+        "low": -0.13539489569846408,
+        "high": -0.00333566041824003,
+        "method": "t"
+      },
+      "pooled_datasets": [
+        "office",
+        "tbbt"
+      ]
+    },
+    "E2-B": {
+      "per_dataset": {
+        "office": {
+          "n": 6,
+          "mean": -0.6281793156793157,
+          "low": -0.7031363107450558,
+          "high": -0.5532223206135757,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.08256880733944955,
+          "reference_value": 0.7110091743119266
+        },
+        "tbbt": {
+          "n": 6,
+          "mean": -0.5897782272545081,
+          "low": -0.7064003807101931,
+          "high": -0.4731560737988232,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.057692307692307696,
+          "reference_value": 0.6490384615384616
+        }
+      },
+      "pooled": {
+        "n": 12,
+        "mean": -0.6089787714669118,
+        "low": -0.66698402887383,
+        "high": -0.5509735140599936,
+        "method": "t"
+      },
+      "pooled_datasets": [
+        "office",
+        "tbbt"
+      ]
+    },
+    "E2-Bp": {
+      "per_dataset": {
+        "office": {
+          "n": 6,
+          "mean": -0.43982618982618976,
+          "low": -0.5576476731038315,
+          "high": -0.32200470654854807,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.2706422018348624,
+          "reference_value": 0.7110091743119266
+        },
+        "tbbt": {
+          "n": 6,
+          "mean": -0.4415501850036954,
+          "low": -0.5523237494014819,
+          "high": -0.33077662060590896,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.20673076923076922,
+          "reference_value": 0.6490384615384616
+        }
+      },
+      "pooled": {
+        "n": 12,
+        "mean": -0.44068818741494264,
+        "low": -0.5067018433549562,
+        "high": -0.3746745314749291,
+        "method": "t"
+      },
+      "pooled_datasets": [
+        "office",
+        "tbbt"
+      ]
+    }
+  },
+  "contrasts": {
+    "requirements:wymaga_ruchu": {
+      "E2-Ap": {
+        "per_dataset": {
+          "office": {
+            "n": 6,
+            "mean": -0.03387605042016806,
+            "low": -0.21288643025474357,
+            "high": 0.14513432941440746,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.6363636363636364,
+            "matching_reference": 0.7058823529411765,
+            "rest": 0.7096774193548387,
+            "rest_reference": 0.7419354838709677,
+            "matching_delta": -0.0672093837535014,
+            "rest_delta": -0.03333333333333335
+          },
+          "tbbt": {
+            "n": 6,
+            "mean": 0.03854384687718019,
+            "low": -0.18022581185376083,
+            "high": 0.2573135056081212,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.5803108808290155,
+            "matching_reference": 0.6528497409326425,
+            "rest": 0.4666666666666667,
+            "rest_reference": 0.6,
+            "matching_delta": -0.07256726423393092,
+            "rest_delta": -0.11111111111111112
+          }
+        },
+        "pooled": {
+          "n": 12,
+          "mean": 0.002333898228506067,
+          "low": -0.11552584671149677,
+          "high": 0.12019364316850889,
+          "method": "t"
+        },
+        "pooled_datasets": [
+          "office",
+          "tbbt"
+        ]
+      },
+      "E2-B": {
+        "per_dataset": {
+          "office": {
+            "n": 6,
+            "mean": 0.04000615397674223,
+            "low": -0.17954071668019597,
+            "high": 0.25955302463368046,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.08021390374331551,
+            "matching_reference": 0.7058823529411765,
+            "rest": 0.0967741935483871,
+            "rest_reference": 0.7419354838709677,
+            "matching_delta": -0.6280494015788133,
+            "rest_delta": -0.6680555555555556
+          },
+          "tbbt": {
+            "n": 6,
+            "mean": -0.0634020384020384,
+            "low": -0.3638854421129798,
+            "high": 0.237081365308903,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.06217616580310881,
+            "matching_reference": 0.6528497409326425,
+            "rest": 0.0,
+            "rest_reference": 0.6,
+            "matching_delta": -0.5911798161798162,
+            "rest_delta": -0.5277777777777778
+          }
+        },
+        "pooled": {
+          "n": 12,
+          "mean": -0.011697942212648083,
+          "low": -0.16742928353898762,
+          "high": 0.14403339911369145,
+          "method": "t"
+        },
+        "pooled_datasets": [
+          "office",
+          "tbbt"
+        ]
+      },
+      "E2-Bp": {
+        "per_dataset": {
+          "office": {
+            "n": 6,
+            "mean": -0.12978418640183345,
+            "low": -0.4571099089782499,
+            "high": 0.19754153617458295,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.25668449197860965,
+            "matching_reference": 0.7058823529411765,
+            "rest": 0.3548387096774194,
+            "rest_reference": 0.7419354838709677,
+            "matching_delta": -0.45339529751294455,
+            "rest_delta": -0.3236111111111111
+          },
+          "tbbt": {
+            "n": 6,
+            "mean": -0.16109670276336943,
+            "low": -0.40240145420522183,
+            "high": 0.08020804867848297,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.20207253886010362,
+            "matching_reference": 0.6528497409326425,
+            "rest": 0.26666666666666666,
+            "rest_reference": 0.6,
+            "matching_delta": -0.4527633694300361,
+            "rest_delta": -0.2916666666666667
+          }
+        },
+        "pooled": {
+          "n": 12,
+          "mean": -0.14544044458260144,
+          "low": -0.3117575538671473,
+          "high": 0.020876664701944436,
+          "method": "t"
+        },
+        "pooled_datasets": [
+          "office",
+          "tbbt"
+        ]
+      }
+    }
+  },
+  "verdict": {
+    "winner": "E2-A",
+    "qualified": [],
+    "reason": "no candidate beat the reference - the simplest variant wins",
+    "series": 2,
+    "provisional": false
+  }
+}

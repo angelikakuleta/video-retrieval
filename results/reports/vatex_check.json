@@ -1,0 +1,47 @@
+{
+  "config": {
+    "dataset": "vatex",
+    "model": {
+      "encoder": "ViT-H-14",
+      "weights": "laion2b_s32b_b79k"
+    },
+    "frames": {
+      "step": 1.25,
+      "similarity_threshold": 0.9
+    },
+    "signals": [
+      {
+        "name": "scene",
+        "weight": 1.0
+      }
+    ],
+    "evaluation": {
+      "ks": [
+        1,
+        5,
+        10
+      ]
+    },
+    "paths": {
+      "clips": "data/vatex/clips",
+      "report": "data/vatex/vatex_report.csv",
+      "descriptions": "data/vatex/vatex_descriptions.csv",
+      "split": "data/vatex/vatex_split.csv",
+      "queries": "data/annotations/vatex_queries.jsonl",
+      "check": "data/annotations/vatex_check.jsonl",
+      "cache": "data/cache/vatex",
+      "results": "results/vatex_check.json"
+    }
+  },
+  "collection": 2560,
+  "metrics": {
+    "query_count": 25600,
+    "recall@1": 0.4647265625,
+    "recall@5": 0.7819921875,
+    "recall@10": 0.865703125,
+    "mAP": 0.6033735261826179,
+    "MRR": 0.6033735261826179,
+    "MedR": 2.0,
+    "MnR": 9.7803125
+  }
+}

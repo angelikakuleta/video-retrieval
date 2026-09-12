@@ -1,0 +1,39 @@
+{
+  "name": "faces_onnx",
+  "when": "2026-09-10T01:30:24",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "retinaface": {
+      "label": "RetinaFace R50: frame",
+      "free_before_gib": 10.04,
+      "time": 0.062,
+      "peak_allocated_gib": 3.77,
+      "peak_reserved_gib": 3.86,
+      "free_after_gib": 9.9
+    },
+    "arcface": {
+      "label": "ArcFace glintr100: aligned crop",
+      "free_before_gib": 9.9,
+      "time": 0.06,
+      "peak_allocated_gib": 3.77,
+      "peak_reserved_gib": 3.86,
+      "free_after_gib": 9.9
+    }
+  }
+}

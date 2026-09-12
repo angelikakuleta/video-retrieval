@@ -1,0 +1,92 @@
+1
+00:00:00,830 --> 00:00:03,530
+(Sheldon:)Go east.
+
+2
+00:00:03,530 --> 00:00:07,460
+"An iron gate blocks your way."
+
+3
+00:00:07,470 --> 00:00:10,200
+(Sheldon:)Open gate.
+
+4
+00:00:10,200 --> 00:00:11,700
+"It's locked."
+
+5
+00:00:11,700 --> 00:00:13,870
+(Leonard:)Hmm.
+
+6
+00:00:13,870 --> 00:00:16,040
+(Sheldon:)Well, so much for that.
+
+7
+00:00:18,580 --> 00:00:20,440
+(Leonard:)It's getting pretty late.
+How come you're still up?
+
+8
+00:00:20,450 --> 00:00:24,480
+I found an emulator online that
+lets you play classic text-based
+
+9
+00:00:24,480 --> 00:00:26,950
+(Sheldon:)computer games from the 1980s.
+
+10
+00:00:26,950 --> 00:00:28,390
+(Leonard:)That's pretty cool.
+
+11
+00:00:28,390 --> 00:00:31,790
+(Sheldon:)Oh, yes. It runs on the world's
+most powerful graphics chip:
+
+12
+00:00:31,790 --> 00:00:34,060
+(Sheldon:)imagination.
+
+13
+00:00:34,060 --> 00:00:36,860
+(Leonard:)You've really got
+to get out more.
+
+14
+00:00:38,760 --> 00:00:40,900
+(Sheldon:)Go north.
+
+15
+00:00:40,900 --> 00:00:43,070
+"You can't go that way."
+
+16
+00:00:43,070 --> 00:00:44,800
+(Sheldon:)Go west.
+
+17
+00:00:44,800 --> 00:00:47,200
+"A troll blocks your passage."
+
+18
+00:00:47,210 --> 00:00:49,510
+(Sheldon:)Okay. Fasten your seatbelts.
+
+19
+00:00:50,910 --> 00:00:53,140
+(Sheldon:)Kill troll.
+
+20
+00:00:53,140 --> 00:00:54,780
+"With what?"
+
+21
+00:00:54,780 --> 00:00:56,880
+(Sheldon:)With sword.
+
+22
+00:00:57,880 --> 00:00:59,450
+"You don't have the sword."
+

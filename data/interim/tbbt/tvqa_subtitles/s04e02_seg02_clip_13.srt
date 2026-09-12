@@ -1,0 +1,75 @@
+1
+00:00:00,710 --> 00:00:02,710
+(Sheldon-bot :)Leonard, my door.
+
+2
+00:00:02,710 --> 00:00:03,950
+(Leonard:)What about it?
+
+3
+00:00:03,950 --> 00:00:06,760
+(Sheldon-bot :)Be a lamb and open it for me.
+
+4
+00:00:06,770 --> 00:00:08,720
+(Leonard:)Why? What's the problem?
+
+5
+00:00:14,610 --> 00:00:17,540
+(Sheldon-bot :)You think you have me stymied,
+don't you?
+
+6
+00:00:17,540 --> 00:00:21,010
+(Leonard:)No, I think a doorknob
+has you stymied.
+
+7
+00:00:22,510 --> 00:00:25,570
+(Howard:)Oh, look, it's Leonard
+and R2-D-Bag.
+
+8
+00:00:27,350 --> 00:00:29,070
+(Raj:)That's my joke.
+I told it last night.
+
+9
+00:00:29,070 --> 00:00:31,360
+(Raj:)You can't just use it.
+
+10
+00:00:31,360 --> 00:00:34,740
+(Sheldon-bot :)Raj, be a lamb
+and open the door for me.
+
+11
+00:00:34,740 --> 00:00:37,330
+(Raj:)Oh, sure.
+
+12
+00:00:39,580 --> 00:00:41,120
+(Sheldon-bot :)He's a lamb.
+
+13
+00:00:41,120 --> 00:00:42,920
+(Sheldon:)You're not.
+
+14
+00:00:45,340 --> 00:00:47,540
+(Raj:)I'm a lamb.
+
+15
+00:00:49,740 --> 00:00:51,640
+(Sheldon-bot :)Isn't this nice?
+
+16
+00:00:51,640 --> 00:00:54,880
+(Sheldon-bot :)The pleasures of fellowship
+and camaraderie
+
+17
+00:00:54,880 --> 00:00:59,050
+(Sheldon-bot :)without having to tolerate
+your germy breath on my skin.
+

@@ -1,0 +1,94 @@
+1
+00:00:00,002 --> 00:00:03,462
+(Howard:)Bernadette, please, I'm asking you
+to give me another chance.
+
+2
+00:00:03,755 --> 00:00:07,215
+(Bernadette:)What do you think, Leonard?
+Should I give him another chance?
+
+3
+00:00:07,384 --> 00:00:10,174
+(Leonard:)It's up to you.
+He didn't call your experiment stupid.
+
+4
+00:00:12,306 --> 00:00:13,556
+Come here, tushy-face.
+
+5
+00:00:13,724 --> 00:00:15,394
+[BOTH CHUCKLE]
+
+6
+00:00:15,601 --> 00:00:19,021
+Tushy-face.
+That is going on Twitter right now.
+
+7
+00:00:25,068 --> 00:00:27,568
+(Bernadette:)Raj, you should've seen
+Leonard's experiment.
+
+8
+00:00:27,738 --> 00:00:30,828
+The interference pattern was cool
+when the electron beam was on.
+
+9
+00:00:30,991 --> 00:00:35,161
+(Leonard:)I'm glad you enjoyed it. Most people
+aren't that interested in what I do.
+
+10
+00:00:40,125 --> 00:00:41,295
+[CLEARS THROAT]
+
+11
+00:00:41,460 --> 00:00:43,590
+(Penny:)Actually, that's not true, Leonard.
+
+12
+00:00:43,754 --> 00:00:46,964
+(Penny:)I've been thinking that, given
+the parameters of your experiment...
+
+13
+00:00:47,132 --> 00:00:50,302
+(Penny:)...the transport of electrons
+through the nano-fabricated rings...
+
+14
+00:00:50,469 --> 00:00:54,889
+...is no different than the experiment
+already conducted in the Netherlands.
+
+15
+00:00:57,476 --> 00:01:00,936
+(Penny:)Their observed phase shift in
+the diffusing electrons inside the ring...
+
+16
+00:01:01,104 --> 00:01:03,274
+...already demonstrated
+the electric analogue...
+
+17
+00:01:03,440 --> 00:01:06,280
+(Leonard:)...of the Aharonov-Bohm
+quantum interference effect.
+
+18
+00:01:11,865 --> 00:01:14,115
+(Penny:)That's it. That's all I know.
+
+19
+00:01:15,160 --> 00:01:16,410
+(Penny:)Oh, wait.
+
+20
+00:01:17,371 --> 00:01:21,161
+(Penny:)Fig Newtons were named after a town
+in Massachusetts, not the scientist.
+

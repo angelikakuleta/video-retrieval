@@ -1,0 +1,33 @@
+{
+  "run_id": "E5-B_office_test_20260909_165401",
+  "created": "2026-09-09T16:54:26",
+  "config_file": "configs/e5b_office.yaml",
+  "experiment": "E5-B",
+  "dataset": "office",
+  "split": "test",
+  "seed": 1234,
+  "packages": {
+    "torch": "2.13.0+cu130",
+    "open_clip_torch": "3.3.0",
+    "faiss-cpu": "1.14.3",
+    "numpy": "2.5.1",
+    "opencv-python": "4.14.0.94",
+    "pydantic": "2.13.4",
+    "transnetv2-pytorch": "1.0.5"
+  },
+  "inputs": {
+    "data\\cache\\segmentation\\shots_histogram\\office_segments.csv": {
+      "sha256": "e3cf24189a9fd041007d680315c4ee03ba1a43e183d4fd388d50a4194b261c11",
+      "bytes": 235858
+    },
+    "data\\interim\\office\\office_ranges.csv": {
+      "sha256": "ed8b7fa89cf52fdc22adff28e09aa73e89cda16951fbd71d043ec90e30c946b9",
+      "bytes": 2458
+    },
+    "data\\annotations\\office\\office_queries_test.jsonl": {
+      "sha256": "021420638898fb75453d199879496aa0df03c013d243844ffb9fd4eeeaa98b9e",
+      "bytes": 201016
+    }
+  },
+  "queries_skipped_no_relevant": []
+}

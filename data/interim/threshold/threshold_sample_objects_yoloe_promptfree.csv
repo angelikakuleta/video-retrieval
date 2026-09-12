@@ -1,0 +1,101 @@
+﻿vocabulary;source;desc_id;text;phrase;matched_class;confidence
+objects_yoloe_promptfree;vatex;Myf-EHhmwLo_000056_000066;A woman in a court room reading and telling the court some information.;court room;room;1.000000
+objects_yoloe_promptfree;vatex;T4GgwfklMqk_000001_000011;Someone demonstrates various techniques for shuffling a deck of cards.;deck;deck;1.000000
+objects_yoloe_promptfree;vatex;QhWJ4lNowjU_000253_000263;A man is demonstrating how to cook a dish while browning the product.;dish;bowl;0.700965
+objects_yoloe_promptfree;vatex;uu5CsLQuzN4_000005_000015;Three guys are in a room and the closest up front inserts something into his mouth.;closest up front inserts;meet;0.651673
+objects_yoloe_promptfree;vatex;avDKo2qRcZQ_000029_000039;A person uses a special pen to write on a piece of paper in caligraphy.;caligraphy;calligraphy;0.930102
+objects_yoloe_promptfree;vatex;ILvS3LQug5k_000013_000023;Someone is clipping the nails of a calm animal and commentates about avoiding the quick.;commentates;commentator;0.826579
+objects_yoloe_promptfree;vatex;EDhEshycrhg_000046_000056;A little girl is riding a pink scooter down the street.;street;road;0.722786
+objects_yoloe_promptfree;vatex;MhIBVCse204_000095_000105;a man using a knife is cutting a pumpkin in a vineyard while giving exolanation;pumpkin;pumpkin;1.000000
+objects_yoloe_promptfree;vatex;-1DARulHLgw_000007_000017;The technique to do full situps is being demonstrated on a mat.;full situps;slope;0.525500
+objects_yoloe_promptfree;vatex;ar2xtNDcGEc_000035_000045;A man is riding a lawn tractor and goes over a some plastic.;plastic;plastic;1.000000
+objects_yoloe_promptfree;vatex;0gQxSyreT3Q_000008_000018;Women are playing and laughing on the beach while listening to music.;beach;beach;1.000000
+objects_yoloe_promptfree;vatex;IFndtAos_rM_000000_000010;Several people are in a gym as one man takes off and jumps backwards over a hurtle.;hurtle;hill;0.531625
+objects_yoloe_promptfree;vatex;jnnMN7t-63U_000084_000094;Four men at a table playing dominoes while talking to each other.;table playing dominoes;domino;1.000000
+objects_yoloe_promptfree;vatex;_4nE_YZZUKc_000018_000028;A man describes the features and functions of a sawing tool.;features;image;0.683719
+objects_yoloe_promptfree;vatex;M72agpjFHYM_000008_000018;A man stands and looks at his neighbor in his cubicle before he sits down, then the neighbor pounds on his keyboard and hits the monitor with it.;cubicle;office cubicle;0.898721
+objects_yoloe_promptfree;vatex;T6VthjnJhrk_000048_000058;Workers are in a food production factory making sausage links.;food production factory making sausage links;pin;0.684530
+objects_yoloe_promptfree;vatex;RuvSvyq8-9A_000008_000018;Two ladies are demonstrating putting a tube on a hair dryer.;hair dryer;hair drier;0.947004
+objects_yoloe_promptfree;vatex;k05S3GFNW3M_000004_000014;A person in black is showing how to use a large copy machine.;large copy machine;machine;1.000000
+objects_yoloe_promptfree;vatex;NOMUP4W4rWs_000007_000017;A girl is lying in bed and pulls gum out of her mouth.;pulls gum;bubble gum;0.719213
+objects_yoloe_promptfree;vatex;WBydpE42YTc_000012_000022;A child is blowing up a balloon with their mouth and then they let it go.;balloon;balloon;1.000000
+objects_yoloe_promptfree;vatex;1cWTEvQgvwg_000016_000026;A guy sits on an alligator and holds its head and mouth open.;alligator;crocodile;0.871772
+objects_yoloe_promptfree;vatex;rrtLyJs--3w_000173_000183;A person on a jetski is zooming across big waves and jumping.;jetski;speedboat;0.796444
+objects_yoloe_promptfree;vatex;XbKpNNxdbRI_000028_000038;Two couples wave as they ride camels and bells jingle.;two couples;couple;1.000000
+objects_yoloe_promptfree;vatex;OHt8JWlknFM_000040_000050;A man on a unicycle is jumping over another man and then rides away.;unicycle;monocycle;0.830725
+objects_yoloe_promptfree;vatex;_tZuT71OsRY_000026_000036;Two persons were making the spray painting on the ground by using some impressions;impressions;depression;0.768381
+objects_yoloe_promptfree;vatex;jpjRqIqSX2U_000688_000698;Two men are fighting in a boxing ring while a referee pulls them off the ropes.;boxing ring;boxing ring;1.000000
+objects_yoloe_promptfree;vatex;zqwKGGvPWZc_000016_000026;Two men practice some martial arts are demonstrating a head butt trapping set for the camera.;head butt trapping;mousetrap;0.628658
+objects_yoloe_promptfree;vatex;RR18KL8GSe4_000001_000011;A commercial describes a restaurant and shows a couple shots of food and wine;couple shots;shoot;0.776774
+objects_yoloe_promptfree;vatex;eXLygHF6El4_000006_000016;A rooster is starting to crow and then a man is cutting grass.;rooster;poultry;0.811116
+objects_yoloe_promptfree;vatex;_XH_50Lp8qQ_000013_000023;Two people are unloading a groups of cows from a trailer truck.;cows;cow;1.000000
+objects_yoloe_promptfree;vatex;AWjfCxman6A_000183_000193;A lady plays the harp with both hands in a park and another man plays the saxophones.;saxophones;saxophonist;0.864050
+objects_yoloe_promptfree;vatex;3becH_Mynns_000311_000321;A person is painting fine details on a painting depicting a Japanese woman.;painting;oil painting;0.826158
+objects_yoloe_promptfree;vatex;BwRwhZUVjvI_000127_000137;A boy and a girl are playing rock, paper, scissors together.;rock , paper , scissors;scissors;0.878869
+objects_yoloe_promptfree;vatex;NAxGdOGE2rg_000094_000104;A paintng device is used to paint several trimmings in different houses.;several trimmings;trim;0.641243
+objects_yoloe_promptfree;vatex;9gV4YReK5p8_000039_000049;A guy is sitting on a snowblower getting ready to move some snow.;snowblower;snowmobile;0.814724
+objects_yoloe_promptfree;vatex;KMhfIWXAaWk_000059_000069;A woman is having her makeup done by a different person.;makeup;lipstick;0.785694
+objects_yoloe_promptfree;vatex;dyBTNP-O7dY_000000_000010;A boy is sitting in the passenger seat of a sports car and moving the shifter around.;sports car;sports car;1.000000
+objects_yoloe_promptfree;vatex;bJYsix7xgYc_000046_000056;Various young mothers have taken their children with them to a baseball game and are sitting in the seats in the stands but one young boy here is enjoying himself eatting a hot dog.;seats;seat;1.000000
+objects_yoloe_promptfree;vatex;-2ckVgGKLNU_000002_000012;A person takes a fancy can of beer and pours it into a nice glass.;beer;beer;1.000000
+objects_yoloe_promptfree;vatex;k9z0CnBuqvE_000088_000098;A woman whom is cooking scallops on the grill and poking them.;scallops;scallop;1.000000
+objects_yoloe_promptfree;vatex;SWOiZM4j-bM_000000_000010;A person demonstrates how to use a metal press for piece work.;piece work;job;0.691134
+objects_yoloe_promptfree;vatex;g4SrHMSsZpM_000005_000015;In a gym, a man lift dumbells and then turns to his left while continuing to lift weights.;dumbells;dumbbell;0.965292
+objects_yoloe_promptfree;vatex;WP2i4Av5sVQ_000123_000133;Two girls scream at the camera, move around and talk nonsense;nonsense;sense;0.642207
+objects_yoloe_promptfree;vatex;Z-N4pSXIEl0_000000_000010;a person is showing different pieces of wood that have been carved to make music;different pieces;half;0.649122
+objects_yoloe_promptfree;vatex;y-bo1WgMs5I_000000_000010;A riding lawn mower appears to be reconstructed to perform in races.;races;race;1.000000
+objects_yoloe_promptfree;vatex;B38BzXupYP8_000002_000012;A woman is walking on a treadmill and speeds up as the belt moves faster.;treadmill;treadmill;1.000000
+objects_yoloe_promptfree;vatex;ZadO0c3OHtU_000035_000045;a group of people are riding bikes in a very busy area.;bikes;ride;0.741165
+objects_yoloe_promptfree;vatex;m8S7MD0svvs_000016_000026;A girl folds over a piece of dough and then places it into a roller to flatten it out more.;roller;roller;1.000000
+objects_yoloe_promptfree;vatex;jaI6gtE0WXA_000014_000024;Two girls are playing, one is in a wheelbarrow and the other is wheeling.;wheelbarrow;handcart;0.819374
+objects_yoloe_promptfree;vatex;B0HY3z-Uc1A_000165_000175;A female is painting polish on to one fingernail, then shows the finished fingernails on both hands.;one fingernail;manicure;0.758608
+objects_yoloe_promptfree;vatex;aCgHgusKKug_000005_000015;A man looks in a mirror and uses a special comb on his beard and mustache.;mustache;mascara;0.747720
+objects_yoloe_promptfree;vatex;Pi4JfWslquo_000060_000070;A man drives a tractor with a snowblower attached to clear parking lots.;tractor;tractor;1.000000
+objects_yoloe_promptfree;vatex;tvGgWlJTaGA_000057_000067;A group people outside are horseback riding up a mountain.;mountain;mountain;1.000000
+objects_yoloe_promptfree;vatex;POGqStjMI60_000049_000059;The hands of someone are visible demonstrating how to use a tool while an unseen narrates talks about the tool.;unseen narrates;operate;0.628183
+objects_yoloe_promptfree;vatex;F54uOdVcUBI_000063_000073;Two sticks with battery cables are held on a plank of wood, one at the corner and the other in the center on a metal ring, a burn pattern begins starting at the corner stick.;center;side;0.638196
+objects_yoloe_promptfree;vatex;2088vEQsN5E_000002_000012;A man is hooking up an electric pump to a cow's udders to milk the cow.;'s udders;cow;0.689029
+objects_yoloe_promptfree;vatex;PNilatJe7p8_000002_000012;A time lapse shows a man grilling burgers and another man mowing the lawn;burgers;hamburger;0.888973
+objects_yoloe_promptfree;vatex;vb5ufNdJsuM_000066_000076;A man is bending over a sink and rubbing his hand on his face.;sink;sink;1.000000
+objects_yoloe_promptfree;vatex;HMDdRXNGIIY_000100_000110;A man is demonstrating how to make a BBQ pizza pie.;bbq pizza pie;pie;1.000000
+objects_yoloe_promptfree;vatex;umJqRnwaC_c_000000_000010;The mother is holding her sick baby and holding an automatic steamer under her nostrils, which is helping her to cough and break up phlegm;nostrils;nose;0.765123
+objects_yoloe_promptfree;vatex;Ya5z_JLEEIA_000051_000061;A child is using scissors to open a package containing a shocking pen,;scissors;scissors;1.000000
+objects_yoloe_promptfree;vatex;umJqRnwaC_c_000000_000010;The mother is holding her sick baby and holding an automatic steamer under her nostrils, which is helping her to cough and break up phlegm;automatic steamer;rice cooker;0.729404
+objects_yoloe_promptfree;vatex;QazCIdhmtFw_000000_000010;A man runs along a track and then does a hop, skip and a jump into a sand pit.;sand pit;sand box;0.849239
+objects_yoloe_promptfree;vatex;yI5TycWvksE_000115_000125;a person a filing underwater weeds and rocks  with a camera;rocks;granite;0.748060
+objects_yoloe_promptfree;vatex;XMQAYSc2Ly8_000379_000389;A man demonstrates using a tool to carve out small notches in a block of wood.;small notches;bolt;0.558285
+objects_yoloe_promptfree;vatex;9EioUfhATcw_000004_000014;A dog on a leash catches a frisbee and returns it to the thrower.;frisbee;frisbee;1.000000
+objects_yoloe_promptfree;vatex;V7tJYgrlLo4_000515_000525;A man sits in a small row boat on the ice and ice fishes through a hole.;ice and ice fishes;fish;1.000000
+objects_yoloe_promptfree;vatex;9Fhh0flhpgo_000017_000027;Several kids are working together to decorate a Christmas tree.;christmas tree;tree;1.000000
+objects_yoloe_promptfree;vatex;MyElD7nDC1Y_000011_000021;A person is jumping from a statue and using a parachute to land on the ground.;land;land;1.000000
+objects_yoloe_promptfree;vatex;LQa0E8VlU3Q_000016_000026;A man is pouring water into ahile for a sapling while two small children watch.;ahile;rifle;0.546250
+objects_yoloe_promptfree;vatex;LEZgvXUaHi0_000053_000063;A woman points to a tree and tells about things she makes from sap and then the camera turns to her face and she smiles.;sap;apple;0.732988
+objects_yoloe_promptfree;vatex;FaM9bZRznFM_000016_000026;Two females are grooming dogs, and one of the dogs is making a not of noise.;dogs;dog;1.000000
+objects_yoloe_promptfree;vatex;tBRGBVi7thQ_000023_000033;Men are in a swimming race in a swimming pool as an audience watches.;swimming race;race;1.000000
+objects_yoloe_promptfree;vatex;JOJPfFRuRuY_000261_000271;A man in a workshop is busy demonstrating how to do flint knapping.;flint knapping;stone carving;0.506164
+objects_yoloe_promptfree;vatex;TXsSJQeNfO0_000006_000016;A group of people are playing in the field by catching and trowing a softball.;softball;softball;1.000000
+objects_yoloe_promptfree;vatex;B0HY3z-Uc1A_000165_000175;A female is painting polish on to one fingernail, then shows the finished fingernails on both hands.;polish;lipstick;0.694466
+objects_yoloe_promptfree;vatex;i4rAJKxTvXc_000005_000015;a person in a room with others playing a drinking game together;drinking game;game;1.000000
+objects_yoloe_promptfree;vatex;d7328HOK7mY_000269_000279;A group of people wearing cowboy hats and country attire perform a line dance on stage to the tune of the country song Achy Breaky Heart.;country attire;management;0.644836
+objects_yoloe_promptfree;vatex;2WVnduXXFwo_000003_000013;Fishing rod in an ice-fishing hole curves and moves near round tool and pair of hands.;fishing rod;fishing pole;0.962937
+objects_yoloe_promptfree;vatex;v3huVwrvWE4_000003_000013;A young girl is driving electric bike scooter on the street.;electric bike scooter;scooter;1.000000
+objects_yoloe_promptfree;vatex;PZJtZ2cQfoY_000007_000017;A boy is doing tricks on his skateboard in the middle of a neighborhood street.;skateboard;skateboard;1.000000
+objects_yoloe_promptfree;vatex;gicTnDJ5y7g_000006_000016;A young boy is singing while riding on a hover board.;hover board;board;1.000000
+objects_yoloe_promptfree;vatex;ubihjlgB_Yg_000028_000038;The lady opens the drawer to get a knife and starts to make a sandwich.;sandwich;sandwich;1.000000
+objects_yoloe_promptfree;vatex;AKZ0XB7RzaY_000009_000019;A person rotates two marshmallows on a fire pit and then places it on a graham cracker.;graham cracker;firecracker;0.761982
+objects_yoloe_promptfree;vatex;59AP7yEvUrA_000092_000102;A man watches a computer screen while he plays a keyboard that's hooked up to the computer before he adjusts something with the mouse.;mouse;mouse;1.000000
+objects_yoloe_promptfree;vatex;s_gGtYIrtsc_000118_000128;A dance re-enactment is performed using figurines and some music.;-;book;0.556575
+objects_yoloe_promptfree;vatex;r0v3I6yO5h4_000033_000043;A male is in the water near show and is kiteboarding with a parashute attached to his him while he is surfing.;parashute;paradise;0.503169
+objects_yoloe_promptfree;vatex;KolLLZuMgUE_000003_000013;Boys hanging outside in a park, one boy riding his bike across picnic tables while his friend films it.;bike;ride;0.741166
+objects_yoloe_promptfree;vatex;9cFlNjI7nNg_000014_000024;A band plays musical instruments while two men do dance steps with their feet.;steps;stairs;0.823020
+objects_yoloe_promptfree;vatex;Jm1r-lF68dQ_000028_000038;The opening of a Halo game is featured in this short vignette.;short vignette;still life;0.603840
+objects_yoloe_promptfree;vatex;MhIBVCse204_000095_000105;a man using a knife is cutting a pumpkin in a vineyard while giving exolanation;exolanation;plantation;0.629867
+objects_yoloe_promptfree;vatex;3KXf6mKouLc_000119_000129;A cook adds ingredients to a mixing bowl and cracks in an egg.;mixing bowl;mixing bowl;1.000000
+objects_yoloe_promptfree;vatex;cUe4K6nW3Rg_000040_000050;A panel of people sit as one of them speaks into the microphone.;panel;panel;1.000000
+objects_yoloe_promptfree;vatex;vz99COsaL5w_000005_000015;A little boy takes piece of wood and beats another piecce of wood on the ground.;piecce;spice;0.555825
+objects_yoloe_promptfree;vatex;F54uOdVcUBI_000063_000073;Two sticks with battery cables are held on a plank of wood, one at the corner and the other in the center on a metal ring, a burn pattern begins starting at the corner stick.;battery cables;cable;1.000000
+objects_yoloe_promptfree;vatex;QAwvWfn9WVc_000000_000010;"An infant stares while the person holding it says """"hell-oooo.""";""" "" hell - oooo";well;0.598734
+objects_yoloe_promptfree;vatex;umJqRnwaC_c_000000_000010;The mother is holding her sick baby and holding an automatic steamer under her nostrils, which is helping her to cough and break up phlegm;phlegm;pilgrim;0.404450
+objects_yoloe_promptfree;vatex;CaXa9TDy4S8_000044_000054;A man in indigenous attire is crouched on the floor and playing a didgeridoo.;didgeridoo;bagpipe;0.605954
+objects_yoloe_promptfree;vatex;BY0dp27BpjU_000140_000150;A man wearing glasses holds onto the arms of another pair of eye glasses.;eye glasses;glasses;0.885914
+objects_yoloe_promptfree;vatex;7sBgLd1izz8_000023_000033;In a kitchen someone has a sharpener and is sharpening a knife.;kitchen;kitchen;1.000000

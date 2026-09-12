@@ -1,0 +1,107 @@
+1
+00:00:00,214 --> 00:00:02,484
+(Howard:)I'm thinking about
+getting my doctorate,
+
+2
+00:00:02,483 --> 00:00:04,183
+(Howard:)and he wants to teach-- why not?
+
+3
+00:00:04,185 --> 00:00:05,855
+(Sheldon:)Oh, Howard.
+
+4
+00:00:05,853 --> 00:00:08,023
+(Sheldon:)I appreciate
+the gesture,
+
+5
+00:00:08,022 --> 00:00:10,492
+(Sheldon:)but this is
+a graduate-level physics class.
+
+6
+00:00:11,859 --> 00:00:13,729
+(Sheldon:)I don't think you'd understand
+
+7
+00:00:13,728 --> 00:00:16,558
+(Sheldon:)a single thing
+I was talking about.
+
+8
+00:00:17,665 --> 00:00:20,535
+Ask why not again;
+I've got an answer.
+
+9
+00:00:20,535 --> 00:00:24,135
+(Howard:)Sheldon, I'm more than smart
+enough to take your class.
+
+10
+00:00:26,441 --> 00:00:28,271
+(chuckles):
+No.
+
+11
+00:00:29,911 --> 00:00:30,981
+(Howard:)Yes.
+
+12
+00:00:32,613 --> 00:00:34,743
+(Sheldon:)How would you determine
+the ground state
+
+13
+00:00:34,749 --> 00:00:37,879
+(Sheldon:)of a quantum system
+with no exact solution?
+
+14
+00:00:37,885 --> 00:00:40,355
+(Howard:)I would guess a wave-function
+and then vary its parameters
+
+15
+00:00:40,354 --> 00:00:42,124
+(Howard:)until I found
+the lowest energy solution.
+
+16
+00:00:42,123 --> 00:00:44,153
+(Sheldon:)Hmm.
+
+17
+00:00:45,326 --> 00:00:47,926
+(Sheldon:)Do you know how to integrate
+X squared times E
+
+18
+00:00:47,929 --> 00:00:49,959
+(Sheldon:)to the minus X,
+without looking it up?
+
+19
+00:00:51,299 --> 00:00:52,429
+(Howard:)I'd use Feynman's trick--
+
+20
+00:00:52,433 --> 00:00:53,833
+(Howard:)differentiate
+under the integral sign.
+
+21
+00:00:53,835 --> 00:00:56,035
+(Penny:)Okay.
+
+22
+00:00:57,004 --> 00:00:58,604
+(Leonard:)Um...
+
+23
+00:00:58,606 --> 00:01:00,906
+(Sheldon:)What is the correct
+interpretation
+

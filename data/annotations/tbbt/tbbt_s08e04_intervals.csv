@@ -1,0 +1,47 @@
+﻿id;type;start;end;desc;tags
+tbbt_s08e04_m001;mask;2.03;3.36;;przejscie
+tbbt_s08e04_d86687;event;22.06;26.20;Sheldon, in a red shirt, laughs hard and swings back and forth on the chair at the canteen while sitting with Howard and Leonard.;
+tbbt_s08e04_m002;mask;79.10;104.09;;
+tbbt_s08e04_d84451;event;125.31;130.35;Raj enters the apartment, where everyone sits and eats, with a redheaded woman.;
+tbbt_s08e04_d84452;event;143.50;145.00;Raj takes the purse from a redheaded woman in a dark blue blazer.;
+tbbt_s08e04_d58103;event;183.55;186.85;Sheldon, in a grey shirt, hands Amy, in a purple sweater next to him, food wrapped in foil.;
+tbbt_s08e04_m004;mask;186.85;188.18;;przejscie
+tbbt_s08e04_d58102;event;198.71;204.05;Amy laughs and drinks a sip of tea out of a blue cup, while sitting next to Penny, who holds a green cup.;
+tbbt_s08e04_d58105;event;238.54;241.53;Penny slides her hand from cheek to neck while holding a green cup on the couch, next to Amy.;
+tbbt_s08e04_m005;mask;241.55;242.88;;przejscie
+tbbt_s08e04_d56244;event;286.37;288.08;Sheldon, in a blue superman shirt, slams a comic book down on the table.;
+tbbt_s08e04_m006;mask;359.08;360.41;;przejscie
+tbbt_s08e04_d58115;event;360.66;365.53;Penny, in suit and pink shirt, walks into Emily's office carrying a briefcase and coffees.;
+tbbt_s08e04_d58118;event;363.73;369.43;Penny puts her briefcase and the coffees on the examination table in Emily's office.;
+tbbt_s08e04_d58119;event;379.67;381.94;Emily sits down on the chair holding a clipboard, next to the examination table with Penny's briefcase.;
+tbbt_s08e04_d58120;event;396.77;402.72;Emily looks at the time on her watch while sitting on the chair in front of Penny, who is holding a pink package from the briefcase.;
+tbbt_s08e04_d58123;event;420.82;424.24;Penny, in a suit and pink shirt, waves her hand down with resignation and closes the briefcase.;
+tbbt_s08e04_d58121;event;388.69;396.80;Penny opens the briefcase and hands Emily a flyer.;
+tbbt_s08e04_d58122;event;431.47;435.44;Emily puts down a clipboard and pen on the examination table and stands up.;
+tbbt_s08e04_m007;mask;464.84;466.18;;przejscie
+tbbt_s08e04_d94233;event;538.83;542.05;Leonard puts his head down and rubs his forehead while sitting at the desk, as Raj and Penny talk beside him.;
+tbbt_s08e04_d94232;event;570.64;573.06;Sheldon stands at the kitchen counter with one hand resting on the lid of a water bottle, then laughs, turning his head to the side.;
+tbbt_s08e04_m008;mask;576.35;577.70;;przejscie
+tbbt_s08e04_d58056;event;608.82;611.38;Penny switches which hand she's using to hold the wine glass while standing at the kitchen table with Amy, in a white and red striped sweater.;
+tbbt_s08e04_d58057;event;637.49;642.25;Amy puts a finger on Penny's lips and then starts stroking Penny's cheek while she has a disgusted look on her face.;
+tbbt_s08e04_m009;mask;642.25;643.57;;przejscie
+tbbt_s08e04_m010;mask;743.81;745.15;;przejscie
+tbbt_s08e04_d16412;event;756.28;764.34;Leonard and Penny, eating ice cream, walk up the stairs, passing a bike.;
+tbbt_s08e04_m011;mask;774.16;775.50;;przejscie
+tbbt_s08e04_d16404;event;840.17;852.27;Bernadette, in a blue floral dress, reaches out and holds Howard's hand to comfort him while they are eating dinner.;
+tbbt_s08e04_m012;mask;852.69;854.06;;przejscie
+tbbt_s08e04_d16402;event;854.08;859.51;Amy is pouring something from the orange kettle into a yellow cup, while talking to Sheldon, who sits at the kitchen counter.;
+tbbt_s08e04_d16396;event;872.15;881.03;Amy stands at the kitchen counter holding a plate with cookies, staring at Sheldon, before she puts it down.;
+tbbt_s08e04_m013;mask;930.43;931.80;;przejscie
+tbbt_s08e04_d16398;event;932.15;936.83;Penny opens the front door to her apartment, where Raj and Emily are standing outside.;
+tbbt_s08e04_d16399;event;959.14;960.42;Penny puts her hand on Raj's shoulder as he stands between her and Emily.;
+tbbt_s08e04_m014;mask;998.88;1000.25;;przejscie
+tbbt_s08e04_d4060;event;1000.26;1002.96;A wide shot of Stuart, Howard and Bernadette sitting down together in a cozy, antique-filled living room.;
+tbbt_s08e04_d4061;event;1018.44;1020.25;Bernadette, in a blue blazer, briefly puts a hand on Howard's arm while they sit on the light floral couch.;
+tbbt_s08e04_d4062;event;1043.77;1051.59;Howard gets up from the couch in a rush and walks up the indoor stairs.;
+tbbt_s08e04_m015;mask;1059.87;1061.19;;przejscie
+tbbt_s08e04_d16422;event;1062.29;1074.22;Raj hugs Penny, then Emily does the same and they leaves the apartment.;
+tbbt_s08e04_d16420;event;1074.60;1079.54;A shot of Penny and Emily separated by the door before they walk apart.;
+tbbt_s08e04_m016;mask;1081.38;1082.71;;przejscie
+tbbt_s08e04_d16421;event;1099.16;1103.57;A wide shot of Howard, Raj, Sheldon, and Leonard sitting in the living room, all reading comics.;
+tbbt_s08e04_m017;mask;1103.57;1134.01;;

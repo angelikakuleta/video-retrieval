@@ -1,0 +1,133 @@
+1
+00:00:02,736 --> 00:00:04,436
+(Penny:)So, tell me about your day--
+how's it going
+
+2
+00:00:04,438 --> 00:00:05,768
+(Penny:)with the particle detector?
+
+3
+00:00:05,773 --> 00:00:07,703
+Wow! You remember that?
+
+4
+00:00:07,708 --> 00:00:09,308
+(Penny:)Yeah, I listen
+to what you say.
+
+5
+00:00:09,310 --> 00:00:10,680
+(Penny:)You're building
+a particle detector
+
+6
+00:00:10,678 --> 00:00:12,848
+(Penny:)using superfluid helium.
+
+7
+00:00:12,847 --> 00:00:14,847
+(Leonard:)You know, when you
+talk like that,
+
+8
+00:00:14,849 --> 00:00:17,149
+(Leonard:)I want to take you
+right here on this table.
+
+9
+00:00:17,151 --> 00:00:19,151
+(Penny:)And you know
+from past experience
+
+10
+00:00:19,153 --> 00:00:20,853
+(Penny:)this table cannot support
+both our weight.
+
+11
+00:00:22,690 --> 00:00:24,660
+(Penny:)So, how's
+the detector going?
+
+12
+00:00:24,658 --> 00:00:26,788
+(Leonard:)Well, it's tricky working
+with superfluids.
+
+13
+00:00:26,794 --> 00:00:28,064
+(Leonard:)Whatever container
+you put them in,
+
+14
+00:00:28,062 --> 00:00:29,632
+(Leonard:)they kind of
+creep up the sides
+
+15
+00:00:29,630 --> 00:00:30,900
+(Leonard:)and crawl out
+all on their own.
+
+16
+00:00:30,898 --> 00:00:33,528
+(Penny:)Kind of like
+Sheldon's ant farm.
+
+17
+00:00:33,534 --> 00:00:36,134
+(Leonard:)Exactly, except you don't have
+a lunatic running around,
+
+18
+00:00:36,137 --> 00:00:39,367
+yelling, "I fed you sugar water,
+why are you biting me?!"
+
+19
+00:00:41,175 --> 00:00:43,075
+(Leonard:)Come on, this is boring-- you
+really want to talk about this?
+
+20
+00:00:43,077 --> 00:00:44,077
+(Penny:)No, I do.
+
+21
+00:00:44,078 --> 00:00:45,508
+I-I didn't write
+"superfluid helium"
+
+22
+00:00:45,513 --> 00:00:47,113
+(Penny:)on this napkin for nothing.
+
+23
+00:00:48,082 --> 00:00:49,482
+(Leonard:)Okay, well...
+
+24
+00:00:49,483 --> 00:00:50,913
+(Leonard:)This is cool.
+
+25
+00:00:50,918 --> 00:00:53,088
+(Leonard:)Uh, there's a thing called
+"superfluid vacuum theory,"
+
+26
+00:00:53,087 --> 00:00:55,187
+(Leonard:)where empty space is
+imagined as a superfluid
+
+27
+00:00:55,189 --> 00:00:56,889
+(Leonard:)with all of
+its qualities--
+
+28
+00:00:56,891 --> 00:01:01,021
+(Leonard:)viscosity, density,
+surface tension...
+

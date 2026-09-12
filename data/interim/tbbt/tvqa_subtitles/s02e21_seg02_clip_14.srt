@@ -1,0 +1,55 @@
+1
+00:00:00,950 --> 00:00:04,200
+(Howard:)Hi, there. Howard Wolowitz.
+
+2
+00:00:04,370 --> 00:00:06,370
+Ester Rosenblatt.
+
+3
+00:00:12,628 --> 00:00:16,468
+(Penny:)I don't think the manager's coming tonight,
+so here.
+
+4
+00:00:16,632 --> 00:00:19,632
+Are you suggesting I sleep on the couch?
+
+5
+00:00:19,802 --> 00:00:22,432
+(Penny:)Well, it wasn't the first suggestion
+that came to mind...
+
+6
+00:00:22,596 --> 00:00:24,436
+(Penny:)...but it's the one I'm going with.
+
+7
+00:00:25,099 --> 00:00:27,939
+(Sheldon:)I can't sleep on your couch.
+I sleep in a bed.
+
+8
+00:00:28,102 --> 00:00:30,772
+Given its dimensions,
+I have no intention of living out...
+
+9
+00:00:30,938 --> 00:00:34,648
+(Sheldon:)...E.M. Snickering's beloved children's book,
+The Tall Man From Cornwall.
+
+10
+00:00:36,027 --> 00:00:37,607
+(Raj:)What?
+
+11
+00:00:37,987 --> 00:00:41,617
+(Sheldon:)There was a tall man from Cornwall
+Whose length exceeded his bed
+
+12
+00:00:41,782 --> 00:00:52,022
+(Sheldon:)My body fits on it, but barely upon it
+There's no room for my big Cornish head
+

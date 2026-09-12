@@ -1,0 +1,82 @@
+1
+00:00:00,888 --> 00:00:05,138
+(Leonard(Penny sneezes):)-Getting a cold?
+-No, no, it's probably just allergies.
+
+2
+00:00:06,518 --> 00:00:08,688
+(Leonard:)You want an allergy pill?
+I have them all.
+
+3
+00:00:08,854 --> 00:00:12,484
+(Leonard:)Prescription, nonprescription, foreign,
+domestic, experimental.
+
+4
+00:00:12,858 --> 00:00:14,238
+(Penny:)Do any of them work?
+
+5
+00:00:14,401 --> 00:00:17,531
+(Leonard:)Not really, I'm just an enthusiast.
+
+6
+00:00:18,614 --> 00:00:20,324
+[BLOWS NOSE]
+
+7
+00:00:22,701 --> 00:00:25,621
+[PENNY RETCHES]
+
+8
+00:00:27,915 --> 00:00:28,955
+(Raj:)Penny?
+
+9
+00:00:29,124 --> 00:00:30,874
+[TOILET FLUSHES]
+
+10
+00:00:31,043 --> 00:00:32,333
+(Leonard:)You okay?
+
+11
+00:00:32,503 --> 00:00:35,423
+PENNY:
+Did that sound okay to you?
+
+12
+00:00:36,340 --> 00:00:38,840
+(Penny:)Do not come in here.
+
+13
+00:00:39,301 --> 00:00:40,511
+(Leonard:)What's going on?
+
+14
+00:00:40,677 --> 00:00:43,597
+PENNY: I'm having a tea party.
+What do you think is going on?
+
+15
+00:00:43,764 --> 00:00:45,894
+[PENNY HAWKS AND SPITS]
+
+16
+00:00:46,809 --> 00:00:49,059
+(Penny:)I think I might have the flu.
+
+17
+00:00:49,228 --> 00:00:51,438
+[PENNY VOMITS]
+
+18
+00:00:51,605 --> 00:00:53,235
+(Penny:)Or the plague.
+
+19
+00:00:55,692 --> 00:00:59,532
+(Leonard:)Well, our plane leaves at 9 a.m.
+Do you think you'll feel better by then?
+

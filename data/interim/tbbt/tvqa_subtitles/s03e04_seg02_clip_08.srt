@@ -1,0 +1,77 @@
+1
+00:00:00,759 --> 00:00:03,179
+(Raj:)-Shall I wait?
+-Yes, please.
+
+2
+00:00:16,066 --> 00:00:18,316
+(Sheldon:)How may I help you?
+
+3
+00:00:19,110 --> 00:00:21,740
+(Raj:)I've reconsidered your offer
+to let me work with you.
+
+4
+00:00:22,113 --> 00:00:23,573
+(Sheldon:)For me.
+
+5
+00:00:24,449 --> 00:00:25,829
+(Raj:)Yes, for you.
+
+6
+00:00:26,201 --> 00:00:28,121
+(Raj:)I do, however, have a few conditions.
+
+7
+00:00:28,411 --> 00:00:31,831
+(Raj:)First, at all times, I am to be treated
+as a colleague and an equal.
+
+8
+00:00:31,998 --> 00:00:34,998
+(Raj:)Second, my contributions shall be noted
+in published materials.
+
+9
+00:00:35,210 --> 00:00:40,590
+(Raj:)Third, you are never allowed to lecture me
+on Hinduism or my Indian culture.
+
+10
+00:00:41,007 --> 00:00:42,587
+(Sheldon:)I'm impressed, Raj.
+
+11
+00:00:42,759 --> 00:00:45,009
+(Sheldon:)Those are very cogent
+and reasonable conditions.
+
+12
+00:00:45,178 --> 00:00:47,598
+(Raj:)-Thank you.
+-I reject them all.
+
+13
+00:00:48,515 --> 00:00:50,265
+(Raj:)Then you leave me no choice.
+
+14
+00:00:50,433 --> 00:00:52,183
+(Raj:)I accept the job.
+
+15
+00:00:53,353 --> 00:00:56,023
+(Sheldon:)I'm sorry.
+I believe you've misunderstood.
+
+16
+00:00:56,231 --> 00:00:57,771
+(Sheldon:)I'm not giving you the job.
+
+17
+00:00:57,941 --> 00:01:03,021
+(Sheldon:)I'm simply affording you the opportunity
+to apply for it.
+

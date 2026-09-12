@@ -1,0 +1,94 @@
+1
+00:00:00,999 --> 00:00:02,419
+(Girl:)Curious George is a monkey.
+
+2
+00:00:02,959 --> 00:00:06,629
+(Sheldon:)Somewhat anthropomorphized, but yes.
+
+3
+00:00:07,255 --> 00:00:09,095
+(Sheldon:)Say...
+
+4
+00:00:09,257 --> 00:00:11,927
+(Sheldon:)...maybe sometime you and I
+could go see monkeys together.
+
+5
+00:00:12,094 --> 00:00:14,094
+(Sheldon:)- Would you like that?
+- Okay.
+
+6
+00:00:14,680 --> 00:00:16,260
+(Leonard:)Sheldon, what are you doing?
+
+7
+00:00:16,932 --> 00:00:19,102
+(Sheldon:)I'm making friends with this little girl.
+
+8
+00:00:19,267 --> 00:00:20,937
+(Sheldon:)- What's your name?
+- Rebecca.
+
+9
+00:00:21,103 --> 00:00:23,433
+(Sheldon:)Hi, Rebecca.
+I'm your new friend, Sheldon.
+
+10
+00:00:23,605 --> 00:00:25,145
+- No, you're not. Let's go.
+- I...
+
+11
+00:00:25,982 --> 00:00:27,402
+(Sheldon:)We were really hitting it off.
+
+12
+00:00:27,567 --> 00:00:29,607
+(Leonard:)Don't look up, there's cameras.
+
+13
+00:00:34,449 --> 00:00:37,329
+I'm curious, in the "How Well Do
+You Know Sheldon?" section...
+
+14
+00:00:37,494 --> 00:00:40,084
+...what did you put
+for his favorite amino acid?
+
+15
+00:00:41,373 --> 00:00:42,503
+(Leonard and Howard:)Lysine.
+
+16
+00:00:42,666 --> 00:00:44,496
+(Raj:)Damn it, I had lysine and changed it.
+
+17
+00:00:45,293 --> 00:00:47,213
+Oh, good. You're just in time.
+
+18
+00:00:47,379 --> 00:00:51,549
+(Sheldon:)I believe I've isolated the algorithm
+for making friends.
+
+19
+00:00:51,717 --> 00:00:54,637
+(Leonard:)Sheldon, there is no algorithm
+for making friends.
+
+20
+00:00:54,803 --> 00:00:58,303
+Hear him out. If he's onto something,
+we could open a booth at Comic-Con...
+
+21
+00:00:58,473 --> 00:01:00,143
+(Howard:)...make a fortune.
+

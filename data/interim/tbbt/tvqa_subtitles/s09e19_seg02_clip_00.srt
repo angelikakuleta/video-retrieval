@@ -1,0 +1,139 @@
+1
+00:00:01,436 --> 00:00:03,436
+== sync, corrected by elderman ==
+@elder_man
+
+2
+00:00:05,566 --> 00:00:06,966
+(Leonard:)This is cool.
+
+3
+00:00:06,967 --> 00:00:09,037
+(Leonard:)When was the last time you
+and I built something together?
+
+4
+00:00:09,036 --> 00:00:11,736
+(Howard:)Scientifically?
+A little over a year ago.
+
+5
+00:00:11,738 --> 00:00:14,038
+(Howard:)LEGOs? Last week in my room.
+
+6
+00:00:14,041 --> 00:00:16,571
+(Leonard:)If there was a Nobel prize
+for Millennium Falcons
+
+7
+00:00:16,577 --> 00:00:19,547
+(Leonard:)that fall apart when
+you pick them up, we'd be set.
+
+8
+00:00:19,546 --> 00:00:20,826
+Hey, guys!
+
+9
+00:00:20,825 --> 00:00:21,345
+BOTH: Hey.
+
+10
+00:00:21,481 --> 00:00:22,581
+(Leonard:)What are you doing here?
+
+11
+00:00:22,583 --> 00:00:24,213
+(Bernadette:)We heard there were
+some sexy scientists
+
+12
+00:00:24,218 --> 00:00:26,118
+(Bernadette:)working hard all weekend.
+Yeah,
+
+13
+00:00:26,119 --> 00:00:29,589
+(Penny:)so we brought you some lunch and
+we are gonna go look for 'em.
+
+14
+00:00:29,590 --> 00:00:31,620
+(Leonard:)Soup, sandwiches
+and emasculation,
+
+15
+00:00:31,625 --> 00:00:33,855
+(Leonard:)just like my mom
+used to make.
+
+16
+00:00:33,861 --> 00:00:35,091
+(Penny:)So, how's it goin'?
+
+17
+00:00:35,095 --> 00:00:36,595
+(Leonard:)Good. Slow.
+
+18
+00:00:36,597 --> 00:00:38,327
+(Howard:)There's a lot of tedious setup,
+but once we get through that
+
+19
+00:00:38,332 --> 00:00:39,332
+(Howard:)it should go quicker.
+
+20
+00:00:39,333 --> 00:00:41,063
+(Penny:)Is there anything
+we can do to help?
+
+21
+00:00:41,068 --> 00:00:43,198
+(Leonard:)You know what,
+this part isn't that technical.
+
+22
+00:00:43,203 --> 00:00:44,303
+(Leonard:)You actually could.
+
+23
+00:00:44,304 --> 00:00:47,604
+(Penny:)Wow, really? Called my bluff.
+All righty then.
+
+24
+00:00:47,608 --> 00:00:49,608
+(Bernadette:)Can we really help?
+
+25
+00:00:49,610 --> 00:00:51,110
+(Howard:)While we finish soldering
+these boards, it'd be great
+
+26
+00:00:51,111 --> 00:00:53,641
+(Howard:)if you guys could wrap these
+pipe fittings with Teflon tape.
+
+27
+00:00:53,647 --> 00:00:54,647
+(Leonard:)I'll show you
+how to do one.
+
+28
+00:00:54,648 --> 00:00:56,278
+Hey, w-wouldn't it be funny
+
+29
+00:00:56,283 --> 00:00:57,853
+(Penny:)if after all your years
+of hard work,
+
+30
+00:00:57,851 --> 00:01:04,021
+(Penny:)I'm the one who makes
+a scientific breakthrough?
+

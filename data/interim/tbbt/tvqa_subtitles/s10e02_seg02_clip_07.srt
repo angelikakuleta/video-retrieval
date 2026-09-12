@@ -1,0 +1,113 @@
+1
+00:00:00,085 --> 00:00:01,515
+(Sheldon:)upon meeting this colonel?
+
+2
+00:00:01,519 --> 00:00:02,689
+(Penny:)Yes.
+
+3
+00:00:02,687 --> 00:00:04,187
+(Sheldon:)Am I allowed to inform him
+
+4
+00:00:04,189 --> 00:00:08,059
+(Sheldon:)that Colonel Sanders was never
+actually in the military?
+
+5
+00:00:08,059 --> 00:00:09,729
+(Leonard:)I'm getting enraged.
+
+6
+00:00:09,727 --> 00:00:11,627
+(Raj:)Fine.
+
+7
+00:00:11,629 --> 00:00:12,799
+(Sheldon:)Ooh.
+
+8
+00:00:12,797 --> 00:00:14,767
+(Sheldon:)Can I use text-to-speech
+software?
+
+9
+00:00:14,766 --> 00:00:15,406
+No!
+
+10
+00:00:15,427 --> 00:00:16,297
+(Leonard:)Don't speak.
+
+11
+00:00:16,301 --> 00:00:19,001
+(Sheldon's phone:)Aw, nuts.
+
+12
+00:00:19,003 --> 00:00:20,473
+Gentlemen!
+
+13
+00:00:20,472 --> 00:00:22,142
+(Colonel Williams:)I'm Colonel
+Williams.
+
+14
+00:00:22,140 --> 00:00:23,610
+(Colonel Williams:)Thank you for meeting with me.
+
+15
+00:00:23,608 --> 00:00:25,678
+(Leonard:)- Hi.
+- Hello.
+
+16
+00:00:27,512 --> 00:00:30,982
+(Colonel Williams:)So, which one of you is
+the brains behind all this?
+
+17
+00:00:30,982 --> 00:00:32,812
+(Howard:)It's a group effort,
+
+18
+00:00:32,817 --> 00:00:37,057
+(Howard:)but I guess if we had to pick
+a main brain, it would be me.
+
+19
+00:00:49,305 --> 00:00:50,905
+(Colonel Williams:)And because
+of the quantum vortices,
+
+20
+00:00:50,906 --> 00:00:52,176
+(Colonel Williams:)this can run perpetually?
+
+21
+00:00:52,174 --> 00:00:53,404
+(Leonard:)Exactly.
+
+22
+00:00:53,409 --> 00:00:55,279
+(Leonard:)Yeah, you have a good
+grasp of the physics.
+
+23
+00:00:55,277 --> 00:00:57,367
+(Colonel Williams:)Well, I'm a scientist
+by training.
+
+24
+00:00:57,395 --> 00:00:58,245
+(Leonard:)Really?
+
+25
+00:00:58,247 --> 00:00:59,207
+(Howard:)You're a physicist?
+
+26
+00:00:59,226 --> 00:01:06,026
+(Colonel Williams:)Better. I'm an engineer.
+

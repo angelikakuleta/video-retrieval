@@ -1,0 +1,90 @@
+1
+00:00:07,298 --> 00:00:09,008
+- Howard wolowitz.
+- Hey.
+
+2
+00:00:09,217 --> 00:00:12,637
+(Voice:)Dave Roeger, here, at NASA. We need
+to talk about your upcoming mission.
+
+3
+00:00:12,846 --> 00:00:16,686
+(Howard:)Yes, yes, I've been doing
+my push-ups.
+
+4
+00:00:17,475 --> 00:00:20,855
+(Howard:)I'm still stuck at nine, but...
+
+5
+00:00:22,313 --> 00:00:25,813
+(Howard:)That's going all the way down
+with no one holding me, heh.
+
+6
+00:00:26,234 --> 00:00:28,864
+(Roeger:)That's great, uh, but that's not why I called.
+
+7
+00:00:29,070 --> 00:00:30,530
+(Roeger:)We've run into a bit of a snafu.
+
+8
+00:00:30,739 --> 00:00:33,199
+(Roeger:)Your Soyuz capsule failed
+the pressurization test...
+
+9
+00:00:33,408 --> 00:00:36,908
+(Roeger:)...so bottom line,
+the mission's been scrubbed.
+
+10
+00:00:38,413 --> 00:00:41,413
+(Howard(Picks up receiver):)You're kidding.
+So, what does that mean?
+
+11
+00:00:42,417 --> 00:00:44,047
+(Howard(Picks up receiver):)Uh-huh.
+
+12
+00:00:44,711 --> 00:00:46,671
+Uh-huh, heh.
+
+13
+00:00:46,880 --> 00:00:49,840
+Boy, I gotta tell you,
+I'm really disappointed.
+
+14
+00:00:50,050 --> 00:00:54,180
+(Howard(Picks up receiver):)This was my dream
+ever since I was a little kid.
+
+15
+00:00:54,846 --> 00:00:57,886
+Okay, uh... Thanks for the call.
+
+16
+00:00:58,099 --> 00:01:00,809
+Yeah, you too.
+
+17
+00:01:01,019 --> 00:01:03,269
+(Howard(Picks up receiver):)Yes! Thank you!
+
+18
+00:01:06,274 --> 00:01:09,364
+Oh, I'm not gonna die in space!
+
+19
+00:01:10,612 --> 00:01:12,742
+Phew, I'm gonna die the way God intended.
+
+20
+00:01:12,947 --> 00:01:18,037
+(Howard(Picks up receiver):)In my late 50s
+with a heart full of pastrami.
+

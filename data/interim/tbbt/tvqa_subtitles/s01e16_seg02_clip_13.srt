@@ -1,0 +1,90 @@
+1
+00:00:00,851 --> 00:00:03,561
+...but I can special-order it for you.
+
+2
+00:00:03,729 --> 00:00:05,309
+(Scene:)Him.
+
+3
+00:00:05,481 --> 00:00:08,151
+(Assistant:)Excuse me, sir, you don't work here.
+
+4
+00:00:09,068 --> 00:00:11,448
+(Sheldon:)Yes, well, apparently,
+neither does anyone else.
+
+5
+00:00:12,738 --> 00:00:14,988
+- Sheldon, we have to go.
+- Why?
+
+6
+00:00:15,157 --> 00:00:17,117
+(Penny:)We're late for Leonard's birthday party...
+
+7
+00:00:17,284 --> 00:00:19,824
+(Penny:)...and for another,
+I told him to call security.
+
+8
+00:00:21,080 --> 00:00:23,040
+(Sheldon(to customer):)Good luck.
+
+9
+00:00:24,750 --> 00:00:27,090
+By the way, a 6-year-old
+could hack your computer.
+
+10
+00:00:27,253 --> 00:00:28,293
+(Penny:)Keep walking.
+
+11
+00:00:28,462 --> 00:00:31,462
+(Sheldon:)Yeah, 1234 is not a secure password.
+
+12
+00:00:33,801 --> 00:00:36,391
+(Howard:)My friend
+is having allergic reaction to peanuts.
+
+13
+00:00:36,554 --> 00:00:38,934
+- No, he's not.
+- Yes, he is.
+
+14
+00:00:39,098 --> 00:00:41,438
+(Nurse:)Look, sir, we are very busy here
+and I just don't...
+
+15
+00:00:41,600 --> 00:00:43,520
+(Nurse:)Holy crap.
+
+16
+00:00:44,770 --> 00:00:46,980
+Please help me.
+
+17
+00:00:47,440 --> 00:00:49,020
+Code four. I need a gurney.
+
+18
+00:00:50,234 --> 00:00:53,234
+(Nurse:)- Right away, right away.
+- Thank you.
+
+19
+00:00:56,741 --> 00:00:59,281
+(Leonard:)Say what you will
+about healthcare in this country...
+
+20
+00:00:59,452 --> 00:01:03,122
+(Leonard:)...but when they're afraid of lawsuits,
+they sure test everything.
+

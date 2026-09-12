@@ -1,0 +1,50 @@
+﻿id;type;start;end;desc;tags
+tbbt_s03e19_m001;mask;2.07;3.39;;przejscie
+tbbt_s03e19_d54443;event;41.22;47.00;Leonard holds the back of Penny's head and kisses her, while they both lie in bed.;
+tbbt_s03e19_d54444;event;88.47;94.20;Penny kisses Leonard, then turns her back to him in bed, and opens her eyes wide in shock.;
+tbbt_s03e19_m002;mask;94.28;119.82;;
+tbbt_s03e19_d19955;event;186.68;191.76;Raj points toward Howard, in a mint green turtleneck with a mustard vest over it, and he acts confused.;
+tbbt_s03e19_m004;mask;191.79;193.12;;przejscie
+tbbt_s03e19_d19953;event;204.66;208.99;Leonard touches his nose and mouth while looking through comics, standing next to Sheldon, in an orange shirt.;
+tbbt_s03e19_d19952;event;296.72;301.34;Shy Raj, in a light blue and grey jacket, closes his comic book and put it back to display case.;
+tbbt_s03e19_d28639;event;341.22;346.31;Leonard looks uncomfortable, touches his arm and walks away from Howard and Raj standing at the comics display.;
+tbbt_s03e19_d28635;event;346.08;351.07;Howard, in a mint green turtleneck with a mustard vest over it, and Raj lean over the comics display case next to each other with confused, thinking faces.;
+tbbt_s03e19_m005;mask;351.14;352.48;;przejscie
+tbbt_s03e19_d28798;event;323.00;324.86;Sheldon, in an orange shirt, looks down with a shy, pleased smile, at the comic store.;
+tbbt_s03e19_m006;mask;404.49;405.83;;przejscie
+tbbt_s03e19_d28797;event;405.83;409.71;Howard puts on his shoes, then turns, scared, to Sheldon, who sprays his shoes.;
+tbbt_s03e19_d19970;event;413.70;416.72;Howard, in a mustard vest, is wiping his mouth with his arm while Sheldon is spraying his shoes.;
+tbbt_s03e19_d19973;event;419.29;420.57;Howard, in a mustard vest, is raising his hand with a resigned face while Sheldon sprays a chemical into the shoes.;
+tbbt_s03e19_d19971;event;420.56;424.12;Penny is putting her shoes on with an uncomfortable face, next to Leonard in the bowling alley.;
+tbbt_s03e19_d19965;event;485.92;488.25;Penny looks up and winks at someone, making a finger gun gesture.;
+tbbt_s03e19_m007;mask;497.76;499.12;;przejscie
+tbbt_s03e19_d19969;event;524.23;530.82;Sheldon throws a maroon bowling ball into a bowling lane and gets a strike.;
+tbbt_s03e19_d19966;event;530.82;532.36;Sheldon, in an orange shirt, jumps happily and pumps his fist, at the bowling lane.;
+tbbt_s03e19_d19967;event;529.42;530.82;A shot of maroon bowling ball strikes the pins and all of them fall over.;
+tbbt_s03e19_d19960;event;561.60;565.56;Raj raises his beer up and then takes a sip of it, at the bowling lane.;
+tbbt_s03e19_d19962;event;571.85;575.87;Penny lick her fingers, at the bowling lane.;
+tbbt_s03e19_m008;mask;631.96;633.26;;przejscie
+tbbt_s03e19_d28541;event;671.90;675.49;Penny, in a pink sleeveless top, puts the bag in the freezer.;
+tbbt_s03e19_d28544;event;704.89;707.08;Penny, in a pink sleeveless top, raises her hands in the air and shakes them vigorously side to side with closed eyes.;
+tbbt_s03e19_m009;mask;742.45;743.79;;przejscie
+tbbt_s03e19_d61516;event;743.81;745.80;Leonard folds his laundry when Penny walks into the laundry room.;
+tbbt_s03e19_d61520;event;750.52;753.33;Leonard spreads his arms out in a gesture of 'no,' while walking up to the laundry machine.;
+tbbt_s03e19_d61521;event;800.25;801.60;Leonard puts a bottle of bleach into his laundry basket when excited Sheldon, in a mint green shirt with orange sleeves, walks in.;
+tbbt_s03e19_m010;mask;810.12;811.44;;przejscie
+tbbt_s03e19_d61524;event;813.74;817.11;Sheldon takes a yellow bowling jersey out of a bag that he brings to the bowling alley.;
+tbbt_s03e19_d61522;event;826.85;829.29;Penny turns her head with open mouth toward Leonard and rubs her nose in the bowling alley.;
+tbbt_s03e19_d61527;event;811.46;812.71;A shot of Penny, Leonard, Raj and Howard putting shoes on at the bowling alley, when Sheldon walks in.;
+tbbt_s03e19_m011;mask;911.80;913.11;;przejscie
+tbbt_s03e19_m012;mask;985.28;986.64;;przejscie
+tbbt_s03e19_d78581;event;986.67;990.88;Howard is struggling to take a black bowling ball from the tray.;
+tbbt_s03e19_d78582;event;1004.79;1008.03;Happy Leonard, with a beer bottle, sits down in the seat next to Penny at the bowling alley.;
+tbbt_s03e19_d53938;event;1044.26;1049.58;Sheldon leans and bends his body forward after he throws the maroon bowling ball.;
+tbbt_s03e19_d53936;event;1050.19;1052.89;Sheldon, in a mint green shirt with orange sleeves, jumps up with his arms open showing excitement at the bowling alley.;
+tbbt_s03e19_m013;mask;1057.77;1059.14;;przejscie
+tbbt_s03e19_d53937;event;1059.15;1061.57;Leonard rolls his black bowling ball down the bowling lane, next to Stuart, also with a black ball.;
+tbbt_s03e19_d61553;event;1138.60;1142.85;Leonard, in a black vest and grey hoodie, rubs Penny's back with his right hand at the red-white plastic seats.;
+tbbt_s03e19_d61550;event;1131.61;1143.59;Stressed Penny is tying the laces of her shoes while sitting between Leonard and Sheldon at the bowling alley.;
+tbbt_s03e19_d61551;event;1159.39;1165.11;Penny walks away from Leonard, crying and touching her belly, leaves the bowling alley.;
+tbbt_s03e19_m014;mask;1198.99;1200.29;;przejscie
+tbbt_s03e19_d61552;event;1214.41;1225.58;Howard, Leonard, Sheldon and Raj enter the comic book store dressed in woman costumes.;
+tbbt_s03e19_m015;mask;1233.58;1262.93;;

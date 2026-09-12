@@ -1,0 +1,821 @@
+desc_id;episode;split;desc;wymaga_osoby;wymaga_obiektu;wymaga_scenerii;wymaga_ruchu;wymaga_mimiki;complexity;identities
+37765;s01e15;dev;Leonard takes a drink from the water fountain.;1;1;0;1;0;P;Leonard
+37766;s01e15;dev;Howard, in a brown turtleneck, shakes the hand of the woman who stands next to Sheldon.;1;0;0;1;0;Z;Howard,Sheldon
+37767;s01e15;dev;Missy puts her arm around Sheldon's shoulders.;1;0;0;1;0;Z;Missy,Sheldon
+39958;s01e15;dev;Raj turns away from Penny and Missy standing at the doorway, then walks down the stairs.;1;0;1;1;0;Z;Raj,Penny,Missy
+39966;s01e15;dev;Penny walks away from the doorway and Missy comes to the door to talk to Leonard.;1;0;1;1;0;Z;Penny,Missy,Leonard
+39972;s01e15;dev;Howard folds the yellow sign and throws it behind him while standing in the doorway.;1;1;1;1;0;Z;Howard
+39973;s01e15;dev;Howard stands up holding a large yellow sign in front of himself at the doorway.;1;1;1;1;0;P;Howard
+39975;s01e15;dev;Sheldon covers his crotch with his hands as he crosses his legs.;1;0;0;1;0;Z;Sheldon
+39977;s01e15;dev;Sheldon slowly walks into the living room as he cups his crotch with both hands.;1;0;1;1;0;Z;Sheldon
+39985;s01e15;dev;Sheldon picks up a slice of cheese and holds it up in front of Leonard, Howard, and Raj.;1;1;0;1;0;Z;Sheldon,Leonard,Howard,Raj
+39987;s01e15;dev;Missy closes the door and turns to face Sheldon.;1;1;0;1;0;Z;Missy,Sheldon
+39990;s01e15;dev;Missy crosses her arms in front of her as she takes a step towards Sheldon.;1;0;0;1;0;Z;Missy,Sheldon
+39991;s01e15;dev;Missy puts her hand on Sheldon's shoulder and pushes him away from her.;1;0;0;1;0;Z;Missy,Sheldon
+39992;s01e15;dev;Missy puts her knee onto the bed and sits down next to Sheldon.;1;1;0;1;0;Z;Missy,Sheldon
+50302;s01e15;dev;Raj, Howard and Leonard notice Sheldon is seated in his office with Missy standing next to him.;1;0;1;0;0;Z;Raj,Howard,Leonard,Sheldon,Missy
+50303;s01e15;dev;Leonard and Raj take a look at the bulletin in the hallway together.;1;1;1;0;0;Z;Leonard,Raj
+55960;s01e15;dev;Sheldon is going downstairs with Missy beside him.;1;0;1;1;0;Z;Sheldon,Missy
+55961;s01e15;dev;Missy hugs Sheldon and he pats her back awkwardly.;1;0;0;1;0;Z;Missy,Sheldon
+55962;s01e15;dev;Sheldon follows Missy as she exits the building.;1;0;1;1;0;Z;Sheldon,Missy
+84985;s01e15;dev;Sheldon is putting mayo on a slice of bread while Raj drinks from a green can.;1;1;0;1;0;Z;Sheldon,Raj
+84986;s01e15;dev;Howard is holding a bag of frozen peas on his neck while Leonard is scratching his forehead.;1;1;0;1;0;Z;Howard,Leonard
+84989;s01e15;dev;Leonard moves Raj's hand down while he wags his hand.;1;0;0;1;0;Z;Leonard,Raj
+84990;s01e15;dev;Raj and Howard are wrestling each other on the ground when Sheldon comes in.;1;0;0;1;0;Z;Raj,Howard,Sheldon
+84992;s01e15;dev;Raj, in a purple sweater, is sitting at the kitchen island drinking from a green can.;1;1;1;1;0;P;Raj
+85002;s01e15;dev;Leonard stops Sheldon with his arm as he was about to leave.;1;0;0;1;0;Z;Leonard,Sheldon
+85006;s01e15;dev;Raj is waving his hand uncontrollably as he greets Missy.;1;0;0;1;0;Z;Raj,Missy
+85013;s01e15;dev;Penny comes in and shows Leonard's Superman underwear.;1;1;0;1;0;Z;Penny,Leonard
+85015;s01e15;dev;Missy leaves with Penny after getting up from the couch.;1;0;0;1;0;Z;Missy,Penny
+85020;s01e15;dev;Penny, in a yellow blouse, puts the lid on the jar she is holding.;1;1;0;1;0;P;Penny
+85022;s01e15;dev;Sheldon, in a black shirt, turns from his computer and makes a note in the notebook next to him.;1;1;0;1;0;Z;Sheldon
+85026;s01e15;dev;Leonard, in a purple hoodie, reaches out and rests his hand on Sheldon's shoulder.;1;0;0;1;0;Z;Leonard,Sheldon
+85027;s01e15;dev;Sheldon, in a black shirt, quickly spins around, opens the door and leaves the bedroom.;1;1;1;1;0;Z;Sheldon
+85028;s01e15;dev;Leonard, in a purple hoodie, takes his hand off Sheldon's left shoulder.;1;0;0;1;0;Z;Leonard,Sheldon
+85030;s01e15;dev;Raj, in a purple sweater and blue shirt, is standing next to Howard while talking to him and making strange gestures with his hand.;1;0;0;1;0;Z;Raj,Howard
+85031;s01e15;dev;Leonard and Sheldon, in a black shirt, walk into Sheldon's room and Leonard closes the door.;1;1;1;1;0;Z;Leonard,Sheldon
+85034;s01e15;dev;Sheldon, in a black shirt, flicks his head and points his finger up.;1;0;0;1;0;Z;Sheldon
+96270;s01e15;dev;Howard pours the contents of the jar he is holding into a bowl on the coffee table.;1;1;0;1;0;P;Howard
+96271;s01e15;dev;Leonard makes boxing moves as he plays a video game with Howard.;1;1;0;1;0;Z;Leonard,Howard
+96272;s01e15;dev;Leonard excitedly jumps up and down with the Nintendo controllers over his head.;1;1;0;1;0;P;Leonard
+27730;s03e02;dev;Howard, Raj, and Sheldon hear a noise in the elevator shaft and Sheldon tears off the yellow tape.;1;1;1;1;0;Z;Howard,Raj,Sheldon
+27731;s03e02;dev;Howard takes the sign off the elevator door and he and Sheldon try to open it.;1;1;1;1;0;Z;Howard,Sheldon
+27750;s03e02;dev;Howard, in a turquoise shirt, makes a gesture with his finger on his nose to Sheldon.;1;0;0;1;0;Z;Howard,Sheldon
+27753;s03e02;dev;Sheldon looks at his wristwatch while eating at the table with Howard and Raj.;1;1;0;1;0;Z;Sheldon,Howard,Raj
+27755;s03e02;dev;Penny, in an orange hoodie, reaches her arms out to near where Leonard is standing.;1;0;0;1;0;Z;Penny,Leonard
+27757;s03e02;dev;Penny, in an orange hoodie, hands Leonard a glass of wine after pouring one for herself.;1;1;0;1;0;Z;Penny,Leonard
+34348;s03e02;dev;Penny, with messy hair, is pouring liquor into her glass as she sits beside Leonard on the couch.;1;1;0;1;0;Z;Penny,Leonard
+63696;s03e02;dev;Raj screams, turns around and covers his mouth, in the room full of insects.;1;0;1;1;0;Z;Raj
+63697;s03e02;dev;Raj opens the door to the room full of insects.;1;1;1;1;0;P;Raj
+63699;s03e02;dev;Howard, in a red shirt, taps the back of Raj's neck and scares Raj.;1;0;0;1;0;Z;Howard,Raj
+68975;s03e02;dev;Sheldon slowly walks toward the mailboxes with a comic in his hands, passing Penny in a pink and purple shirt.;1;1;0;1;0;Z;Sheldon,Penny
+68988;s03e02;dev;Sheldon is holding a comic of the Flash as he speaks to Leonard.;1;1;0;0;0;Z;Sheldon,Leonard
+68989;s03e02;dev;Leonard, in a green hoodie, and Penny hug each other and then they end up kissing each other.;1;0;0;1;0;Z;Leonard,Penny
+69009;s03e02;dev;Howard takes the cricket from Professor Crawley and Sheldon takes the container from Howard.;1;1;0;1;0;Z;Howard,Professor Crawley,Sheldon
+73057;s03e02;dev;Penny runs and throws up in the sink and then Leonard throws up in the toilet.;1;1;0;1;0;Z;Penny,Leonard
+73058;s03e02;dev;Penny walks into the bathroom as Leonard, in a red shirt, has his head in the toilet vomiting.;1;1;1;1;0;Z;Penny,Leonard
+73059;s03e02;dev;Howard, in a red shirt, walks up to Raj and Sheldon's table at the canteen and places a book on it.;1;1;1;1;0;Z;Howard,Raj,Sheldon
+73080;s03e02;dev;Howard, in a turquoise shirt, and Sheldon reach towards each other and shake hands while sitting next to each other on the couch.;1;0;0;1;0;Z;Howard,Sheldon
+73082;s03e02;dev;Howard, Sheldon, and Raj are gathered around the refrigerator with their heads close to it.;1;1;0;0;0;Z;Howard,Sheldon,Raj
+73165;s03e02;dev;Leonard, in a red shirt and purple hoodie, walks across the room and exits the room through the front door in a rush.;1;1;1;1;0;Z;Leonard
+73185;s03e02;dev;Sheldon rapidly closes the comic book in front of Howard's face.;1;1;0;1;0;Z;Sheldon,Howard
+73186;s03e02;dev;Leonard, in a red shirt, sits down in the living room chair while Raj and Howard laugh.;1;0;1;1;1;Z;Leonard,Raj,Howard
+73187;s03e02;dev;Leonard lifts the bag and shows it to a disappointed Sheldon, in a blue shirt.;1;1;0;1;1;Z;Leonard,Sheldon
+88916;s03e02;dev;Professor Crawley lays a plastic lid down on the table as he stares into a box.;1;1;0;1;0;Z;Professor Crawley
+88925;s03e02;dev;Howard, in a red shirt, opens a book in front of Sheldon at the canteen.;1;1;1;1;0;Z;Howard,Sheldon
+88926;s03e02;dev;Howard grabs a clear container from the table at the canteen.;1;1;1;1;0;P;Howard
+88927;s03e02;dev;Howard grabs the container and leaves the cafeteria with Sheldon and Raj following.;1;1;1;1;0;Z;Howard,Sheldon,Raj
+88929;s03e02;dev;Sheldon picks up an open book and shows it to Raj while he spreads butter on toast at the canteen.;1;1;1;1;0;Z;Sheldon,Raj
+89806;s03e02;dev;Leonard and Penny, in an orange hoodie, are kissing each other on her sofa.;1;0;0;0;0;Z;Leonard,Penny
+89809;s03e02;dev;Sheldon, Raj and Howard unsuccessfully try numerous times to get out of the closet simultaneously.;1;0;1;1;0;Z;Sheldon,Raj,Howard
+13247;s04e05;dev;Sheldon sits down on the couch with a comic book in his hands, next to Leonard, in a red shirt, who is lying on the sofa.;1;1;0;1;0;Z;Sheldon,Leonard
+13249;s04e05;dev;Leonard is lying along the entire couch, then bends his knees, freeing up one end of the couch where Sheldon sits down with a magazine in his hands.;1;1;0;1;0;Z;Leonard,Sheldon
+13257;s04e05;dev;Sheldon, in a green shirt, darts up from the couch and rushes down three flights of stairs shouting for Leonard.;1;0;1;1;0;Z;Sheldon,Leonard
+13258;s04e05;dev;Sheldon starts to close his laptop a bit before opening it again while sitting on the couch.;1;1;0;1;0;Z;Sheldon
+13272;s04e05;dev;Sheldon takes the number 2 sign off his desk and shows it to Leonard.;1;1;0;1;0;Z;Sheldon,Leonard
+13275;s04e05;dev;Howard closes his front door behind him, at night, as he is talking to Leonard, in a blue shirt.;1;1;1;1;0;Z;Howard,Leonard
+21110;s04e05;dev;Leonard, in a purple hoodie, and Sheldon simultaneously lift their bags over their shoulders.;1;1;0;1;0;Z;Leonard,Sheldon
+21567;s04e05;dev;Leonard puts his hand on the doorknob and holds it while talking with Sheldon, in a green shirt.;1;1;0;1;0;Z;Leonard,Sheldon
+55081;s04e05;dev;A woman in a blue top picks up a glass of white wine, winks at Leonard and takes a drink.;1;1;0;1;1;Z;Leonard
+55083;s04e05;dev;A woman in a blue top and Bernadette sit down at the table with Leonard and Howard.;1;0;0;1;0;Z;Bernadette,Leonard,Howard
+55084;s04e05;dev;Sheldon, in a purple shirt, is speaking to Amy's mother through Skype on his laptop while she turns her head at him, smiling.;1;1;0;1;1;Z;Sheldon,Amy
+55085;s04e05;dev;Amy and Sheldon, in a purple shirt, sit on the couch video chatting with Mrs. Fowler, who waves slowly with a shocked expression.;1;0;0;1;1;Z;Amy,Sheldon,Mrs. Fowler
+55086;s04e05;dev;Sheldon, in a purple shirt, closes a red laptop that's sitting on Amy's lap, while sitting on a couch.;1;1;0;1;0;Z;Sheldon,Amy
+55090;s04e05;dev;A woman in a blue top turns and points behind her as she is leaving the restaurant dining room.;0;0;1;1;0;Z;
+55091;s04e05;dev;Amy, in a purple jacket, puts her laptop bag over her shoulder and stands up from the steps.;1;1;1;1;0;Z;Amy
+55092;s04e05;dev;Sheldon, in a red puffer jacket and a red hat, takes off a pair of funny novelty glasses while talking to Amy.;1;1;0;1;0;Z;Sheldon,Amy
+55093;s04e05;dev;Someone in a red puffer jacket and a red hat walks slowly down the stairs and Amy stares at him.;1;0;1;1;0;Z;Amy
+55106;s04e05;dev;Sheldon, in an orange shirt, leaves Leonard's side to hide close to the wall in the hallway.;1;0;1;1;0;Z;Sheldon,Leonard
+66656;s04e05;dev;Leonard says something and a woman in a blue top pretends to hit him and laughs hysterically, at the restaurant.;1;0;1;1;1;Z;Leonard
+66686;s04e05;dev;A woman in a blue top uses a cloth napkin to dab each of her armpits at the restaurant.;0;1;1;1;0;P;
+66687;s04e05;dev;A woman in a blue top slaps Leonard on the front of his shoulder as she laughs at the restaurant.;1;0;1;1;1;Z;Leonard
+66689;s04e05;dev;A woman in a blue top shakes Leonard's hand and leans closer to him as she sits beside him at the restaurant table.;1;0;1;1;0;Z;Leonard
+70062;s04e05;dev;Sheldon, in a green shirt, turns toward Leonard and makes Hulk arms while sitting on the couch.;1;0;0;1;0;Z;Sheldon,Leonard
+75515;s04e05;dev;Howard, in a plaid orange shirt, takes his phone out of his pocket and puts it to his ear at the comic store.;1;1;1;1;0;Z;Howard
+75516;s04e05;dev;Sheldon, in a green shirt, and Leonard, in a red shirt, walk down a flight of stairs and stop in front of a bike in the hallway.;1;1;1;1;0;Z;Sheldon,Leonard
+75625;s04e05;dev;Leonard, in a red shirt, reaches from the sofa for his glasses on the coffee table and puts them on.;1;1;0;1;0;Z;Leonard
+75626;s04e05;dev;Sheldon, in a green shirt, sets down his comic book on the arm of the sofa.;1;1;0;1;0;P;Sheldon
+87695;s04e05;dev;Sheldon, in an orange shirt, walks down the apartment stairs and jumps off the last step.;1;0;1;1;0;Z;Sheldon
+87697;s04e05;dev;A shot of Amy, in a purple jacket, standing outside the glass doors of Sheldon's apartment building.;1;0;1;0;0;P;Amy,Sheldon
+89471;s04e05;dev;Leonard, in a red shirt, while sitting on the couch, changes his position and crosses both legs.;1;0;0;1;0;Z;Leonard
+89473;s04e05;dev;Sheldon, in a green shirt, makes a set of air quotations with his fingers while sitting on the couch.;1;0;0;1;0;P;Sheldon
+28102;s05e20;dev;Penny, in a blue shirt, and Leonard make awkward glances in Sheldon's direction.;1;0;0;0;1;Z;Penny,Leonard,Sheldon
+28106;s05e20;dev;Raj, in an orange sweater, types something on his keyboard and then puts his hands in his lap.;1;1;0;1;0;Z;Raj
+28111;s05e20;dev;Howard, in a black blazer, places a red napkin on his lap while Bernadette talks to Raj.;1;1;0;1;0;Z;Howard,Bernadette,Raj
+28112;s05e20;dev;Leonard throws a toy when Penny hands him a purple transporter box.;1;1;0;1;0;Z;Leonard,Penny
+28115;s05e20;dev;Penny, in a blue shirt, carries the paper bag over to the coffee table and sets it down.;1;1;0;1;0;Z;Penny
+28116;s05e20;dev;Leonard gets up out of his chair and walks over to Sheldon to look at the purple transporter box that he holds.;1;1;0;1;0;Z;Leonard,Sheldon
+28120;s05e20;dev;Raj, in a mustard blazer, leans over to speak into Bernadette's ear in private at a restaurant.;1;0;1;1;0;Z;Raj,Bernadette
+28122;s05e20;dev;A Spock figurine sits on a table next to a purple transporter box.;0;1;0;0;0;Z;
+28130;s05e20;dev;Sheldon, in plaid pajamas, smells a figurine box as he opens it.;1;1;0;1;0;Z;Sheldon
+28131;s05e20;dev;Sheldon, in plaid pajamas, is playing with a toy and a Spock figurine.;1;1;0;1;0;Z;Sheldon
+28135;s05e20;dev;Sheldon sets a purple box down on the desk next to a Spock figurine.;1;1;0;1;0;Z;Sheldon
+28136;s05e20;dev;Sheldon, in plaid pajamas, opens his eyes and jumps up out of bed at night.;1;0;1;1;0;Z;Sheldon
+28137;s05e20;dev;Sheldon, in plaid pajamas, opens the lid on a purple box and looks inside.;1;1;0;1;0;Z;Sheldon
+28146;s05e20;dev;Raj, wearing blue oven mitts, takes the food over to the dining table and gives some to Lakshmi.;1;1;0;1;0;Z;Raj,Lakshmi
+28147;s05e20;dev;Raj takes off his blue oven mitts and walks back to the dining table to sit down with Lakshmi.;1;1;0;1;0;Z;Raj,Lakshmi
+28148;s05e20;dev;Raj, in a red shirt, bends down to retrieve a pan out of the oven.;1;1;0;1;0;P;Raj
+65660;s05e20;dev;Sheldon, in a space full of rocks, stands up and takes the toy to throw it away.;1;1;1;1;0;Z;Sheldon
+65662;s05e20;dev;Sheldon is sitting on a rock and looks back when a monster comes.;1;0;1;1;0;Z;Sheldon
+69427;s05e20;dev;Leonard is trying to put something yellow back into the purple box as he stands next to Penny at the kitchen island.;1;1;1;1;0;Z;Leonard,Penny
+69429;s05e20;dev;Penny and Leonard walk towards the front door passing Sheldon at his desk looking at the Spock figurine and the purple box next to him.;1;1;0;1;0;Z;Penny,Leonard,Sheldon
+69435;s05e20;dev;Penny puts the purple box down in front of Leonard on the kitchen island.;1;1;1;1;0;Z;Penny,Leonard
+69436;s05e20;dev;Leonard opens the top of the purple toy box, while Penny moves her feet quickly in impatience.;1;1;0;1;0;Z;Leonard,Penny
+69437;s05e20;dev;Leonard, in a red hoodie, rubs Penny's arm as he walks away.;1;0;0;1;0;Z;Leonard,Penny
+69440;s05e20;dev;Howard places his retainer inside his mouth and looks at Raj, at the lab.;1;1;1;1;0;Z;Howard,Raj
+69443;s05e20;dev;Howard applies some solder to a project he is working on at the lab.;1;1;1;1;0;P;Howard
+69445;s05e20;dev;Howard moves some equipment from one side of the room to the shelves, at the lab.;1;1;1;1;0;P;Howard
+69447;s05e20;dev;Howard puts equipment down on the table behind him, at the lab.;1;1;1;1;0;P;Howard
+69449;s05e20;dev;Howard winds up some electrical wiring connected to a soldering iron, at his lab, while talking.;1;1;1;1;0;P;Howard
+69450;s05e20;dev;Raj, in a red shirt, makes a stop gesture to stop Lakshmi from putting her food into her mouth.;1;1;0;1;0;Z;Raj,Lakshmi
+69453;s05e20;dev;Sheldon, in a space full of rocks, pulls off the covers and gets out of bed.;1;1;1;1;0;Z;Sheldon
+69470;s05e20;dev;Bernadette, in a pink blouse, sitting on a couch with Howard, sets down a beer she is holding on the coffee table.;1;1;0;1;0;Z;Bernadette,Howard
+69471;s05e20;dev;Raj gently takes a puppy from Bernadette's arms.;1;1;0;1;0;Z;Raj,Bernadette
+89105;s05e20;dev;Sheldon, in a yellow shirt, grabs a purple box and leaves his chair with it.;1;1;0;1;0;Z;Sheldon
+89106;s05e20;dev;Sheldon, in a yellow shirt, replaces the purple boxes on the desk.;1;1;0;1;0;P;Sheldon
+89107;s05e20;dev;Penny and Leonard walk into the room and shock Sheldon who is holding a purple box.;1;1;0;1;0;Z;Penny,Leonard,Sheldon
+6163;s07e02;dev;Sheldon and Penny, both holding paper bags with groceries, turn to walk in opposite directions away from one another, in the hallway.;1;1;1;1;0;Z;Sheldon,Penny
+6164;s07e02;dev;Out of fright, Penny drops a paper bag full of shopping while standing next to the door of her apartment.;1;1;1;1;1;P;Penny
+12475;s07e02;dev;Leonard, in a grey jacket, is sitting on the couch with his elbow on his knee next to Penny.;1;0;0;0;0;Z;Leonard,Penny
+12502;s07e02;dev;The pizza delivery man turns and looks at Sheldon with a plastic bag in his hand while he walks away.;1;1;0;1;0;Z;Sheldon
+12506;s07e02;dev;Leonard, in a grey hoodie, is showing Penny pictures on his cell phone while sitting on the couch.;1;1;0;1;0;Z;Leonard,Penny
+12507;s07e02;dev;Penny, in a purple floral shirt, opens her apartment door for a pizza delivery guy.;1;1;1;1;0;Z;Penny
+12515;s07e02;dev;Sheldon, in a red shirt, is staring at a figurine as Stuart passes by.;1;1;0;1;0;Z;Sheldon,Stuart
+12516;s07e02;dev;Stuart grabs an Aquaman statue from the shelf behind him.;1;1;0;1;0;P;Stuart
+12517;s07e02;dev;Stuart takes out a Batman squirt gun from behind the counter.;1;1;0;1;0;P;Stuart
+12532;s07e02;dev;Bernadette, in a pink sweater, reads the information on the bottle of cream.;1;1;0;0;0;P;Bernadette
+12533;s07e02;dev;Howard pulls a tube of cream out of his pocket and hands it to Bernadette.;1;1;0;1;0;Z;Howard,Bernadette
+12535;s07e02;dev;Sheldon puts his arms on his hips while facing a trash can, in the kitchen.;1;1;1;1;0;P;Sheldon
+12537;s07e02;dev;Bernadette sets a glass mixing bowl into a dish drainer tray.;1;1;0;1;0;P;Bernadette
+54231;s07e02;dev;Sheldon gets a piece of paper from the side table and hands it to Penny while they are eating at the living room table.;1;1;1;1;0;Z;Sheldon,Penny
+54232;s07e02;dev;Penny, with two ponytails and in a turquoise floral top, hands Howard the piece of paper she was holding.;1;1;0;1;0;Z;Penny,Howard
+54260;s07e02;dev;Raj, in a green and grey shirt, picks up a piece of cake from the coffee table and starts eating it.;1;1;0;1;0;Z;Raj
+54261;s07e02;dev;Howard lifts up his shirt to show Raj his chest.;1;1;0;1;0;Z;Howard,Raj
+54262;s07e02;dev;Howard sticks the bottom of his shirt up over his head.;1;1;0;1;0;P;Howard
+54263;s07e02;dev;Howard jumps up and down with his shirt pulled up.;1;1;0;1;0;P;Howard
+54264;s07e02;dev;Raj, in a green and grey shirt, shakes his chest from side to side.;1;0;0;1;0;P;Raj
+54265;s07e02;dev;Howard stands in front of the couch with his shirt pulled up and shimmies his torso.;1;1;0;1;0;P;Howard
+54268;s07e02;dev;Raj pulls his shirt over his head as he shakes his body in front of Howard.;1;1;0;1;0;Z;Raj,Howard
+54269;s07e02;dev;Raj puts his hand on Howard's bare chest as Bernadette walks into the room.;1;0;0;1;0;Z;Raj,Howard,Bernadette
+54270;s07e02;dev;Leonard pours coffee from the coffee pot into a travel mug.;1;1;0;1;0;P;Leonard
+54273;s07e02;dev;Bernadette walks away after seeing Raj and Howard holding each other's bare chests.;1;0;0;1;0;Z;Bernadette,Raj,Howard
+54277;s07e02;dev;Sheldon, in a beige jacket, holds the building's door open while talking to someone.;1;1;1;0;0;Z;Sheldon
+54279;s07e02;dev;Sheldon comes out of the apartment to where Amy and Penny, in a white shirt and yellow vest, are.;1;0;1;1;0;Z;Sheldon,Amy,Penny
+62068;s07e02;dev;Raj, in a red sweater, sits on the floor while his friends are having a conversation at the living room table.;1;0;1;0;0;Z;Raj
+71317;s07e02;dev;Leonard, in a grey hoodie, stands up scared as Sheldon and Amy enter the apartment.;1;0;1;1;1;Z;Leonard,Sheldon,Amy
+71318;s07e02;dev;Amy and Sheldon put their ears up to the door.;1;1;0;1;0;Z;Amy,Sheldon
+71319;s07e02;dev;Sheldon, in a red shirt, gets the key from his pocket and opens the door, while standing next to Amy.;1;1;0;1;0;Z;Sheldon,Amy
+71426;s07e02;dev;Howard grabs a yellow pillow and hugs it for comfort, while sitting on the blue couch.;1;1;0;1;0;Z;Howard
+71427;s07e02;dev;Amy picks up her blue coffee cup and walks out of the kitchen where Sheldon sits with a yellow cup.;1;1;1;1;0;Z;Amy,Sheldon
+71428;s07e02;dev;Bernadette, in a pink sweater, sits down on the blue couch next to Howard.;1;0;0;1;0;Z;Bernadette,Howard
+20156;s09e12;dev;Leonard, in a grey jacket, opens his water bottle and takes a sip before putting the cap back on, while sitting on the armchair in the living room.;1;1;1;1;0;Z;Leonard
+20157;s09e12;dev;Sheldon, in a black shirt, reaches over to put his hand on Raj's shoulder, while sitting next to each other on the couch.;1;0;0;1;0;Z;Sheldon,Raj
+20160;s09e12;dev;Howard sits on the bed with cleaning accessories on it, and Bernadette places her head on his shoulder.;1;1;0;1;0;Z;Howard,Bernadette
+20165;s09e12;dev;A woman in a maroon turtleneck keeps her left hand close to her chin while gesturing to Penny.;1;0;0;1;0;Z;Penny
+20166;s09e12;dev;A woman in a maroon turtleneck moves a brochure away and looks straight ahead with both hands close together on the desk.;0;1;0;1;0;Z;
+20170;s09e12;dev;Penny laughs while reading a pharmaceutical brochure to a woman in a maroon turtleneck with glasses.;1;1;0;0;1;Z;Penny
+20171;s09e12;dev;Penny slides a brochure across the desk to a woman in a maroon turtleneck.;1;1;0;1;0;Z;Penny
+20172;s09e12;dev;A woman in a maroon turtleneck leans forward on her desk, clasping her hands.;0;0;0;1;0;Z;
+20176;s09e12;dev;Leonard excitedly talks to a bunch of young girls as he jumps rope with them.;1;1;0;1;0;Z;Leonard
+20177;s09e12;dev;Stuart stares at Bernadette and Howard lying in bed in the dark.;1;0;1;0;0;Z;Stuart,Bernadette,Howard
+20179;s09e12;dev;Penny starts to lie back on the couch in the therapist's office, but jumps back up and then lies down again.;1;0;1;1;0;Z;Penny
+20181;s09e12;dev;Penny sits on a couch while talking to a woman in a maroon turtleneck.;1;0;0;0;0;Z;Penny
+20183;s09e12;dev;Penny places her hands on a couch and then goes from a seated to a lying position, in front of a woman in a maroon turtleneck.;1;0;0;1;0;Z;Penny
+20184;s09e12;dev;A woman in a maroon turtleneck raises her pen and then writes something down.;0;1;0;1;0;Z;
+53161;s09e12;dev;Raj, in a red and dark blue blouse, is unpacking a bag of Chinese food takeout onto the kitchen island.;1;1;1;1;0;P;Raj
+53164;s09e12;dev;Raj picks up four Chinese food cartons off the kitchen counter.;1;1;1;1;0;P;Raj
+56265;s09e12;dev;Sheldon is speaking on a video chat on his laptop, pointing his thumb to the right.;1;1;0;1;0;Z;Sheldon
+56266;s09e12;dev;Amy nods with her eyes closed, while speaking to Sheldon on video chat.;1;0;0;1;1;Z;Amy,Sheldon
+61811;s09e12;dev;Penny, in a plaid blue and white shirt, hugs Leonard as they talk in the kitchen.;1;0;1;1;0;Z;Penny,Leonard
+61812;s09e12;dev;Bernadette leaves a rag and a bottle of cleaning spray on the cleaned desk, in a room.;1;1;0;1;0;Z;Bernadette
+61816;s09e12;dev;Stuart gets into a silver car and drives off.;1;1;0;1;0;Z;Stuart
+61817;s09e12;dev;Howard pops out of the garage in his underwear and poses.;1;0;1;1;0;Z;Howard
+61819;s09e12;dev;Bernadette waves back at a man in a silver car as he drives off.;1;1;0;1;0;Z;Bernadette
+61826;s09e12;dev;Leonard enters the office, and a woman in a dark blue dress with glasses closes the door.;1;1;1;1;0;Z;Leonard
+61827;s09e12;dev;A woman in a dark blue dress with glasses walks to her chair, sits down, and picks up a pad of paper and a writing utensil.;0;1;0;1;0;Z;
+61831;s09e12;dev;A woman in a dark blue dress with glasses taps a pad of paper with the reverse end of a writing utensil, while sitting in the office.;0;1;1;1;0;P;
+61833;s09e12;dev;Howard and Bernadette load the silver car up with boxes.;1;1;0;1;0;Z;Howard,Bernadette
+61834;s09e12;dev;Stuart puts a box in the trunk of the silver car, while Howard and Bernadette stand next to it.;1;1;0;1;0;Z;Stuart,Howard,Bernadette
+61836;s09e12;dev;Raj, while sitting at his desk, talks to Sheldon and points at a monitor at his lab.;1;1;1;1;0;Z;Raj,Sheldon
+61838;s09e12;dev;Stuart walks into Bernadette and Howard's bedroom as they are under the covers.;1;0;1;1;0;Z;Stuart,Bernadette,Howard
+61839;s09e12;dev;Sheldon, in a green shirt, is walking around Raj's lab as he is on his computer.;1;1;1;1;0;Z;Sheldon,Raj
+61840;s09e12;dev;Raj is sitting in front of computer screens at the lab, moving a bit away in his chair to show them to Sheldon.;1;1;1;1;0;Z;Raj,Sheldon
+61843;s09e12;dev;Sheldon sits down on the table where Raj's computer is, at the lab.;1;1;1;1;0;Z;Sheldon,Raj
+61847;s09e12;dev;Leonard walks across the room to greet Penny, all in black, at the door with a kiss on the cheek.;1;0;1;1;0;Z;Leonard,Penny
+61848;s09e12;dev;Penny, all in black with a black and white purse, walks in through the apartment's front door, where everybody eats at the living room table.;1;0;1;1;0;Z;Penny
+61849;s09e12;dev;Sheldon holds up a napkin to his face as a medical mask, while sitting on the couch.;1;1;0;1;0;P;Sheldon
+96200;s09e12;dev;Bernadette, in a blue and beige shirt, places the black suitcase in the closet.;1;1;1;1;0;P;Bernadette
+96201;s09e12;dev;Howard takes the teddy bear from Bernadette and places it on the dresser.;1;1;0;1;0;Z;Howard,Bernadette
+96202;s09e12;dev;Howard, in a green plaid shirt, is cleaning an open cabinet with a small vacuum.;1;1;0;1;0;P;Howard
+2965;s01e01;test;Leonard and Sheldon enter the apartment in their underwear.;1;0;1;1;0;Z;Leonard,Sheldon
+2966;s01e01;test;Penny hugs Leonard and Sheldon in their underwear.;1;0;0;1;0;Z;Penny,Leonard,Sheldon
+3020;s01e01;test;Penny runs out of the bathroom into the living room, where Raj, Howard, Leonard and Sheldon are, wearing only a purple towel.;1;0;1;1;0;Z;Penny,Raj,Howard,Leonard,Sheldon
+3022;s01e01;test;Penny pulls back the shower curtain and climbs inside the shower.;1;1;1;1;0;Z;Penny
+38396;s01e01;test;Leonard grabs Sheldon, who is wearing plaid pants, by the arm as he tries to walk away from the entrance to the building.;1;0;1;1;0;Z;Leonard,Sheldon
+38397;s01e01;test;Leonard shakes the doors to the apartment building with both hands.;1;1;1;1;0;P;Leonard
+38401;s01e01;test;Howard walks into the living room carrying two juice boxes with straws.;1;1;1;1;0;P;Howard
+38405;s01e01;test;Leonard puts his hands inside his jacket pockets, while walking away from the building, next to Sheldon wearing underwear.;1;0;1;1;0;Z;Leonard,Sheldon
+38410;s01e01;test;Two little girls with a clipboard and a box pass Sheldon and Leonard and enter the building.;1;1;1;1;0;Z;Sheldon,Leonard
+38414;s01e01;test;Sheldon and Leonard exit the apartment building wearing underwear.;1;0;1;1;0;Z;Sheldon,Leonard
+38416;s01e01;test;Penny sits in the back seat and shrugs her shoulders twice as they all drive in a car.;1;1;1;1;0;Z;Penny
+55211;s01e01;test;The doctor at the desk hands Leonard a clipboard and pen, then gets back to reading a paper.;1;1;0;1;0;Z;Leonard
+55214;s01e01;test;Sheldon and Leonard are sitting in the waiting room with clipboards as Leonard adjusts his glasses.;1;1;1;1;0;Z;Sheldon,Leonard
+80586;s01e01;test;Sheldon, in plaid pants, opens two bottles on the kitchen island.;1;1;1;1;0;P;Sheldon
+80587;s01e01;test;Leonard and Sheldon grab bottles from the kitchen island, then Sheldon sits on the couch while Leonard leans against the wall, still talking.;1;1;1;1;0;Z;Leonard,Sheldon
+80588;s01e01;test;Leonard joins Sheldon in the kitchen while Sheldon grabs a couple of orange bottles from the fridge.;1;1;1;1;0;Z;Leonard,Sheldon
+80590;s01e01;test;Howard, in a red shirt, raises his hand then quickly moves his middle finger up and down on his lips.;1;0;0;1;0;Z;Howard
+80591;s01e01;test;Leonard walks to the door, lets in Howard holding a CD and Raj, who is wearing a red hat.;1;1;1;1;0;Z;Leonard,Howard,Raj
+80592;s01e01;test;Sheldon, in plaid pants, hands Raj, who is wearing a red hat, a bottle of water.;1;1;0;1;0;Z;Sheldon,Raj
+80595;s01e01;test;Penny, in a blue shirt, puts her hands on her face and starts to cry.;1;0;0;1;1;Z;Penny
+80596;s01e01;test;Sheldon, in plaid pants, slides to his spot on the couch after Penny gets up.;1;0;0;1;0;Z;Sheldon,Penny
+80599;s01e01;test;Penny, in a blue shirt, stands in the kitchen and takes a paper towel, while Leonard leans over to Sheldon from the armchair.;1;1;1;1;0;Z;Penny,Leonard,Sheldon
+80600;s01e01;test;Penny, holding a paper towel, adjusts her bangs and wipes a tear from under her eye.;1;1;0;1;1;Z;Penny
+80611;s01e01;test;Penny, in a blue shirt, puts her hand on the sofa near Sheldon.;1;0;0;1;0;Z;Penny,Sheldon
+80612;s01e01;test;Leonard puts his hand on his mouth and shakes his head as he sits in the armchair.;1;0;0;1;0;Z;Leonard
+80613;s01e01;test;Leonard, in a green hoodie and brown jacket, is sitting in the armchair while shaking his head and looking up.;1;0;0;1;0;Z;Leonard
+80617;s01e01;test;Penny, in a blue shirt, walks over to a whiteboard with equations on it.;1;1;0;1;0;P;Penny
+80620;s01e01;test;Leonard nervously bites his fingers, looking to the side, standing behind Sheldon, who is in plaid pants.;1;0;0;1;0;Z;Leonard,Sheldon
+80622;s01e01;test;Sheldon, in plaid pants, walks over to his desk and spins around completely.;1;0;0;1;0;Z;Sheldon
+86431;s01e01;test;Penny catches Leonard and Sheldon staring at her from the hallway.;1;0;1;0;0;Z;Penny,Leonard,Sheldon
+86432;s01e01;test;Penny, in a blue shirt, walks across the room to her opened door where Leonard and Sheldon stand.;1;0;1;1;0;Z;Penny,Leonard,Sheldon
+86436;s01e01;test;Sheldon and Leonard stand up from maroon upholstered chairs and walk to the door to leave.;1;0;1;1;0;Z;Sheldon,Leonard
+86437;s01e01;test;Leonard walks up the stairs holding a brown bag and talking to Sheldon, who is wearing plaid pants, walking by water jugs near the doors.;1;1;1;1;0;Z;Leonard,Sheldon
+86440;s01e01;test;Leonard knocks on an apartment door, with an ironing board leaning against the wall by the door, while Sheldon stands behind him.;1;1;1;1;0;Z;Leonard,Sheldon
+86441;s01e01;test;Leonard holds up a paper bag while talking to Penny, who is wearing a blue shirt.;1;1;0;1;0;Z;Leonard,Penny
+86446;s01e01;test;Sheldon takes his keys out of the pocket of his plaid pants and unlocks the front door to his apartment.;1;1;1;1;0;Z;Sheldon
+86447;s01e01;test;Leonard and Sheldon enter their apartment, continuing their conversation, then Sheldon waves his finger.;1;0;1;1;0;Z;Leonard,Sheldon
+97651;s01e01;test;Leonard and Sheldon walk into a doctor's office with maroon upholstered chairs and Sheldon shuts the door behind him.;1;1;1;1;0;Z;Leonard,Sheldon
+97652;s01e01;test;Leonard walks over to the nurse's desk and leans over to see what she's reading.;1;0;0;1;0;Z;Leonard
+18406;s01e06;test;Raj, in costume, sits on the couch and shoves a snack from the bowl into his mouth.;1;1;0;1;0;Z;Raj
+38055;s01e06;test;Penny, in a cat costume, hugs the shirtless guy standing in front of her.;1;0;0;1;0;Z;Penny
+38056;s01e06;test;The shirtless man flirtatiously tucks a stray hair behind Penny's ear.;1;0;0;1;0;Z;Penny
+38064;s01e06;test;A girl dressed as a ladybug sits next to Raj on the sofa and turns her head to him.;1;0;0;1;0;Z;Raj
+38095;s01e06;test;Leonard, with a happy smile, in a Flash costume, answers the door.;1;1;0;1;1;P;Leonard
+38097;s01e06;test;Two guys in Flash costumes discover a third one wearing the same costume.;0;0;0;0;0;Z;
+38098;s01e06;test;Leonard touches his nose before answering the door, wearing a Flash costume.;1;1;0;1;0;Z;Leonard
+38099;s01e06;test;Raj jumps into the apartment wearing a Flash costume.;1;0;1;1;0;P;Raj
+38102;s01e06;test;Penny opens the door for the boys as they wait outside in costume, and tucks her hair behind her ear.;1;1;0;1;0;Z;Penny
+38104;s01e06;test;Leonard, Raj, Sheldon, and Howard, wearing their costumes, stand as Howard knocks on the door with a skeleton on it.;1;1;0;1;0;Z;Leonard,Raj,Sheldon,Howard
+38105;s01e06;test;Sheldon, in a black-and-white striped costume, opens and smells a bottle of juice in his hands.;1;1;0;1;0;Z;Sheldon
+38107;s01e06;test;Leonard, in a costume with a green cape, grabs a spatula from the kitchen to look at himself.;1;1;1;1;0;Z;Leonard
+38122;s01e06;test;A girl wearing a pink costume with a drink in her hand makes circles with her hand in front of Sheldon's chest.;1;1;0;1;0;Z;Sheldon
+38123;s01e06;test;Sheldon, in a costume, stands up from the couch at a Halloween party and touches his hips.;1;0;1;1;0;Z;Sheldon
+39255;s01e06;test;Howard, Leonard, Sheldon, and Raj stumble through the front door of the building, covered with blue paint over paintball suits.;1;0;1;1;0;Z;Howard,Leonard,Sheldon,Raj
+39256;s01e06;test;Penny comes down the stairs and is saluted by Howard.;1;0;1;1;0;Z;Penny,Howard
+39257;s01e06;test;A shot of Sheldon walking up the stairs with a large orange paint mark on the back of his paintball suit.;1;0;1;1;0;P;Sheldon
+39261;s01e06;test;Penny pats Sheldon on the face before walking down the stairs at the apartments.;1;0;1;1;0;Z;Penny,Sheldon
+44942;s01e06;test;The shirtless guy drops Leonard onto Sheldon and walks away.;1;0;0;1;0;Z;Leonard,Sheldon
+44943;s01e06;test;The topless guy picks up Leonard and Leonard is shocked.;1;0;0;1;1;Z;Leonard
+54545;s01e06;test;Sheldon, Leonard, Howard, and Raj enter Penny's Halloween-decorated apartment in costumes.;1;0;1;1;0;Z;Sheldon,Leonard,Howard,Raj,Penny
+54546;s01e06;test;Howard puts his foot on the coffee table and pretends to blow pixie dust.;1;0;0;1;0;Z;Howard
+54548;s01e06;test;Raj, in costume, smiling, raises his brown hammer.;1;1;0;1;1;P;Raj
+54572;s01e06;test;Howard crosses his arms while talking to a woman dressed as a nurse.;1;0;0;1;0;Z;Howard
+54573;s01e06;test;Howard, in a costume, picks up a bow from next to his chair and sets it in his lap.;1;1;0;1;0;Z;Howard
+54574;s01e06;test;Howard talks to a girl in a nurse costume, then she touches her stethoscope.;1;1;0;1;0;Z;Howard
+80226;s01e06;test;Penny, in a cat costume, kisses Leonard at the doorway of his apartment.;1;0;1;1;0;Z;Penny,Leonard
+80227;s01e06;test;Leonard, in a costume, closes his front door quickly and locks it.;1;1;0;1;0;Z;Leonard
+80231;s01e06;test;Raj and a girl lie in bed with a flowered duvet, as he puts his hands behind his head.;1;1;0;1;0;Z;Raj
+80232;s01e06;test;A shot of a big brown hammer near the bed with a pile of clothes on the floor.;0;1;0;0;0;Z;
+80237;s01e06;test;Penny, in a cat costume, puts her head on Leonard's shoulder while they are sitting on the couch.;1;0;0;1;0;Z;Penny,Leonard
+80239;s01e06;test;Penny, in a cat costume, bursts into tears before burying her head in Leonard's neck.;1;0;0;1;1;Z;Penny,Leonard
+80260;s01e06;test;The shirtless guy walks over and rubs Leonard's hair.;1;0;0;1;0;Z;Leonard
+80264;s01e06;test;Penny nudges the shirtless guy in the arm while smiling at him.;1;0;0;1;1;Z;Penny
+94548;s01e06;test;Penny, in a cat costume, kisses Leonard as they sit on the couch.;1;0;0;1;0;Z;Penny,Leonard
+94551;s01e06;test;Sheldon brings a drink in a mug to Leonard who is sitting on the couch in a costume.;1;1;0;1;0;Z;Sheldon,Leonard
+94552;s01e06;test;Sheldon pats Leonard, who is in a costume, on the back a couple of times as Leonard sits on the couch.;1;0;0;1;0;Z;Sheldon,Leonard
+94556;s01e06;test;Penny, in a cat costume, places her hands on her hips and moves them while standing in front of a shirtless guy.;1;0;0;1;0;Z;Penny
+7737;s02e01;test;Sheldon's eyes and mouth begin to twitch uncontrollably, while he wears a mint green shirt.;1;0;0;1;1;P;Sheldon
+28225;s02e01;test;Sheldon, in a green shirt, folds a red shirt and places it on top of other folded shirts in a laundry room.;1;1;1;1;0;Z;Sheldon
+28226;s02e01;test;Penny, in a pink shirt, walks through the door carrying a laundry basket and puts it on the laundry machine.;1;1;0;1;0;Z;Penny
+28227;s02e01;test;Penny, in a pink shirt, pours laundry detergent into the washing machine.;1;1;0;1;0;P;Penny
+29595;s02e01;test;Sheldon, in green plaid pajamas, is leaning against his desk, propping himself up with one hand, and holding his hip.;1;0;0;0;0;Z;Sheldon
+29596;s02e01;test;Sheldon, in green plaid pajamas, slumps from the headrest of the armchair down into the chair and makes a shushing gesture.;1;0;0;1;0;Z;Sheldon
+29598;s02e01;test;Leonard, in a red robe, clenches his hands into fists and puts them up to his face out of frustration.;1;0;0;1;1;Z;Leonard
+29600;s02e01;test;Sheldon, in green plaid pajamas, lifts his right hand and stares at his fingers.;1;0;0;1;0;Z;Sheldon
+29605;s02e01;test;Penny, in a green tank top, is holding a flyer while talking to Leonard, who points his finger at it.;1;1;0;1;0;Z;Penny,Leonard
+29606;s02e01;test;Penny, in a green tank top, closes her apartment door in Leonard's surprised face.;1;1;1;1;1;Z;Penny,Leonard
+29607;s02e01;test;Leonard leaves Penny's apartment door to go inside his apartment and looks up at the camera.;1;0;1;1;0;Z;Leonard,Penny
+29615;s02e01;test;Sheldon stands up from the floor next to Howard, in maroon pajamas, and gets in the bed, arranging the covers and pillow comfortably.;1;1;0;1;0;Z;Sheldon,Howard
+29619;s02e01;test;Howard, in maroon pajamas, lies down on the blue air mattress.;1;1;0;1;0;P;Howard
+29620;s02e01;test;Howard grabs his pillow and puts it over his face.;1;1;0;1;0;Z;Howard
+29622;s02e01;test;Howard, in maroon pajamas, throws the bag off his shoulder and drops it on the floor in front of Leonard.;1;1;0;1;0;Z;Howard,Leonard
+30695;s02e01;test;Raj is sitting next to Howard, who is wearing a purple shirt, when they lean over to the laptop in front of them.;1;1;0;1;0;Z;Raj,Howard
+30696;s02e01;test;Sheldon, in a blue plaid shirt, walks over to Raj and Howard, with a book in his hand.;1;1;0;1;0;Z;Sheldon,Raj,Howard
+30697;s02e01;test;Leonard, in a suit, takes white cards out of his pocket and shows them to Raj and Howard.;1;1;0;1;0;Z;Leonard,Raj,Howard
+40030;s02e01;test;Leonard and Penny are walking up some stairs and Leonard is talking to Penny while she is eating ice cream.;1;1;1;1;0;Z;Leonard,Penny
+40031;s02e01;test;Leonard and Penny kiss in the hall and a camera on the wall watches them.;1;1;1;1;0;Z;Leonard,Penny
+40034;s02e01;test;A shot of Leonard kissing Penny through a camera view.;1;0;1;1;0;Z;Leonard,Penny
+40105;s02e01;test;Penny kisses Leonard on the cheek, with ice cream in her hands, and walks towards the door.;1;1;0;1;0;Z;Penny,Leonard
+40109;s02e01;test;When Leonard walks into the apartment, Howard and Raj sit back on the couch and try to pretend they weren't spying on him.;1;0;1;1;0;Z;Leonard,Howard,Raj
+40212;s02e01;test;Sheldon, in a blue plaid shirt, is sitting at his desk and puts a pencil in a pencil cup.;1;1;0;1;0;P;Sheldon
+74056;s02e01;test;Sheldon, in a mint green shirt, grabs Penny at the restaurant by the arm to pull her away.;1;0;1;1;0;Z;Sheldon,Penny
+74057;s02e01;test;Sheldon, in a mint green shirt, holds up both of his index fingers to either side of his head.;1;0;0;1;0;P;Sheldon
+74084;s02e01;test;Penny, in a pink shirt, takes the basket full of laundry and dumps it into the laundry machine.;1;1;0;1;0;Z;Penny
+74097;s02e01;test;Leonard jumps onto the couch with a can in his hands and lies on it.;1;1;0;1;0;Z;Leonard
+74099;s02e01;test;Sheldon, in a mint green shirt, walks towards the grey couch with a drink in his hand.;1;1;0;1;0;P;Sheldon
+74101;s02e01;test;Sheldon, in a mint green shirt, with a black bag on his shoulder, enters the room where Leonard is standing at the fridge.;1;1;0;1;0;Z;Sheldon,Leonard
+90955;s02e01;test;Sheldon says something to Raj, which makes Raj give him a very dirty look.;1;0;0;0;1;Z;Sheldon,Raj
+90956;s02e01;test;Howard, in maroon pajamas, answers the door and Raj leaves Sheldon at the doorway and leaves quickly.;1;1;1;1;0;Z;Howard,Raj,Sheldon
+91595;s02e01;test;Sheldon and Leonard walk up the stairs to their apartment landing, walking past white flowers near the apartment doors.;1;1;1;1;0;Z;Sheldon,Leonard
+91597;s02e01;test;Sheldon, in a mint green shirt, looks panicked and quickly turns and runs upstairs away from Leonard.;1;0;1;1;1;Z;Sheldon,Leonard
+91600;s02e01;test;Penny massages her wrists, while standing next to Sheldon in a laundry room.;1;0;1;1;0;Z;Penny,Sheldon
+91603;s02e01;test;Penny points her finger at Sheldon while Sheldon is folding a blue shirt, in a laundry room.;1;1;1;1;0;Z;Penny,Sheldon
+5805;s02e13;test;Sheldon, in a shirt with a colorful chevron pattern, is on his phone as he moves his finger across a whiteboard.;1;1;0;1;0;Z;Sheldon
+5807;s02e13;test;Barry is being clipped in by the instructor into the rock climbing rope.;1;1;0;1;0;Z;Barry
+5810;s02e13;test;Sheldon, in a shirt with a colorful chevron pattern, walks up to a whiteboard and moves his finger across it, then switches to a marker.;1;1;0;1;0;Z;Sheldon
+5813;s02e13;test;Howard, in orange pants, grabs an eraser and erases lines on a whiteboard.;1;1;0;1;0;Z;Howard
+5835;s02e13;test;Sheldon snatches a container of dumplings from Barry and hands it to Raj.;1;1;0;1;0;Z;Sheldon,Barry,Raj
+5839;s02e13;test;A shot of Howard, Leonard, and Raj staring at Sheldon hanging from the ceiling in a harness.;1;1;0;0;0;Z;Howard,Leonard,Raj,Sheldon
+5840;s02e13;test;Raj, who is wearing a red hoodie, is sitting on the arm of Leonard's chair, leaning over and whispering in Leonard's ear.;1;0;0;1;0;Z;Raj,Leonard
+5841;s02e13;test;Barry walks in, flossing his teeth, while Penny makes a disgusted face.;1;0;0;1;1;Z;Barry,Penny
+5842;s02e13;test;Howard, in purple pants, walks past Penny, leans in as he talks, and Penny puts her face in her hand laughing.;1;0;0;1;1;Z;Howard,Penny
+16304;s02e13;test;Sheldon sits down on the green chair beside the little girl wearing a pink shirt, at the bookstore.;1;0;1;1;0;Z;Sheldon
+33245;s02e13;test;A shot of a stressed Sheldon looking up at the climbing wall from below.;1;0;1;0;1;P;Sheldon
+33246;s02e13;test;Sheldon slowly moves up the tall climbing wall.;1;0;1;1;0;P;Sheldon
+33247;s02e13;test;Sheldon, scared, quickly pulls himself in and hugs the climbing wall.;1;0;1;1;1;Z;Sheldon
+33248;s02e13;test;Sheldon is being clipped in by the instructor to climb the wall.;1;0;1;1;0;Z;Sheldon
+41865;s02e13;test;Sheldon passes out on the rock wall, drops down on the rope, and hangs limply from it.;1;1;1;1;0;Z;Sheldon
+47805;s02e13;test;Sheldon, in a brown shirt with blue sleeves, talks to a lady in a brown sweater standing in line, and then she walks away.;1;0;0;1;0;Z;Sheldon
+47817;s02e13;test;Leonard closes the door to the fridge after taking out a bottle of water and spreads his arms wide with the bottle in his hand.;1;1;0;1;0;Z;Leonard
+47822;s02e13;test;Sheldon, in a brown shirt with blue sleeves, takes the cap off the red marker he is holding.;1;1;0;1;0;P;Sheldon
+47824;s02e13;test;Sheldon, in a brown shirt with blue sleeves, gets up from the couch and puts down a red marker on a glass table.;1;1;0;1;0;Z;Sheldon
+47827;s02e13;test;Sheldon, in a blue and purple shirt with green sleeves, walks into Penny's apartment behind her as she's reading the papers.;1;1;1;1;0;Z;Sheldon,Penny
+47830;s02e13;test;Sheldon, in a blue and purple shirt with green sleeves, points out something on Penny's papers and walks away.;1;1;0;1;0;Z;Sheldon,Penny
+47831;s02e13;test;Sheldon is working on some papers with a red marker, which makes Leonard, sitting at his computer, smirk.;1;1;0;1;1;Z;Sheldon,Leonard
+47832;s02e13;test;Penny, in a pink and floral blouse, is confused and annoyed about some papers she's looking at with Sheldon.;1;1;0;0;1;Z;Penny,Sheldon
+47835;s02e13;test;Sheldon, in a blue shirt with orange sleeves, is pouring tea out of a red kettle while talking on the cell phone.;1;1;0;1;0;Z;Sheldon
+47836;s02e13;test;Leonard and Penny, in a yellow blouse, are sitting on the couch together while Penny clicks something on her pink laptop.;1;1;0;1;0;Z;Leonard,Penny
+47837;s02e13;test;Penny, in a yellow blouse, makes a resigned face, eyes closed, mouth wide open, then buries her face in her hands on the couch with Leonard.;1;0;0;1;1;Z;Penny,Leonard
+47841;s02e13;test;Leonard uses a blue cloth napkin to wipe a spot on the coffee table, while sitting on the couch next to Penny.;1;1;0;1;0;Z;Leonard,Penny
+47850;s02e13;test;Leonard, with a pretzel in his hand, walks up to a small table where a happy Sheldon is sitting with a little girl.;1;1;0;1;1;Z;Leonard,Sheldon
+47852;s02e13;test;Enthusiastic Sheldon, in a shirt with a colorful chevron pattern, points to the giant whiteboard behind him that he has set up in the apartment.;1;1;1;1;1;P;Sheldon
+47853;s02e13;test;Leonard grabs Sheldon's arm to pull him away from a small table with a little girl.;1;0;0;1;0;Z;Leonard,Sheldon
+47856;s02e13;test;Enthusiastic Sheldon, in a shirt with a colorful chevron pattern, walks over to his desk, picks up a book and hands it to Raj.;1;1;0;1;1;Z;Sheldon,Raj
+77720;s02e13;test;Sheldon, in a blue shirt with orange sleeves, slams down his drink as he sits at the cafeteria table.;1;1;1;1;0;P;Sheldon
+77728;s02e13;test;Raj, in a purple sweater, is eating his food very happily, smiling and closing his eyes in delight, at the canteen.;1;1;1;1;1;Z;Raj
+77729;s02e13;test;Sheldon is flickering his lips and twitching as he sits beside Howard, at the canteen.;1;0;1;1;1;Z;Sheldon,Howard
+77731;s02e13;test;Kripke, in a brown plaid shirt, licks his lips, staring into the distance with a thoughtful expression, while standing next to Sheldon in the canteen.;1;0;1;1;1;Z;Kripke,Sheldon
+7725;s02e21;test;Penny, standing, leans forward and looks at Sheldon, who is sitting on the couch, with her hands on her knees.;1;0;0;1;0;Z;Penny,Sheldon
+7726;s02e21;test;Raj raises both hands and gives a thumbs-up sign while standing at the bar between a woman in a black dress and Leonard.;1;0;1;1;0;Z;Raj,Leonard
+7827;s02e21;test;A woman in a black dress, seated at a bar, moves her finger around her wine glass, then turns around.;0;1;1;1;0;Z;
+21696;s02e21;test;Penny turns away from Sheldon while they sit on the sofa and rubs her fingers against her right temple, then turns back toward him, surprised.;1;0;0;1;1;Z;Penny,Sheldon
+21710;s02e21;test;Sheldon, in a blue shirt, while eating takeout with chopsticks, raises one shoulder.;1;1;0;1;0;Z;Sheldon
+21711;s02e21;test;Howard, in all red clothes, walks over to the couch with the bottle in his hands and sits next to Sheldon.;1;1;0;1;0;Z;Howard,Sheldon
+21712;s02e21;test;Howard, wearing all red, sobs, holds his hand to his face and turns away from the other guys.;1;0;0;1;1;Z;Howard
+21713;s02e21;test;Howard sits down on the couch, wearing all red, flipping his hand and touching his ear nervously.;1;0;0;1;0;Z;Howard
+21730;s02e21;test;A woman in a black dress, sitting at the table in a bar with Howard, leans forward to him and touches his cheek with a finger.;1;0;1;1;0;Z;Howard
+38380;s02e21;test;Howard, in all red clothes, puts down his plate and pulls his phone out of his pocket.;1;1;0;1;0;Z;Howard
+38383;s02e21;test;Howard, in all red clothes, points his finger at Raj, Leonard, and Sheldon while eating Chinese food and conversing.;1;1;0;1;0;Z;Howard,Raj,Leonard,Sheldon
+38384;s02e21;test;Raj, in a purple sweater, points his finger at Leonard and laughs, while Sheldon looks surprised and confused, while eating Chinese food.;1;1;0;1;1;Z;Raj,Leonard,Sheldon
+38437;s02e21;test;Penny, in a pink robe, sits down on the bed next to Sheldon, who is lying down.;1;0;0;1;0;Z;Penny,Sheldon
+66246;s02e21;test;Sheldon, in a white and beige jacket, enters the messy apartment while holding a plastic bag right after Penny, in an orange shirt.;1;1;1;1;0;Z;Sheldon,Penny
+66247;s02e21;test;Penny, in an orange shirt, reaches under the kitchen counter and gets an orange box, searching for something.;1;1;1;1;0;Z;Penny
+66270;s02e21;test;Howard, wearing all red, lies back on the couch and massages his inner elbow.;1;0;0;1;0;Z;Howard
+66271;s02e21;test;Howard, wearing all red, sits up straight from lying back on the couch and covers his mouth with his hand.;1;0;0;1;0;Z;Howard
+66272;s02e21;test;Leonard is placing napkins on the couch between Sheldon and Howard, who is wearing all red.;1;1;0;1;0;Z;Leonard,Sheldon,Howard
+66276;s02e21;test;Sheldon walks up to the door and searches through his pockets for the apartment keys, surprised and scared.;1;1;1;1;1;Z;Sheldon
+66277;s02e21;test;Leonard plucks his eyebrows and Raj combs his hair in the bathroom, next to each other.;1;0;1;1;0;Z;Leonard,Raj
+66279;s02e21;test;Sheldon, in a white and beige jacket, pulls the door handle and tries to enter, screaming.;1;1;0;1;0;Z;Sheldon
+66280;s02e21;test;Sheldon walks into the apartment building with a bag of take-out food and sees Penny, in an orange shirt, taking her mail from the mailbox.;1;1;1;1;0;Z;Sheldon,Penny
+66292;s02e21;test;Raj bows in a bar to the woman in a black dress, then she walks away, holding her wine glass.;1;1;1;1;0;Z;Raj
+66294;s02e21;test;A woman in a black dress waves her purse with a wine glass in her other hand, while leaning at the bar.;0;1;1;1;0;Z;
+87536;s02e21;test;Raj picks up a large strip of gold condoms while standing in the bathroom next to Leonard.;1;1;1;1;0;Z;Raj,Leonard
+87537;s02e21;test;Howard, in a blue turtleneck, is typing on his laptop, sitting at a desk in a hotel room, when Raj and Leonard walk in.;1;1;1;1;0;Z;Howard,Raj,Leonard
+87541;s02e21;test;A woman in a black dress approaches Raj at the bar and places her wine glass down right next to him.;1;1;1;1;0;Z;Raj
+88801;s02e21;test;Sheldon, in a white and beige jacket, yells and grabs his plastic bag close to his chest, tight.;1;1;0;1;0;Z;Sheldon
+88802;s02e21;test;A bartender hands Raj a mint green drink and Leonard a beer bottle, at the bar.;1;1;1;1;0;Z;Raj,Leonard
+88803;s02e21;test;Penny, in an orange shirt, goes into the kitchen and picks the phone up off the counter.;1;1;1;1;0;Z;Penny
+88804;s02e21;test;Raj and Leonard clink their drinks together at the bar, with a plate of shrimp between them.;1;1;1;1;0;Z;Raj,Leonard
+97625;s02e21;test;Howard, upright, shakes hands with the woman in a black dress at the bar, when Raj and Leonard look at each other with a smile.;1;0;1;1;1;Z;Howard,Raj,Leonard
+97626;s02e21;test;Penny, in a pink robe, places a pillow and blanket on the sofa next to Sheldon, who is reading a magazine.;1;1;0;1;0;Z;Penny,Sheldon
+97627;s02e21;test;Penny, in a pink robe, stands with her arms crossed, looking irritated, while Sheldon lies stretched out on the couch beside her.;1;0;0;0;1;Z;Penny,Sheldon
+2210001;s02e21;test;Leonard, with a black suitcase in his hand, comes up the stairs and unlocks the apartment door.;1;1;1;1;0;Z;Leonard
+37856;s03e15;test;Penny sits beside Sheldon on the couch with a bowl in her hand and covers herself with the blanket.;1;1;0;1;0;Z;Penny,Sheldon
+37857;s03e15;test;Leonard opens a hotel room door with Raj behind him, both in thick puffer jackets.;1;1;1;1;0;Z;Leonard,Raj
+37859;s03e15;test;Upset Leonard, in a thick puffer jacket, takes champagne from the ice bucket in the hotel room.;1;1;1;1;1;P;Leonard
+37869;s03e15;test;Penny walks towards the wall with a light switch and turns on the lights in the laundry room.;1;1;1;1;0;Z;Penny
+48705;s03e15;test;Sheldon, in an orange shirt, gets up and runs from the lunch table at the cafeteria.;1;0;1;1;0;Z;Sheldon
+48708;s03e15;test;Howard, in a gray-and-red plaid shirt, moves his mouth anxiously, smiling, while sitting at the canteen.;1;0;1;1;1;Z;Howard
+49033;s03e15;test;Howard, in a gray-and-red plaid shirt, is talking with someone on the phone while Raj is looking at him very seriously.;1;1;0;0;1;Z;Howard,Raj
+53115;s03e15;test;Leonard is outside the bathroom door and massages his belly with a pained face.;1;0;1;1;1;P;Leonard
+53117;s03e15;test;A shot of a living room glass table covered in medications, with a sick Sheldon sitting on the couch next to it under a blanket, blowing his nose.;1;1;1;1;0;Z;Sheldon
+53119;s03e15;test;Sheldon, with a red nose, walks out of the room with a tissue in his hand.;1;1;0;1;0;P;Sheldon
+53171;s03e15;test;Sheldon puts away the laptop in his hand and runs back into the laundry room to give Penny a hug.;1;1;1;1;0;Z;Sheldon,Penny
+53173;s03e15;test;Penny is folding clothes when Sheldon closes his laptop as they are in the laundry room.;1;1;1;1;0;Z;Penny,Sheldon
+53186;s03e15;test;Happy Sheldon, in a purple shirt, puts food from a frying pan down onto a plate.;1;1;0;1;1;P;Sheldon
+53206;s03e15;test;Penny suddenly sneezes and quickly grabs a tissue while lying in bed with Leonard.;1;1;0;1;0;Z;Penny,Leonard
+53207;s03e15;test;Howard makes some uncomfortable faces and Leonard, in a red hoodie and grey jacket, scratches his head.;1;0;0;1;1;Z;Howard,Leonard
+62276;s03e15;test;Sheldon walks up and flips the light switch to turn off the lights in the laundry room.;1;1;1;1;0;Z;Sheldon
+62277;s03e15;test;Sheldon uses a remote control and turns on the projector's light in the laundry room.;1;1;1;1;0;Z;Sheldon
+62278;s03e15;test;Sheldon places a laptop on a table next to Penny, who is folding clothes in the laundry room.;1;1;1;1;0;Z;Sheldon,Penny
+62300;s03e15;test;Leonard wakes up with a smile to find Sheldon standing by his bed, playing a wooden flute.;1;1;0;1;1;Z;Leonard,Sheldon
+62301;s03e15;test;Sheldon picks up a breakfast tray and sets it in front of Leonard.;1;1;0;1;0;Z;Sheldon,Leonard
+62302;s03e15;test;Sheldon picks up a beret and puts it on Leonard's pancakes to keep them warm.;1;1;0;1;0;Z;Sheldon,Leonard
+62314;s03e15;test;Sheldon walks up to the cafeteria table, puts down a tray with only utensils and walks away.;1;1;1;1;0;Z;Sheldon
+62365;s03e15;test;Sheldon, in an orange shirt, is taking his clothes out of his dresser to pack them when Leonard walks in.;1;1;0;1;0;Z;Sheldon,Leonard
+62366;s03e15;test;Sheldon holds up two beanies by his head.;1;1;0;1;0;P;Sheldon
+70615;s03e15;test;Sheldon, standing by Leonard's bed, hands him a scone with kitchen tongs.;1;1;0;1;0;Z;Sheldon,Leonard
+70616;s03e15;test;Leonard takes the coffee mug from the bed tray and drinks from it.;1;1;0;1;0;Z;Leonard
+70619;s03e15;test;Sheldon removes the breakfast tray from Leonard's bed and walks out of the room.;1;1;0;1;0;Z;Sheldon,Leonard
+70911;s03e15;test;Sheldon, in an orange shirt, grabs his throat and moves his mouth in weird positions.;1;0;0;1;1;Z;Sheldon
+70912;s03e15;test;Sheldon, in a grey jacket, turns his head to Leonard, smiling, in the car.;1;0;1;1;1;Z;Sheldon,Leonard
+82951;s03e15;test;Leonard, in a navy hoodie and green jacket, says something, and Sheldon quickly gives him a dirty look, in the car.;1;0;1;0;1;Z;Leonard,Sheldon
+82961;s03e15;test;Penny, in a red blouse, and Leonard both look down while sitting on the couch and Penny puts her hand on his shoulder.;1;0;0;1;0;Z;Penny,Leonard
+82964;s03e15;test;Leonard, in a yellow hoodie and purple jacket, makes strange frustrated movements with his body, then throws himself onto the sofa.;1;0;0;1;0;Z;Leonard
+82965;s03e15;test;Penny gets really excited, and she and Leonard, in a yellow hoodie and purple jacket, hug each other.;1;0;0;1;1;Z;Penny,Leonard
+82969;s03e15;test;Penny is holding Leonard's arm, while he holds a small knife in his hand, while sitting on the couch.;1;1;0;0;0;Z;Penny,Leonard
+82970;s03e15;test;Leonard, in a yellow hoodie and purple jacket, carries over a tray of fondue items and sets it on the coffee table.;1;1;0;1;0;Z;Leonard
+82971;s03e15;test;Leonard, in a yellow hoodie and purple jacket, starts slicing the cheese with a knife.;1;1;0;1;0;P;Leonard
+82972;s03e15;test;Penny picks up a chocolate bar from the tray and sets it back down.;1;1;0;1;0;Z;Penny
+19952;s03e19;test;Shy Raj, in a light blue and grey jacket, closes his comic book and puts it back into the display case.;1;1;0;1;1;Z;Raj
+19953;s03e19;test;Leonard touches his nose and mouth while looking through comics, standing next to Sheldon, in an orange shirt.;1;1;0;1;0;Z;Leonard,Sheldon
+19955;s03e19;test;Raj points toward Howard, in a mint green turtleneck with a mustard vest over it, and he acts confused.;1;0;0;1;1;Z;Raj,Howard
+19960;s03e19;test;Raj raises his beer and then takes a sip of it, at the bowling lane.;1;1;1;1;0;Z;Raj
+19962;s03e19;test;Penny licks her fingers, at the bowling lane.;1;0;1;1;0;P;Penny
+19965;s03e19;test;Penny looks up and winks at someone, making a finger gun gesture.;1;0;0;1;1;Z;Penny
+19966;s03e19;test;Sheldon, in an orange shirt, jumps happily and pumps his fist, at the bowling lane.;1;0;1;1;0;Z;Sheldon
+19967;s03e19;test;A shot of a maroon bowling ball striking the pins and all of them falling over.;0;1;0;1;0;Z;
+19969;s03e19;test;Sheldon throws a maroon bowling ball into a bowling lane and gets a strike.;1;1;1;1;0;Z;Sheldon
+19970;s03e19;test;Howard, in a mustard vest, is wiping his mouth with his arm while Sheldon is spraying his shoes.;1;1;0;1;0;Z;Howard,Sheldon
+19971;s03e19;test;Penny is putting her shoes on with an uncomfortable face, next to Leonard in the bowling alley.;1;1;1;1;1;Z;Penny,Leonard
+19973;s03e19;test;Howard, in a mustard vest, is raising his hand with a resigned face while Sheldon sprays a chemical into the shoes.;1;1;0;1;1;Z;Howard,Sheldon
+28541;s03e19;test;Penny, in a pink sleeveless top, puts the bag in the freezer.;1;1;0;1;0;P;Penny
+28544;s03e19;test;Penny, in a pink sleeveless top, raises her hands in the air and shakes them vigorously side to side with closed eyes.;1;0;0;1;1;Z;Penny
+28635;s03e19;test;Howard, in a mint green turtleneck with a mustard vest over it, and Raj lean over the comics display case next to each other with confused, thinking faces.;1;1;0;1;1;Z;Howard,Raj
+28639;s03e19;test;Leonard looks uncomfortable, touches his arm and walks away from Howard and Raj standing at the comics display.;1;1;0;1;1;Z;Leonard,Howard,Raj
+28797;s03e19;test;Howard puts on his shoes, then turns, scared, to Sheldon, who sprays his shoes.;1;1;0;1;1;Z;Howard,Sheldon
+28798;s03e19;test;Sheldon, in an orange shirt, looks down with a shy, pleased smile, at the comic store.;1;0;1;0;1;P;Sheldon
+53936;s03e19;test;Sheldon, in a mint green shirt with orange sleeves, jumps up with his arms open showing excitement at the bowling alley.;1;0;1;1;1;Z;Sheldon
+53937;s03e19;test;Leonard rolls his black bowling ball down the bowling lane, next to Stuart, who also has a black ball.;1;1;1;1;0;Z;Leonard,Stuart
+53938;s03e19;test;Sheldon leans and bends his body forward after he throws the maroon bowling ball.;1;1;0;1;0;Z;Sheldon
+54443;s03e19;test;Leonard holds the back of Penny's head and kisses her, while they both lie in bed.;1;0;0;1;0;Z;Leonard,Penny
+54444;s03e19;test;Penny kisses Leonard, then turns her back to him in bed, and opens her eyes wide in shock.;1;0;0;1;1;Z;Penny,Leonard
+61516;s03e19;test;Leonard folds his laundry when Penny walks into the laundry room.;1;1;1;1;0;Z;Leonard,Penny
+61520;s03e19;test;Leonard spreads his arms out in a gesture of 'no,' while walking up to the laundry machine.;1;1;0;1;0;Z;Leonard
+61521;s03e19;test;Leonard puts a bottle of bleach into his laundry basket when an excited Sheldon, in a mint green shirt with orange sleeves, walks in.;1;1;0;1;1;Z;Leonard,Sheldon
+61522;s03e19;test;Penny turns her head with her mouth open toward Leonard and rubs her nose in the bowling alley.;1;0;1;1;1;Z;Penny,Leonard
+61524;s03e19;test;Sheldon takes a yellow bowling jersey out of a bag that he brings to the bowling alley.;1;1;1;1;0;Z;Sheldon
+61527;s03e19;test;A shot of Penny, Leonard, Raj and Howard putting shoes on at the bowling alley, when Sheldon walks in.;1;1;1;1;0;Z;Penny,Leonard,Raj,Howard,Sheldon
+61550;s03e19;test;Stressed Penny is tying the laces of her shoes while sitting between Leonard and Sheldon at the bowling alley.;1;1;1;1;1;Z;Penny,Leonard,Sheldon
+61551;s03e19;test;Penny walks away from Leonard, crying and touching her belly, and leaves the bowling alley.;1;0;1;1;1;Z;Penny,Leonard
+61552;s03e19;test;Howard, Leonard, Sheldon and Raj enter the comic book store dressed in women's costumes.;1;0;1;1;0;Z;Howard,Leonard,Sheldon,Raj
+61553;s03e19;test;Leonard, in a black vest and grey hoodie, rubs Penny's back with his right hand at the red-and-white plastic seats.;1;0;0;1;0;Z;Leonard,Penny
+78581;s03e19;test;Howard is struggling to take a black bowling ball from the tray.;1;1;0;1;0;P;Howard
+78582;s03e19;test;Happy Leonard, with a beer bottle, sits down in the seat next to Penny at the bowling alley.;1;1;1;1;1;Z;Leonard,Penny
+13987;s04e01;test;The robotic hand drops the small package into Penny's hand, which she holds out expectantly.;1;1;0;1;0;Z;Penny
+13988;s04e01;test;A robotic arm reaches into a paper bag and pulls out containers of food onto a table while Raj, Leonard, and Sheldon cheer.;1;1;0;1;0;Z;Raj,Leonard,Sheldon
+18105;s04e01;test;Penny raises her shoulders and body, mouth open and eyes closed, sitting next to Sheldon, in a yellow shirt, at the restaurant.;1;0;1;1;1;Z;Penny,Sheldon
+18107;s04e01;test;Penny puts her head down on her hand at the restaurant table.;1;0;1;1;0;P;Penny
+18111;s04e01;test;Leonard reaches for Howard's laptop on the bed, but Howard, under the purple blanket, stops him with a gesture.;1;1;0;1;0;Z;Leonard,Howard
+18116;s04e01;test;Howard is sitting in his bed with a purple blanket over his private parts and rubs his eyes with his hands.;1;1;0;1;0;Z;Howard
+18117;s04e01;test;Sheldon, in a yellow shirt with grey sleeves, raises his head from a plate with a strange expression while smiling in a restaurant.;1;1;1;1;1;Z;Sheldon
+18118;s04e01;test;Raj does a pulling gesture with both hands as he stands beside Leonard, who has his arms crossed.;1;0;0;1;0;Z;Raj,Leonard
+47092;s04e01;test;Penny, at the door, looks angry at Sheldon, wearing a yellow shirt and grey sleeves, then he smiles and opens the door to his apartment.;1;1;1;1;1;Z;Penny,Sheldon
+47094;s04e01;test;Sheldon, wearing a yellow shirt and grey sleeves, enters the apartment while Leonard talks on his cell phone.;1;1;1;1;0;Z;Sheldon,Leonard
+62890;s04e01;test;Penny, in a pink patterned tank top, opens her mouth wide in shock, moving her head to the side, at Sheldon.;1;0;0;1;1;Z;Penny,Sheldon
+62892;s04e01;test;Howard, in a green shirt, slowly turns his head around and looks at the robot hand massaging his shoulder.;1;1;0;1;0;Z;Howard
+62896;s04e01;test;Leonard, while talking to Raj, reaches his hand toward the magazines on the table and holds his hand on them for a moment.;1;1;0;1;0;Z;Leonard,Raj
+62900;s04e01;test;Penny spits water out and the robot hands Penny a blue napkin.;1;1;0;1;0;Z;Penny
+80204;s04e01;test;The robotic hand holds up two fingers in front of Sheldon.;1;1;0;1;0;Z;Sheldon
+96013;s04e01;test;Penny points to their table for the waiter at the restaurant, while sitting with Amy and Sheldon.;1;0;1;1;0;Z;Penny,Amy,Sheldon
+96015;s04e01;test;Leonard and Raj slowly walk through a doorway into a clinic pulling a robotic arm that is attached, underneath a blanket, to Howard.;1;1;1;1;0;Z;Leonard,Raj,Howard
+96016;s04e01;test;The nurse takes off her glasses, walks over and looks underneath Howard's purple blanket.;1;1;0;1;0;Z;Howard
+96017;s04e01;test;The nurse walks over to the desk, picks up the phone receiver and talks into it.;0;1;0;1;0;Z;
+96020;s04e01;test;The nurse is speaking to Howard, while Raj and Leonard look at each other beside her and laugh.;1;0;0;0;1;Z;Howard,Raj,Leonard
+96021;s04e01;test;The nurse clicks something on the laptop that Leonard is holding and Howard's robotic arm releases him.;1;1;0;1;0;Z;Leonard,Howard
+96740;s04e01;test;Sheldon, in a yellow shirt with grey sleeves, knocks on Penny's door repeatedly.;1;1;0;1;0;Z;Sheldon,Penny
+96745;s04e01;test;The hand of a robot massages Howard's shoulder, while he opens his mouth wide and closes his eyes in pleasure.;1;1;0;1;1;Z;Howard
+96747;s04e01;test;Penny, while driving a car, briefly turns toward Sheldon, the corner of her mouth lifting into a smile.;1;1;1;1;1;Z;Penny,Sheldon
+96750;s04e01;test;Leonard grabs a blue napkin from the robotic hand and sits down in a chair.;1;1;0;1;0;Z;Leonard
+4010001;s04e01;test;Howard is screaming in shock, then looks under the purple blanket around his hips and smiles, at the clinic.;1;1;1;1;1;Z;Howard
+4010002;s04e01;test;Sheldon, in a yellow shirt, raises his hand in a stop gesture while in a car with Amy in the back seat and Penny driving.;1;0;1;1;0;Z;Sheldon,Amy,Penny
+4010003;s04e01;test;Howard is sitting in his bed with a purple blanket over his private parts and shaking his spread arms in panic.;1;1;0;1;0;Z;Howard
+4010004;s04e01;test;Amy's expressionless face suddenly shifts into a smug, close-lipped smile at the restaurant table.;1;0;1;1;1;P;Amy
+4010005;s04e01;test;People in the clinic waiting room suddenly look at Howard, a robotic arm attached under his blanket, after a nurse speaks on the phone.;1;1;1;1;0;Z;Howard
+38722;s04e12;test;Penny taps her phone screen with her finger while sitting next to Sheldon on the stairs.;1;1;1;1;0;Z;Penny,Sheldon
+38727;s04e12;test;Leonard, in a black vest, looks at a notebook, then at his computer screen, and turns back to face Howard and Raj sitting in the living room.;1;1;1;1;0;Z;Leonard,Howard,Raj
+38730;s04e12;test;Sheldon, in a blue shirt, sets a speaker on the desk and then sits down.;1;1;0;1;0;Z;Sheldon
+38735;s04e12;test;Leonard gets up from the couch and goes to Sheldon's desk, where Sheldon is strangely moving both his hands above something.;1;0;0;1;0;Z;Leonard,Sheldon
+38736;s04e12;test;Sheldon walks out of the apartment with electrical gear in his hands and then walks towards the stairs.;1;1;1;1;0;Z;Sheldon
+38737;s04e12;test;Penny enters the apartment building and stops when she sees Sheldon, with electrical gear, sitting on the stairs.;1;1;1;1;0;Z;Penny,Sheldon
+38740;s04e12;test;Penny stands up from the couch and Sheldon puts the electronic device on the table, then picks up his mug.;1;1;0;1;0;Z;Penny,Sheldon
+38741;s04e12;test;Penny, in a white shirt and mustard vest, is sitting next to Sheldon on the couch when he winks at her.;1;0;0;1;1;Z;Penny,Sheldon
+38742;s04e12;test;Leonard, in a black vest, is leaning over to show Sheldon something on the phone.;1;1;0;1;0;Z;Leonard,Sheldon
+38745;s04e12;test;Sheldon rapidly stands up from the couch and walks up to the whiteboard to erase everything.;1;1;0;1;0;Z;Sheldon
+38747;s04e12;test;A shot of Penny taking a photo on her phone of the shoes on the table while Sheldon sits in the armchair with his laptop on his lap.;1;1;0;1;0;Z;Penny,Sheldon
+38752;s04e12;test;Leonard, in a black vest, gets up from his desk with a notebook in his hand, walks over, and sits on the couch, next to Howard.;1;1;0;1;0;Z;Leonard,Howard
+38755;s04e12;test;Sheldon moves his hand back and forth in the air over an electronic device lying in his lap, while sitting on the couch with Penny.;1;1;0;1;0;Z;Sheldon,Penny
+38756;s04e12;test;Penny puts her hands together and quickly claps twice as she is talking to Sheldon with an electronic device lying in his lap.;1;1;0;1;0;Z;Penny,Sheldon
+38758;s04e12;test;Penny, in a white shirt and mustard vest, stands at the doorway, smiles, lifts her index finger, and closes the door.;1;1;1;1;1;Z;Penny
+48485;s04e12;test;Howard, in an orange shirt, angrily talking on the phone at the canteen, moves his hand all over his face with his eyes closed.;1;1;1;1;1;Z;Howard
+48487;s04e12;test;Raj, in a red sweatshirt, is smiling while talking at the canteen table, while Sheldon, Howard, and Leonard look at him with a serious expression.;1;0;1;0;1;Z;Raj,Sheldon,Howard,Leonard
+68597;s04e12;test;Sheldon caps his marker and places it by one of the many whiteboards in the living room.;1;1;1;1;0;Z;Sheldon
+68598;s04e12;test;Leonard, in a red robe, walks into the living room to find Sheldon surrounded by whiteboards.;1;1;1;1;0;Z;Leonard,Sheldon
+68665;s04e12;test;Sheldon, in a purple shirt, rests his elbow on the arm of the couch, holding a paper in his other hand.;1;1;0;0;0;Z;Sheldon
+68666;s04e12;test;Raj and Howard are on their laptops in the living room as they watch Leonard, standing next to the whiteboard, resting his chin on his hand.;1;1;1;0;0;Z;Raj,Howard,Leonard
+68678;s04e12;test;Sheldon, in a purple shirt, gets up and goes to the desk under the window to pick up documents to hand out to the others.;1;1;0;1;0;Z;Sheldon
+83992;s04e12;test;Sheldon, in a purple shirt, sits down on the couch next to Howard and raises his shoulders suddenly.;1;0;0;1;0;Z;Sheldon,Howard
+83994;s04e12;test;Sheldon, in a purple shirt, shakes his right index finger, makes an okay sign with his hand and then puts his right index finger to his lips.;1;0;0;1;0;Z;Sheldon
+83998;s04e12;test;Leonard, in a red robe, pours himself a cup of coffee into a brown mug.;1;1;0;1;0;P;Leonard
+84010;s04e12;test;Leonard, in a blue shirt and green jacket, comes from the kitchen and sits down, placing green and yellow cans on the glass table.;1;1;1;1;0;Z;Leonard
+84012;s04e12;test;Sheldon, in a purple shirt with black sleeves, suddenly moves his body while sitting on the couch and starts to clap as he is singing a song.;1;0;0;1;0;Z;Sheldon
+84031;s04e12;test;Sheldon takes two can koozies from a paper bag, while sitting at the canteen.;1;1;1;1;0;P;Sheldon
+84034;s04e12;test;Howard holds a mobile phone up to a whiteboard and uses it to take a photo.;1;1;0;1;0;Z;Howard
+84037;s04e12;test;Sheldon reaches into a paper bag and pulls out two key chains while sitting at the canteen.;1;1;1;1;0;Z;Sheldon
+84038;s04e12;test;Sheldon hands Raj a black mug from a brown bag, as he is sitting at the canteen.;1;1;1;1;0;Z;Sheldon,Raj
+265;s05e09;test;Sheldon opens the cracked window and the bird flies away through it, from the couch.;1;1;0;1;0;Z;Sheldon
+273;s05e09;test;Bernadette walks towards Sheldon, who is seated on the couch with a bird on his arm, and takes his picture.;1;1;0;1;0;Z;Bernadette,Sheldon
+286;s05e09;test;A shot of Sheldon, seen through the window, waving his hands and shooing a bird sitting on the ledge outside the window.;1;1;1;1;0;Z;Sheldon
+287;s05e09;test;Sheldon pulls the cord on the curtains, causing the drapes to draw closed.;1;1;0;1;0;Z;Sheldon
+290;s05e09;test;Bernadette walks over to the couch and lets a bird jump onto her arm.;1;1;0;1;0;Z;Bernadette
+291;s05e09;test;Amy and Bernadette look at a bird on the couch, then turn to Sheldon standing in the doorway with crossed arms.;1;1;1;1;0;Z;Amy,Bernadette,Sheldon
+292;s05e09;test;Amy opens the door wider where Sheldon stands and the bird hops onto the back of the sofa.;1;1;0;1;0;Z;Amy,Sheldon
+296;s05e09;test;Sheldon, with a bird on his arm, picks up a cup from a table near the sofa and offers it to the bird, which takes it.;1;1;0;1;0;Z;Sheldon
+1325;s05e09;test;Sheldon slowly walks from the doorway toward a bird that Bernadette is holding on her arm, to pet it.;1;1;1;1;0;Z;Sheldon,Bernadette
+1326;s05e09;test;Bernadette is holding a bird on her arm, looking angrily at Sheldon in a yellow shirt.;1;1;0;0;1;Z;Bernadette,Sheldon
+1328;s05e09;test;Sheldon touches the feathers of a bird slightly, then jumps back with a smile.;1;1;0;1;1;Z;Sheldon
+42276;s05e09;test;Leonard and Penny, in a dark grey blazer, both stand with crossed arms in the crowded bar.;1;0;1;0;0;Z;Leonard,Penny
+42290;s05e09;test;Leonard, in a blue baseball cap worn backwards, turns around and, frustrated, takes off his baseball hat while going into the bedroom.;1;1;1;1;1;Z;Leonard
+42291;s05e09;test;Penny, in a dark grey blazer, and Leonard walk into the movie theater.;1;0;1;1;0;Z;Penny,Leonard
+42292;s05e09;test;Leonard walks away from Penny, then turns around, while she rummages through her shoulder bag, in the movie theater.;1;1;1;1;0;Z;Leonard,Penny
+42293;s05e09;test;Sheldon, standing near the window and bookcase, twitches and rushes towards the desk to get a pen and paper and suddenly writes something.;1;1;0;1;0;Z;Sheldon
+42294;s05e09;test;Sheldon, seen through the window, tries to scare the bird outside by holding up a drawing of a cat to his face, while making a cat gesture with his hand.;1;1;1;1;0;Z;Sheldon
+42300;s05e09;test;A shot of Sheldon, seen through the window at night, making cat-like hand gestures at a bird sitting on the ledge outside the window.;1;1;1;1;0;Z;Sheldon
+42301;s05e09;test;Sheldon, standing in front of a bookcase, near the window with drapes, dials a number on his cell phone.;1;1;0;1;0;P;Sheldon
+42302;s05e09;test;Leonard takes off his grey blazer with an angry face and walks out of the room.;1;1;0;1;1;Z;Leonard
+42304;s05e09;test;Leonard, in a grey suit, flaps his arms like a chicken.;1;0;0;1;0;P;Leonard
+42306;s05e09;test;Sheldon, standing in front of a bookcase, near a DNA model, angrily hits the button to hang up the phone.;1;1;0;1;0;Z;Sheldon
+42307;s05e09;test;Leonard, in a blue baseball cap worn backwards, stands in the apartment and throws his hands out from his sides while talking.;1;0;1;1;0;Z;Leonard
+42315;s05e09;test;Penny hangs her purse on her chair at the bar and elbows a nearby man with a laptop.;1;1;1;1;0;Z;Penny
+42316;s05e09;test;Leonard extends his hand and holds it out in front of him, and Penny, at the bar, gives him something from her purse.;1;1;1;1;0;Z;Leonard,Penny
+42317;s05e09;test;Leonard stands by Penny's table at the bar, then sets the table number down.;1;1;1;1;0;Z;Leonard,Penny
+42321;s05e09;test;Howard, all in blue, rests his chin on his hand in an armchair, then picks up the remote from the coffee table.;1;1;0;1;0;Z;Howard
+79871;s05e09;test;Sheldon opens the cracked window and, when he sees a bird on the sill, closes it quickly.;1;1;0;1;0;Z;Sheldon
+79872;s05e09;test;Sheldon comes out of the closet with a helmet on his head and holding a broom.;1;1;1;1;0;Z;Sheldon
+80030;s05e09;test;Sheldon, Raj, and Howard stand by the window at night as it cracks, with a bird still on the ledge.;1;1;1;1;0;Z;Sheldon,Raj,Howard
+80032;s05e09;test;Sheldon adjusts a machine standing at the desk near the window and bookcase, while looking at it.;1;1;0;1;0;P;Sheldon
+80033;s05e09;test;Sheldon, Raj, and Howard come and look closer at the cracked window together.;1;1;0;1;0;Z;Sheldon,Raj,Howard
+97506;s05e09;test;Sheldon, in a yellow shirt, points his finger at his mouth while talking to Raj on the couch.;1;0;0;1;0;Z;Sheldon,Raj
+5090001;s05e09;test;A shot of Sheldon, seen through the window, knocking on the window at a bird sitting on the ledge outside.;1;1;1;1;0;Z;Sheldon
+5090002;s05e09;test;Sheldon, with a helmet on his head and holding a broom, opens the cracked window and leans over.;1;1;0;1;0;Z;Sheldon
+5090003;s05e09;test;The bird flies into the apartment through the open window.;0;1;1;1;0;P;
+5090004;s05e09;test;Sheldon gets up from the floor and takes off his helmet, seeing a bird sitting on the sofa in the apartment.;1;1;1;1;0;Z;Sheldon
+11645;s05e13;test;Penny stops kissing Leonard, in a red robe, and leads him by the hand from his doorway to her apartment.;1;0;1;1;0;Z;Penny,Leonard
+11646;s05e13;test;Leonard rolls onto his side toward Penny, while they are lying together in bed on orange pillows.;1;1;0;1;0;Z;Leonard,Penny
+11650;s05e13;test;Sheldon places a blue game piece on the game board while Raj and Howard laugh.;1;1;0;1;1;Z;Sheldon,Raj,Howard
+11651;s05e13;test;Leonard rolls over in bed, with a blue cover, and puts his glasses on to check his phone.;1;1;0;1;0;Z;Leonard
+11652;s05e13;test;Leonard, in a red robe, standing in the hallway in front of the doors, is kissed by Penny.;1;0;1;1;0;Z;Leonard,Penny
+11656;s05e13;test;Sheldon lays down some cards in a couple of places on the table while playing a card game with bored Raj and Howard.;1;1;0;1;1;Z;Sheldon,Raj,Howard
+11658;s05e13;test;Penny laughs and fixes her bangs while holding a glass of wine, at the restaurant with Leonard, in a black suit.;1;1;1;1;1;Z;Penny,Leonard
+11659;s05e13;test;Leonard, in a black suit, comes into the apartment and slams the door, then Howard looks at his watch.;1;1;1;1;0;Z;Leonard,Howard
+11676;s05e13;test;A shot of Sheldon rolling dice and pulling a car from the pile, near the board game set up on the glass table.;1;1;0;1;0;Z;Sheldon
+11679;s05e13;test;Leonard, in a black suit, is looking at his computer while talking to his friends, who are playing a board game at the glass table.;1;1;0;1;0;Z;Leonard
+11690;s05e13;test;Amy and Bernadette are sitting on Penny's bed on a pile of clothes when Penny comes out of her bathroom in a green dress.;1;1;1;1;0;Z;Amy,Bernadette,Penny
+28857;s05e13;test;Sheldon, standing next to Leonard in front of their doors, jumps up and down happily holding a cardboard box.;1;1;1;1;0;Z;Sheldon,Leonard
+28859;s05e13;test;Sheldon walks up and picks up a brown package that was sitting next to the apartment door.;1;1;1;1;0;Z;Sheldon
+28860;s05e13;test;Sheldon stands in the hallway with Leonard, holding a cardboard box and covering his mouth.;1;1;1;0;0;Z;Sheldon,Leonard
+28861;s05e13;test;While Penny, Amy, and Bernadette are unboxing something, Leonard knocks on Penny's opened door.;1;1;0;1;0;Z;Penny,Amy,Bernadette,Leonard
+28862;s05e13;test;Sheldon stands in the hallway talking to a Spock cutout.;1;1;1;0;0;P;Sheldon
+53257;s05e13;test;Leonard, at night in bed, rubs his head, then wakes up, puts on his glasses, and looks at his phone.;1;1;1;1;0;Z;Leonard
+53262;s05e13;test;Leonard, in a red robe, walks away from Penny, stands in front of Penny's open door, yells, and gestures with his hand for her to go in.;1;0;1;1;0;Z;Leonard,Penny
+53264;s05e13;test;Penny yells and gestures a lot with her hands, angry at Leonard, in a red robe, while standing in the hallway at his door.;1;0;1;1;1;Z;Penny,Leonard
+53266;s05e13;test;Sheldon folds up the cardboard version of Spock.;1;1;0;1;0;P;Sheldon
+53267;s05e13;test;Penny and Leonard stand at the altar, and as they turn to face each other, Penny reveals a big pregnant belly.;1;0;1;1;0;Z;Penny,Leonard
+53272;s05e13;test;Penny, while lying in bed with orange pillows, gets Leonard's inhaler from her bedroom side table drawer and hands it to him.;1;1;1;1;0;Z;Penny,Leonard
+53275;s05e13;test;Leonard shakes and holds the inhaler up to his mouth while lying in bed with Penny on orange pillows.;1;1;0;1;0;Z;Leonard,Penny
+53279;s05e13;test;Leonard, in a red robe, sneaks into the apartment just as Sheldon turns on the light.;1;0;1;1;0;Z;Leonard,Sheldon
+53284;s05e13;test;Leonard pulls his inhaler out of his red robe pocket and happily holds it up in the air.;1;1;0;1;0;Z;Leonard
+53285;s05e13;test;Sheldon picks up some money from his desk drawer while Leonard stands in the back, in a red robe, with an inhaler in his hand.;1;1;0;1;0;Z;Sheldon,Leonard
+53286;s05e13;test;Leonard, in a red robe, looks at the ground and blinks a couple of times, then takes the money from Sheldon's hand.;1;1;0;1;0;Z;Leonard,Sheldon
+66181;s05e13;test;Howard puts his arm on his belly and bends over in his chair laughing, while holding cards in his hand.;1;1;0;1;1;Z;Howard
+66200;s05e13;test;Penny, while sitting in a green armchair, puts her hands up to the sides of her face.;1;0;0;1;0;P;Penny
+66202;s05e13;test;Sheldon takes two cards from his hand and shows them to laughing Raj and Howard while playing a board game at the glass table.;1;1;0;1;1;Z;Sheldon,Raj,Howard
+66203;s05e13;test;Bernadette, sitting on the bed full of clothes next to Amy, stands and runs up to grab Penny's arm to lift her up from the armchair.;1;1;0;1;0;Z;Bernadette,Amy,Penny
+66210;s05e13;test;Penny comes out of her bathroom in a grey vest over a brown shirt, while Amy and Bernadette are sitting on Penny's bed on a pile of clothes.;1;1;1;1;0;Z;Penny,Amy,Bernadette
+3362;s06e01;test;Howard floats through the air in the International Space Station and waves at the laptop with a headset on it.;1;1;1;1;0;Z;Howard
+3366;s06e01;test;Raj lifts up his foot above the table at the canteen to show Sheldon and Leonard that he's wearing sandals.;1;1;1;1;0;Z;Raj,Sheldon,Leonard
+3370;s06e01;test;Penny applies white cream with a spatula on Amy's face between her lip and her nose.;1;1;0;1;0;Z;Penny,Amy
+3371;s06e01;test;Penny closes the lid of a cream container tightly, while sitting next to Amy, who has a white mustache.;1;1;0;1;0;Z;Penny,Amy
+3372;s06e01;test;Penny wipes the cream off the spatula with a tissue.;1;1;0;1;0;P;Penny
+3376;s06e01;test;Leonard, in a green shirt, hands Penny a beer from the coffee table covered with a red checkered tablecloth.;1;1;0;1;0;Z;Leonard,Penny
+3377;s06e01;test;Leonard puts down a bowl on the living room table, covered with a red checkered tablecloth, with drinks and plates already on it.;1;1;1;1;0;Z;Leonard
+3378;s06e01;test;Leonard, in a green shirt, and Penny, each holding a beer, sit on the sofa.;1;1;0;0;0;Z;Leonard,Penny
+3380;s06e01;test;"Sheldon winks at Amy and makes the ""finger guns"" gesture, at the restaurant.";1;0;1;1;1;Z;Sheldon,Amy
+3381;s06e01;test;Amy angrily closes the restaurant menu while sitting at the table.;1;1;1;1;0;P;Amy
+3382;s06e01;test;Raj turns to the waiter and gestures with his hand, then holds three fingers up, while sitting at the table with Amy and Sheldon.;1;0;0;1;0;Z;Raj,Amy,Sheldon
+3383;s06e01;test;Raj gets up and pulls out the chair for Amy as Sheldon sits at the restaurant table.;1;1;1;1;0;Z;Raj,Amy,Sheldon
+3385;s06e01;test;A man floats across the International Space Station behind Howard at the laptop.;1;1;1;1;0;Z;Howard
+3386;s06e01;test;Sheldon, in a dark grey blazer, and Amy enter the restaurant dining area.;1;0;1;1;0;Z;Sheldon,Amy
+3387;s06e01;test;Raj, sitting at the restaurant table, waves at Amy and Sheldon as they come into the restaurant.;1;0;1;1;0;Z;Raj,Amy,Sheldon
+3390;s06e01;test;Howard releases a pen into outer space and it floats.;1;1;1;1;0;Z;Howard
+3394;s06e01;test;Bernadette adjusts her glasses when she's talking to Howard online.;1;1;0;1;0;Z;Bernadette,Howard
+3400;s06e01;test;Howard is in zero gravity, next to a computer console, when someone's head shows up from above.;1;1;1;1;0;Z;Howard
+3405;s06e01;test;Leonard taps Penny on the arm and then sits up, putting his beer on the table covered with a red checkered tablecloth.;1;1;0;1;0;Z;Leonard,Penny
+3406;s06e01;test;Leonard stands up and holds up his green shirt to show something written on his belly.;1;1;0;1;0;Z;Leonard
+33112;s06e01;test;Leonard turns to a comic display and raises both his index fingers above his head.;1;1;0;1;0;Z;Leonard
+33113;s06e01;test;Howard and Bernadette kiss each other at their wedding on the roof with Amy, Sheldon, Penny, Leonard and Raj clapping behind them.;1;0;1;1;0;Z;Howard,Bernadette,Amy,Sheldon,Penny,Leonard,Raj
+35765;s06e01;test;Howard does a two-finger salute and a wink at the spaceship.;1;0;1;1;1;Z;Howard
+45181;s06e01;test;Raj waves his left hand in the air while holding a beer bottle in the other, sitting on the couch between Howard and Penny.;1;1;0;1;0;Z;Raj,Howard,Penny
+45182;s06e01;test;Howard closes his eyes, then looks down while putting his hand on the spaceship console.;1;1;0;1;1;Z;Howard
+45184;s06e01;test;Penny takes a sip of beer and then shakes the bottle while sitting on the couch with Raj and Leonard, in a green shirt.;1;1;0;1;0;Z;Penny,Raj,Leonard
+45187;s06e01;test;Raj sits up and puts his beer bottle down on the coffee table covered with a red checkered tablecloth.;1;1;0;1;0;Z;Raj
+45190;s06e01;test;Raj, in an orange jacket, gets thrown out of the apartment and puts his hands in his pockets.;1;0;1;1;0;Z;Raj
+45195;s06e01;test;Sheldon reaches for his wallet in his jacket pocket while sitting at the restaurant with Amy.;1;1;1;1;0;Z;Sheldon,Amy
+45196;s06e01;test;Raj walks into the closed comic book store while Stuart is folding a t-shirt.;1;1;1;1;0;Z;Raj,Stuart
+45200;s06e01;test;Stuart holds up a Chewbacca mug above the cash register.;1;1;0;1;0;P;Stuart
+45206;s06e01;test;Raj places the cup he was holding on the counter.;1;1;0;1;0;P;Raj
+60791;s06e01;test;Howard talks to his mom while floating in space.;1;0;1;1;0;Z;Howard
+88798;s06e01;test;Penny sits down on the couch holding a glass of wine, next to Amy, who has a white mustache.;1;1;0;1;0;Z;Penny,Amy
+6010001;s06e01;test;Howard sits with two other astronauts, all three of them strapped in and wearing full spacesuits with helmets.;1;0;0;0;0;Z;Howard
+6010002;s06e01;test;A wide shot of the space station with swirling clouds around it.;0;0;1;1;0;P;
+6010003;s06e01;test;Howard, in a green polo shirt and cap, pushes off from one wall to the opposite one, as he floats through the space station.;1;0;1;1;0;Z;Howard
+6010004;s06e01;test;A wide shot of the International Space Station orbiting above the curve of the Earth.;0;0;1;1;0;P;
+9393;s06e07;test;Howard, all in turquoise, takes red clothing and puts it on his chair next to his desk.;1;1;0;1;0;Z;Howard
+9399;s06e07;test;Howard runs up and opens the dresser drawer, then takes out a red cloth, while Bernadette stands in the doorway.;1;1;1;1;0;Z;Howard,Bernadette
+9400;s06e07;test;Leonard, with crossed arms, briefly scratches his nose while standing beside Sheldon, who is sitting at his desk with a laptop.;1;1;0;1;0;Z;Leonard,Sheldon
+9401;s06e07;test;Leonard, in a purple hoodie and jacket, looks uncomfortable and touches his brow while standing beside Sheldon, who is sitting at his desk with a laptop.;1;1;0;1;1;Z;Leonard,Sheldon
+9411;s06e07;test;A shot of the laptop screen, where Amy reaches forward and presses a button that shuts the video off.;1;1;1;1;0;Z;Amy
+9412;s06e07;test;Penny, at a restaurant, carries two plates of burgers and sets them in front of Howard and Bernadette, who is wearing a blue sweater.;1;1;1;1;0;Z;Penny,Howard,Bernadette
+9415;s06e07;test;Leonard is closing a box with packing tape, while Howard is taking a light saber off the wall of his bedroom behind him.;1;1;1;1;0;Z;Leonard,Howard
+9423;s06e07;test;Sheldon, at the doorway, gets a box from a red paper bag and hands it to Amy.;1;1;1;1;0;Z;Sheldon,Amy
+9424;s06e07;test;Someone shoves a box into Sheldon's chest and closes the door.;1;1;0;1;0;Z;Sheldon
+30155;s06e07;test;Amy, in a brown sweater and pink shirt, opens her mouth in surprise while standing near the kitchen.;1;0;1;1;1;P;Amy
+30159;s06e07;test;Sheldon hands Will a figurine from the glass table and gets up from the couch.;1;1;0;1;0;Z;Sheldon,Will
+34292;s06e07;test;Amy nods her head left and right, and then straight up, while standing behind the camera on the tripod.;1;1;0;1;0;P;Amy
+51035;s06e07;test;Sheldon taps the wall threateningly while talking to Will.;1;0;0;1;0;Z;Sheldon,Will
+51036;s06e07;test;Sheldon holds up his fists and moves them in front of Will, while talking.;1;0;0;1;0;Z;Sheldon,Will
+51037;s06e07;test;Sheldon lowers his fist and takes a step back while steadying himself against the wall with his hand.;1;0;0;1;0;Z;Sheldon
+51040;s06e07;test;Sheldon places his hand on Will's chest and then walks away to lean against the porch railing.;1;0;1;1;0;Z;Sheldon,Will
+51041;s06e07;test;A guy in an orange sweater walks over, shakes Sheldon's hand, and sits down on the couch, with a whiteboard and flags behind it.;1;1;0;1;0;Z;Sheldon
+51042;s06e07;test;Sheldon stumbles up to the porch of someone's house at night and knocks on the door.;1;1;1;1;0;Z;Sheldon
+51045;s06e07;test;Sheldon quickly drinks his whole drink while holding a red straw, then makes a happy face, at the bar.;1;1;1;1;1;Z;Sheldon
+51047;s06e07;test;Howard struggles to carry a large box into the room, leaning his whole body into it to set it down on the ground.;1;1;0;1;0;Z;Howard
+51049;s06e07;test;Howard takes the magic wand out of the box and sits beside Bernadette on the couch.;1;1;0;1;0;Z;Howard,Bernadette
+51051;s06e07;test;Bernadette hugs Howard, standing next to a cardboard box lying on the orange chair.;1;1;0;1;0;Z;Bernadette,Howard
+51052;s06e07;test;Sheldon, in a beige-and-white jacket, knocks on the door with his whole fist, light glowing in the windows behind the curtains.;1;1;0;1;0;Z;Sheldon
+51054;s06e07;test;Bernadette, angry, gets up from the couch suddenly, grabs a cardboard box, then leaves the apartment.;1;1;1;1;1;Z;Bernadette
+51056;s06e07;test;Penny, standing in front of Sheldon at the bar, fills a glass with soda from the tap.;1;1;1;1;0;Z;Penny,Sheldon
+51060;s06e07;test;Sheldon takes the last sip of his drink with a red straw and ice, then sets the glass down on the bar.;1;1;1;1;0;Z;Sheldon
+52445;s06e07;test;Penny pretends to throw up while standing behind the bar with a snack lying on the bar counter.;1;1;1;1;0;Z;Penny
+91630;s06e07;test;Leonard looks at the doorframe and points at it with a marker.;1;1;0;1;0;Z;Leonard
+91631;s06e07;test;Sheldon enters the bar and sits on a stool in front of Penny, with a snack lying on the bar counter.;1;1;1;1;0;Z;Sheldon,Penny
+91632;s06e07;test;Raj and Leonard carry boxes out of the room, while Howard, in a yellow shirt, takes something covered in a purple blanket.;1;1;0;1;0;Z;Raj,Leonard,Howard
+91736;s06e07;test;Howard lifts his hands up and aside, with a burger in one hand, at the restaurant.;1;1;1;1;0;Z;Howard
+92001;s06e07;test;Sheldon sits on the couch, whiteboard and flags behind him, reaches over and picks up a toy figurine off the end table.;1;1;0;1;0;Z;Sheldon
+92002;s06e07;test;Will Wheaton, with a blue flag in his hand, joins Sheldon on the couch.;1;1;0;1;0;Z;Will Wheaton,Sheldon
+13265;s06e24;test;Bernadette, in a red dress, walks up to upset Raj and Howard, who are looking at something on a cell phone.;1;1;0;1;1;Z;Bernadette,Raj,Howard
+13266;s06e24;test;Sheldon, in a green shirt with a tie, lifts his glass of milk as a toast with everybody and drinks it.;1;1;0;1;0;Z;Sheldon
+13267;s06e24;test;Leonard and Penny both unbuckle their seat belts, while sitting in a red car, and turn toward each other.;1;1;1;1;0;Z;Leonard,Penny
+13268;s06e24;test;Raj, in a brown shirt, shows Howard something on his cell phone.;1;1;0;1;0;Z;Raj,Howard
+13283;s06e24;test;Raj, in a brown shirt, stands up from the couch, where he was sitting next to Amy, and puts his hands in his pockets.;1;0;0;1;0;Z;Raj,Amy
+13284;s06e24;test;Sheldon, in a green shirt with a tie, hits a fork against his glass of milk as a toast.;1;1;0;1;0;P;Sheldon
+15695;s06e24;test;Penny grabs a bottle of white wine from a shelf in the store and looks at it while talking to Sheldon, then puts it back on the shelf.;1;1;1;1;0;Z;Penny,Sheldon
+15696;s06e24;test;Penny walks closer to the shelf with wine while talking to Sheldon, and puts two bottles of wine into the shopping cart.;1;1;0;1;0;Z;Penny,Sheldon
+15730;s06e24;test;A shot of a woman looking through a telescope, standing next to a smiling Raj, seen through a window.;1;1;1;0;1;Z;Raj
+15745;s06e24;test;Penny bursts out laughing with her mouth wide open, while sitting at the dinner table with salad in front of a smiling Leonard.;1;1;0;1;1;Z;Penny,Leonard
+15751;s06e24;test;Raj, while holding a beer bottle, reaches out and slaps Leonard on the back while he eats his food.;1;1;0;1;0;Z;Raj,Leonard
+15762;s06e24;test;Lucy puts aside an orange napkin and rushes away from the table where Amy and Raj are sitting.;1;1;0;1;0;Z;Lucy,Amy,Raj
+15768;s06e24;test;Penny, in a grocery store with Sheldon, grabs two bottles of vodka and puts them in a cart.;1;1;1;1;0;Z;Penny,Sheldon
+15769;s06e24;test;Penny, in a grocery store with Sheldon, grabs a six-pack of beer from a cooler and puts it in a cart.;1;1;1;1;0;Z;Penny,Sheldon
+51310;s06e24;test;Sheldon, in the back seat, gestures with his thumb out the rear window to Penny behind the wheel.;1;0;1;1;0;Z;Sheldon,Penny
+51311;s06e24;test;Leonard picks up and then hands Penny a small gift in the car with Sheldon in the back seat.;1;1;1;1;0;Z;Leonard,Penny,Sheldon
+51312;s06e24;test;Sheldon puts his head out of the car window, then gives a thumbs up while Penny and Leonard are kissing and hugging in the car.;1;0;1;1;0;Z;Sheldon,Penny,Leonard
+51314;s06e24;test;Sheldon, in a grey shirt, taps the front seat where Leonard is sitting twice and leans forward toward him.;1;0;1;1;0;Z;Sheldon,Leonard
+51983;s06e24;test;Penny scoots closer on the couch, then leans over and hugs a sad Raj on the couch with colorful patterned pillows.;1;1;0;1;1;Z;Penny,Raj
+60540;s06e24;test;Penny raises her head while hugging Raj on the couch with colorful patterned pillows and stops hugging him to look at him.;1;1;0;1;0;Z;Penny,Raj
+60541;s06e24;test;Penny waves her hands over her face and hugs Raj, who starts to cry, on the couch with colorful patterned pillows.;1;1;0;1;1;Z;Penny,Raj
+60542;s06e24;test;Penny is pouring herself wine as she stands in the kitchen with Amy, Raj, and Bernadette, who is wearing a green sweater.;1;1;1;1;0;Z;Penny,Amy,Raj,Bernadette
+62845;s06e24;test;Howard, at a house party, picks up a bottle of wine from the kitchen counter, pours himself a glass, and sets the bottle back down.;1;1;1;1;0;Z;Howard
+62847;s06e24;test;Leonard, at a house party, pours a shot from a shaker and hands it to Bernadette.;1;1;1;1;0;Z;Leonard,Bernadette
+63725;s06e24;test;Amy, in a blue sweater, takes a drink from her wine glass as Raj continues to talk, at the kitchen table.;1;1;1;1;0;Z;Amy,Raj
+63727;s06e24;test;Penny looks uncomfortable at Amy and Bernadette, who are standing in front of Raj with glasses of wine, at the kitchen table.;1;1;1;0;1;Z;Penny,Amy,Bernadette,Raj
+63729;s06e24;test;Penny points at the bottle of wine, then Raj grabs and lifts his bottle of water, while Bernadette and Amy are around the kitchen table.;1;1;1;1;0;Z;Penny,Raj,Bernadette,Amy
+72162;s06e24;test;Sheldon, in a beige jacket, and Leonard sit in the car, which suddenly stops, and Sheldon, with eyes wide open, looks at Leonard.;1;0;1;1;1;Z;Sheldon,Leonard
+89000;s06e24;test;Raj, in an orange apron, is serving a bowl of salad to Lucy and Amy, who are sitting at the table talking.;1;1;0;1;0;Z;Raj,Lucy,Amy
+89001;s06e24;test;Howard, in an orange plaid shirt, reaches out and taps Bernadette on the lap a couple of times, next to the food that she is holding.;1;1;0;1;0;Z;Howard,Bernadette
+18707;s07e13;test;Leonard, in a brown jacket, turns away and rubs his eye with his hand.;1;0;0;1;0;Z;Leonard
+18709;s07e13;test;Penny happily jumps toward Leonard on the sofa to give him a hug.;1;0;0;1;0;Z;Penny,Leonard
+37835;s07e13;test;Amy is working on her computer at the lab when Bert walks in.;1;1;1;1;0;Z;Amy,Bert
+37839;s07e13;test;Bernadette walks into a comic book store with Stuart and is amazed when she looks around.;1;0;1;1;1;Z;Bernadette,Stuart
+37845;s07e13;test;Stuart is leaning on the cashier counter at his comic store, very bored, when he is startled by Bernadette coming into the store.;1;0;1;1;1;Z;Stuart,Bernadette
+37848;s07e13;test;Bernadette takes a comic book out of her purse and shows it to Stuart.;1;1;0;1;0;Z;Bernadette,Stuart
+37851;s07e13;test;Leonard turns around while walking down the stairs, and extends his arm and hand towards Sheldon behind him.;1;0;1;1;0;Z;Leonard,Sheldon
+37852;s07e13;test;Sad Sheldon sits down on the stairs, folds his hands on his knees and looks at the floor.;1;0;1;1;1;Z;Sheldon
+37863;s07e13;test;Stuart dumps a whole shoe box full of prescription bottles on the counter in the comic book store, in front of Bernadette.;1;1;1;1;0;Z;Stuart,Bernadette
+37864;s07e13;test;Amy is looking through a microscope when Howard and Raj walk into her lab.;1;1;1;1;0;Z;Amy,Howard,Raj
+37871;s07e13;test;Penny, running down the stairs with a box, touches Sheldon on the shoulder while he's sitting on the stairs.;1;1;1;1;0;Z;Penny,Sheldon
+37872;s07e13;test;Penny smacks her hand against her leg, while holding a box, and then Sheldon runs to her.;1;1;0;1;0;Z;Penny,Sheldon
+37873;s07e13;test;Penny closes the door and runs down the stairs carrying a box, when she passes Sheldon and goes back to him.;1;1;1;1;0;Z;Penny,Sheldon
+37875;s07e13;test;Penny jumps into the driver's seat of the car Sheldon is waiting in and closes the door angrily.;1;1;1;1;0;Z;Penny,Sheldon
+37880;s07e13;test;Penny holds up a hanger with her small work uniform hanging from it, while leaning on the bar and talking on the phone.;1;1;1;1;0;Z;Penny
+46843;s07e13;test;Penny puts her wine glass on the table and gets down on one knee in front of Leonard.;1;1;0;1;0;Z;Penny,Leonard
+46844;s07e13;test;Penny, with messy hair, puts her hand on Leonard's right shoulder and pushes him softly.;1;0;0;1;0;Z;Penny,Leonard
+79971;s07e13;test;Bernadette, angry, enters the toy store and walks up to a man in a grey vest at the counter.;1;0;1;1;1;Z;Bernadette
+79972;s07e13;test;Bert pounds his left fist on the dashboard of a car.;1;0;1;1;0;P;Bert
+79975;s07e13;test;Sheldon looks with a grimace at Penny while holding a yoga pose.;1;0;0;0;1;Z;Sheldon,Penny
+79980;s07e13;test;Sheldon, in a green shirt, gives Penny, standing next to him, a dirty look and shakes his head no.;1;0;0;1;1;Z;Sheldon,Penny
+79981;s07e13;test;Leonard grabs Penny by the arms and walks her back a few steps, while standing in the living room in front of Sheldon.;1;0;1;1;0;Z;Leonard,Penny,Sheldon
+79985;s07e13;test;Leonard comes into the apartment while Penny and Sheldon are exercising in the living room.;1;0;1;1;0;Z;Leonard,Penny,Sheldon
+79986;s07e13;test;Penny lowers her arms and turns her head to Sheldon, who is stopping, stretching his body.;1;0;0;1;0;Z;Penny,Sheldon
+79987;s07e13;test;Sheldon stands with one arm stretched straight up and the other arm down at his side, bending his body backward, looking around, uncomfortable.;1;0;0;1;1;Z;Sheldon
+79992;s07e13;test;Stuart walks over to a man sitting in an orange chair, eating popcorn.;1;1;0;1;0;Z;Stuart
+87247;s07e13;test;Sheldon and Penny are doing yoga together in a living room, both raising their hands up.;1;0;1;1;0;Z;Sheldon,Penny
+7130001;s07e13;test;Penny walks past Leonard, covering her face with her hand, irritated, holding a glass of wine, while Leonard stands in the living room.;1;1;1;1;1;Z;Penny,Leonard
+7130002;s07e13;test;Sheldon stumbles on the stairs, flailing as he searches for footing, when Leonard suddenly stops him.;1;0;1;1;0;Z;Sheldon,Leonard
+7130003;s07e13;test;Sheldon presses his palms together and bows, standing in socks on a blue mat in the living room.;1;0;1;1;0;Z;Sheldon
+7130004;s07e13;test;A shot of a busy multi-lane highway with cars driving in both directions, trees lining the roadside.;0;1;1;1;0;Z;
+4060;s08e04;test;A wide shot of Stuart, Howard and Bernadette sitting down together in a cozy, antique-filled living room.;1;0;1;1;0;Z;Stuart,Howard,Bernadette
+4061;s08e04;test;Bernadette, in a blue blazer, briefly puts a hand on Howard's arm while they sit on the light floral couch.;1;0;0;1;0;Z;Bernadette,Howard
+4062;s08e04;test;Howard gets up from the couch in a rush and walks up the indoor stairs.;1;0;1;1;0;Z;Howard
+16396;s08e04;test;Amy stands at the kitchen counter holding a plate with cookies, staring at Sheldon, before she puts it down.;1;1;1;1;0;Z;Amy,Sheldon
+16398;s08e04;test;Penny opens the front door to her apartment, where Raj and Emily are standing outside.;1;1;1;1;0;Z;Penny,Raj,Emily
+16399;s08e04;test;Penny puts her hand on Raj's shoulder as he stands between her and Emily.;1;0;0;1;0;Z;Penny,Raj,Emily
+16402;s08e04;test;Amy is pouring something from the orange kettle into a yellow cup, while talking to Sheldon, who sits at the kitchen counter.;1;1;1;1;0;Z;Amy,Sheldon
+16404;s08e04;test;Bernadette, in a blue floral dress, reaches out and holds Howard's hand to comfort him while they are eating dinner.;1;0;0;1;0;Z;Bernadette,Howard
+16412;s08e04;test;Leonard and Penny, eating ice cream, walk up the stairs, passing a bike.;1;1;1;1;0;Z;Leonard,Penny
+16420;s08e04;test;A shot of Penny and Emily separated by the door before they walk apart.;1;1;0;1;0;Z;Penny,Emily
+16421;s08e04;test;A wide shot of Howard, Raj, Sheldon, and Leonard sitting in the living room, all reading comics.;1;1;1;0;0;Z;Howard,Raj,Sheldon,Leonard
+16422;s08e04;test;Raj hugs Penny, then Emily does the same and they leave the apartment.;1;0;1;1;0;Z;Raj,Penny,Emily
+56244;s08e04;test;Sheldon, in a blue Superman shirt, slams a comic book down on the table.;1;1;0;1;0;P;Sheldon
+58056;s08e04;test;Penny switches which hand she's using to hold the wine glass while standing at the kitchen table with Amy, in a white and red striped sweater.;1;1;1;1;0;Z;Penny,Amy
+58057;s08e04;test;Amy puts a finger on Penny's lips and then starts stroking Penny's cheek while she has a disgusted look on her face.;1;0;0;1;1;Z;Amy,Penny
+58102;s08e04;test;Amy laughs and drinks a sip of tea out of a blue cup, while sitting next to Penny, who holds a green cup.;1;1;0;1;1;Z;Amy,Penny
+58103;s08e04;test;Sheldon, in a grey shirt, hands Amy, in a purple sweater next to him, food wrapped in foil.;1;1;0;1;0;Z;Sheldon,Amy
+58105;s08e04;test;Penny slides her hand from her cheek to her neck while holding a green cup on the couch, next to Amy.;1;1;0;1;0;Z;Penny,Amy
+58115;s08e04;test;Penny, in a suit and pink shirt, walks into Emily's office carrying a briefcase and coffees.;1;1;1;1;0;Z;Penny,Emily
+58118;s08e04;test;Penny puts her briefcase and the coffees on the examination table in Emily's office.;1;1;1;1;0;Z;Penny,Emily
+58119;s08e04;test;Emily sits down on the chair holding a clipboard, next to the examination table with Penny's briefcase.;1;1;0;1;0;Z;Emily,Penny
+58120;s08e04;test;Emily looks at the time on her watch while sitting on the chair in front of Penny, who is holding a pink package from the briefcase.;1;1;0;1;0;Z;Emily,Penny
+58121;s08e04;test;Penny opens the briefcase and hands Emily a flyer.;1;1;0;1;0;Z;Penny,Emily
+58122;s08e04;test;Emily puts down a clipboard and pen on the examination table and stands up.;1;1;0;1;0;Z;Emily
+58123;s08e04;test;Penny, in a suit and pink shirt, waves her hand down with resignation and closes the briefcase.;1;1;0;1;0;Z;Penny
+84451;s08e04;test;Raj enters the apartment, where everyone sits and eats, with a redheaded woman.;1;0;1;1;0;Z;Raj
+84452;s08e04;test;Raj takes the purse from a redheaded woman in a dark blue blazer.;1;1;0;1;0;Z;Raj
+86687;s08e04;test;Sheldon, in a red shirt, laughs hard and swings back and forth on the chair at the canteen while sitting with Howard and Leonard.;1;0;1;1;1;Z;Sheldon,Howard,Leonard
+94232;s08e04;test;Sheldon stands at the kitchen counter with one hand resting on the lid of a water bottle, then laughs, turning his head to the side.;1;1;1;1;1;Z;Sheldon
+94233;s08e04;test;Leonard puts his head down and rubs his forehead while sitting at the desk, as Raj and Penny talk beside him.;1;0;0;1;0;Z;Leonard,Raj,Penny
+9755;s08e08;test;A wide shot of Raj, Emily, Bernadette, Howard and Stuart with a woman, sitting in the limo, drinking champagne.;1;1;1;1;0;Z;Raj,Emily,Bernadette,Howard,Stuart
+9757;s08e08;test;Stuart, in a suit, points to the woman sitting next to him in the limo with his thumb.;1;0;1;1;0;Z;Stuart
+11640;s08e08;test;Leonard walks past Sheldon in a suit and pats him on the shoulder.;1;0;0;1;0;Z;Leonard,Sheldon
+11641;s08e08;test;Leonard knocks on Penny's door, standing outside the door with Sheldon in a tuxedo.;1;1;0;1;0;Z;Leonard,Penny,Sheldon
+11644;s08e08;test;Penny, in a red dress, rests her arms on Leonard's shoulder while smiling at him, as Amy, in a blue dress, stands at the doorway.;1;0;1;0;1;Z;Penny,Leonard,Amy
+11670;s08e08;test;Sheldon picks up a flask and places it in the inside pocket of his suit jacket.;1;1;0;1;0;Z;Sheldon
+11671;s08e08;test;Leonard finishes fixing Sheldon's bow tie, claps his hands in acceptance, and walks away.;1;1;0;1;0;Z;Leonard,Sheldon
+11672;s08e08;test;Sheldon swings the suit jacket over his shoulder to put the jacket on.;1;1;0;1;0;Z;Sheldon
+44400;s08e08;test;Raj, sitting on the couch between Sheldon and Howard, who are eating, rubs his eyes with a bored expression.;1;0;0;1;1;Z;Raj,Sheldon,Howard
+54551;s08e08;test;Penny sighs and rolls her eyes, irritated, while standing in front of Sheldon, then walks to the fridge touching her forehead and opens it.;1;1;0;1;1;Z;Penny,Sheldon
+55040;s08e08;test;Raj, in a red and blue track jacket, presses his palms together and taps his fingers excitedly, smiling on the couch.;1;0;0;1;1;Z;Raj
+56526;s08e08;test;Sheldon lies on his bed in a white shirt and suit pants, looking at his phone in silence.;1;1;0;0;0;P;Sheldon
+56528;s08e08;test;Penny, in a red dress, starts to laugh at Leonard, and hugs him on the rooftop decorated for a party.;1;0;1;1;1;Z;Penny,Leonard
+66117;s08e08;test;Penny, wearing a blue shirt, sits on a couch scrolling through her phone, then puts the phone on the table while standing up.;1;1;0;1;0;Z;Penny
+75121;s08e08;test;Howard and Bernadette pose for a picture that Raj is taking, at the rooftop party.;1;0;1;0;0;Z;Howard,Bernadette,Raj
+75122;s08e08;test;Sheldon and Amy pose for a picture that Raj is taking, at the rooftop party.;1;0;1;0;0;Z;Sheldon,Amy,Raj
+75135;s08e08;test;Howard is angrily shaking Stuart in a car and Bernadette is trying to pull him off.;1;0;1;1;0;Z;Howard,Stuart,Bernadette
+75137;s08e08;test;While dancing, Penny puts her hand in Leonard's hand, removes it and puts her arms around Leonard's neck.;1;0;0;1;0;Z;Penny,Leonard
+75138;s08e08;test;Leonard, in a suit, moves his hands from Penny's hands to her waist while they dance together on the rooftop.;1;0;1;1;0;Z;Leonard,Penny
+75193;s08e08;test;A shot of a rooftop decorated for a party, as Penny and Leonard come in amazed.;1;0;1;1;1;Z;Penny,Leonard
+75195;s08e08;test;Emily is pouring champagne from a bottle into a glass, in the limousine with Raj, Howard, and Bernadette.;1;1;1;1;0;Z;Emily,Raj,Howard,Bernadette
+75196;s08e08;test;Emily, while sitting in the limousine next to Raj on the phone, shows her tattoo on her shoulder blade.;1;1;1;1;0;Z;Emily,Raj
+83407;s08e08;test;Bernadette touches a red dress that Amy is holding up as they stand in front of the blue couch.;1;1;0;1;0;Z;Bernadette,Amy
+93500;s08e08;test;Amy starts breathing heavily, mouth wide open and hand placed on her chest, during her talk with Sheldon in a suit.;1;0;0;1;1;Z;Amy,Sheldon
+93501;s08e08;test;Amy, in a blue dress, rushes past Sheldon, in a suit, to his bed during their conversation.;1;0;0;1;0;Z;Amy,Sheldon
+93504;s08e08;test;Leonard and Penny are posing in front of a photographer at the rooftop party.;1;0;1;0;0;Z;Leonard,Penny
+8080001;s08e08;test;Bernadette walks in with Amy, holding up a white canvas bag by its handles, extending her arm out in front of her, at chest level.;1;1;0;1;0;Z;Bernadette,Amy
+8080002;s08e08;test;Amy folds a red dress against her body while standing next to Bernadette in front of the blue couch.;1;1;0;1;0;Z;Amy,Bernadette
+8080003;s08e08;test;Penny, in a red dress, comes out of her apartment to Leonard and Sheldon, both in suits, places her hands on her hips, then greets Leonard with a kiss.;1;0;1;1;0;Z;Penny,Leonard,Sheldon
+8080004;s08e08;test;Stressed Sheldon, in a suit, gulps hard, then runs away through the hallway to the door.;1;0;1;1;1;Z;Sheldon
+8080005;s08e08;test;Penny grabs Leonard to slow dance on the rooftop, her hand resting on his shoulder and their other hands clasped together.;1;0;1;1;0;Z;Penny,Leonard
+8080006;s08e08;test;Stuart and a woman, in a yellow dress, pose for a picture that Raj is taking, at the rooftop party, when he answers the phone.;1;1;1;1;0;Z;Stuart,Raj
+8080007;s08e08;test;A shot of a photo taken of Bernadette and Howard standing under a blue-decorated arch, both making surprised, exaggerated faces at the camera.;1;0;1;0;1;Z;Bernadette,Howard
+8080008;s08e08;test;A shot of a photo taken of Amy and Sheldon, standing under a blue-decorated arch, both smiling with their eyes closed.;1;0;1;0;1;Z;Amy,Sheldon
+34111;s09e22;test;Sheldon, in a green shirt, sits on the couch reading from a notebook, holding up a small game figure between his fingers as he talks to Bernadette.;1;1;0;1;0;Z;Sheldon,Bernadette
+34118;s09e22;test;Penny rapidly turns her head and looks strangely at Amy, then nervously takes a drink of wine, while standing at the wine barrel table.;1;1;0;1;1;Z;Penny,Amy
+34120;s09e22;test;Howard and Leonard stand silently side by side in a men's restroom, in front of a wall-mounted urinal, against a wood-paneled wall.;1;1;1;0;0;Z;Howard,Leonard
+34121;s09e22;test;Howard, while in the bathroom with Leonard, goes to the sink and washes his hands.;1;1;1;1;0;Z;Howard,Leonard
+34123;s09e22;test;Howard looks at Leonard while in the bathroom and taps the wall-mounted urinal twice with his fist, while walking away.;1;1;1;1;0;Z;Howard,Leonard
+34127;s09e22;test;Sheldon, while holding a book, makes a finger gun and points it to his head, then grimaces.;1;1;0;1;1;Z;Sheldon
+34130;s09e22;test;Sheldon shouts excitedly and waves his hand while holding a notebook in it, sitting behind a board game on the coffee table, with Bernadette.;1;1;0;1;0;Z;Sheldon,Bernadette
+34134;s09e22;test;Sheldon sweeps his hand across the couch cushion as if brushing away dust, while talking to Bernadette, who sits across from him holding a clipboard.;1;1;0;1;0;Z;Sheldon,Bernadette
+34135;s09e22;test;Amy finishes the rest of her wine in one gulp, then chokes and covers her mouth with her hand, at the table with appetizers and wine glasses.;1;1;0;1;0;Z;Amy
+34137;s09e22;test;A tall man, while standing at the vineyard near Leonard and Raj, makes an OK hand gesture with a wide-eyed, exaggerated expression and his mouth open.;1;0;1;1;1;Z;Leonard,Raj
+37716;s09e22;test;Happy Sheldon picks up a small train toy, shows it to Bernadette, then puts it back down, while they sit next to each other on the couch.;1;1;0;1;1;Z;Sheldon,Bernadette
+49337;s09e22;test;Penny, in a dark purple dress, gets her handbag from the armchair and puts it on.;1;1;0;1;0;Z;Penny
+49339;s09e22;test;Leonard, in a pink shirt, sits on the sofa, reading a wine tasting book with a grimace.;1;1;0;0;1;P;Leonard
+66901;s09e22;test;Howard, in a plaid shirt, puts his arm around Bernadette's shoulder as they smile at each other, while she holds a bottle of water.;1;1;0;1;1;Z;Howard,Bernadette
+78961;s09e22;test;Leonard, in a pink shirt, stands up from the couch and tosses a white book on the table in the living room.;1;1;1;1;0;Z;Leonard
+78963;s09e22;test;Leonard, in a pink shirt, whips his head around and walks out the door.;1;0;0;1;0;Z;Leonard
+78964;s09e22;test;Howard slowly walks up to Amy's wine barrel table at the vineyard.;1;0;1;1;0;Z;Howard,Amy
+78971;s09e22;test;Sheldon takes his phone out of his pocket at an office with a workbench cluttered with tools and electronic parts.;1;1;1;1;0;P;Sheldon
+78973;s09e22;test;Sheldon falls to the ground while capturing a video of a spinning contraption with his phone.;1;1;0;1;0;Z;Sheldon
+78975;s09e22;test;Leonard, in a beige jacket, leans over a cluttered workbench, while Raj checks his phone and Howard and Sheldon move in the background.;1;1;0;1;0;Z;Leonard,Raj,Howard,Sheldon
+78986;s09e22;test;A tall man points at Penny's hand at the wine barrel table, so she smiles while she looks at her wedding ring.;1;1;0;1;1;Z;Penny
+78987;s09e22;test;A tall man stands between Raj and Penny around the wine barrel and counts with his fingers, while holding a wine glass in his other hand.;1;1;0;1;0;Z;Raj,Penny
+78990;s09e22;test;Raj, in a paisley shirt and argyle sweater vest, puts his hands together and bows his head.;1;0;0;1;0;Z;Raj
+78991;s09e22;test;Bernadette comes in the door and hands Sheldon a bottle of champagne.;1;1;0;1;0;Z;Bernadette,Sheldon
+78994;s09e22;test;A wide shot of Raj, Leonard, Sheldon, and Amy standing around wine barrel tables, each smelling their wine inside their wine glasses.;1;1;1;1;0;Z;Raj,Leonard,Sheldon,Amy
+79007;s09e22;test;A shot of Sheldon standing at the kitchen island in front of a row of toast, while Bernadette sits across from him.;1;1;1;0;0;Z;Sheldon,Bernadette
+79008;s09e22;test;A blonde woman walks up to Raj from behind and gives him a kiss on the cheek, at the vineyard.;1;0;1;1;0;Z;Raj
+79010;s09e22;test;Bernadette and Sheldon sit on the couch, looking down at several toy trains lined up on the coffee table in front of them, then Bernadette grabs a small one.;1;1;0;1;0;Z;Bernadette,Sheldon
+79011;s09e22;test;Sheldon grabs a big toy train while Bernadette holds a small one, sitting on the couch.;1;1;0;1;0;Z;Sheldon,Bernadette
+9220001;s09e22;test;A shot of Howard touching a spinning contraption at the office with a workbench cluttered with tools and electronic parts.;1;1;1;1;0;P;Howard
+9220002;s09e22;test;A blonde woman, in a pink shirt, sits at a small kitchen table, talking on the phone, smiling, and taking notes while looking at her laptop.;0;1;1;1;1;Z;

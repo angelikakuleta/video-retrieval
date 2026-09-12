@@ -1,0 +1,79 @@
+1
+00:00:00,341 --> 00:00:04,431
+(Girl(arriving):)- I think you're just brilliant.
+- Well, that is the prevailing opinion.
+
+2
+00:00:04,803 --> 00:00:07,183
+God, now I'm gonna throw up.
+
+3
+00:00:07,848 --> 00:00:10,268
+(Howard:)Howard Wolowitz,
+Department of Engineering...
+
+4
+00:00:10,434 --> 00:00:14,984
+(Howard:)...co-designer of the International Space
+Station's liquid-waste-disposal system.
+
+5
+00:00:17,733 --> 00:00:19,063
+(Howard:)Ew.
+
+6
+00:00:22,071 --> 00:00:24,321
+(Ramona:)Dr. Cooper, I've read everything
+you've published.
+
+7
+00:00:24,490 --> 00:00:27,910
+I liked your paper on grand unification
+using string-network condensates...
+
+8
+00:00:28,077 --> 00:00:31,167
+(Ramona:)...and was wondering how you determined
+that three-dimensional string nets...
+
+9
+00:00:31,330 --> 00:00:33,620
+(Ramona:)...provided a unified picture of fermions
+and gauge bosons.
+
+10
+00:00:33,999 --> 00:00:37,709
+(Sheldon:)Amazing. An intelligent Labradoodle.
+
+11
+00:00:38,671 --> 00:00:40,001
+(Howard:)Woof.
+
+12
+00:00:41,924 --> 00:00:44,174
+(Sheldon:)The fact is,
+I'm quite close to a breakthrough...
+
+13
+00:00:44,343 --> 00:00:47,303
+(Sheldon:)...in showing how neutrinos emerge
+from a string-net condensate.
+
+14
+00:00:47,471 --> 00:00:50,931
+(Ramona:)Oh, my God. That would change the way
+we view the entire physical universe.
+
+15
+00:00:51,100 --> 00:00:52,980
+(Sheldon:)It's what I do.
+
+16
+00:00:53,602 --> 00:00:56,732
+(Howard:)You know, the Pishkin-Wolowitz
+liquid-waste-disposal system...
+
+17
+00:00:56,897 --> 00:01:03,027
+(Howard:)...is turning a few heads as well.
+

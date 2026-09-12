@@ -1,0 +1,103 @@
+1
+00:00:06,150 --> 00:00:08,790
+(Sheldon:)Would you like to play
+a physics car game I invented
+
+2
+00:00:08,787 --> 00:00:10,657
+called "I Can't Spy"?
+
+3
+00:00:11,789 --> 00:00:14,129
+(Sheldon:)It's all the nail-biting
+tension of "I Spy"
+
+4
+00:00:14,126 --> 00:00:17,126
+(Sheldon:)but the added fun of subatomic
+particles and waves
+
+5
+00:00:17,129 --> 00:00:19,229
+(Sheldon:)outside the visible
+spectrum.
+
+6
+00:00:19,231 --> 00:00:20,901
+(Leonard:)If it's half as much fun as
+
+7
+00:00:20,899 --> 00:00:22,899
+"One Times Ten to the Fourth
+Bottles of Beer on the Wall,"
+
+8
+00:00:22,901 --> 00:00:24,571
+(Leonard:)I'm in.
+
+9
+00:00:24,569 --> 00:00:26,239
+(Sheldon:)I'll begin.
+
+10
+00:00:26,238 --> 00:00:30,638
+(Sheldon:)Uh, I can't spy
+with my little eye...
+
+11
+00:00:31,909 --> 00:00:34,609
+(Sheldon:)...something passing
+right through us.
+
+12
+00:00:34,613 --> 00:00:36,283
+(Leonard:)That soy Frappuccino I had.
+
+13
+00:00:36,281 --> 00:00:37,411
+(chuckles)
+
+14
+00:00:37,415 --> 00:00:39,245
+(Sheldon:)Will you please
+play the game?
+
+15
+00:00:39,251 --> 00:00:41,881
+(Sheldon:)I can't spy
+with my little eye
+
+16
+00:00:41,887 --> 00:00:43,887
+(Sheldon:)something passing
+right through us.
+
+17
+00:00:43,889 --> 00:00:46,059
+(Leonard:)I don't know, um...
+
+18
+00:00:46,057 --> 00:00:48,727
+(Leonard:)If 65 billion
+solar neutrinos pass
+
+19
+00:00:48,727 --> 00:00:50,797
+through a square centimeter
+every second,
+
+20
+00:00:50,795 --> 00:00:52,795
+(Leonard:)given the surface
+area of this car is
+
+21
+00:00:52,797 --> 00:00:54,697
+(Leonard:)about 60,000
+square centimeters,
+
+22
+00:00:54,699 --> 00:01:01,019
+(Leonard:)that means 3.9 times ten
+to the 15th solar neutrinos?
+

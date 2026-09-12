@@ -1,0 +1,50 @@
+﻿id;type;start;end;desc;tags
+tbbt_s08e08_m001;mask;2.00;3.38;;przejscie
+tbbt_s08e08_m002;mask;91.66;116.70;;
+tbbt_s08e08_001;event;119.29;129.98;Bernadette walks in with Amy, holding up a white canvas bag by its handles, extending her arm out in front of her, at chest level.;
+tbbt_s08e08_d83407;event;145.23;151.32;Bernadette touches a red dress that Amy is holding up as they stand in front of the blue couch.;
+tbbt_s08e08_002;event;162.21;166.87;Amy folds a red dress against her body while standing next to Bernadette in front of the blue couch.;
+tbbt_s08e08_m004;mask;240.45;241.78;;przejscie
+tbbt_s08e08_d44400;event;284.02;287.81;Raj, sitting on the couch between Sheldon and Howard, who are eating, rubs his eyes with a bored expression.;
+tbbt_s08e08_d55040;event;322.82;325.11;Raj, in a red and blue track jacket, presses his palms together and taps his fingers excitedly, smiling on the couch.;
+tbbt_s08e08_m005;mask;326.75;328.09;;przejscie
+tbbt_s08e08_m006;mask;411.34;412.66;;przejscie
+tbbt_s08e08_d66117;event;412.67;417.04;Penny, wearing a blue shirt, sits on a couch scrolling through her phone, then puts the phone on the table while standing up.;
+tbbt_s08e08_d54551;event;489.45;497.42;Penny sighs and rolls her eyes, irritated, while standing in front of Sheldon, then walks to the fridge touching her forehead and opens it.;
+tbbt_s08e08_m007;mask;548.58;549.89;;przejscie
+tbbt_s08e08_d11671;event;566.72;570.00;Leonard finishes fixing Sheldon's bow tie, claps his hands in acceptance, and walks away.;
+tbbt_s08e08_d11672;event;571.52;573.03;Sheldon swings the suit jacket over his shoulder to put the jacket on.;
+tbbt_s08e08_d11670;event;584.93;591.06;Sheldon picks us a flask and places it in the inside pocket of his suit jacket.;
+tbbt_s08e08_d11640;event;661.08;663.55;Leonard walks past Sheldon in suit and pats him on the shoulder.;
+tbbt_s08e08_m008;mask;668.61;669.93;;przejscie
+tbbt_s08e08_d11641;event;669.96;671.70;Leonard knocks on Penny's door, standing outside the door with Sheldon in a tuxedo.;
+tbbt_s08e08_003;event;671.55;678.69;Penny, in a red dress, comes out of her apartment to Leonard and Sheldon, both in suits, place her hands on hips, then greets Leonard with a kiss.;
+tbbt_s08e08_d11644;event;687.93;695.01;Penny, in a red dress, rests her arms on Leonard's shoulder while smiling at him, as Amy, in a blue dress, stands at the doorway.;
+tbbt_s08e08_004;event;689.64;704.35;Stressed Sheldon, in a suit, gulps hard, then runs away through the hallway to the door.;
+tbbt_s08e08_m009;mask;716.63;717.96;;przejscie
+tbbt_s08e08_d75195;event;717.96;721.63;Emily is pouring champagne from a bottle into a glass, in the limousine with Raj, Howard, and Bernadette.;
+tbbt_s08e08_d75196;event;723.27;726.64;Emily, while sitting in the limousine next to Raj on the phone, shows her tattoo on her shoulder blade.;
+tbbt_s08e08_m010;mask;784.94;786.26;;przejscie
+tbbt_s08e08_d75193;event;786.45;796.18;A shot of a rooftop decorated for a party, as Penny and Leonard come in amazed.;
+tbbt_s08e08_d56528;event;837.68;841.42;Penny, in a red dress, starts to laugh at Leonard, and hugs him on the rooftop decorated for a party.;
+tbbt_s08e08_m011;mask;841.45;842.78;;przejscie
+tbbt_s08e08_d56526;event;842.81;844.94;Sheldon lies on his bed in a white shirt and suit pants, looking at his phone in silence.;
+tbbt_s08e08_m012;mask;893.97;895.28;;przejscie
+tbbt_s08e08_d9755;event;895.35;898.01;A wide shot of Raj, Emily, Bernadette, Howard and Stuart with a woman, sitting in the limo, drinking champagne.;
+tbbt_s08e08_d9757;event;899.67;901.85;Stuart, in a suit, points to the woman sitting next to him in the limo with his thumb.;
+tbbt_s08e08_m013;mask;951.52;952.86;;przejscie
+tbbt_s08e08_d75137;event;963.96;970.06;While dancing, Penny puts her hand in Leonard's hand, removes it and puts her arms around Leonard's neck.;
+tbbt_s08e08_005;event;964.04;968.18;Penny grabs Leonard to slow dance on the rooftop, her hand resting on his shoulder and their other hands clasped together.;
+tbbt_s08e08_d75138;event;968.03;970.06;Leonard, in a suit, moves his hands from Penny's hands to her waist while they dance together on the rooftop.;
+tbbt_s08e08_d75135;event;1006.03;1014.66;Howard is angrily shaking Stuart in a car and Bernadette is trying to pull him off.;
+tbbt_s08e08_m014;mask;1014.70;1016.02;;przejscie
+tbbt_s08e08_d93500;event;1106.59;1113.08;Amy starts breathing heavily, mouth wide open and hand placed on her chest, during her talk with Sheldon in a suit.;
+tbbt_s08e08_d93501;event;1118.14;1121.17;Amy, in a blue dress, rushes past Sheldon, in a suit, to his bed during their conversation;
+tbbt_s08e08_m015;mask;1135.21;1136.52;;przejscie
+tbbt_s08e08_d93504;event;1136.58;1145.13;Leonard and Penny are posing in front of a photographer at the rooftop party.;
+tbbt_s08e08_d75122;event;1145.11;1150.13;Sheldon and Amy pose for a picture that Raj is taking, at the rooftop party.;
+tbbt_s08e08_008;event;1147.44;1150.12;A shot of a photo taken of Amy and Sheldon, standing under a blue-decorated arch, both smiling with their eyes closed.;
+tbbt_s08e08_d75121;event;1152.60;1155.39;Howard and Bernadette pose for a picture that Raj is taking, at the rooftop party.;
+tbbt_s08e08_007;event;1153.29;1155.40;A shot of a photo taken of Bernadette and Howard standing under a blue-decorated arch, both making surprised, exaggerated faces at the camera.;
+tbbt_s08e08_006;event;1155.37;1164.54;Stuart and a woman, in a yellow dress, pose for a picture that Raj is taking, at the rooftop party, when he answers the phone.;
+tbbt_s08e08_m016;mask;1176.03;1206.66;;

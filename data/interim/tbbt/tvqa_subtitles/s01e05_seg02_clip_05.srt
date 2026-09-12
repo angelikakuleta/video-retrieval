@@ -1,0 +1,41 @@
+1
+00:00:00,479 --> 00:00:01,899
+[DOOR CLOSES]
+
+2
+00:00:12,992 --> 00:00:14,992
+[DIALING]
+
+3
+00:00:17,955 --> 00:00:19,745
+Hi, Leonard?
+
+4
+00:00:22,627 --> 00:00:24,207
+(Sheldon:)It's me.
+
+5
+00:00:24,378 --> 00:00:26,048
+(Penny:)Sheldon.
+
+6
+00:00:27,173 --> 00:00:28,883
+(Sheldon:)In the living room.
+
+7
+00:00:29,050 --> 00:00:31,470
+(Sheldon:)I just...
+I wanted you to know I saw the tie.
+
+8
+00:00:31,636 --> 00:00:34,266
+(Sheldon:)Message received.
+
+9
+00:00:36,974 --> 00:00:39,014
+(Lesley:)You're welcome.
+
+10
+00:00:39,977 --> 00:01:20,037
+You carry on. Give my best to Leslie.
+

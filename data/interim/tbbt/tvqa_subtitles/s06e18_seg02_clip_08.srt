@@ -1,0 +1,53 @@
+1
+00:00:00,417 --> 00:00:02,347
+(Raj:)Me too.
+
+2
+00:00:02,519 --> 00:00:04,779
+(Leonard:)Okay, I am Dr. Leonard Hofstadter.
+
+3
+00:00:04,955 --> 00:00:09,985
+I'm here with my friends, Dr. Cooper,
+and real-life astronaut Howard Wolowitz.
+
+4
+00:00:10,160 --> 00:00:15,120
+(Leonard:)And we are going to show you girls
+how cool ajob in science can be.
+
+5
+00:00:15,298 --> 00:00:16,488
+(Leonard:)How cool, you ask?
+
+6
+00:00:16,667 --> 00:00:19,657
+(Leonard:)Well, how about negative 273 degrees...
+
+7
+00:00:19,836 --> 00:00:23,896
+...because that's the temperature at which
+entropy reaches its minimum value.
+
+8
+00:00:26,943 --> 00:00:31,313
+(Leonard:)Did I just learn something new
+and have fun doing it? What?
+
+9
+00:00:34,217 --> 00:00:36,347
+(Leonard:)All right.
+
+10
+00:00:37,487 --> 00:00:43,487
+(Leonard:)So now let's bring out theoretical physicist,
+Dr. Sheldon Cooper!
+
+11
+00:00:48,432 --> 00:00:50,062
+(Sheldon:)Hello, female children.
+
+12
+00:00:51,802 --> 00:00:54,202
+(Sheldon:)Allow me to inspire you...
+

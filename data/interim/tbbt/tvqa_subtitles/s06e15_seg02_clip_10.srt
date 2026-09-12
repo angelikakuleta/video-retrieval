@@ -1,0 +1,82 @@
+1
+00:00:00,903 --> 00:00:02,133
+- Hello?
+- Hey.
+
+2
+00:00:02,338 --> 00:00:05,468
+(Howard:)- How'd it go last night with my mom?
+- Okay, I guess.
+
+3
+00:00:05,674 --> 00:00:06,834
+(Howard:)What time did you leave?
+
+4
+00:00:09,478 --> 00:00:11,968
+(Raj:)Actually, I'm still here.
+
+5
+00:00:12,948 --> 00:00:16,648
+- What? You spent the night?
+- Yeah.
+
+6
+00:00:17,119 --> 00:00:20,779
+(Raj:)After dinner,
+we watched a rerun of Rockford Files...
+
+7
+00:00:20,990 --> 00:00:23,460
+(Raj:)...and then she opened
+a bottle of cream sherry...
+
+8
+00:00:23,659 --> 00:00:27,559
+(Raj:)...and the next thing I know
+she was tucking me into your bed.
+
+9
+00:00:29,799 --> 00:00:31,169
+You wore my pajamas?
+
+10
+00:00:31,333 --> 00:00:32,563
+(Raj:)Mm-hm.
+
+11
+00:00:32,868 --> 00:00:36,138
+(Raj:)How do you sleep in these things?
+Silk pajamas on satin sheets?
+
+12
+00:00:36,338 --> 00:00:39,098
+(Raj:)I slid out of the bed like three times.
+
+13
+00:00:40,476 --> 00:00:42,346
+Rajesh? You up?
+
+14
+00:00:42,578 --> 00:00:43,838
+(Mrs Wolowitz(off):)You ready for breakfast?
+
+15
+00:00:44,079 --> 00:00:45,669
+(Raj:)Oh, boy, breakfast.
+
+16
+00:00:47,116 --> 00:00:49,376
+(Howard:)Okay, Raj, listen.
+You need to get out of there.
+
+17
+00:00:49,618 --> 00:00:53,718
+(Raj:)But I have a cream sherry hangover
+and I smell blintzes.
+
+18
+00:00:55,224 --> 00:00:59,384
+(Howard:)If you don't leave now, she'll use food and
+guilt to keep you there the rest of your life.
+

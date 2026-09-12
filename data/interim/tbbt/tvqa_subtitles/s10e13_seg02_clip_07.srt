@@ -1,0 +1,98 @@
+1
+00:00:00,344 --> 00:00:02,144
+Okay!
+Let's go!
+
+2
+00:00:05,282 --> 00:00:06,282
+(Amy:)Bye.
+
+3
+00:00:06,283 --> 00:00:07,553
+(Amy:)Bye.
+
+4
+00:00:07,551 --> 00:00:08,851
+(Amy:)I'll miss you.
+
+5
+00:00:08,853 --> 00:00:10,153
+(Sheldon:)Yeah, I'll miss you, too.
+
+6
+00:00:10,154 --> 00:00:11,484
+(Amy:)I'll miss you more.
+
+7
+00:00:11,489 --> 00:00:13,589
+(Sheldon:)Well, if X equals the amount
+that you'll miss me,
+
+8
+00:00:13,591 --> 00:00:15,221
+(Sheldon:)then I'll miss you X plus one.
+
+9
+00:00:15,226 --> 00:00:18,196
+(Amy:)If you miss me X plus one,
+I'll miss you
+
+10
+00:00:18,195 --> 00:00:20,765
+(Amy:)open paren X plus one,
+close paren to the second...
+
+11
+00:00:23,634 --> 00:00:25,834
+(Leonard:)Thank you.
+
+12
+00:00:33,738 --> 00:00:35,708
+(Sheldon:)You're sad, so I made you tea.
+
+13
+00:00:36,708 --> 00:00:38,308
+(Bernadette (on phone):)Thanks.
+
+14
+00:00:38,850 --> 00:00:40,170
+(Sheldon:)And it's just the way
+you like it.
+
+15
+00:00:40,548 --> 00:00:42,018
+(Leonard:)Earl Grey?
+Yes.
+
+16
+00:00:42,016 --> 00:00:43,016
+(Leonard:)Honey?
+Yes.
+
+17
+00:00:43,017 --> 00:00:43,947
+(Leonard:)Unsweetened almond...
+Good Lord!
+
+18
+00:00:43,951 --> 00:00:46,621
+(Sheldon:)I made you tea.
+Just drink it!
+
+19
+00:00:48,456 --> 00:00:50,326
+(Leonard:)Sorry, thank you.
+
+20
+00:00:50,324 --> 00:00:54,094
+(Sheldon:)Well, what can we do
+to cheer you up?
+
+21
+00:00:54,095 --> 00:00:56,065
+(Leonard:)I really don't know.
+
+22
+00:00:56,063 --> 00:00:58,133
+You want to play Jenga?
+

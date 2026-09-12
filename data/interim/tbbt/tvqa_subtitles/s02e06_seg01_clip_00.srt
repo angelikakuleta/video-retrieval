@@ -1,0 +1,68 @@
+1
+00:00:02,127 --> 00:00:04,967
+So if you are considering
+going into experimental physics...
+
+2
+00:00:05,130 --> 00:00:06,920
+(Leonard:)...my door is always open.
+
+3
+00:00:07,090 --> 00:00:09,930
+(Leonard:)Again, I'm sorry that the demonstration
+didn't quite work out.
+
+4
+00:00:10,093 --> 00:00:11,383
+(Leonard:)Now we know what happens...
+
+5
+00:00:11,553 --> 00:00:15,893
+(Leonard:)...when you accidentally spill peach
+Snapple into a helium-neon laser.
+
+6
+00:00:17,267 --> 00:00:19,767
+The short answer is don't.
+
+7
+00:00:24,149 --> 00:00:26,859
+(Leonard:)Now to tell you about
+the Theoretical Physics Department...
+
+8
+00:00:27,027 --> 00:00:28,527
+(Leonard:)...is Dr. Sheldon Cooper.
+
+9
+00:00:32,782 --> 00:00:35,282
+(Leonard:)- Dr. Cooper?
+SHELDON: Forget it.
+
+10
+00:00:37,078 --> 00:00:38,708
+(Leonard:)Excuse me.
+
+11
+00:00:39,497 --> 00:00:42,207
+(Leonard:)- Sheldon, we both agreed to do this.
+SHELDON: It's a waste of time.
+
+12
+00:00:42,375 --> 00:00:45,755
+I might as well explain thermodynamics
+to a bunch of Labradoodles.
+
+13
+00:00:48,048 --> 00:00:52,258
+(Leonard:)If you don't do this,
+I won't take you to the comic-book store.
+
+14
+00:00:54,637 --> 00:00:56,217
+(Sheldon(entering):)Hello.
+
+15
+00:01:00,685 --> 00:01:05,025
+(Sheldon(entering):)Nice work with the laser, by the way.
+

@@ -1,0 +1,85 @@
+1
+00:00:00,402 --> 00:00:02,402
+(Sheldon:)So, what are we making today?
+
+2
+00:00:02,571 --> 00:00:06,781
+(Howard:)A small payload support structure for
+a European science experimental package...
+
+3
+00:00:06,951 --> 00:00:10,491
+(Howard:)- ...that's going up on the next space shuttle.
+- Really? How does it work?
+
+4
+00:00:10,663 --> 00:00:12,793
+(Howard:)It will be attached to the payload bay...
+
+5
+00:00:12,957 --> 00:00:16,547
+(Howard:)...and the sensor apparatus will rest on it.
+
+6
+00:00:16,961 --> 00:00:18,171
+Aha.
+
+7
+00:00:18,629 --> 00:00:21,129
+(Sheldon:)So it's a shelf.
+
+8
+00:00:24,134 --> 00:00:25,304
+(Howard:)No, you don't understand.
+
+9
+00:00:25,469 --> 00:00:28,759
+(Howard:)During acceleration, it needs
+to stay perfectly level and provide...
+
+10
+00:00:28,931 --> 00:00:30,351
+(Howard:)Yeah, okay, it's a shelf.
+
+11
+00:00:31,100 --> 00:00:32,640
+(Sheldon:)I notice you're using titanium.
+
+12
+00:00:32,810 --> 00:00:35,140
+(Sheldon:)Did you give any consideration
+to carbon nanotubes?
+
+13
+00:00:35,312 --> 00:00:38,272
+(Sheldon:)They're lighter, cheaper
+and have twice the tensile strength.
+
+14
+00:00:38,440 --> 00:00:44,030
+(Howard:)Sheldon, there's a diploma in my office
+that says I have a master's in engineering.
+
+15
+00:00:44,196 --> 00:00:48,036
+(Sheldon:)And you also have a note from your mother
+that says, "I love you, Bubula."
+
+16
+00:00:49,868 --> 00:00:53,708
+(Sheldon:)But neither of those is a cogent argument
+for titanium over nanotubes.
+
+17
+00:00:54,456 --> 00:00:55,706
+(Sheldon:)- Sheldon.
+- Yes?
+
+18
+00:00:55,874 --> 00:00:58,044
+(Leonard:)Go away.
+
+19
+00:00:58,669 --> 00:01:00,209
+(Sheldon:)Did Leonard tell you to say that?
+

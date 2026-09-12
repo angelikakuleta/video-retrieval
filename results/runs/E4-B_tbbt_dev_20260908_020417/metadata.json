@@ -1,0 +1,33 @@
+{
+  "run_id": "E4-B_tbbt_dev_20260908_020417",
+  "created": "2026-09-08T02:04:34",
+  "config_file": "configs/e4b_tbbt.yaml",
+  "experiment": "E4-B",
+  "dataset": "tbbt",
+  "split": "dev",
+  "seed": 1234,
+  "packages": {
+    "torch": "2.13.0+cu130",
+    "open_clip_torch": "3.3.0",
+    "faiss-cpu": "1.14.3",
+    "numpy": "2.5.1",
+    "opencv-python": "4.14.0.94",
+    "pydantic": "2.13.4",
+    "transnetv2-pytorch": "1.0.5"
+  },
+  "inputs": {
+    "data\\cache\\segmentation\\shots_histogram\\tbbt_segments.csv": {
+      "sha256": "54d6e9ae00a9aca977acc4761c0b13434f0b24411cace2279af0be8e0a9553ed",
+      "bytes": 171231
+    },
+    "data\\interim\\tbbt\\tbbt_ranges.csv": {
+      "sha256": "21f6e965268b289d6a5ff8d165ad7bbe069a99d79a30f7c56f71877edf7c7cbe",
+      "bytes": 2498
+    },
+    "data\\annotations\\tbbt\\tbbt_queries_dev.jsonl": {
+      "sha256": "b3e2fdee545d30f370e8623f21f2d6f503a7c8ddddca7ba4508c1ebf4a501ecd",
+      "bytes": 69945
+    }
+  },
+  "queries_skipped_no_relevant": []
+}

@@ -1,0 +1,33 @@
+{
+  "run_id": "E4-D_vatex_test_20260909_201203",
+  "created": "2026-09-09T22:40:29",
+  "config_file": "configs/e4d_vatex.yaml",
+  "experiment": "E4-D",
+  "dataset": "vatex",
+  "split": "test",
+  "seed": 1234,
+  "packages": {
+    "torch": "2.13.0+cu130",
+    "open_clip_torch": "3.3.0",
+    "faiss-cpu": "1.14.3",
+    "numpy": "2.5.1",
+    "opencv-python": "4.14.0.94",
+    "pydantic": "2.13.4",
+    "transnetv2-pytorch": "1.0.5"
+  },
+  "inputs": {
+    "data\\cache\\segmentation\\whole_clip\\vatex_segments.csv": {
+      "sha256": "77a2482f2f13a3b3a414403e380f2468f38b3134607787e13a1c033ba1b5c6cd",
+      "bytes": 265029
+    },
+    "data\\annotations\\vatex\\vatex_queries_dev.jsonl": {
+      "sha256": "1739f3d9c40dfe26ae9110b7305e6a1b8dfdca90374991b910c93dd1cae4f872",
+      "bytes": 155041
+    },
+    "data\\annotations\\vatex\\vatex_queries_test.jsonl": {
+      "sha256": "ab1b7d6d7e8b8ffd15c79c60bc965869c97a7f8e3167c2f8bdb13afb0820cac4",
+      "bytes": 794744
+    }
+  },
+  "queries_skipped_no_relevant": []
+}

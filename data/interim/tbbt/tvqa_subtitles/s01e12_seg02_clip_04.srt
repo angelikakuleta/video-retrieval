@@ -1,0 +1,85 @@
+1
+00:00:00,535 --> 00:00:01,705
+(Leonard:)Great.
+
+2
+00:00:01,869 --> 00:00:04,499
+(Sheldon:)So I've decided
+I'm going to collaborate with you.
+
+3
+00:00:07,667 --> 00:00:09,207
+(Leonard:)Great.
+
+4
+00:00:09,377 --> 00:00:11,207
+So, what exactly is it you do?
+
+5
+00:00:12,255 --> 00:00:16,295
+(Sheldon:)I know you chatter on about it all the time,
+but I've never really paid attention.
+
+6
+00:00:17,009 --> 00:00:20,219
+(Leonard:)Right now, I'm designing an experiment
+to study the soft component...
+
+7
+00:00:20,388 --> 00:00:23,138
+...of cosmic radiation at sea level,
+but I don't need help.
+
+8
+00:00:23,307 --> 00:00:25,347
+(Sheldon:)Oh, sure you do.
+
+9
+00:00:25,810 --> 00:00:28,480
+(Sheldon:)Now see, what's this here in the schematic,
+a laser array?
+
+10
+00:00:28,646 --> 00:00:30,356
+(Raj:)- Yes.
+- Now, hmm...
+
+11
+00:00:33,693 --> 00:00:36,733
+(Sheldon:)What happens if you use argon lasers
+instead of helium-neon?
+
+12
+00:00:37,155 --> 00:00:39,235
+- It would blow up.
+- Are you sure?
+
+13
+00:00:39,740 --> 00:00:42,240
+- Pretty sure.
+- "Pretty sure" is not very scientific.
+
+14
+00:00:42,410 --> 00:00:46,200
+Is this how you normally work?
+Just hunches and guesses and stuff?
+
+15
+00:00:47,081 --> 00:00:48,211
+(Leonard:)Okay.
+
+16
+00:00:48,374 --> 00:00:51,414
+(Leonard:)I understand that you're going
+through a bit of a career crisis.
+
+17
+00:00:51,586 --> 00:00:55,426
+(Leonard:)You're searching for some other area
+where you can feel valuable and productive.
+
+18
+00:00:55,590 --> 00:00:58,130
+(Leonard:)But I need to tell you something,
+and listen carefully.
+

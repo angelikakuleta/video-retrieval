@@ -1,0 +1,44 @@
+﻿id;type;start;end;desc;tags
+tbbt_s01e01_d97651;event;16.70;24.86;Leonard and Sheldon walk into an doctor's office with maroon upholstered chairs and Sheldon shuts the door behind him.;
+tbbt_s01e01_d97652;event;23.62;32.84;Leonard walks over to the nurse's desk and leans over to see what she's reading.;
+tbbt_s01e01_d55211;event;66.67;75.66;The doctor at the desk hands Leonard a clipboard and pen, then gets back to reading a paper.;
+tbbt_s01e01_d55214;event;81.33;84.22;Sheldon and Leonard are sitting in the waiting room with clipboards as Leonard adjusts his glasses.;
+tbbt_s01e01_d86436;event;144.31;155.33;Sheldon and Leonard stand up from maroon upholstered chairs and walk to the door to leave.;
+tbbt_s01e01_m001;mask;156.57;158.71;;przejscie
+tbbt_s01e01_d86437;event;158.71;169.14;Leonard walks up the stairs holding a brown bag and talking to Sheldon, who is wearing plaid pants, walking by water jugs near the doors.;
+tbbt_s01e01_d86431;event;202.66;205.91;Penny catches Leonard and Sheldon staring at her from the hallway.;
+tbbt_s01e01_d86432;event;225.68;229.84;Penny, in a blue shirt, walks across the room to her opened door where Leonard and Sheldon stand.;
+tbbt_s01e01_d86446;event;251.50;256.61;Sheldon takes his keys out of the pocket of his plaid pants and unlocks the front door to his apartment.;
+tbbt_s01e01_d86447;event;263.51;270.97;Leonard and Sheldon enter their apartment, continuing their conversation, then Sheldon waves his finger.;
+tbbt_s01e01_d86440;event;304.92;307.04;Leonard knocks on an apartment door, with an ironing board leaning against the wall by the door, while Sheldon stands behind him.;
+tbbt_s01e01_d86441;event;317.25;320.79;Leonard holds up a paper bag while talking to Penny, who is wearing a blue shirt.;
+tbbt_s01e01_m002;mask;362.24;385.44;;
+tbbt_s01e01_d80617;event;394.21;399.78;Penny in a blue shirt walks over to a white board with equations on it.;
+tbbt_s01e01_d80620;event;454.09;465.29;Leonard nervously bites his fingers, looking to the side, standing behind Sheldon in a plaid pants.;
+tbbt_s01e01_d80622;event;503.60;512.45;Sheldon in a plaid pants, walks over to his desk and spins around completely.;
+tbbt_s01e01_d80611;event;570.56;573.93;Penny in blue shirt, put her hand on the sofa near Sheldon.;
+tbbt_s01e01_d80613;event;591.05;593.95;Leonard in green hoodie and brown jacket, is sitting in the armchair while shaking his head and looking up.;
+tbbt_s01e01_d80612;event;622.90;624.55;Leonard puts his hand on his mouth and shake his head as he sits in the armchair.;
+tbbt_s01e01_d80595;event;639.69;647.89;Penny in blue shirt, puts her hands in her face and starts to cry.;
+tbbt_s01e01_d80596;event;662.50;668.17;Sheldon in plaid pants, slides to his spot on the couch after Penny gets up.;
+tbbt_s01e01_d80599;event;669.55;676.53;Penny in blue shirt, stands in the kitchen and takes a paper towel, while Leonard from armchair leans over to Sheldon.;
+tbbt_s01e01_d80600;event;714.61;717.87;Penny, holding a paper towel, adjusts her bangs and wipes a tear from under her eye.;
+tbbt_s01e01_d80588;event;755.26;760.74;Leonard joins Sheldon in the kitchen while Sheldon grabs a couple of orange bottles from the fridge.;
+tbbt_s01e01_d80586;event;769.58;782.94;Sheldon in plaid pants, open two bottles on the kitchen island.;
+tbbt_s01e01_d80587;event;791.94;799.46;Leonard and Sheldon grab bottles from the kitchen island, then Sheldon sits on the couch while Leonard leans against the wall, still talking.;
+tbbt_s01e01_d80591;event;817.58;826.03;Leonard walks to the door, lets in Howard holding a CD and Raj, who is wearing a red hat.;
+tbbt_s01e01_d80590;event;831.74;836.23;Howard, in a red shirt, raises his hand then quickly moves his middle finger up and down on his lips.;
+tbbt_s01e01_d80592;event;837.87;839.85;Sheldon, in a plaid pants, hands Raj, who is wearing a red hat, a bottle of water.;
+tbbt_s01e01_d3020;event;869.44;876.11;Penny runs out of the bathroom into the living room, where Raj, Howard, Leonard and Sheldon are, wearing only a purple towel.;
+tbbt_s01e01_d3022;event;917.02;921.35;Penny pulls back the shower curtain and climbs inside of the shower.;
+tbbt_s01e01_d38401;event;1043.78;1047.40;Howard walks into the living room carrying two juice boxes with straws.;
+tbbt_s01e01_d38396;event;1071.38;1074.58;Leonard grabs Sheldon, who is wearing a plaid pants, by the arm as he tries to walk away from the entrance to the building.;
+tbbt_s01e01_d38397;event;1097.01;1102.07;Leonard shakes the doors to the apartment building with both hands.;
+tbbt_s01e01_d38410;event;1109.10;1118.72;Two little girls with a clipboard and a box pass Sheldon and Leonard and enter the building.;
+tbbt_s01e01_d38414;event;1153.91;1158.42;Sheldon and Leonard exit the apartment building wearing underwear.;
+tbbt_s01e01_d38405;event;1164.00;1170.25;Leonard puts his hands inside his jacket pockets, while walking away from building, next to Sheldon wearing underwear.;
+tbbt_s01e01_m003;mask;1172.40;1174.42;;przejscie
+tbbt_s01e01_d2965;event;1242.74;1244.38;Leonard and Sheldon enter the apartment in their underwear.;
+tbbt_s01e01_d2966;event;1263.84;1268.86;Penny hugs Leonard and Sheldon in their underwear.;
+tbbt_s01e01_d38416;event;1302.85;1307.60;Penny sits in the back seat and shrugs her shoulders twice as they all drive in a car.;
+tbbt_s01e01_m004;mask;1347.43;1378.34;;

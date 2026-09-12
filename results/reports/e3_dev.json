@@ -1,0 +1,117 @@
+{
+  "metric": "recall@10",
+  "split": "dev",
+  "reference": "E3-B",
+  "contrast": [
+    "complexity:Z"
+  ],
+  "control": [],
+  "datasets": [
+    "tbbt",
+    "office"
+  ],
+  "skipped": [],
+  "runs": {
+    "E3-B": {
+      "tbbt": "results\\runs\\E3-B_tbbt_dev_20260908_020324",
+      "office": "results\\runs\\E3-B_office_dev_20260908_015830"
+    },
+    "E3-C": {
+      "tbbt": "results\\runs\\E3-C_tbbt_dev_20260908_020347",
+      "office": "results\\runs\\E3-C_office_dev_20260908_015901"
+    }
+  },
+  "results": {
+    "E3-C": {
+      "per_dataset": {
+        "office": {
+          "n": 6,
+          "mean": 0.0673855673855674,
+          "low": -0.0243588201350545,
+          "high": 0.1591299549061893,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.7844036697247706,
+          "reference_value": 0.7201834862385321
+        },
+        "tbbt": {
+          "n": 6,
+          "mean": 0.037941859953245165,
+          "low": -0.03938218597034054,
+          "high": 0.11526590587683086,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.6730769230769231,
+          "reference_value": 0.6346153846153846
+        }
+      },
+      "pooled": {
+        "n": 12,
+        "mean": 0.05266371366940629,
+        "low": 0.002723052992609762,
+        "high": 0.10260437434620281,
+        "method": "t"
+      },
+      "pooled_datasets": [
+        "office",
+        "tbbt"
+      ]
+    }
+  },
+  "contrasts": {
+    "complexity:Z": {
+      "E3-C": {
+        "per_dataset": {
+          "office": {
+            "n": 6,
+            "mean": 0.016816051950323024,
+            "low": -0.0639103673751113,
+            "high": 0.09754247127575735,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.811965811965812,
+            "matching_reference": 0.7435897435897436,
+            "rest": 0.7524752475247525,
+            "rest_reference": 0.693069306930693,
+            "matching_delta": 0.07423355629877366,
+            "rest_delta": 0.057417504348450644
+          },
+          "tbbt": {
+            "n": 6,
+            "mean": -0.005551547218213909,
+            "low": -0.3295788510613257,
+            "high": 0.3184757566248979,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.6705202312138728,
+            "matching_reference": 0.630057803468208,
+            "rest": 0.6857142857142857,
+            "rest_reference": 0.6571428571428571,
+            "matching_delta": 0.037377745711079026,
+            "rest_delta": 0.042929292929292935
+          }
+        },
+        "pooled": {
+          "n": 12,
+          "mean": 0.005632252366054556,
+          "low": -0.13087632941638166,
+          "high": 0.14214083414849077,
+          "method": "t"
+        },
+        "pooled_datasets": [
+          "office",
+          "tbbt"
+        ]
+      }
+    }
+  },
+  "verdict": {
+    "winner": "E3-C",
+    "qualified": [
+      "E3-C"
+    ],
+    "reason": "the only candidate that beat the reference",
+    "series": 2,
+    "provisional": false
+  }
+}

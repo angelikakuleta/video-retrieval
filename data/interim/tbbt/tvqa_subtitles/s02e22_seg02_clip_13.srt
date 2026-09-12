@@ -1,0 +1,81 @@
+1
+00:00:00,349 --> 00:00:02,269
+(Sheldon:)That was a joke.
+
+2
+00:00:02,435 --> 00:00:06,185
+(Sheldon:)It's funny because it's true.
+
+3
+00:00:09,859 --> 00:00:12,279
+(Sheldon:)Leonard,
+could you pass the soy sauce, please?
+
+4
+00:00:12,445 --> 00:00:15,615
+- I'm sorry, were you talking to me?
+- Yeah, I said Leonard.
+
+5
+00:00:16,615 --> 00:00:18,785
+(Leonard:)Yes, you did, didn't you?
+
+6
+00:00:25,583 --> 00:00:27,083
+(Penny:)What the hell is that?
+
+7
+00:00:27,793 --> 00:00:29,373
+(Howard:)Meatloaf.
+
+8
+00:00:30,546 --> 00:00:32,216
+(Leonard:)What was it doing on the ceiling?
+
+9
+00:00:33,049 --> 00:00:34,969
+(Howard:)That's classified.
+
+10
+00:00:40,973 --> 00:00:43,353
+ASTRONAUT [OVER RADIO]:
+Houston, Internationale Space Station.
+
+11
+00:00:43,517 --> 00:00:45,977
+(Voice:)We have a little situation up here.
+
+12
+00:00:46,479 --> 00:00:49,019
+(Voice:)We'd like to make an unscheduled
+space walk.
+
+13
+00:00:50,649 --> 00:00:51,899
+MAN [OVER RADIO]:
+ISS, Houston...
+
+14
+00:00:52,068 --> 00:00:54,398
+(Houston:)...which crew members
+would be involved in this EVA?
+
+15
+00:00:54,570 --> 00:00:58,570
+ASTRONAUT: Houston, we'd all like
+to step outside for a few minutes.
+
+16
+00:00:59,992 --> 00:01:03,662
+MAN:
+ISS, I'm afraid we can't authorize that.
+
+17
+00:01:03,829 --> 00:01:06,869
+ASTRONAUT:
+Houston, this is more of an FYI call.
+
+18
+00:01:07,041 --> 00:01:09,501
+(ISS voice:)We are basically out the door.
+

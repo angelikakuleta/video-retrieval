@@ -1,0 +1,109 @@
+1
+00:00:00,804 --> 00:00:02,474
+[PANTING]
+Leonard.
+
+2
+00:00:02,639 --> 00:00:04,469
+(Sheldon:)Leonard!
+
+3
+00:00:04,641 --> 00:00:06,351
+(Leonard(entering):)Hey, what's the matter?
+
+4
+00:00:06,518 --> 00:00:08,728
+(Sheldon:)Equations.
+Someone's tampered with my equations.
+
+5
+00:00:08,895 --> 00:00:10,145
+- Are you sure?
+- Of course.
+
+6
+00:00:10,313 --> 00:00:12,733
+Look at the beta function
+of quantum chromodynamics.
+
+7
+00:00:12,899 --> 00:00:14,989
+(Sheldon:)The sign's been changed.
+
+8
+00:00:15,152 --> 00:00:16,482
+(Leonard:)Oh, yeah.
+
+9
+00:00:16,653 --> 00:00:19,033
+(Leonard:)But doesn't that fix the problem
+you've been having?
+
+10
+00:00:19,197 --> 00:00:21,487
+(Sheldon:)Are you insane?
+Are you out of your mind?
+
+11
+00:00:21,658 --> 00:00:25,038
+Are you...? Hey, look, that fixes
+the problem I've been having.
+
+12
+00:00:26,163 --> 00:00:28,043
+(Lesley:)You're welcome.
+
+13
+00:00:29,166 --> 00:00:31,336
+(Sheldon:)You did this?
+
+14
+00:00:31,501 --> 00:00:34,501
+(Lesley:)Yeah. I noticed it when I got up
+to get water, so I fixed it.
+
+15
+00:00:34,671 --> 00:00:37,761
+Now you can show quarks are
+asymptotically free at high energies.
+
+16
+00:00:37,924 --> 00:00:39,384
+(Lesley:)Pretty cool, huh?
+
+17
+00:00:41,136 --> 00:00:42,846
+"Cool"?
+
+18
+00:00:43,388 --> 00:00:44,848
+Listen, I gotta get to the lab.
+
+19
+00:00:45,015 --> 00:00:47,015
+(Lesley:)Thanks for a great night.
+
+20
+00:00:48,059 --> 00:00:49,639
+(Leonard:)Thank you. I'll see you at work.
+
+21
+00:00:50,562 --> 00:00:53,272
+(Sheldon:)- Hold on. Hold on.
+- What?
+
+22
+00:00:53,440 --> 00:00:56,360
+- Who told you you could touch my board?
+- No one.
+
+23
+00:00:56,526 --> 00:00:59,066
+(Sheldon:)I don't come into your house
+and touch your board.
+
+24
+00:00:59,237 --> 00:01:04,027
+(Lesley:)There are no incorrect equations
+on my board.
+

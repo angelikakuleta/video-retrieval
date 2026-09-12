@@ -1,0 +1,109 @@
+1
+00:00:00,936 --> 00:00:03,776
+(Howard:)-Call him and set up an interview.
+-I'm on it.
+
+2
+00:00:04,231 --> 00:00:05,611
+(Sheldon:)-That's happy, right?
+-Yeah.
+
+3
+00:00:05,774 --> 00:00:06,944
+(Sheldon:)Nailed it.
+
+4
+00:00:09,277 --> 00:00:10,657
+(Prof Laughlin:)Dr. Koothrappali, come on in.
+
+5
+00:00:10,862 --> 00:00:13,952
+I was surprised to hear you're interested
+in joining our team.
+
+6
+00:00:14,116 --> 00:00:16,536
+(Prof Laughlin:)Giving up on those
+trans-Neptunian objects, are we?
+
+7
+00:00:16,701 --> 00:00:18,541
+(Raj:)No, no. It's a very promising area.
+
+8
+00:00:18,703 --> 00:00:20,953
+(Raj:)In a perfect world,
+I'd spend several more years on it.
+
+9
+00:00:21,123 --> 00:00:23,623
+I couldn't pass up the opportunity
+to work with you...
+
+10
+00:00:23,792 --> 00:00:28,092
+(Raj:)...on your tremendously exciting and
+not yet conclusively disproved hypothesis.
+
+11
+00:00:28,255 --> 00:00:30,675
+Splendid. Please sit down.
+
+12
+00:00:30,882 --> 00:00:32,092
+(Prof Laughlin:)Can I offer you a sherry?
+
+13
+00:00:32,259 --> 00:00:34,139
+(Raj:)It's a little early, isn't it?
+
+14
+00:00:34,302 --> 00:00:36,592
+Not on Proxima Centauri. Ha, ha.
+
+15
+00:00:36,763 --> 00:00:38,013
+[CHUCKLING]
+Oh, that's very good.
+
+16
+00:00:38,181 --> 00:00:43,811
+(Raj:)Jolly amusing. But if you don't mind,
+I'll hold off until sunset on Titan.
+
+17
+00:00:43,979 --> 00:00:47,769
+Ha, ha. Well done. I have a feeling
+you're going to fit in fine, Dr. Koothrappali.
+
+18
+00:00:47,941 --> 00:00:48,981
+(Raj:)Thank you, sir.
+
+19
+00:00:49,151 --> 00:00:50,191
+[KNOCKING ON DOOR]
+
+20
+00:00:50,777 --> 00:00:52,317
+(Woman:)I'm sorry. Am I late?
+
+21
+00:00:52,487 --> 00:00:53,817
+LAUGHLIN:
+No, no. Right on time.
+
+22
+00:00:53,989 --> 00:00:57,489
+(Prof Laughlin:)Dr. Koothrappali,
+may I present Dr. Millstone from MIT.
+
+23
+00:00:57,659 --> 00:00:59,659
+(Prof Laughlin:)She'll be heading up
+our data analysis team.
+
+24
+00:00:59,828 --> 00:01:03,018
+(Dr Millstone:)It's nice to meet you, Dr. Koothrappali.
+

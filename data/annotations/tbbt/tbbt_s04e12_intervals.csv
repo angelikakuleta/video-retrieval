@@ -1,0 +1,45 @@
+﻿id;type;start;end;desc;tags
+tbbt_s04e12_m001;mask;2.04;3.35;;przejscie
+tbbt_s04e12_d48485;event;26.89;31.57;Howard, in an orange shirt, angrily talking on the phone at the canteen, moves his hand all over his face with eyes closed.;
+tbbt_s04e12_d48487;event;78.99;87.10;Raj, in a red sweatshirt, is smiling while talking at the canteen table, while Sheldon, Howard, and Leonard look at him with a serious expression.;
+tbbt_s04e12_m002;mask;170.53;195.35;;
+tbbt_s04e12_d84010;event;195.35;200.75;Leonard, in a blue shirt and green jacket, comes from the kitchen and sits down, placing green and yellow cans on the glass table.;
+tbbt_s04e12_d84012;event;223.11;236.55;Sheldon, in a purple shirt with black sleeves, suddenly moves his body while sitting on the couch and starts to clap as he is singing a song.;
+tbbt_s04e12_d68678;event;312.14;326.70;Sheldon, in a purple shirt, gets up and goes to the desk under the window to pick up documents to hand out to the others.;
+tbbt_s04e12_d68665;event;404.21;413.06;Sheldon, in a purple shirt, rests his elbow on the arm of the couch, holding a paper in his other hand.;
+tbbt_s04e12_m004;mask;414.04;415.40;;przejscie
+tbbt_s04e12_d68666;event;415.42;416.67;Raj and Howard are on their laptops in the living room as they watch Leonard, standing next to the whiteboard, resting his chin on his hand.;
+tbbt_s04e12_d83992;event;458.09;463.68;Sheldon, in a purple shirt, sits down on the couch next to Howard and raises his shoulders suddenly.;
+tbbt_s04e12_m005;mask;464.69;466.03;;przejscie
+tbbt_s04e12_d83994;event;471.89;478.84;Sheldon, in a purple shirt, shakes his right index finger, makes an okay sign with his hand and then puts his right index finger to his lips.;
+tbbt_s04e12_m006;mask;568.40;569.71;;przejscie
+tbbt_s04e12_d68598;event;569.90;574.11;Leonard, in red robe, walks into the living room to find Sheldon surrounded by white boards.;
+tbbt_s04e12_d68597;event;597.68;604.86;Sheldon caps his marker and places it by one of the many white boards in the living room.;
+tbbt_s04e12_d83998;event;636.18;649.59;Leonard, in a red robe, pour himself a cup of coffee to a brown mug.;
+tbbt_s04e12_m007;mask;651.87;653.21;;przejscie
+tbbt_s04e12_d84038;event;687.05;693.77;Sheldon hands Raj a black mug from a brown bag, as he is sitting at a canteen.;
+tbbt_s04e12_d84037;event;731.31;736.59;Sheldon reaches into a paper bag and pulls out two key chains while sitting at the canteen.;
+tbbt_s04e12_d84031;event;743.44;753.64;Sheldon takes two can koozies from a paper bag, while sitting at the canteen.;
+tbbt_s04e12_m008;mask;754.77;756.10;;przejscie
+tbbt_s04e12_d84034;event;756.21;760.42;Howard holds a mobile phone up to a whiteboard and uses it to take a photo.;
+tbbt_s04e12_d38730;event;794.63;799.04;Sheldon, in a blue shirt, sets a speaker on the desk and then sits down.;
+tbbt_s04e12_d38735;event;856.11;861.13;Leonard gets up from the couch and goes to Sheldon's desk, where Sheldon is strangely moving both his hands above something.;
+tbbt_s04e12_d38736;event;879.10;887.15;Sheldon walks out of the apartment with electrical gear in his hands and then walks towards the stairs.;
+tbbt_s04e12_m009;mask;887.15;888.53;;przejscie
+tbbt_s04e12_d38737;event;901.83;904.88;Penny enters the apartment building and stops when she sees Sheldon, with electrical gear, sitting on the stairs.;
+tbbt_s04e12_d38722;event;964.74;968.13;Penny taps her phone screen with her finger while sitting next to Sheldon on the stairs.;
+tbbt_s04e12_m010;mask;1018.12;1019.46;;przejscie
+tbbt_s04e12_d38727;event;1019.51;1030.50;Leonard, in a black vest, looks at a notebook, then at his computer screen, and turns back to face Howard and Raj sitting in the living room.;
+tbbt_s04e12_d38752;event;1060.15;1064.91;Leonard, in a black vest, gets up from his desk with a notebook in his hand, walks over, and sits on the couch, next to Howard.;
+tbbt_s04e12_d38758;event;1082.22;1084.35;Penny, in a white shirt and mustard vest, stands at the doorway, smiles, lifts her index finger, and closes the door.;
+tbbt_s04e12_m011;mask;1096.24;1097.59;;przejscie
+tbbt_s04e12_d38755;event;1113.41;1118.99;Sheldon moves his hand back and forth in the air over an electronic device that is lying in his lap, while sitting on the couch with Penny.;
+tbbt_s04e12_d38756;event;1139.05;1141.72;Penny puts her hands together and quickly claps twice as she is talking to Sheldon with an electronic device lying in his lap.;
+tbbt_s04e12_d38740;event;1165.07;1169.07;Penny stands up from the couch and Sheldon puts the electronic device on the table, then picks up his mug.;
+tbbt_s04e12_m012;mask;1173.84;1175.18;;przejscie
+tbbt_s04e12_d38741;event;1191.94;1193.83;Penny, in a white shirt and mustard vest, is sitting next to Sheldon on the couch when he winks at her.;
+tbbt_s04e12_d38742;event;1196.27;1209.00;Leonard, in a black vest, is leaning to show Sheldon something on the phone.;
+tbbt_s04e12_d38745;event;1217.56;1223.31;Sheldon rapidly stands up from the couch and walks up to the whiteboard to erase everything.;
+tbbt_s04e12_m013;mask;1225.28;1226.93;;przejscie
+tbbt_s04e12_d38747;event;1250.08;1264.85;A shot of Penny taking a photo on her phone of the shoes on the table while Sheldon sits in the armchair with his laptop on his lap.;
+tbbt_s04e12_m014;mask;1265.85;1295.21;;

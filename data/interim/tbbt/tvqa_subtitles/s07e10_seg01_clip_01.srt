@@ -1,0 +1,147 @@
+1
+00:00:00,230 --> 00:00:02,370
+(Ira Flatow:)This is Science Friday.
+I'm Ira Flatow.
+
+2
+00:00:02,532 --> 00:00:05,702
+(Ira Flatow:)My guest today is responsible
+for the discovery of the first
+
+3
+00:00:05,869 --> 00:00:08,319
+(Ira Flatow:)stable super-heavy element.
+
+4
+00:00:08,471 --> 00:00:09,811
+(Ira Flatow:)Welcome, Dr. Sheldon Cooper.
+
+5
+00:00:09,973 --> 00:00:10,813
+(Sheldon:)Thank you.
+
+6
+00:00:12,309 --> 00:00:13,379
+(Sheldon:)The university made me come here.
+
+7
+00:00:13,543 --> 00:00:14,543
+(Sheldon:)I didn't want to.
+
+8
+00:00:16,546 --> 00:00:18,496
+(Sheldon:)Big fan of the show.
+
+9
+00:00:19,616 --> 00:00:22,066
+(Ira:)So, I understand
+that you actually discovered
+
+10
+00:00:22,118 --> 00:00:23,568
+(Ira:)this element by mistake.
+
+11
+00:00:25,789 --> 00:00:27,459
+(Sheldon:)Yes.
+
+12
+00:00:27,991 --> 00:00:30,491
+(Ira:)And some people in the science
+community are calling it
+
+13
+00:00:30,660 --> 00:00:32,500
+"The Wonder Blunder."
+
+14
+00:00:32,662 --> 00:00:34,162
+(Sheldon:)Who?
+Give me their names.
+
+15
+00:00:34,331 --> 00:00:35,781
+(Sheldon:)I bet it's Wolowitz.
+
+16
+00:00:36,733 --> 00:00:38,443
+(Ira:)It's just such a fascinating story.
+
+17
+00:00:38,602 --> 00:00:39,982
+(Ira:)Your calculations are way off,
+
+18
+00:00:40,136 --> 00:00:42,346
+(Ira:)but they find the element anyway.
+
+19
+00:00:42,505 --> 00:00:44,675
+(Ira:)It's like misreading
+a treasure map
+
+20
+00:00:44,841 --> 00:00:47,081
+(Ira:)and still finding the treasure.
+
+21
+00:00:47,243 --> 00:00:49,083
+(Sheldon:)Can we talk
+about something else?
+
+22
+00:00:49,245 --> 00:00:51,485
+(Sheldon:)Do you know that I yodel?
+
+23
+00:00:54,184 --> 00:00:55,784
+Thats interesting,
+but this could be taking you
+
+24
+00:00:55,919 --> 00:00:58,159
+(Ira:)down the path
+toward a Nobel Prize.
+
+25
+00:00:58,321 --> 00:00:59,531
+(Ira:)And in Chemistry, no less.
+
+26
+00:00:59,689 --> 00:01:01,689
+(Ira:)And wouldn't that be unusual?
+
+27
+00:01:01,858 --> 00:01:04,028
+(Ira:)Because you're a physicist.
+
+28
+00:01:04,194 --> 00:01:06,334
+(Sheldon:)Yes, yes, I'd be a physicist
+with a Nobel in Chemistry.
+
+29
+00:01:06,496 --> 00:01:08,336
+(Sheldon:)Everyone laugh at the circus freak.
+
+30
+00:01:09,966 --> 00:01:12,346
+(Sheldon:)I don't need to sit
+here and take this, Flatow.
+
+31
+00:01:13,169 --> 00:01:14,709
+(Sheldon:)It is because of bullies like you,
+
+32
+00:01:14,871 --> 00:01:16,371
+(Sheldon:)every day more and more Americans
+
+33
+00:01:16,539 --> 00:01:18,539
+(Sheldon:)are making the switch to television.
+
+34
+00:01:20,210 --> 00:01:22,120
+I (THEME SONG PLAYS) I
+

@@ -1,0 +1,67 @@
+1
+00:00:00,325 --> 00:00:01,575
+(Leslie:)Boy, your heart's racing.
+
+2
+00:00:01,743 --> 00:00:04,163
+I must have really gotten you going.
+
+3
+00:00:04,371 --> 00:00:05,661
+(Howard:)Well, it's partly you.
+
+4
+00:00:05,831 --> 00:00:09,421
+(Howard:)Partly my transient, idiopathic arrhythmia.
+
+5
+00:00:10,377 --> 00:00:12,207
+(Leslie:)Sexy.
+
+6
+00:00:14,089 --> 00:00:17,799
+(Howard:)Can I assume that
+you've likewise found the experience...?
+
+7
+00:00:17,968 --> 00:00:19,888
+(Leslie:)Satisfactory?
+
+8
+00:00:20,846 --> 00:00:23,056
+(Howard:)That wasn't quite the word
+I was looking for...
+
+9
+00:00:23,223 --> 00:00:25,393
+(Howard:)...but sure, I'll do this pass-fail.
+
+10
+00:00:27,019 --> 00:00:29,729
+(Leslie:)Hey, are you enjoying
+that prototyper I got you?
+
+11
+00:00:29,897 --> 00:00:34,317
+(Howard:)Oh, it's great. Everybody in the Engineering
+Department is eating their hearts out.
+
+12
+00:00:34,485 --> 00:00:38,485
+(Leslie:)Isn't it nice when your good fortune
+makes others miserable?
+
+13
+00:00:40,073 --> 00:00:42,953
+(Howard:)You know, most people don't get that.
+
+14
+00:00:43,952 --> 00:00:47,502
+MRS. WOLOWITZ:
+Howard, I'm home!
+
+15
+00:00:48,290 --> 00:00:51,040
+- Oh, great.
+MRS. WOLOWITZ: Book club was canceled.
+

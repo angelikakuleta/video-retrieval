@@ -1,0 +1,89 @@
+1
+00:00:00,815 --> 00:00:03,155
+(Sheldon(entering):)Looking out at your fresh young faces...
+
+2
+00:00:03,318 --> 00:00:06,608
+(Sheldon(entering):)...I remember when I too
+was deciding my academic future...
+
+3
+00:00:06,780 --> 00:00:09,570
+(Sheldon(entering):)...as a lowly graduate student.
+
+4
+00:00:09,741 --> 00:00:12,031
+(Sheldon(entering):)Of course, I was 14...
+
+5
+00:00:12,494 --> 00:00:14,994
+...and had achieved more
+than you could ever hope to...
+
+6
+00:00:15,163 --> 00:00:17,413
+...despite my 9:00 bedtime.
+
+7
+00:00:18,625 --> 00:00:22,755
+(Sheldon(entering):)Now, there may be one or two of you
+in this room who has what it takes...
+
+8
+00:00:22,921 --> 00:00:25,051
+(Sheldon(entering):)...to succeed in theoretical physics.
+
+9
+00:00:25,215 --> 00:00:28,675
+It's more likely that you will spend
+your careers teaching fifth graders...
+
+10
+00:00:28,843 --> 00:00:32,303
+...how to make papier-mâché volcanoes
+with baking-soda lava.
+
+11
+00:00:34,099 --> 00:00:35,349
+(Leonard:)Oh, good God.
+
+12
+00:00:35,517 --> 00:00:38,647
+(Sheldon:)In short, anyone who told you
+that you would someday be able...
+
+13
+00:00:38,812 --> 00:00:42,192
+(Sheldon:)...to make any significant contribution
+to physics played a trick on you.
+
+14
+00:00:42,357 --> 00:00:44,107
+(Sheldon:)A cruel trick indeed.
+
+15
+00:00:46,820 --> 00:00:48,030
+(Sheldon:)Any questions?
+
+16
+00:00:51,157 --> 00:00:53,247
+(Sheldon:)Of course not.
+
+17
+00:00:54,536 --> 00:00:56,166
+(Sheldon:)I weep for the future of science.
+
+18
+00:00:56,329 --> 00:00:59,329
+(Sheldon:)Now, if you'll excuse me,
+the latest issue of Batman is out.
+
+19
+00:01:00,375 --> 00:01:01,875
+(Sheldon:)Come, Leonard.
+
+20
+00:01:05,213 --> 00:01:09,023
+(Leonard:)Laser demonstration's looking
+pretty good now, huh?
+

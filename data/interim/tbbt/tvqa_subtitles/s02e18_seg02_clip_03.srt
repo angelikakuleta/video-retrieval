@@ -1,0 +1,79 @@
+1
+00:00:00,029 --> 00:00:02,369
+What are your marketing
+and distribution channels?
+
+2
+00:00:02,532 --> 00:00:04,822
+(Penny:)The waitresses at my work,
+and this cute shop...
+
+3
+00:00:04,992 --> 00:00:08,122
+(Sheldon:)Hush, hush, hush. Virtually nonexistent.
+
+4
+00:00:08,412 --> 00:00:12,542
+(Sheldon:)I'm thinking that we set her up with a
+hosted turnkey e-commerce system to start.
+
+5
+00:00:12,708 --> 00:00:14,208
+(Howard:)Eliminate the middle man.
+
+6
+00:00:14,377 --> 00:00:16,837
+(Howard:)A small server farm
+with a static IP in her bedroom.
+
+7
+00:00:17,004 --> 00:00:19,714
+- She'll need some kind of cooling system.
+- Of course.
+
+8
+00:00:19,882 --> 00:00:22,382
+(Sheldon:)But before we set up
+a marketing infrastructure...
+
+9
+00:00:22,552 --> 00:00:25,802
+(Sheldon:)...we should finish optimizing
+the manufacturing process.
+
+10
+00:00:25,972 --> 00:00:30,222
+(Sheldon:)She has a terrible problem
+with moisture-induced glitter clump.
+
+11
+00:00:31,060 --> 00:00:32,640
+(Penny:)Yeah, it's a bitch.
+
+12
+00:00:35,356 --> 00:00:37,736
+Ah, I've seen this before.
+
+13
+00:00:38,276 --> 00:00:41,486
+- Where?
+- It's a common stripper problem.
+
+14
+00:00:43,781 --> 00:00:46,661
+(Howard:)They dance, they sweat, they clump.
+
+15
+00:00:48,369 --> 00:00:49,749
+(Penny:)Ew.
+
+16
+00:00:50,830 --> 00:00:53,420
+(Leonard:)Thinking about adding a desiccant
+like calcium sulfate?
+
+17
+00:00:53,583 --> 00:01:00,023
+(Howard:)Actually, I'm thinking
+about this one stripper named Vega.
+

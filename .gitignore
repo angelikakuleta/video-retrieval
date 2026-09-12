@@ -216,3 +216,85 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =============================================================
+# Project-specific rules (video-retrieval)
+# =============================================================
+
+# --- Source material and derived data -- outside the repository ---
+# Recordings (raw = master, processed = normalised for the pipeline) are not
+# redistributable; the cache is reproducible from code and takes tens of GB.
+data/raw/
+data/processed/
+data/cache/
+# Downloaded/converted model weights (large binaries).
+data/models/
+
+# Exception: the directory structure stays in the repository
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/cache/.gitkeep
+!data/models/.gitkeep
+
+# --- Model weights (downloaded automatically on first run) ---
+*.pt
+*.pth
+*.onnx
+*.safetensors
+# TorchScript text encoder pulled by Ultralytics on the first set_classes (572 MB)
+*.ts
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- Virtual environments (the definition is in environment.yml) ---
+.venv/
+venv/
+env/
+
+# --- Editors and OS ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Video material downloaded for the experiments ---
+# VATEX clips (data/raw/vatex) and series episodes are already covered by the
+# data/raw/ rule above. .zip archives are not redistributable.
+*.zip
+
+# --- Working backups ---
+*.bak
+*.bak_*
+
+# --- Measurements: the structure stays, and so do the run results (small, and they are the evidence) ---
+!results/measurements/
+
+# --- Environment variables (HF_HOME and the like) ---
+.env
+
+# --- Staging area for files moved out during refactors (delete manually) ---
+_to_delete/
+
+# Kandydaci z tbbt_02 - wynik obliczenia, powstaja od nowa przy kazdym przebiegu.
+# Wersjonowane sa dopiero pliki przeniesione recznie poziom wyzej.
+data/annotations/*/candidates/
+
+# Kontaktowki kandydatow do profili postaci (E6) - pomoc do przegladania,
+# powstaja od nowa przy kazdym przebiegu notatnika, nie niosa zadnej decyzji.
+data/interim/*/work/profile_candidates/
+
+# pytest
+.pytest_cache/
+.pytest_tmp/
+
+# The Python template above ignores *.log; run logs under
+# results/measurements/ are evidence and stay in the repository.
+!results/measurements/*.log

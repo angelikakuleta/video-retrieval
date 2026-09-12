@@ -1,0 +1,87 @@
+1
+00:00:03,588 --> 00:00:04,758
+[KNOCKING ON DOOR]
+
+2
+00:00:05,047 --> 00:00:07,797
+We're going to the Apple store
+to make fun of the Genius Bar.
+
+3
+00:00:07,967 --> 00:00:09,467
+You wanna come?
+
+4
+00:00:09,844 --> 00:00:13,184
+(Sheldon:)Oh, I always enjoy that,
+but I'm a little busy.
+
+5
+00:00:13,347 --> 00:00:14,427
+(Leonard:)What are you doing?
+
+6
+00:00:14,599 --> 00:00:16,889
+(Sheldon:)I'm simplifying the task of packing
+for our trip.
+
+7
+00:00:17,059 --> 00:00:19,099
+(Sheldon:)See, by attaching RFID tags
+to my clothing...
+
+8
+00:00:19,270 --> 00:00:23,230
+(Sheldon:)...it will enable my laptop to read
+and identify the items with this wand.
+
+9
+00:00:23,399 --> 00:00:27,069
+(Sheldon:)Then cross-reference them against
+destination, anticipated activity spectrum...
+
+10
+00:00:27,236 --> 00:00:30,116
+(Sheldon:)...weather conditions,
+duration of trip, etc.
+
+11
+00:00:33,576 --> 00:00:35,616
+(Leonard:)Well, that does sound much simpler.
+
+12
+00:00:37,413 --> 00:00:38,703
+How long is this gonna take?
+
+13
+00:00:38,873 --> 00:00:41,543
+(Sheldon:)Assuming I can keep up this pace,
+three hours 11 minutes.
+
+14
+00:00:41,709 --> 00:00:45,589
+(Sheldon:)Plus however long it takes to conclude
+this fairly pointless conversation.
+
+15
+00:00:46,464 --> 00:00:47,634
+(Leonard:)Wow.
+
+16
+00:00:47,965 --> 00:00:51,215
+(Leonard:)Teasing the guys at the Apple store
+seems a little redundant now.
+
+17
+00:00:51,385 --> 00:00:54,675
+- I don't follow.
+- I wouldn't expect you to. I'll see you later.
+
+18
+00:00:56,265 --> 00:00:57,475
+[SCANNER BEEPS]
+
+19
+00:00:58,017 --> 00:01:05,027
+(Sheldon:)Socks, one pair, cotton, argyle, blue.
+

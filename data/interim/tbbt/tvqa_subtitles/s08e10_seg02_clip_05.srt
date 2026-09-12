@@ -1,0 +1,97 @@
+1
+00:00:00,910 --> 00:00:02,510
+(Leonard:)What if...
+what if this is the thing
+
+2
+00:00:02,512 --> 00:00:05,242
+(Leonard:)that would've finally let him
+open that bottle of champagne?
+
+3
+00:00:05,248 --> 00:00:07,418
+(Raj:)Maybe he didn't know what
+to pair champagne with.
+
+4
+00:00:07,417 --> 00:00:11,417
+(Raj:)Strawberries, caviar, oysters.
+All good choices.
+
+5
+00:00:13,022 --> 00:00:14,292
+(Raj:)Yeah, that look right there
+
+6
+00:00:14,290 --> 00:00:17,530
+(Raj:)is why people eat before
+they come to your parties.
+
+7
+00:00:17,527 --> 00:00:19,597
+(Leonard:)This has to mean something.
+
+8
+00:00:19,595 --> 00:00:23,765
+(Howard:)Well, there's no discernible
+pattern that I can see,
+
+9
+00:00:23,766 --> 00:00:26,196
+(Howard:)but it shouldn't be too hard
+to run the numbers and check.
+
+10
+00:00:26,202 --> 00:00:28,772
+(Leonard:)Well, maybe we can get
+some time on the supercomputer.
+
+11
+00:00:28,771 --> 00:00:30,701
+(Howard:)Sure. We could try
+multiple regressions
+
+12
+00:00:30,706 --> 00:00:33,236
+(Howard:)with varying physical and
+experimental constants.
+
+13
+00:00:33,242 --> 00:00:35,742
+(Leonard:)Oh, we could run
+a pattern-matching algorithm
+
+14
+00:00:35,745 --> 00:00:37,945
+(Leonard:)against well-known
+unsolved physics problems.
+
+15
+00:00:37,947 --> 00:00:40,577
+(Howard:)Ooh, it might be
+a substitution cipher.
+
+16
+00:00:40,583 --> 00:00:42,483
+(Howard:)We could start
+with basic cryptanalysis.
+
+17
+00:00:42,485 --> 00:00:45,885
+(Raj:)Or we could talk to this guy
+he used to share an office with.
+
+18
+00:00:46,889 --> 00:00:50,589
+(Howard:)Oh, let's do that.
+
+19
+00:00:50,593 --> 00:00:52,993
+(Leonard:)Because you don't know how
+to do cryptanalysis, do you?
+
+20
+00:00:52,995 --> 00:01:02,025
+(Howard:)I'm not even sure if
+it's the right word.
+

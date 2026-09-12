@@ -1,0 +1,89 @@
+1
+00:00:00,194 --> 00:00:01,694
+(Penny:)No.
+
+2
+00:00:05,199 --> 00:00:07,119
+(Sheldon:)You didn't really type.
+
+3
+00:00:07,952 --> 00:00:10,452
+(Assistant:)I didn't really have to.
+
+4
+00:00:10,621 --> 00:00:12,541
+(Assistant:)So how about construction?
+
+5
+00:00:12,707 --> 00:00:14,627
+(Sheldon:)Oh, that would be good.
+
+6
+00:00:14,792 --> 00:00:18,382
+Yeah, sawing, hammering,
+eating out of a lunch pail...
+
+7
+00:00:18,546 --> 00:00:22,426
+(Sheldon:)...as my working-class fellows and I
+sit perched precariously on a girder...
+
+8
+00:00:22,592 --> 00:00:24,342
+(Sheldon:)...high above the metropolis.
+
+9
+00:00:25,636 --> 00:00:30,846
+(Assistant:)No, no. This is putting up sheetrock
+at a housing project in Rosemead.
+
+10
+00:00:31,476 --> 00:00:32,806
+(Sheldon:)-I could do that.
+-Good.
+
+11
+00:00:32,977 --> 00:00:34,307
+(Sheldon:)-One question.
+-Yes?
+
+12
+00:00:34,479 --> 00:00:36,359
+(Sheldon:)What's sheetrock?
+
+13
+00:00:37,064 --> 00:00:38,944
+(Assistant:)Moving on.
+
+14
+00:00:39,484 --> 00:00:42,324
+(Assistant:)How about doing deliveries
+for a florist?
+
+15
+00:00:42,487 --> 00:00:43,987
+(Sheldon:)That seems acceptable.
+
+16
+00:00:44,155 --> 00:00:46,945
+(Assistant:)-Do you have your own car?
+-I don't drive.
+
+17
+00:00:47,492 --> 00:00:49,122
+(Assistant:)Of course you don't.
+
+18
+00:00:50,495 --> 00:00:53,335
+(Employment Office Assistant:)Mr. Cooper,
+let me just ask you a question.
+
+19
+00:00:53,498 --> 00:00:54,998
+(Assistant:)What was your last job?
+
+20
+00:00:55,166 --> 00:00:59,026
+(Sheldon:)Senior theoretical particle physicist
+at CalTech, focusing on M Theory.
+

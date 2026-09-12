@@ -1,0 +1,53 @@
+﻿id;type;start;end;desc;tags
+tbbt_s06e01_m001;mask;0.00;3.79;;przejscie
+tbbt_s06e01_d33113;event;3.79;8.89;Howard and Bernadette kiss each other at their wedding on the roof with Amy, Sheldon, Penny, Leonard and Raj clapping behind them.;
+tbbt_s06e01_001;event;9.92;17.69;Howard sits with two other astronauts, all three of them strapped in and wearing full spacesuits with helmets.;
+tbbt_s06e01_m002;mask;17.71;19.00;;przejscie
+tbbt_s06e01_d33112;event;23.78;25.96;Leonard turns to a comic display and raises both his index fingers above his head.;
+tbbt_s06e01_002;event;85.00;88.80;A wide shot of the space station with swirling clouds around it.;
+tbbt_s06e01_d60791;event;90.30;97.24;Howard talks to his mom while floating in space.;
+tbbt_s06e01_003;event;135.90;139.36;Howard, in a green polo shirt and cap, pushes off from one wall to the opposite one, as he floats through the space station.;
+tbbt_s06e01_m003;mask;139.37;165.33;;
+tbbt_s06e01_d3370;event;165.34;176.62;Penny applies white cream with a spatula on Amy's face between her lip and her nose.;
+tbbt_s06e01_d3371;event;186.33;191.28;Penny closes the lid of some cream container tightly, while sitting next to Amy, who has a white mustache.;
+tbbt_s06e01_d3372;event;192.62;197.16;Penny wipes off the cream from the spatula with tissue.;
+tbbt_s06e01_d88798;event;231.71;234.19;Penny sits down on the couch holding a glass of wine, next to Amy, who has a white mustache.;
+tbbt_s06e01_m004;mask;245.50;246.83;;przejscie
+tbbt_s06e01_d3366;event;321.06;324.15;Raj lifts up his foot above the table at the canteen, to show Sheldon and Leonard that he's wearing sandals.;
+tbbt_s06e01_m005;mask;392.08;393.42;;przejscie
+tbbt_s06e01_d3362;event;393.44;401.19;Howard floats through the air in the International Space Station and waves at the laptop with a headset on it.;
+tbbt_s06e01_d3390;event;429.38;437.83;Howard releases a pen into outer space and it floats.;
+tbbt_s06e01_d3394;event;459.83;462.95;Bernadette adjusts her glasses when she's talking to Howard online.;
+tbbt_s06e01_d3385;event;483.43;488.14;A man floats across the International Space Station behind Howard at the laptop.;
+tbbt_s06e01_m006;mask;488.17;489.50;;przejscie
+tbbt_s06e01_d3386;event;490.19;494.83;Sheldon, in a dark grey blazer, and Amy enter the restaurant dining area.;
+tbbt_s06e01_d3387;event;503.89;507.08;Raj, sitting at the restaurant table, waves at Amy and Sheldon as they come into the restaurant.;
+tbbt_s06e01_d3380;event;522.96;524.39;"Sheldon winks at Amy and makes the ""finger guns"" gesture, at the restaurant.";
+tbbt_s06e01_d3383;event;525.21;530.99;Raj gets up and pulls out the chair for Amy as Sheldon sits at the restaurant table.;
+tbbt_s06e01_m007;mask;544.88;546.20;;przejscie
+tbbt_s06e01_d3381;event;562.31;565.06;Amy angrily closes the restaurant menu while sitting at the table.;
+tbbt_s06e01_d3382;event;574.24;577.32;Raj turns to the waiter and gestures with his hand then holds three fingers up, while sitting at the table with Amy and Sheldon.;
+tbbt_s06e01_m008;mask;587.08;588.41;;przejscie
+tbbt_s06e01_d3377;event;588.42;590.54;Leonard puts down a bowl on the living room table, covered with a red checkered tablecloth, with drinks and plates already on it.;
+tbbt_s06e01_d3376;event;612.66;614.57;Leonard, in a green shirt, hands Penny a beer from the coffee table covered with a red checkered tablecloth.;
+tbbt_s06e01_d3378;event;613.65;616.10;Leonard, in green shirt, and Penny, each holding a beer, sit on the sofa.;
+tbbt_s06e01_d3405;event;650.07;654.30;Leonard taps Penny on the arm and then sits up, puts his beer on the table covered with a red checkered tablecloth.;
+tbbt_s06e01_d3406;event;656.50;658.52;Leonard stands up and holds up his green shirt to show something written on his belly.;
+tbbt_s06e01_m009;mask;685.20;686.53;;przejscie
+tbbt_s06e01_d3400;event;692.27;698.36;Howard is in zero gravity, next to a computer console when someone's head show up from above.;
+tbbt_s06e01_d45182;event;777.09;783.52;Howard closes his eyes, then looks down while putting his hand on the spaceship console.;
+tbbt_s06e01_004;event;796.48;803.81;A wide shot of the International Space Station orbiting above the curve of the Earth.;
+tbbt_s06e01_m010;mask;803.87;805.20;;przejscie
+tbbt_s06e01_d45181;event;813.34;820.85;Raj waves his left hand in the air while holding a beer bottle at the other, sitting on the couch in between Howard and Penny.;
+tbbt_s06e01_d45184;event;817.68;822.36;Penny takes a sip of beer and then shakes the bottle while sitting on the couch with Raj and Leonard, in green shirt.;
+tbbt_s06e01_d45187;event;828.63;831.99;Raj sits up and puts his beer bottle down on the coffee table covered with a red checkered tablecloth.;
+tbbt_s06e01_d45190;event;917.89;925.72;Raj, in an orange jacket, gets thrown out of the apartment and puts his hands in his pockets.;
+tbbt_s06e01_m011;mask;925.79;927.12;;przejscie
+tbbt_s06e01_d45195;event;1051.78;1055.62;Sheldon reaches for his wallet in his jacket pocket while sitting at the restaurant with Amy.;
+tbbt_s06e01_m012;mask;1055.62;1056.99;;przejscie
+tbbt_s06e01_d45196;event;1056.99;1062.29;Raj walks into the closed  comic book store while Stuart is folding a t-shirt.;
+tbbt_s06e01_d45200;event;1075.11;1080.96;Stuart holds up a Chewbacca mug above the cash register.;
+tbbt_s06e01_d45206;event;1152.09;1157.78;Raj places the cup he was holding on the counter.;
+tbbt_s06e01_m013;mask;1187.49;1188.78;;przejscie
+tbbt_s06e01_d35765;event;1221.55;1225.48;Howard does a two-finger salute and a wink at the spaceship.;
+tbbt_s06e01_m014;mask;1239.70;1272.06;;
