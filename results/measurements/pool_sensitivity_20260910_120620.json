@@ -1,0 +1,35 @@
+{
+  "name": "pool_sensitivity",
+  "when": "2026-09-10T12:06:20",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "split": "test",
+    "per_query": [
+      1,
+      2
+    ],
+    "draws": 60,
+    "seed": 1234,
+    "assumed_share": {
+      "tbbt": 0.11,
+      "office": 0.05
+    },
+    "datasets": {}
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "llava_fp16",
+  "when": "2026-09-10T01:31:44",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "label": "LLaVA: generating a description",
+    "free_before_gib": 1.95,
+    "time": 2.376,
+    "peak_allocated_gib": 13.12,
+    "peak_reserved_gib": 13.46,
+    "free_after_gib": 1.12,
+    "load_time": 16.608,
+    "load_peak_gib": 12.57,
+    "deterministic": true,
+    "desc": "A man is doing a workout in a gym, lifting a weight and doing a pushup."
+  }
+}

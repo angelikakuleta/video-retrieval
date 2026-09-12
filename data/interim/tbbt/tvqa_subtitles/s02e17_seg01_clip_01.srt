@@ -1,0 +1,129 @@
+1
+00:00:00,269 --> 00:00:02,859
+(Penny:)I love San Francisco.
+I wish I was going with you.
+
+2
+00:00:03,022 --> 00:00:04,232
+(Sheldon:)I understand your envy.
+
+3
+00:00:04,398 --> 00:00:06,438
+(Sheldon:)This is a can't-miss symposium.
+
+4
+00:00:06,609 --> 00:00:10,239
+(Sheldon:)There are going to be discussions
+on bioorganic cellular computer devices...
+
+5
+00:00:10,404 --> 00:00:12,824
+(Sheldon:)...advancements
+in multi-threaded task completion...
+
+6
+00:00:12,990 --> 00:00:16,660
+...plus a round table on the non-equilibrium
+Green's Function approach...
+
+7
+00:00:16,827 --> 00:00:19,037
+(Sheldon:)...to the photoionization process
+in atoms.
+
+8
+00:00:20,164 --> 00:00:23,794
+(Penny:)When I go, I usually just get hammered
+and ride the cable cars.
+
+9
+00:00:24,168 --> 00:00:25,838
+This conference is a big thing.
+
+10
+00:00:26,003 --> 00:00:28,383
+(Leonard:)The keynote address
+is delivered by George Smoot.
+
+11
+00:00:28,839 --> 00:00:30,719
+(Penny:)Oh, my God. The George Smoot?
+
+12
+00:00:30,883 --> 00:00:33,723
+- You've heard of him?
+- Of course I haven't.
+
+13
+00:00:34,929 --> 00:00:37,599
+(Leonard:)George Smoot
+is a Nobel Prize-winning physicist...
+
+14
+00:00:37,765 --> 00:00:39,645
+(Sheldon:)...one of the great minds of our time.
+
+15
+00:00:39,809 --> 00:00:41,349
+(Sheldon:)His work in black body form...
+
+16
+00:00:41,519 --> 00:00:44,519
+(Sheldon:)...and anisotropy of the cosmic
+microwave background radiation...
+
+17
+00:00:44,688 --> 00:00:47,978
+(Sheldon:)...cemented our understanding
+of the origin of the universe.
+
+18
+00:00:48,150 --> 00:00:49,860
+(Penny:)It's kind of a funny name though.
+
+19
+00:00:50,027 --> 00:00:52,027
+(Leonard:)Smoot.
+
+20
+00:00:54,865 --> 00:00:56,495
+(Sheldon:)It's like talking to a chimp.
+
+21
+00:00:58,119 --> 00:01:01,249
+(Penny:)Okay, now that I've been completely
+insulted, have a good flight.
+
+22
+00:01:01,413 --> 00:01:04,543
+- Yeah, I wish.
+- We're not flying. We're taking the train.
+
+23
+00:01:04,708 --> 00:01:05,788
+(Penny:)Oh, cool.
+
+24
+00:01:05,960 --> 00:01:10,670
+(Howard:)Yeah, cool. Seven times as long as flying
+and costs almost twice as much.
+
+25
+00:01:12,049 --> 00:01:14,509
+- Well then why are you doing it?
+- Well, we had a vote.
+
+26
+00:01:14,677 --> 00:01:17,097
+Three voted for airplane,
+Sheldon voted for train.
+
+27
+00:01:17,263 --> 00:01:19,723
+(Leonard:)So we're taking the train.
+
+28
+00:01:20,558 --> 00:01:27,028
+Don't say it like that, Leonard.
+Say it like, "We're taking the train!"
+

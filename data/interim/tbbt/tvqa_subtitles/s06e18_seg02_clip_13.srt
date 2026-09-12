@@ -1,0 +1,68 @@
+1
+00:00:00,278 --> 00:00:01,578
+(Lucy(by text):)Sorry, auto-correct.
+
+2
+00:00:01,746 --> 00:00:04,946
+That was supposed to say "I like sports."
+
+3
+00:00:08,386 --> 00:00:11,286
+(Leonard:)I never wanted to play the cello.
+
+4
+00:00:12,924 --> 00:00:15,394
+(Leonard:)How do you meet girls playing the cello?
+
+5
+00:00:15,560 --> 00:00:18,760
+"Hey, wanna come over to my house
+and hear me play an instrument...
+
+6
+00:00:18,930 --> 00:00:21,190
+...that sounds like a suicidal bumblebee?"
+
+7
+00:00:22,500 --> 00:00:25,630
+(Howard:)Quick, pull the fire alarm,
+let's get out of here.
+
+8
+00:00:26,104 --> 00:00:28,264
+(Sheldon:)Uh, hello again. Um...
+
+9
+00:00:28,440 --> 00:00:31,470
+(Sheldon:)Yeah, I don't know if women in general...
+
+10
+00:00:31,643 --> 00:00:35,303
+(Sheldon:)...have been actively discouraged
+from pursuing the sciences...
+
+11
+00:00:35,480 --> 00:00:39,710
+(Sheldon:)...but it's clear you young women
+here today have been.
+
+12
+00:00:44,155 --> 00:00:47,185
+(Sheldon:)While I was listening to my colleagues
+waste your time...
+
+13
+00:00:47,359 --> 00:00:50,919
+(Sheldon:)...it occurred to me that it might be
+much more meaningful...
+
+14
+00:00:51,096 --> 00:00:55,536
+(Sheldon:)...to hear about women in science
+from actual women in science.
+
+15
+00:00:55,734 --> 00:00:58,764
+(Sheldon:)And, uh, I happen to know
+two brilliant examples...
+

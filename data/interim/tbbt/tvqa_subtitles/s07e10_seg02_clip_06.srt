@@ -1,0 +1,101 @@
+1
+00:00:00,159 --> 00:00:02,499
+(Sheldon:)Thank my friend, Wil Wheaton.
+
+2
+00:00:02,928 --> 00:00:05,428
+(Sheldon:)For your information,
+I have nine friends.
+
+3
+00:00:07,366 --> 00:00:09,246
+(Sheldon:)Ten if we include you.
+
+4
+00:00:10,569 --> 00:00:12,109
+(Sheldon:)Nine it is.
+
+5
+00:00:15,875 --> 00:00:18,545
+Eh, it's ten.
+I'll count Wolowitz.
+
+6
+00:00:20,079 --> 00:00:23,059
+(Sheldon:)-Hello, friend Leonard.
+-Hoy, you're in a good mood.
+
+7
+00:00:23,215 --> 00:00:24,525
+(Sheldon:)I'm in a great mood.
+
+8
+00:00:24,683 --> 00:00:26,683
+(Leonard:)Well, you're about to be
+in an even better one.
+
+9
+00:00:26,852 --> 00:00:29,132
+(Leonard:)I didn't want to say anything
+until I knew for sure, but...
+
+10
+00:00:29,288 --> 00:00:31,858
+(Leonard:)I've been re-running the tests
+on your element in my lab
+
+11
+00:00:32,024 --> 00:00:33,804
+(Leonard:)and I disproved it.
+
+12
+00:00:33,959 --> 00:00:35,369
+Your element does not exist!
+
+13
+00:00:36,429 --> 00:00:38,569
+(Sheldon:)Yeah, but what about
+the Chinese research team?
+
+14
+00:00:38,697 --> 00:00:39,577
+(Sheldon:)They found it.
+
+15
+00:00:39,732 --> 00:00:43,302
+(Leonard:)Yeah, it turns out someone added
+simulated signals to the data files.
+
+16
+00:00:43,469 --> 00:00:44,919
+(Leonard:)They faked the results.
+
+17
+00:00:45,071 --> 00:00:46,071
+(Sheldon:)Really?
+
+18
+00:00:46,238 --> 00:00:47,908
+Yes!
+Do you know what that means?
+
+19
+00:00:48,074 --> 00:00:50,914
+It means that all of this
+attention that you hate goes away.
+
+20
+00:00:51,077 --> 00:00:52,957
+(Sheldon:)-So no more interviews?
+-No, it's all over.
+
+21
+00:00:53,112 --> 00:00:54,922
+(Sheldon:)-I can't believe it.
+-Well, you're welcome.
+
+22
+00:00:55,081 --> 00:00:59,021
+(Sheldon:)You robbed me
+of my greatest achievement!
+

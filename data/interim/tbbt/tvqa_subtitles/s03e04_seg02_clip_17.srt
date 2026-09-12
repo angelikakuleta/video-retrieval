@@ -1,0 +1,95 @@
+1
+00:00:00,715 --> 00:00:02,505
+Argh!
+
+2
+00:00:07,138 --> 00:00:08,348
+(Leonard:)Raj?
+
+3
+00:00:08,514 --> 00:00:09,894
+(Leonard:)Raj?
+
+4
+00:00:10,099 --> 00:00:12,139
+(Leonard:)Raj?
+
+5
+00:00:13,102 --> 00:00:14,182
+(Sheldon:)I'm busy.
+
+6
+00:00:14,353 --> 00:00:15,393
+(Sheldon:)Doing what?
+
+7
+00:00:18,900 --> 00:00:21,480
+(Sheldon:)-You've made your point.
+-What do you want, Sheldon?
+
+8
+00:00:21,652 --> 00:00:24,862
+(Sheldon:)I looked over the board,
+and it turns out you were right.
+
+9
+00:00:25,031 --> 00:00:26,661
+-You were wrong?
+-I didn't say that.
+
+10
+00:00:26,824 --> 00:00:29,824
+(Raj:)-That's the only logical inference.
+-I didn't say it.
+
+11
+00:00:30,536 --> 00:00:33,826
+(Sheldon:)Anyway, I would like you to come back
+and work for me.
+
+12
+00:00:34,123 --> 00:00:35,873
+(Raj:)For you or with you?
+
+13
+00:00:36,876 --> 00:00:40,216
+(Sheldon:)In this context,
+"for me" could mean "with me."
+
+14
+00:00:40,379 --> 00:00:42,219
+-I have conditions.
+-I reject them all.
+
+15
+00:00:42,381 --> 00:00:44,131
+(Raj:)I'll take the job.
+
+16
+00:00:45,259 --> 00:00:46,889
+(Raj:)See you Monday.
+
+17
+00:00:47,053 --> 00:00:49,723
+(Sheldon:)-Wait. You have to drive me home.
+-How did you get here?
+
+18
+00:00:49,889 --> 00:00:51,389
+(Sheldon:)-I walked.
+-So walk home.
+
+19
+00:00:51,557 --> 00:00:53,897
+(Sheldon:)I can't. There's a big dog outside.
+
+20
+00:00:58,773 --> 00:01:02,403
+(Sheldon:)We can start thinking about methods
+of optimizing the detector...
+
+21
+00:01:02,568 --> 00:01:05,238
+(Sheldon:)-...for 500 GeV particles.
+-All right.
+

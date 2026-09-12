@@ -1,0 +1,50 @@
+{
+  "name": "yoloe_prompted",
+  "when": "2026-09-10T11:55:18",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "dataset": "office",
+    "split": "test",
+    "weights": "yoloe-11l-seg.pt",
+    "frames": 128,
+    "prompts": [
+      "black marker",
+      "marker",
+      "paper",
+      "shredder",
+      "desk",
+      "bank card",
+      "card",
+      "champagne"
+    ],
+    "batch": 16,
+    "confidence": 0.25,
+    "seconds_per_frame": 0.01572,
+    "ms_per_frame": 15.72,
+    "elapsed_min": 0.9,
+    "median_s": 2.011867799999891,
+    "p95_s": 2.14720485000289,
+    "min_s": 1.8770863999961875,
+    "spread": 0.153,
+    "repeats": 15,
+    "peak_vram_gb": 1.99,
+    "torch_vram_gb": 1.33,
+    "vram_noise_gb": 0.0
+  }
+}

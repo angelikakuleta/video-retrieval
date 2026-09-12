@@ -1,0 +1,33 @@
+{
+  "run_id": "full_tbbt_test_20260909_163105",
+  "created": "2026-09-09T16:32:27",
+  "config_file": "configs/full_tbbt.yaml",
+  "experiment": "full",
+  "dataset": "tbbt",
+  "split": "test",
+  "seed": 1234,
+  "packages": {
+    "torch": "2.13.0+cu130",
+    "open_clip_torch": "3.3.0",
+    "faiss-cpu": "1.14.3",
+    "numpy": "2.5.1",
+    "opencv-python": "4.14.0.94",
+    "pydantic": "2.13.4",
+    "transnetv2-pytorch": "1.0.5"
+  },
+  "inputs": {
+    "data\\cache\\segmentation\\shots_histogram\\tbbt_segments.csv": {
+      "sha256": "73feaa0974a66a3d633abbe226a7def1e6cd8fb2bb688c083b7a69d61d543ce4",
+      "bytes": 193801
+    },
+    "data\\interim\\tbbt\\tbbt_ranges.csv": {
+      "sha256": "21f6e965268b289d6a5ff8d165ad7bbe069a99d79a30f7c56f71877edf7c7cbe",
+      "bytes": 2498
+    },
+    "data\\annotations\\tbbt\\tbbt_queries_test.jsonl": {
+      "sha256": "01240a5fd21b7b2ac2e646c6469c634577f65cb8dd12173e94fbcc870e7ca32c",
+      "bytes": 217506
+    }
+  },
+  "queries_skipped_no_relevant": []
+}

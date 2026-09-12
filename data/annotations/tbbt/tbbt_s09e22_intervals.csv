@@ -1,0 +1,48 @@
+﻿id;type;start;end;desc;tags
+tbbt_s09e22_m001;mask;2.01;3.36;;przejscie
+tbbt_s09e22_d66901;event;13.25;16.62;Howard, in a plaid shirt, puts his arm around Bernadette's shoulder as they smile at each other, while she holds a bottle of water.;
+tbbt_s09e22_m002;mask;139.81;165.96;;
+tbbt_s09e22_d78975;event;165.97;168.30;Leonard, in a beige jacket, leans over a cluttered workbench, while Raj checks his phone and Howard and Sheldon move in the background.;
+tbbt_s09e22_001;event;206.24;207.99;A shot of Howard touching a spinning contraption  at the office with workbench cluttered with tools and electronic parts.;
+tbbt_s09e22_d78971;event;207.99;210.90;Sheldon takes his phone out of his pocket at an office with workbench cluttered with tools and electronic parts.;
+tbbt_s09e22_d78973;event;246.21;248.95;Sheldon falls to the ground while capturing a video of a spinning contraption with his phone.;
+tbbt_s09e22_m004;mask;251.60;252.93;;przejscie
+tbbt_s09e22_002;event;255.09;256.83;A blonde woman, in a pink shirt, sits at a small kitchen table, talking on the phone, smiling, and taking notes while looking at her laptop.;
+tbbt_s09e22_m005;mask;304.77;306.13;;przejscie
+tbbt_s09e22_d49339;event;306.14;312.54;Leonard, in a pink shirt, sits on the sofa, reading a wine tasting book with a grimace.;
+tbbt_s09e22_d49337;event;314.76;320.53;Penny, in dark purple dress, gets her handbag from the armchair and puts it on.;
+tbbt_s09e22_d78961;event;328.85;331.36;Leonard, in a pink shirt, stands up from the couch and tosses a white book on the table in the living room.;
+tbbt_s09e22_d78963;event;366.16;367.98;Leonard, in a pink shirt, whips his head around and walks out the door.;
+tbbt_s09e22_m006;mask;372.34;373.71;;przejscie
+tbbt_s09e22_d78964;event;373.79;377.20;Howard slowly walks up to Amy's a wine barrel table at vineyard.;
+tbbt_s09e22_d78990;event;463.71;466.57;Raj, in a paisley shirt and argyle sweater vest, puts his hands together and bows his head.;
+tbbt_s09e22_m007;mask;466.62;467.96;;przejscie
+tbbt_s09e22_d78991;event;467.99;476.20;Bernadette comes in the door and hands Sheldon a bottle of champagne.;
+tbbt_s09e22_m008;mask;506.88;508.23;;przejscie
+tbbt_s09e22_d78994;event;508.25;511.02;A wide shot of Raj, Leonard, Sheldon, and Amy stand around wine barrel tables, each smelling their wine inside their wine glasses.;
+tbbt_s09e22_d78986;event;529.66;532.86;A tall man points at Penny's hand at the wine barrel table, so she smiles while she looks at her wedding ring.;
+tbbt_s09e22_d78987;event;558.75;562.84;A tall man stands between Raj and Penny around the wine barrel and counts with his fingers, while holding a wine glass in his other hand.;
+tbbt_s09e22_m009;mask;615.03;616.38;;przejscie
+tbbt_s09e22_d37716;event;625.21;632.27;Happy Sheldon picks up small train toy, shows it to Bernadette, then puts it back down, while sitting next to each other on the couch.;
+tbbt_s09e22_d79010;event;641.69;647.62;Bernadette and Sheldon sit on the couch, looking down at several toy trains lined up on the coffee table in front of them, then Bernadette grabs small one.;
+tbbt_s09e22_d79011;event;649.18;653.09;Sheldon grabs a big toy train while Bernadette holds a small one, sitting on the couch.;
+tbbt_s09e22_m010;mask;671.49;672.83;;przejscie
+tbbt_s09e22_d79008;event;711.33;715.58;A blonde woman walks up to Raj from behind and gives him a kiss on the cheek, at the vineyard.;
+tbbt_s09e22_m011;mask;727.53;728.86;;przejscie
+tbbt_s09e22_d79007;event;728.90;743.88;A shot of Sheldon standing at the kitchen island in front of a row of toast, while Bernadette sits across from him.;
+tbbt_s09e22_d34111;event;764.82;772.60;Sheldon, in a green shirt, sits on the couch reading from a notebook, holding up a small game figure between his fingers as he talks to Bernadette.;
+tbbt_s09e22_m012;mask;814.25;815.57;;przejscie
+tbbt_s09e22_d34118;event;824.42;827.29;Penny rapidly turns her head and looks strangely at Amy, then nervously takes a drink of wine, while standing at the wine barrel table.;
+tbbt_s09e22_m013;mask;850.46;851.75;;przejscie
+tbbt_s09e22_d34120;event;851.78;856.66;Howard and Leonard stand silently side by side in a men's restroom, in front of a wall-mounted urinal, against a wood-paneled wall.;
+tbbt_s09e22_d34123;event;893.68;894.94;Howard looks at Leonard while in the bathroom and taps the wall-mounted urinal twice with his fist, while walking away.;
+tbbt_s09e22_d34121;event;894.39;905.86;Howard, while in the bathroom with Leonard, goes to the sink and washes his hands.;
+tbbt_s09e22_m014;mask;905.98;907.28;;przejscie
+tbbt_s09e22_d34130;event;907.35;913.55;Sheldon shouts excitedly and waves his hand while holding a notebook in it, sitting behind a board game on the coffee table, with Bernadette.;
+tbbt_s09e22_d34127;event;998.69;1001.23;Sheldon, while holding a book, makes a finger gun and points it to his head, then grimaces;
+tbbt_s09e22_d34134;event;1017.74;1020.13;Sheldon sweeps his hand across the couch cushion as if brushing away dust, while talking to Bernadette, who sits across from him holding a clipboard.;
+tbbt_s09e22_m015;mask;1021.10;1022.44;;przejscie
+tbbt_s09e22_d34135;event;1066.44;1070.64;Amy finishes the rest of her wine in one gulp, then chokes and covers her mouth with her hand, at the table with an appetizers and wine glasses.;
+tbbt_s09e22_d34137;event;1085.16;1086.62;A tall man, while standing at the vineyard near Leonard and Raj, makes an OK hand gesture with a wide-eyed, exaggerated expression and his mouth open.;
+tbbt_s09e22_m016;mask;1122.06;1123.38;;przejscie
+tbbt_s09e22_m017;mask;1170.15;1201.58;;

@@ -1,0 +1,82 @@
+1
+00:00:00,124 --> 00:00:02,824
+- Is it a secret?
+- No, it's a nitrogen laser.
+
+2
+00:00:03,060 --> 00:00:05,790
+(Leonard:)It'll cook your eyeball like a soft-boiled egg.
+
+3
+00:00:06,130 --> 00:00:08,100
+Oh, might wanna put a sign on it.
+
+4
+00:00:09,133 --> 00:00:11,393
+There's a sign right there.
+
+5
+00:00:11,769 --> 00:00:14,299
+Ah, "Danger." Sure, sure.
+
+6
+00:00:14,605 --> 00:00:15,935
+So, what's that?
+
+7
+00:00:16,140 --> 00:00:20,270
+(Leonard:)That is an integrated ion trap
+and time-of-flight mass spectrometer.
+
+8
+00:00:20,477 --> 00:00:22,637
+Wow. High techie-techie.
+
+9
+00:00:24,581 --> 00:00:26,101
+(Penny:)What's this little box?
+
+10
+00:00:26,316 --> 00:00:29,216
+(Leonard:)That is a pencil sharpener.
+
+11
+00:00:30,454 --> 00:00:32,114
+Oh, low techie-techie.
+
+12
+00:00:33,357 --> 00:00:34,947
+So, what are you working on now?
+
+13
+00:00:35,159 --> 00:00:37,959
+- It's actually pretty neat.
+- Yeah?
+
+14
+00:00:38,162 --> 00:00:40,322
+(Leonard:)It's a front-projected holographic display...
+
+15
+00:00:40,531 --> 00:00:44,431
+...combined with laser based
+finger tracking. Here, I'll show you.
+
+16
+00:00:45,002 --> 00:00:47,632
+(Leonard:)Put this pencil over here.
+
+17
+00:00:47,838 --> 00:00:51,298
+(Penny:)Sharp, thanks to the machine
+we saw earlier.
+
+18
+00:00:53,544 --> 00:00:54,604
+(Leonard:)Very good.
+
+19
+00:00:55,746 --> 00:01:00,026
+(Leonard:)Then a laser will map
+the reflective surface...
+

@@ -1,0 +1,119 @@
+1
+00:00:00,600 --> 00:00:02,130
+(Sheldon:)Those must be neurons.
+
+2
+00:00:02,135 --> 00:00:04,535
+(Sheldon:)Oh, they're so thick
+and beautiful.
+
+3
+00:00:04,537 --> 00:00:06,437
+(Amy:)Those are your
+eyelashes, move.
+
+4
+00:00:10,243 --> 00:00:11,943
+(Amy:)Well, Sheldon...
+
+5
+00:00:11,945 --> 00:00:14,275
+(Amy:)I see astrocytes.
+
+6
+00:00:14,981 --> 00:00:16,831
+(Amy:)Our combined skin cells are now
+
+7
+00:00:16,831 --> 00:00:18,261
+(Amy:)a primitive neural network.
+
+8
+00:00:20,434 --> 00:00:23,364
+(Sheldon:)I have such a profound
+
+9
+00:00:23,370 --> 00:00:24,770
+(Sheldon:)sense of creation.
+
+10
+00:00:24,772 --> 00:00:25,842
+I ju... it's like
+
+11
+00:00:25,840 --> 00:00:27,170
+when I hatched Sea-Monkeys,
+
+12
+00:00:27,174 --> 00:00:29,574
+(Sheldon:)except that this
+is from my DNA,
+
+13
+00:00:29,577 --> 00:00:30,747
+(Sheldon:)so this is like...
+
+14
+00:00:30,744 --> 00:00:32,644
+Me-Monkeys.
+
+15
+00:00:34,115 --> 00:00:35,885
+(Amy:)These cells come
+from both of us.
+
+16
+00:00:35,883 --> 00:00:38,113
+Yeah, but Us-Monkeys
+doesn't pop.
+
+17
+00:00:38,119 --> 00:00:39,719
+Oh, oh, oh, oh, wait!
+
+18
+00:00:39,720 --> 00:00:41,590
+We-Monkeys, there you go.
+
+19
+00:00:41,589 --> 00:00:42,919
+(Sheldon:)Hey.
+
+20
+00:00:42,923 --> 00:00:44,253
+(Sheldon:)When can we start
+running tests on it?
+
+21
+00:00:44,258 --> 00:00:46,328
+(Amy:)No reason we can't
+start right now.
+
+22
+00:00:46,327 --> 00:00:48,697
+(Sheldon:)What stimulus should we
+introduce it to first?
+
+23
+00:00:48,696 --> 00:00:50,526
+L-Light, sound, temperature...
+
+24
+00:00:50,531 --> 00:00:52,231
+Oh! Oh! Let's
+expose it to images
+
+25
+00:00:52,233 --> 00:00:55,333
+of me and you and see
+who it likes better.
+
+26
+00:00:55,336 --> 00:00:58,636
+(Amy:)Sheldon, this is a rudimentary
+collection of neurons.
+
+27
+00:00:58,639 --> 00:00:59,669
+(Amy:)I mean, it's remarkable,
+

@@ -1,0 +1,64 @@
+1
+00:00:00,330 --> 00:00:02,330
+(Leonard:)Okay, bug report taken.
+
+2
+00:00:02,499 --> 00:00:05,709
+(Leonard:)Next time, I will have a better plan
+for our evening's activity.
+
+3
+00:00:05,877 --> 00:00:07,757
+(Penny:)Well, thank you. I'll see you tomorrow.
+
+4
+00:00:07,921 --> 00:00:11,421
+Yeah. Oh, wait. Here. Almost forgot.
+
+5
+00:00:11,591 --> 00:00:13,221
+(Leonard:)- Here.
+- What's this?
+
+6
+00:00:13,384 --> 00:00:14,514
+(Leonard:)My bug report to you.
+
+7
+00:00:22,185 --> 00:00:25,975
+Well, it's quite a list you got there.
+
+8
+00:00:26,356 --> 00:00:28,436
+It's color-coded.
+
+9
+00:00:29,943 --> 00:00:31,773
+Red means "fix right away."
+
+10
+00:00:33,613 --> 00:00:36,993
+Yellow is "whenever you get a chance."
+
+11
+00:00:37,534 --> 00:00:40,784
+And green is "I could probably learn
+to live with it."
+
+12
+00:00:41,788 --> 00:00:45,128
+(Leonard:)There's a key down here at the bottom.
+It's neat, huh?
+
+13
+00:00:47,085 --> 00:00:48,755
+(Penny:)Yep.
+
+14
+00:00:50,630 --> 00:00:52,380
+(Leonard:)So have a good night.
+
+15
+00:00:54,342 --> 00:00:59,022
+(Penny:)Yep.
+

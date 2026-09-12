@@ -1,0 +1,84 @@
+1
+00:00:07,100 --> 00:00:08,150
+(Leonard:)Hey, what's up?
+
+2
+00:00:08,210 --> 00:00:09,910
+(Howard:)I need a place to crash.
+
+3
+00:00:09,920 --> 00:00:10,680
+(Leonard:)Uh, sure.
+
+4
+00:00:10,680 --> 00:00:12,750
+(Leonard:)Why?
+
+5
+00:00:12,750 --> 00:00:14,620
+(Howard:)Big fight with my mother.
+
+6
+00:00:14,620 --> 00:00:18,860
+Still arguing over
+which CSI is the best?
+
+7
+00:00:18,860 --> 00:00:22,890
+(Howard:)No, we agreed they all have
+their merits.
+
+8
+00:00:22,890 --> 00:00:24,960
+(Howard:)This was about Bernadette.
+
+9
+00:00:24,960 --> 00:00:27,060
+(Sheldon:)What's going on?
+
+10
+00:00:27,070 --> 00:00:28,170
+(Leonard:)Howard's gonna sleep here
+tonight.
+
+11
+00:00:28,170 --> 00:00:29,550
+(Leonard:)He had a fight with his mother.
+
+12
+00:00:29,550 --> 00:00:32,770
+(Sheldon:)Did you offer him
+a hot beverage?
+
+13
+00:00:39,210 --> 00:00:41,610
+(Bernadette:)No.
+
+14
+00:00:43,320 --> 00:00:46,220
+(Sheldon:)Leonard, social protocol states
+when a friend is upset,
+
+15
+00:00:46,220 --> 00:00:48,450
+(Sheldon:)you offer them a hot beverage,
+such as tea.
+
+16
+00:00:48,450 --> 00:00:51,160
+(Howard:)Tea does sound nice.
+
+17
+00:00:51,160 --> 00:00:53,410
+(Sheldon:)You heard the man, Leonard.
+
+18
+00:00:55,990 --> 00:00:58,430
+(Sheldon:)And while you're at it,
+I'm upset
+
+19
+00:00:58,430 --> 00:01:04,020
+(Sheldon:)that we have an unannounced
+houseguest, so make me cocoa.
+

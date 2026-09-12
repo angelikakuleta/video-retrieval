@@ -1,0 +1,117 @@
+1
+00:00:00,140 --> 00:00:02,610
+(Sheldon:)I assume
+you were opening with a joke.
+
+2
+00:00:02,610 --> 00:00:06,680
+(Sheldon:)It certainly buoyed up
+this employee's esprit de corps.
+
+3
+00:00:07,720 --> 00:00:09,920
+(Leonard:)It's not a joke.
+It's the real design.
+
+4
+00:00:09,920 --> 00:00:12,990
+(Sheldon:)In that case, may I offer
+27 little tweaks
+
+5
+00:00:12,990 --> 00:00:15,290
+(Sheldon:)to make it
+slightly less embarrassing?
+
+6
+00:00:15,290 --> 00:00:17,330
+(Leonard:)Sheldon, I think
+this will work.
+
+7
+00:00:17,330 --> 00:00:18,930
+(Leonard:)Let's just try it my way.
+
+8
+00:00:18,930 --> 00:00:20,430
+Oh, I'm-I'm sorry.
+
+9
+00:00:20,430 --> 00:00:21,680
+(Sheldon:)I assumed that you wanted
+
+10
+00:00:21,680 --> 00:00:23,770
+(Sheldon:)candid truth-telling
+from your employees,
+
+11
+00:00:23,770 --> 00:00:26,240
+(Sheldon:)but I realize now,
+you want the mindless nattering
+
+12
+00:00:26,240 --> 00:00:28,870
+(Sheldon:)of complacent
+yes-men.
+
+13
+00:00:28,870 --> 00:00:30,110
+(Leonard:)Are you done?
+
+14
+00:00:30,110 --> 00:00:32,040
+(Sheldon:)If you say so, boss.
+
+15
+00:00:34,180 --> 00:00:36,080
+(Howard:)So right now,
+this button-press event
+
+16
+00:00:36,080 --> 00:00:38,050
+(Howard:)is just triggering
+a dummy procedure call...
+
+17
+00:00:38,050 --> 00:00:40,080
+(Sheldon:)How about this
+for the app name?
+
+18
+00:00:40,080 --> 00:00:42,890
+(Sheldon:)The Surprisingly
+Helpful Equation-Linked
+
+19
+00:00:42,890 --> 00:00:45,410
+(Leonard:)Differential
+Optimized Numerator.
+
+20
+00:00:47,020 --> 00:00:49,960
+So it spells "Sheldon."
+
+21
+00:00:50,890 --> 00:00:52,080
+(Sheldon:)Does it?
+
+22
+00:00:52,080 --> 00:00:54,160
+(Sheldon:)A happy accident.
+
+23
+00:00:54,160 --> 00:00:57,900
+(Leonard:)We're not doing
+names now. Howard?
+
+24
+00:00:57,900 --> 00:00:59,920
+(Howard:)Like I was saying, right now
+it's just a dummy procedure,
+
+25
+00:00:59,920 --> 00:01:01,240
+(Howard:)but eventually,
+it will drop us into...
+

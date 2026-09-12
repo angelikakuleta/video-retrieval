@@ -1,0 +1,91 @@
+1
+00:00:00,640 --> 00:00:02,520
+(Sheldon(Knock, knock, knock):)This is for you.
+
+2
+00:00:03,143 --> 00:00:04,523
+(Penny:)Hello, Sheldon.
+
+3
+00:00:05,061 --> 00:00:06,641
+(Howard:)Hi.
+
+4
+00:00:09,232 --> 00:00:11,732
+- What is this?
+- It's a questionnaire I devised.
+
+5
+00:00:11,901 --> 00:00:14,781
+(Sheldon:)I'm having some difficulty bonding
+with a colleague at work...
+
+6
+00:00:14,946 --> 00:00:19,366
+(Sheldon:)...so I'm doing a little research to better
+understand why my current friends like me.
+
+7
+00:00:20,452 --> 00:00:23,452
+(Penny:)Yes, well, that is a good question.
+
+8
+00:00:23,621 --> 00:00:26,161
+(Penny:)But is this really the best way
+to figure it out?
+
+9
+00:00:26,333 --> 00:00:27,543
+(Sheldon:)I agree.
+
+10
+00:00:27,709 --> 00:00:29,499
+(Sheldon:)The social sciences are largely hokum.
+
+11
+00:00:29,669 --> 00:00:33,339
+(Sheldon:)But short of putting electrodes in your brain
+and monitoring your response...
+
+12
+00:00:33,506 --> 00:00:36,596
+(Sheldon:)...to my companionship,
+this is the best I can do.
+
+13
+00:00:36,760 --> 00:00:38,430
+Okay, question one:
+
+14
+00:00:38,595 --> 00:00:42,345
+"Rank the following aspects
+of Sheldon Cooper in order of appeal:
+
+15
+00:00:42,515 --> 00:00:45,265
+(Penny:)Intelligence,
+ruthless attention to hygiene...
+
+16
+00:00:45,435 --> 00:00:48,935
+...playfulness, Java-applet writing"?
+
+17
+00:00:50,523 --> 00:00:53,233
+(Sheldon:)I know. I may have started off
+with a fairly obvious one.
+
+18
+00:00:53,401 --> 00:00:55,651
+(Sheldon:)An aspect
+of my most appealing trait:
+
+19
+00:00:55,820 --> 00:00:57,820
+(Penny:)playfulness.
+
+20
+00:00:57,989 --> 00:01:01,279
+Why don't you rank that number one?
+You're on your own for the rest.
+

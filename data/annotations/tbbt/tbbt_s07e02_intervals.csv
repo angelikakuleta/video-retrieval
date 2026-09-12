@@ -1,0 +1,47 @@
+﻿id;type;start;end;desc;tags
+tbbt_s07e02_m001;mask;0.00;3.36;;
+tbbt_s07e02_d6163;event;51.59;54.02;Sheldon and Penny, both holding paper bags with groceries, turn to walk in opposite directions away from one another, in the hallway.;
+tbbt_s07e02_d6164;event;65.28;66.53;Out of fright, Penny drops a paper bag full of shopping, while standing next to the door of her apartment.;
+tbbt_s07e02_m002;mask;93.63;118.65;;
+tbbt_s07e02_d12515;event;118.66;120.25;Sheldon, in a red shirt, was starring at a figurine as Stuart passes by.;
+tbbt_s07e02_d12516;event;146.50;148.34;Stuart grabs an Aquaman statue from shelf behind him.;
+tbbt_s07e02_d12517;event;170.04;172.02;Stuart takes out a Batman squirt gun from behind the counter.;
+tbbt_s07e02_m006;mask;246.12;247.47;;przejscie
+tbbt_s07e02_d12506;event;247.47;259.69;Leonard, in a grey hoodie, is showing Penny pictures on his cell phone, while sitting on the couch.;
+tbbt_s07e02_d12507;event;268.24;271.93;Penny, in a purple floral shirt, opens her apartment door for a pizza delivery guy.;
+tbbt_s07e02_d12502;event;295.21;298.76;The pizza delivery man turns and looks at Sheldon with a plastic bag in his hand, while he walks away.;
+tbbt_s07e02_d12535;event;364.55;366.11;Sheldon puts his arms on his hips while facing a trash can, at the kitchen.;
+tbbt_s07e02_m007;mask;396.88;398.22;;przejscie
+tbbt_s07e02_d12537;event;401.15;402.73;Bernadette sets a glass mixing bowl into a dish drainer tray.;
+tbbt_s07e02_d12533;event;435.55;446.70;Howard pulls a tube of cream out of his pocket and hands it to Bernadette.;
+tbbt_s07e02_d12532;event;445.46;455.08;Bernadette, in a pink sweater, reads the information on the bottle of cream.;
+tbbt_s07e02_d71428;event;482.06;485.25;Bernadette, in a pink sweater, sits down on the blue couch next to Howard.;
+tbbt_s07e02_d71426;event;486.21;501.21;Howard grabs a yellow pillow and hugs it for comfort, while sitting on the blue couch.;
+tbbt_s07e02_m008;mask;501.52;502.86;;przejscie
+tbbt_s07e02_d71427;event;532.54;537.21;Amy picks up her blue coffee cup and walks out of the kitchen where Sheldon sits with yellow cup.;
+tbbt_s07e02_m009;mask;589.48;590.82;;przejscie
+tbbt_s07e02_d71318;event;590.83;600.77;Amy and Sheldon put their ears up to the door.;
+tbbt_s07e02_d71319;event;629.42;635.43;Sheldon, in a red shirt, gets the key on his pocket and opens the door, while standing next to Amy.;
+tbbt_s07e02_d71317;event;635.42;637.83;A Leonard, in a grey hoodie, stands up scared as Sheldon and Amy enter the apartment.;
+tbbt_s07e02_d12475;event;655.79;657.04;Leonard, in a grey jacket, is sitting on the couch with his elbow on his knee next to Penny.;
+tbbt_s07e02_m003;mask;659.37;660.71;;przejscie
+tbbt_s07e02_m010;mask;768.41;769.75;;przejscie
+tbbt_s07e02_d54260;event;782.38;786.88;Raj, in a green and grey shirt, picks up a piece of cake from the coffee table and starts eating it.;
+tbbt_s07e02_d54261;event;796.10;800.10;Howard lifts up his shirt to show Raj his chest.;
+tbbt_s07e02_d54263;event;810.99;819.19;Howard jumps up and down with his shirt pulled up.;
+tbbt_s07e02_d54264;event;822.76;827.33;Raj, in a green and grey shirt, shakes his chest from side to side.;
+tbbt_s07e02_d54262;event;829.25;832.67;Howard sticks the bottom of his shirt up over his head.;
+tbbt_s07e02_d54265;event;832.68;840.98;Howard stands in front of the couch with his shirt pulled up and shimmies his torso.;
+tbbt_s07e02_d54268;event;845.71;852.62;Raj pulls his shirt over his head as he shakes his body in front of Howard.;
+tbbt_s07e02_d54269;event;864.01;868.08;Raj puts his hand on Howard's bare chest as Bernadette walks into the room.;
+tbbt_s07e02_d54273;event;900.85;903.50;Bernadette walks away after seeing Raj and Howard holding each others bare chests.;
+tbbt_s07e02_m011;mask;906.71;908.01;;przejscie
+tbbt_s07e02_d54270;event;908.03;909.93;Leonard pours coffee from the coffee pot into a travel mug.;
+tbbt_s07e02_d54277;event;1015.51;1021.31;Sheldon, in a beige jacket,  holds the buildings door open while talking to someone.;
+tbbt_s07e02_m012;mask;1021.32;1022.68;;przejscie
+tbbt_s07e02_d54279;event;1042.66;1044.64;Sheldon comes out of the apartment to where Amy and Penny, in a white shirt and yellow vest, are.;
+tbbt_s07e02_m004;mask;1191.90;1193.26;;przejscie
+tbbt_s07e02_d62068;event;1193.26;1196.42;Raj, in a red sweater, sits on the floor while his friends are having a conversation at the living room table.;
+tbbt_s07e02_d54231;event;1214.74;1218.09;Sheldon gets a piece of paper from the side table and hands it to Penny, while they are eating at the living room table.;
+tbbt_s07e02_d54232;event;1246.77;1251.88;Penny, with two ponytails and in a turquoise floral top,  hands Howard the piece of paper she was holding.;
+tbbt_s07e02_m005;mask;1251.88;1282.41;;

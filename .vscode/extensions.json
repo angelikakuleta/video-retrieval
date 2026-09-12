@@ -1,0 +1,14 @@
+{
+  // Extensions needed to work with the notebooks in this repository.
+  // VS Code will offer to install them after opening the folder.
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.debugpy",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "charliermarsh.ruff"
+  ],
+  "unwantedRecommendations": []
+}

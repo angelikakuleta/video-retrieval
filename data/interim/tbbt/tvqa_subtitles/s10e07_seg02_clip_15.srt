@@ -1,0 +1,88 @@
+1
+00:00:00,489 --> 00:00:01,519
+(Howard:)Do you love Amy?
+
+2
+00:00:01,524 --> 00:00:02,554
+(Raj(singing):)Yes.
+
+3
+00:00:02,558 --> 00:00:04,058
+(Raj:)Do you like living with her?
+
+4
+00:00:04,060 --> 00:00:05,130
+(Raj(singing):)Yes.
+
+5
+00:00:05,127 --> 00:00:07,527
+(Leonard:)Do you know what
+you need to do now?
+
+6
+00:00:08,397 --> 00:00:09,967
+(Sheldon:)Apparently,
+figure this out on my own
+
+7
+00:00:09,966 --> 00:00:11,696
+(Sheldon:)'cause you guys
+are no help at all.
+
+8
+00:00:30,886 --> 00:00:33,056
+(Sheldon:)Hi.
+
+9
+00:00:33,055 --> 00:00:34,355
+(Sheldon:)Hello.
+
+10
+00:00:34,357 --> 00:00:36,227
+(Amy:)What are you doing?
+
+11
+00:00:37,526 --> 00:00:41,166
+(Sheldon:)I'm just contemplating
+Buridan's donkey.
+
+12
+00:00:41,163 --> 00:00:42,433
+(Amy:)I understand.
+
+13
+00:00:42,431 --> 00:00:43,601
+(Amy:)I'll leave you be.
+
+14
+00:00:46,335 --> 00:00:48,665
+(Sheldon:)What, you're familiar
+with the reference?
+
+15
+00:00:48,671 --> 00:00:49,971
+(Leonard:)Of course.
+
+16
+00:00:49,972 --> 00:00:51,942
+(Amy:)Jean Buridan proposed
+
+17
+00:00:51,941 --> 00:00:53,471
+(Amy:)a philosophical thesis
+stating that
+
+18
+00:00:53,476 --> 00:00:55,876
+(Amy:)a hungry donkey placed
+between two equidistant
+
+19
+00:00:55,878 --> 00:00:58,548
+(Amy:)bales of hay would be
+paralyzed by indecision
+
+20
+00:00:58,547 --> 00:01:04,027
+(Amy:)and would starve to death.
+

@@ -1,0 +1,43 @@
+﻿id;type;start;end;desc;tags
+tbbt_s02e13_d77728;event;1.98;6.39;Raj, in a purple sweater, is eating his food very happily, smiling and closing his eyes in delight, at the canteen.;
+tbbt_s02e13_d77729;event;36.32;50.59;Sheldon is flickering his lips and twitching as he sits beside Howard, at the canteen.;
+tbbt_s02e13_d77720;event;61.63;68.44;Sheldon, in a blue shirt with orange sleeves, slams down his drink as he sits at the cafeteria table.;
+tbbt_s02e13_d77731;event;153.49;155.60;Kripke, in a brown plaid shirt, licks his lips, staring into the distance with a thoughtful expression, while standing next to Sheldon in the canteen.;
+tbbt_s02e13_m001;mask;164.85;189.16;;
+tbbt_s02e13_d47836;event;193.08;204.29;Leonard and Penny, in a yellow blouse, are sitting on the couch together while Penny clicks something on her pink laptop.;
+tbbt_s02e13_d47835;event;212.96;221.20;Sheldon, in a blue shirt with orange sleeves, is pouring tea out of a red kettle while talking on the cell phone.;
+tbbt_s02e13_d47837;event;206.05;210.68;Penny, in a yellow blouse, makes a resigned face, eyes closed, mouth wide open, then buries her face in her hands on the couch with Leonard.;
+tbbt_s02e13_d47841;event;255.34;258.83;Leonard uses a blue cloth napkin to wipe a spot on the coffee table, while sitting on the couch next to Penny.;
+tbbt_s02e13_m002;mask;301.65;302.98;;przejscie
+tbbt_s02e13_d47827;event;344.31;350.10;Sheldon, in a blue and purple shirt with green sleeves, walks into Penny's apartment behind her as she's reading the papers.;
+tbbt_s02e13_d47832;event;369.44;379.09;Penny, in a pink and floral blouse, is confused and annoyed about some papers she's looking at with Sheldon.;
+tbbt_s02e13_d47830;event;394.97;402.05;Sheldon, in a blue and purple shirt with green sleeves, points out something on Penny's papers and walk away.;
+tbbt_s02e13_m003;mask;402.10;403.41;;przejscie
+tbbt_s02e13_d47831;event;403.67;413.17;Sheldon is working on some papers with a red marker, which makes Leonard, sitting at his computer, smirk.;
+tbbt_s02e13_d47817;event;477.58;479.94;Leonard closes the door to the fridge after taking out a bottle of water and spreads his arms wide with a bottle in his hand.;
+tbbt_s02e13_d47822;event;518.61;521.96;Sheldon, in a brown shirt with blue sleeves, takes the cap off of the red marker he is holding.;
+tbbt_s02e13_d47824;event;521.62;523.66;Sheldon, in a brown shirt with blue sleeves, gets up from the couch and put down a red marker on a glass table.;
+tbbt_s02e13_m004;mask;549.47;550.82;;przejscie
+tbbt_s02e13_d47805;event;565.54;570.56;Sheldon, in a brown shirt with blue sleeves, talks to a lady in a brown sweater standing in line, and then she walks away.;
+tbbt_s02e13_d16304;event;642.09;644.65;Sheldon sits down on the green chair beside the little girl wearing a pink shirt, at the bookstore.;
+tbbt_s02e13_d47853;event;689.65;695.73;Leonard grabs Sheldon's arm to pull him away from a small table with a little girl.;
+tbbt_s02e13_d47850;event;672.85;680.82;Leonard, with a pretzel in his hand, walks up to a small table where happy Sheldon is sitting with a little girl.;
+tbbt_s02e13_d47852;event;712.46;717.20;Enthusiastic Sheldon, in a shirt with a colorful chevron pattern, points to the giant white board behind him that he has set up in the apartment.;
+tbbt_s02e13_d47856;event;728.08;735.76;Enthusiastic Sheldon, in a shirt with a colorful chevron pattern, walks over to his desk, picks up a book and hands it to Raj.;
+tbbt_s02e13_d5810;event;759.88;765.49;Sheldon, in a shirt with a colorful chevron pattern, walks up to a whiteboard and moves his finger across it, then switches to a marker.;
+tbbt_s02e13_d5813;event;805.84;809.69;Howard, in orange pants, grabs an eraser and erases lines on a whiteboard.;
+tbbt_s02e13_d5805;event;844.35;852.99;Sheldon, in a shirt with a colorful chevron pattern, is on his phone as he moves his finger across whiteboard.;
+tbbt_s02e13_m005;mask;859.73;861.07;;przejscie
+tbbt_s02e13_d5807;event;878.81;882.05;Barry is being clipped in by the instructor in to the rock climbing rope.;
+tbbt_s02e13_d33248;event;916.53;922.05;Sheldon is being clipped in by the instructor to climb the wall.;
+tbbt_s02e13_d33245;event;882.54;886.08;A shot of stressed Sheldon looking up at the climbing wall from below.;
+tbbt_s02e13_d33246;event;929.57;938.16;Sheldon slowly moves up the tall climbing wall.;
+tbbt_s02e13_d33247;event;951.93;953.38;Sheldon scared, quickly pulls himself in and hugs the climbing wall.;
+tbbt_s02e13_d41865;event;987.23;994.76;Sheldon passes out on the rock wall, drops down on the rope, and hangs limply from it.;
+tbbt_s02e13_m006;mask;994.80;996.15;;przejscie
+tbbt_s02e13_d5840;event;1152.72;1155.02;Raj, who is wearing a red hoodie, is sitting on the arm of Leonard's chair, leaning over and whispering in Leonard's ear.;
+tbbt_s02e13_d5841;event;1165.83;1171.57;Barry walks in, flossing his teeth, while Penny makes a disgusted face.;
+tbbt_s02e13_d5842;event;1188.23;1194.41;Howard, in purple pants, walks past Penny, leans in as he talks, and Penny puts her face in her hand laughing.;
+tbbt_s02e13_d5835;event;1229.05;1231.45;Sheldon snatches a container of dumplings from Barry and hands it to Raj.;
+tbbt_s02e13_d5839;event;1250.78;1257.96;A shot of Howard, Leonard, and Raj staring at Sheldon hanging from the ceiling in a harness.;
+tbbt_s02e13_m007;mask;1257.99;1289.31;;

@@ -1,0 +1,47 @@
+﻿id;type;start;end;desc;tags
+tbbt_s05e20_m001;mask;0.00;3.31;;
+tbbt_s05e20_m002;mask;104.68;130.39;;
+tbbt_s05e20_d28106;event;130.42;132.25;Raj, in an orange sweater, types something on his keyboard and then puts his hands in his lap.;
+tbbt_s05e20_m006;mask;206.58;207.94;;przejscie
+tbbt_s05e20_d28102;event;237.88;243.59;Penny, in a blue shirt, and Leonard make awkward glances in Sheldon's direction.;
+tbbt_s05e20_d28115;event;257.16;260.96;Penny, in a blue shirt, carries the paper bag over to the coffee table and sits it down.;
+tbbt_s05e20_d28116;event;274.42;277.87;Leonard gets up out of his chair and walks over to Sheldon to look at the purple transporter box that he holds.;
+tbbt_s05e20_d28112;event;324.03;326.47;Leonard throws a toy when Penny hands him a purple transporter box.;
+tbbt_s05e20_m007;mask;360.23;361.56;;przejscie
+tbbt_s05e20_d28111;event;363.18;365.07;Howard, in a black blazer, places a red napkin on his lap while Bernadette talks to Raj.;
+tbbt_s05e20_d28120;event;431.87;433.37;Raj, in and mustard blazer, leans over to speak to Bernadette's ear in private at a restaurant.;
+tbbt_s05e20_m008;mask;435.38;436.69;;przejscie
+tbbt_s05e20_d28122;event;483.61;487.40;Spock figurine sets on table next to purple transporter box.;
+tbbt_s05e20_d28135;event;521.59;523.99;Sheldon sets a purple box down on the desk next to a Spock figurine.;
+tbbt_s05e20_d28136;event;526.54;530.29;Sheldon, in a plaid pajamas, opens his eyes and jumps up out of bed at night.;
+tbbt_s05e20_d28137;event;544.40;547.40;Sheldon, in a plaid pajamas, opens the lid on a purple box and looks inside.;
+tbbt_s05e20_d28130;event;547.37;550.25;Sheldon, in a plaid pajamas, smells a figurine box as he opens it.;
+tbbt_s05e20_d28131;event;558.58;567.81;Sheldon, in a plaid pajamas, is playing with a toy and a Spock figurine.;
+tbbt_s05e20_m003;mask;602.78;604.14;;przejscie
+tbbt_s05e20_d28148;event;607.51;611.08;Raj, in a red shirt, bends down to retrieve a pan out of the oven.;
+tbbt_s05e20_d28146;event;612.28;616.55;Raj, wearing a blue oven mitts, takes the food over to the dining table and gives some to Lakshmi.;
+tbbt_s05e20_d28147;event;626.94;629.78;Raj takes off his blue oven mitts and walks back to the dining table to sit down with Lakshmi.;
+tbbt_s05e20_d69450;event;729.41;732.96;Raj, in a red shirt, making stop gesture to stop Lakshmi from putting her food into her mouth.;
+tbbt_s05e20_m010;mask;740.39;741.89;;przejscie
+tbbt_s05e20_d69453;event;757.91;762.01;Sheldon, in a space full of rocks, pulls off the covers and gets out of bed.;
+tbbt_s05e20_d65660;event;834.93;841.45;Sheldon, in a space full of rocks, stand up and takes the toy to trow it away.;
+tbbt_s05e20_d65662;event;843.93;847.65;Sheldon is sitting at the rock and look back when a monster came.;
+tbbt_s05e20_m011;mask;853.30;854.64;;przejscie
+tbbt_s05e20_d69443;event;854.79;856.86;Howard applies some solder to a project he is working on at the lab.;
+tbbt_s05e20_d69440;event;860.78;865.88;Howard places his retainer inside of his mouth and looks at Raj, at the lab.;
+tbbt_s05e20_d69449;event;919.58;921.99;Howard ravels up some electrical wiring connected to soldering iron, at his lab, while talking.;
+tbbt_s05e20_d69445;event;926.19;931.89;Howard moves some equipment from one side of the room to the shelves, at the lab.;
+tbbt_s05e20_d69447;event;942.10;945.38;Howard puts equipment down on the table behind him, at the lab.;
+tbbt_s05e20_m009;mask;971.23;972.56;;przejscie
+tbbt_s05e20_d89105;event;992.19;996.17;Sheldon, in a yellow shirt, grabs a purple box, and leaves his chair with it.;
+tbbt_s05e20_d89106;event;997.89;1000.89;Sheldon, in a yellow shirt, replaces the purple boxes at the desk.;
+tbbt_s05e20_d89107;event;1015.60;1020.40;Penny and Leonard walk into the room and shock Sheldon who is holding a purple box.;
+tbbt_s05e20_d69437;event;1032.70;1034.09;Leonard, in a red hoodie, rubs Penny's arm as he walks away.;
+tbbt_s05e20_d69435;event;1064.49;1067.73;Penny puts the purple box down in front on Leonard on the kitchen island.;
+tbbt_s05e20_d69436;event;1076.40;1081.90;Leonard opens the top of the purple toy box, while Penny moves her feet quickly in impatience.;
+tbbt_s05e20_d69427;event;1090.53;1094.76;Leonard is trying to put something yellow back to the purple box as he stands next to Penny at the kitchen island.;
+tbbt_s05e20_d69429;event;1107.52;1113.81;Penny and Leonard walk towards the front door passing Sheldon at his desk looking at the Spock figurine and purple box next to him.;
+tbbt_s05e20_m004;mask;1200.34;1201.68;;przejscie
+tbbt_s05e20_d69470;event;1214.98;1217.06;Bernadette, in a pink blouse, sitting on a couch with Howard, sets down a beer she is holding on the coffee table.;
+tbbt_s05e20_d69471;event;1236.79;1244.44;Raj gently takes a puppy from Bernadette's arms.;
+tbbt_s05e20_m005;mask;1262.04;1294.30;;

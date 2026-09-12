@@ -1,0 +1,101 @@
+﻿vocabulary;source;desc_id;text;phrase;matched_class;confidence
+actions_kinetics400;vatex;UiNXZNFtaoY_000000_000010;A young boy is outside playing kickball with a football;play kickball;playing kickball;1.000000
+actions_kinetics400;vatex;AWjfCxman6A_000183_000193;A lady plays the harp with both hands in a park and another man plays the saxophones.;play harp;playing harp;1.000000
+actions_kinetics400;vatex;zBAlfMzjxI8_000031_000041;A person is outside using the snow blower to clear the driveway.;use blower;using computer;0.653572
+actions_kinetics400;vatex;leVVgTOdE2E_000035_000045;Someone shoots their paintball gun, then hides behind a barrier, then emerges and shoots again.;shoot gun;shooting basketball;0.727076
+actions_kinetics400;vatex;r0v3I6yO5h4_000033_000043;A male is in the water near show and is kiteboarding with a parashute attached to his him while he is surfing.;kiteboarde;kitesurfing;0.957093
+actions_kinetics400;vatex;4KvfVRVvubA_000093_000103;A woman is using plastic gloves to dye her hair.;dye hair;dying hair;0.883621
+actions_kinetics400;vatex;_isuVU33F7U_000000_000010;A woman closed her eyes to sneeze  and then smiled;close eye;crying;0.686138
+actions_kinetics400;vatex;WYl-lotP_tQ_000070_000080;A woman is washing a mans hair over a bath tub and talking to a young boy.;wash hair;washing hair;1.000000
+actions_kinetics400;vatex;sB8zIRhUvGQ_000077_000087;A girl describing a scrapbook page of a trip she took.;describe page;answering questions;0.534390
+actions_kinetics400;vatex;XbKpNNxdbRI_000028_000038;Two couples wave as they ride camels and bells jingle.;ride camel;riding camel;1.000000
+actions_kinetics400;vatex;_2y7RQ5ZDcA_000146_000156;A women kisses he child before they jump into a pool at swim meet;kiss;kissing;1.000000
+actions_kinetics400;vatex;qC9KGT7Fms4_001033_001043;A man is showing a set drawers that are being built and he pulls one open.;show drawer;setting table;0.497629
+actions_kinetics400;vatex;1ZrSOieC4mA_000020_000030;A group of young women playing a indoor sport that involves throwing a ball to one another.;throw ball;throwing ball;1.000000
+actions_kinetics400;vatex;-k25wqPbiC8_000000_000010;A girl is showing how she is putting her eyebrows on with a eyebrow pencil then applying eye shadow.;apply shadow;applying cream;0.672095
+actions_kinetics400;vatex;ubihjlgB_Yg_000028_000038;The lady opens the drawer to get a knife and starts to make a sandwich.;make sandwich;making a sandwich;0.969816
+actions_kinetics400;vatex;3KtJHCvxJ7k_000012_000022;A young woman is holding two colorful birds and talking when one of the birds flies toward another young woman.;talk;singing;0.718196
+actions_kinetics400;vatex;YYMKSkbEhS4_000056_000066;A man is cleaning gutters with gloved hands and a water hose while a voice speaks about his crew cleaning frozen gutters.;clean gutter;cleaning gutters;0.958193
+actions_kinetics400;vatex;KiYeYz6ZXJE_000022_000032;A man is cleaning a pool, and a advertisement is visible.;clean pool;cleaning pool;1.000000
+actions_kinetics400;vatex;BojWkmiTQws_000020_000030;A person uses their fingers and a knife to open a shellfish then removes something from the middle and places it on a towel.;use finger;using computer;0.709825
+actions_kinetics400;vatex;uHR8pakSKkI_000055_000065;A person is showing kids how to dribble a basketball in a gym.;dribble basketball;dribbling basketball;1.000000
+actions_kinetics400;vatex;4147uiLKczU_000001_000011;A toddler stands on a porch and lifts a watering can and walks to a flower bed to water the plants.;water plant;watering plants;0.933897
+actions_kinetics400;vatex;tQPFjC4vqRU_000003_000013;A man kicks a football successfully across a lengthy lawn to his waiting friend standing on a house deck.;wait;crying;0.745139
+actions_kinetics400;vatex;vM96wKll2h4_000007_000017;A person is trying to sweep a floor when a cat jumps on the broom and starts spinning on the broom brush.;sweep floor;sweeping floor;1.000000
+actions_kinetics400;vatex;8EV2thGZ9zU_000026_000036;A little girl eats a strawberry as a candle burns on a piece of cake in front of her before she blows out the candles.;blow candle;blowing out candles;0.902146
+actions_kinetics400;vatex;qxyVUUJ-tnk_000074_000084;A person demonstrates how to fry sausage by rolling it back and forth in a black skillet.;fry sausage;cooking sausages;0.850487
+actions_kinetics400;vatex;XoCvj2IbVGE_000052_000062;A man is standing in an empty room using some sort of advanced ironing machine to iron a shirt.;iron;ironing;1.000000
+actions_kinetics400;vatex;tPy3CQxfMZo_000176_000186;An artist is seen displaying and unfolding a dried dyed cloth on the table.;display;writing;0.603623
+actions_kinetics400;vatex;RLsCOVZdpjQ_000186_000196;A fully geared man spraypainting a metalic cylinder in a sped up video with music in the background.;spraypainte cylinder;spray painting;0.757072
+actions_kinetics400;vatex;SPpAYb23YGE_000000_000010;A woman lying down is petting a dog and a kid is hitting it with his hands.;pet dog;petting cat;0.861121
+actions_kinetics400;vatex;zFfgHQGX5D8_000006_000016;A person was playing an accordion strapped to his chest;play accordion;playing accordion;1.000000
+actions_kinetics400;vatex;gm5eN2P2dAI_000012_000022;A man is trying to push a vehicle that has gotten stuck in the snow.;push vehicle;pushing car;0.886458
+actions_kinetics400;vatex;Ue4CkZYybJ8_000154_000164;A male is surfing in the ocean and having difficulties with the wind.;surf;surfing water;0.870538
+actions_kinetics400;vatex;MhIBVCse204_000095_000105;a man using a knife is cutting a pumpkin in a vineyard while giving exolanation;cut pumpkin;carving pumpkin;0.870310
+actions_kinetics400;vatex;91y8_PtuCzw_000004_000014;A guy is in the kitchen talking and then picks up a prepared hotdog and taqkes a bite.;taqke bite;gargling;0.604714
+actions_kinetics400;vatex;OWeIxQdtVno_000045_000055;People practice playing a game of beer pong and throw ping pong balls into plastic cups.;play game;playing controller;0.758446
+actions_kinetics400;vatex;1EU8X8UzdU4_000017_000027;A person is playing a slow song on a guitar.;play song;playing guitar;0.816623
+actions_kinetics400;vatex;Dp-8QZE3jyA_000000_000010;A young boy tries to mop the floor but he seems to be too little.;mop floor;mopping floor;1.000000
+actions_kinetics400;vatex;M_6oQOAMe0s_000142_000152;A woman plays the flute while standing in front of a living room fireplace.;play flute;playing flute;1.000000
+actions_kinetics400;vatex;PNilatJe7p8_000002_000012;A time lapse shows a man grilling burgers and another man mowing the lawn;mow lawn;mowing lawn;1.000000
+actions_kinetics400;vatex;SkQ7p7FJxpk_000042_000052;A boy is playing chess with the cats head sticking out of his sweter;play chess;playing chess;1.000000
+actions_kinetics400;vatex;TXsSJQeNfO0_000006_000016;A group of people are playing in the field by catching and trowing a softball.;catch;writing;0.639024
+actions_kinetics400;vatex;WBydpE42YTc_000012_000022;A child is blowing up a balloon with their mouth and then they let it go.;blow balloon;balloon blowing;0.937633
+actions_kinetics400;vatex;QhWJ4lNowjU_000253_000263;A man is demonstrating how to cook a dish while browning the product.;brown product;archery;0.488819
+actions_kinetics400;vatex;y-bo1WgMs5I_000000_000010;A riding lawn mower appears to be reconstructed to perform in races.;reconstruct;whistling;0.616073
+actions_kinetics400;vatex;yob7X675d7Q_000020_000030;A person is sanding the floor in a room, first with a small sander around the edges, then with a large stand up model for the center.;sand floor;sanding floor;1.000000
+actions_kinetics400;vatex;M-rDzq76oDM_000113_000123;A woman colors and fixes her hair as a song plays.;fix hair;fixing hair;1.000000
+actions_kinetics400;vatex;rDcK1QPP4as_000007_000017;A group of young boys dribble basketballs through cones while a man coaches.;coach;wrestling;0.747783
+actions_kinetics400;vatex;T4gPnLla7es_000052_000062;A man is playing the electric guitar for people on the street.;play guitar;playing guitar;1.000000
+actions_kinetics400;vatex;e101YmwqwqY_000002_000012;A hipster man is using a toilet plunger in a bin to wash his clothes.;wash clothe;doing laundry;0.831702
+actions_kinetics400;vatex;oiaw1mobx64_000022_000032;Young boys in tan and khaki school uniforms perform a stomp and clap cheer.;perform cheer;cheerleading;0.801713
+actions_kinetics400;vatex;l6qhPgHHXr0_000000_000010;a couple of people on a beach with a ball hitting it with rope;couple;crying;0.716536
+actions_kinetics400;vatex;WYzj1rc1awQ_000000_000010;A young baby is yawning as music plays in the background.;yawn;yawning;1.000000
+actions_kinetics400;vatex;ryWwr9sJVIw_000005_000015;A little boy sings as he plays his ukulele in his home.;play ukulele;playing ukulele;1.000000
+actions_kinetics400;vatex;lPip5BsCdyU_000000_000010;A young girl sprays a flammable substance in an aerosol can at a flame and it flares up in the air.;flare;crying;0.607209
+actions_kinetics400;vatex;dU0nC_6XBVk_000004_000014;A man removes a contact lens as he grimaces and rubs his eye.;grimace;yawning;0.600265
+actions_kinetics400;vatex;8WD-GTSf6TA_000035_000045;Friends work together in building a small house as they put up the walls and the flooring.;put wall;golf putting;0.649235
+actions_kinetics400;vatex;1WEhv0Znmaw_000009_000019;A person is riding a camel being lead by a man in a long white robe;rid camel;riding camel;0.947048
+actions_kinetics400;vatex;99hi_7pt3d8_000158_000168;Two men play a trumpet and a clarinet on stage.;play trumpet;playing trumpet;1.000000
+actions_kinetics400;vatex;fXJHiV-dkM0_000009_000019;A boy is playing the violin in front of a brick fire place.;play violin;playing violin;1.000000
+actions_kinetics400;vatex;XoCvj2IbVGE_000052_000062;A man is standing in an empty room using some sort of advanced ironing machine to iron a shirt.;iron shirt;ironing;0.851478
+actions_kinetics400;vatex;fVhsSFkwRJA_000000_000010;A woman is bobbing her head from side to side and whistling along to some music.;whistle;whistling;1.000000
+actions_kinetics400;vatex;E52euaQjpGw_000003_000013;The man is laying on the floor, and the woman is standing over him trying to crack his back.;crack back;cracking neck;0.749015
+actions_kinetics400;vatex;sFUA65LyTnY_000019_000029;A man in shorts and a polo shirt is putting a ball with a golf stick.;put ball;golf putting;0.874722
+actions_kinetics400;vatex;N9rMLSHCRpc_000000_000010;As they sit in snow, a man tells a little girl to hurry, and then she throws a snowball at him.;throw snowball;throwing ball;0.794432
+actions_kinetics400;vatex;jDQ5FCaJIdg_000000_000010;A man raises his eyebrows, winks his eyes in time with a gong, and then forms a piece sign with his fingers.;wink eye;crying;0.541099
+actions_kinetics400;vatex;F6h5iBsC_rE_000021_000031;A man was standing and carrying a baby in his hand while watching the television;carry baby;carrying baby;1.000000
+actions_kinetics400;vatex;FaM9bZRznFM_000016_000026;Two females are grooming dogs, and one of the dogs is making a not of noise.;groom dog;grooming dog;1.000000
+actions_kinetics400;vatex;M3hUyXnVsus_000000_000010;Several boys watch as a boy in the center of the field throws a discus and another boy yells.;throw discus;throwing discus;1.000000
+actions_kinetics400;vatex;KOfdoYwh0f4_000360_000370;A couple of people are playing Monopoly and one of them is buying Pennsylvania Avenue.;play monopoly;playing monopoly;1.000000
+actions_kinetics400;vatex;eYdzsRaIBT8_000002_000012;A man expresses concern for his career at a bar as a woman walks up to the bar next to him and orders a scotch.;order scotch;tasting beer;0.542196
+actions_kinetics400;vatex;s2BR8dSzLq4_000033_000043;A truck gets unloaded by several people as a woman narrates the activities.;unload;unloading truck;0.720326
+actions_kinetics400;vatex;_D07LTnhl-4_000015_000025;The man is pumping gas into his car as another car drives past him on the street.;pump gas;pumping gas;1.000000
+actions_kinetics400;vatex;Pi4JfWslquo_000060_000070;A man drives a tractor with a snowblower attached to clear parking lots.;drive tractor;driving tractor;1.000000
+actions_kinetics400;vatex;vz99COsaL5w_000005_000015;A little boy takes piece of wood and beats another piecce of wood on the ground.;beat piecce;zumba;0.460004
+actions_kinetics400;vatex;_isuVU33F7U_000000_000010;A woman closed her eyes to sneeze  and then smiled;sneeze;sneezing;1.000000
+actions_kinetics400;vatex;Hg6I3C4T8cQ_000002_000012;A young man jumps between two people while holding his feet at a train station.;hold foot;massaging feet;0.658509
+actions_kinetics400;vatex;ka8UTVdMgn4_000001_000011;A person is snowboarding and passes another person who seems to be having trouble snowboarding.;snowboard;snowboarding;1.000000
+actions_kinetics400;vatex;DHTYdK1VR4I_000019_000029;A young man has his chest hair waxed while others cringe.;cringe;crying;0.660172
+actions_kinetics400;vatex;rmxOgJX5u-I_000000_000010;A woman pulls off tape off a man's face o wax his eyebrows.;wax eyebrow;waxing eyebrows;0.976089
+actions_kinetics400;vatex;avDKo2qRcZQ_000029_000039;A person uses a special pen to write on a piece of paper in caligraphy.;write;writing;1.000000
+actions_kinetics400;vatex;-gJlTcI3jRI_000000_000010;A person is showing how to cut up a pineapple with a knife.;cut pineapple;cutting pineapple;1.000000
+actions_kinetics400;vatex;gicTnDJ5y7g_000006_000016;A young boy is singing while riding on a hover board.;sing;singing;1.000000
+actions_kinetics400;vatex;CaXa9TDy4S8_000044_000054;A man in indigenous attire is crouched on the floor and playing a didgeridoo.;play didgeridoo;playing didgeridoo;1.000000
+actions_kinetics400;vatex;T4GgwfklMqk_000001_000011;Someone demonstrates various techniques for shuffling a deck of cards.;shuffle deck;shuffling cards;0.834685
+actions_kinetics400;vatex;4aUMOS4ngfo_000000_000010;A toddler hugs a smaller baby while parents film them.;hug;hugging;1.000000
+actions_kinetics400;vatex;cZUJUE3YL0Q_000022_000032;A masseuse demonstrates upper body and neck massage on a client.;demonstrate body;answering questions;0.521171
+actions_kinetics400;vatex;d7328HOK7mY_000269_000279;A group of people wearing cowboy hats and country attire perform a line dance on stage to the tune of the country song Achy Breaky Heart.;wear hat;welding;0.476583
+actions_kinetics400;vatex;kJP5CiHDj1o_000011_000021;A group of men work spreading cement for the floor of a large structure.;spread cement;plastering;0.735360
+actions_kinetics400;vatex;jr3uNxx0zT4_000004_000014;A man swings a golf club outdoors on a cloudy night.;swing club;swing dancing;0.821781
+actions_kinetics400;vatex;yMQMfdV-Fzs_000025_000035;A team of dogs pulls a man in a sleigh down a snow-covered road.;pull man;pushing car;0.572698
+actions_kinetics400;vatex;VC9zmbn9vV4_000107_000117;The man bites a towel as the lady waxes his hair on his chest.;bite towel;brushing teeth;0.481932
+actions_kinetics400;vatex;0gQxSyreT3Q_000008_000018;Women are playing and laughing on the beach while listening to music.;laugh;laughing;1.000000
+actions_kinetics400;vatex;2088vEQsN5E_000002_000012;A man is hooking up an electric pump to a cow's udders to milk the cow.;milk cow;milking cow;1.000000
+actions_kinetics400;vatex;XMQAYSc2Ly8_000379_000389;A man demonstrates using a tool to carve out small notches in a block of wood.;carve notch;cutting nails;0.535729
+actions_kinetics400;vatex;YdrIPOtxMZE_000246_000256;A man is outside and is making a very big snowman.;make snowman;making snowman;1.000000
+actions_kinetics400;vatex;1P1UydTdo9A_000074_000084;A man is laughed at while the people around him take off various waxing papers attached to his upper body.;attach;digging;0.604570
+actions_kinetics400;vatex;umJqRnwaC_c_000000_000010;The mother is holding her sick baby and holding an automatic steamer under her nostrils, which is helping her to cough and break up phlegm;break phlegm;gargling;0.351104
+actions_kinetics400;vatex;Z5bkTJLN3nA_000104_000114;Choir singers sway slightly in unison as they are lead by musical director lifting her arms.;sway;whistling;0.610454
+actions_kinetics400;vatex;_csFzSIvu-M_000145_000155;A woman shows how to clean a window and talks in the background.;clean window;cleaning windows;0.966099
+actions_kinetics400;vatex;-oVnNlI0z1Q_000078_000088;The young man was driving his car while using his transmission shift gear.;drive car;driving car;1.000000

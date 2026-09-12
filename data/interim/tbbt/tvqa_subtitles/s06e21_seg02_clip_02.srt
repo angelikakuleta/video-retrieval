@@ -1,0 +1,75 @@
+1
+00:00:00,901 --> 00:00:04,561
+(Leonard:)You need to watch Buffy the Vampire Slayer.
+The perfect show for the two of us.
+
+2
+00:00:04,772 --> 00:00:08,872
+(Leonard:)It's got action and jokes and hot vampires
+and romance. I cannot oversell this.
+
+3
+00:00:09,076 --> 00:00:10,406
+(Leonard:)What do you say?
+
+4
+00:00:11,112 --> 00:00:13,082
+It's 6:30 in the morning.
+
+5
+00:00:15,583 --> 00:00:17,743
+(Leonard:)I thought you grew up on a farm.
+
+6
+00:00:20,755 --> 00:00:25,655
+(Sheldon(on phone):)Hello, Syfy Network,
+this is your vice president of programing.
+
+7
+00:00:26,460 --> 00:00:29,830
+(Sheldon(on phone):)We have made a horrible mistake
+regarding Alphas.
+
+8
+00:00:30,064 --> 00:00:32,894
+(Sheldon(on phone):)We need to uncancel it immediately.
+
+9
+00:00:33,067 --> 00:00:35,127
+(Sheldon(on phone):)Put me through
+to the people who handle that.
+
+10
+00:00:35,336 --> 00:00:38,276
+(Sheldon(on phone):)Tell them it's me.
+I don't wanna answer a lot of questions...
+
+11
+00:00:38,472 --> 00:00:40,302
+(Sheldon(on phone):)...about if I really am who I say I am.
+
+12
+00:00:41,042 --> 00:00:43,072
+(Sheldon(on phone):)I just... I want this done.
+
+13
+00:00:43,911 --> 00:00:46,171
+No, I'm not the person who just called.
+
+14
+00:00:48,049 --> 00:00:50,539
+(Sheldon(on phone):)That man was clearly a cowboy...
+
+15
+00:00:51,485 --> 00:00:53,975
+(Sheldon(on phone):)...concerned about y'all
+canceling his favorite show.
+
+16
+00:00:56,490 --> 00:00:58,790
+(Sheldon(on phone):)Why do they keep hanging up on me?
+
+17
+00:00:58,993 --> 00:01:00,423
+(Amy:)I'm sorry you're upset.
+

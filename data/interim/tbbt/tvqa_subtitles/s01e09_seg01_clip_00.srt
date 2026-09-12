@@ -1,0 +1,77 @@
+1
+00:00:02,752 --> 00:00:04,422
+(Leonard:)Okay.
+
+2
+00:00:05,255 --> 00:00:07,255
+The X Tens are online.
+
+3
+00:00:07,424 --> 00:00:13,384
+(Howard:)Gentlemen, I am now about to send a signal
+from this laptop through our local ISP...
+
+4
+00:00:13,555 --> 00:00:17,015
+...racing down fiber-optic cable
+at the speed of light to San Francisco...
+
+5
+00:00:17,183 --> 00:00:20,523
+(Howard:)...bouncing off a satellite in
+geosynchronous orbit to Lisbon, Portugal.
+
+6
+00:00:20,687 --> 00:00:23,817
+(Howard:)Data packets will be handed off
+to submerged transatlantic cables...
+
+7
+00:00:23,982 --> 00:00:25,902
+...terminating in Halifax, Nova Scotia...
+
+8
+00:00:26,067 --> 00:00:29,737
+(Howard:)...and transferred across the continent
+via microwave relays back to our ISP...
+
+9
+00:00:29,904 --> 00:00:32,114
+...and the external receiver attached
+to this...
+
+10
+00:00:33,116 --> 00:00:34,536
+(Scene:)...lamp.
+
+11
+00:00:36,995 --> 00:00:39,165
+(Sheldon:)Look at me, look at me,
+I've got goose bumps.
+
+12
+00:00:39,330 --> 00:00:42,250
+- Are we ready on the stereo?
+- Go for stereo.
+
+13
+00:00:43,168 --> 00:00:44,208
+[MOUSE CLICKS]
+
+14
+00:00:44,377 --> 00:00:47,377
+[2001: A SPACE ODYSSEY'S "MAIN TITLE"
+PLAYS OVER SPEAKERS]
+
+15
+00:00:50,341 --> 00:00:52,341
+[LEONARD HUMMING]
+
+16
+00:00:53,762 --> 00:00:55,762
+[ALL HUMMING]
+
+17
+00:00:57,307 --> 00:01:03,027
+[ALL IMITATING DRUMS]
+

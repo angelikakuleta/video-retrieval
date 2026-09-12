@@ -1,0 +1,65 @@
+1
+00:00:00,422 --> 00:00:04,592
+"Hey, we found a bug"
+and report it, so it can be fixed.
+
+2
+00:00:05,010 --> 00:00:06,680
+(Penny:)You mean like a beta test?
+
+3
+00:00:08,013 --> 00:00:09,973
+(Leonard:)Technically, this would be an alpha test.
+
+4
+00:00:10,140 --> 00:00:13,310
+(Leonard:)A beta test requires people that
+weren't involved in the develop...
+
+5
+00:00:13,477 --> 00:00:16,317
+Seriously? Do I not get credit
+for knowing beta test?
+
+6
+00:00:17,648 --> 00:00:20,438
+(Leonard:)No, you should. Absolutely.
+That was me being pedantic.
+
+7
+00:00:21,110 --> 00:00:22,740
+And that's our first bug.
+
+8
+00:00:23,362 --> 00:00:26,702
+(Leonard:)You reported it, I can fix that.
+See? This is good.
+
+9
+00:00:27,783 --> 00:00:29,323
+(Penny:)All right. Let's give it a shot.
+
+10
+00:00:29,493 --> 00:00:33,623
+(Leonard:)Great. You keep a list, I'll keep a list,
+at some point, we'll exchange.
+
+11
+00:00:34,248 --> 00:00:37,498
+- Okay. Good night, Leonard.
+- Night.
+
+12
+00:00:42,214 --> 00:00:44,004
+(Leonard:)Attaboy, Hofstadter.
+
+13
+00:00:44,174 --> 00:00:48,424
+Nothing gets the Iadies hotter
+than software development analogies.
+
+14
+00:00:50,931 --> 00:00:58,021
+(Leonard:)- Hey, I'm back.
+Cut.
+

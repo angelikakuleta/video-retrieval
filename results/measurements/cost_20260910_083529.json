@@ -1,0 +1,328 @@
+{
+  "name": "cost",
+  "when": "2026-09-10T08:35:29",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "dataset": "office",
+    "split": "test",
+    "strategy": "shots_histogram",
+    "corpus_hours": 6.274,
+    "repeats": 15,
+    "warmup": 3,
+    "extraction": [
+      {
+        "component": "OpenCLIP ViT-H/14",
+        "key": "openclip_vit_h14",
+        "unit": "frame",
+        "batch": 256,
+        "load_s": 16.13,
+        "seconds_per_unit": 0.01932,
+        "min_per_hour": 0.93,
+        "peak_vram_gb": 4.85,
+        "torch_vram_gb": 4.57,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.015
+      },
+      {
+        "component": "OpenCLIP ViT-B/32",
+        "key": "openclip_vit_b32",
+        "unit": "frame",
+        "batch": 256,
+        "load_s": 3.96,
+        "seconds_per_unit": 0.00714,
+        "min_per_hour": 0.34,
+        "peak_vram_gb": 0.75,
+        "torch_vram_gb": 0.72,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.162
+      },
+      {
+        "component": "X-CLIP base/32",
+        "key": "xclip",
+        "unit": "window",
+        "batch": 64,
+        "load_s": 10.2,
+        "seconds_per_unit": 0.04663,
+        "min_per_hour": 1.05,
+        "peak_vram_gb": 1.11,
+        "torch_vram_gb": 1.02,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.038
+      },
+      {
+        "component": "SlowFast R50",
+        "key": "slowfast",
+        "unit": "window",
+        "batch": 32,
+        "load_s": 3.83,
+        "seconds_per_unit": 0.02729,
+        "min_per_hour": 0.61,
+        "peak_vram_gb": 1.83,
+        "torch_vram_gb": 1.23,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.027
+      },
+      {
+        "component": "BLIP large",
+        "key": "blip",
+        "unit": "frame",
+        "batch": 64,
+        "load_s": 16.27,
+        "seconds_per_unit": 0.02172,
+        "min_per_hour": 1.04,
+        "peak_vram_gb": 1.47,
+        "torch_vram_gb": 1.44,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.22
+      },
+      {
+        "component": "LLaVA-1.5-7B",
+        "key": "llava",
+        "unit": "frame",
+        "batch": 64,
+        "load_s": 16.24,
+        "seconds_per_unit": 1.24511,
+        "min_per_hour": 59.77,
+        "peak_vram_gb": 14.41,
+        "torch_vram_gb": 14.08,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.021
+      },
+      {
+        "component": "YOLO11 large",
+        "key": "yolo11",
+        "unit": "frame",
+        "batch": 128,
+        "load_s": 0.85,
+        "seconds_per_unit": 0.004,
+        "min_per_hour": 0.19,
+        "peak_vram_gb": 1.56,
+        "torch_vram_gb": 1.07,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.118
+      },
+      {
+        "component": "YOLOE-11 large",
+        "key": "yoloe",
+        "unit": "frame",
+        "batch": 128,
+        "load_s": 0.69,
+        "seconds_per_unit": 0.00492,
+        "min_per_hour": 0.24,
+        "peak_vram_gb": 5.46,
+        "torch_vram_gb": 2.47,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.022
+      },
+      {
+        "component": "RetinaFace R50",
+        "key": "retinaface",
+        "unit": "frame",
+        "batch": 128,
+        "load_s": 0.86,
+        "seconds_per_unit": 0.01152,
+        "min_per_hour": 0.55,
+        "peak_vram_gb": 0.55,
+        "torch_vram_gb": 0.03,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.015
+      },
+      {
+        "component": "ArcFace R100",
+        "key": "arcface",
+        "unit": "crop",
+        "batch": 512,
+        "load_s": 0.5,
+        "seconds_per_unit": 0.0008,
+        "min_per_hour": 0.07,
+        "peak_vram_gb": 2.16,
+        "torch_vram_gb": 0.03,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.006
+      },
+      {
+        "component": "face regions",
+        "key": "regions",
+        "unit": "crop",
+        "batch": 512,
+        "load_s": 6.14,
+        "seconds_per_unit": 0.01396,
+        "min_per_hour": 1.25,
+        "peak_vram_gb": 5.48,
+        "torch_vram_gb": 5.1,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.012
+      },
+      {
+        "component": "HSEmotion B0",
+        "key": "hsemotion",
+        "unit": "crop",
+        "batch": 512,
+        "load_s": 0.26,
+        "seconds_per_unit": 0.00418,
+        "min_per_hour": 0.38,
+        "peak_vram_gb": 0.0,
+        "torch_vram_gb": 0.03,
+        "vram_noise_gb": 0.0,
+        "repeats": 15,
+        "spread": 0.015
+      }
+    ],
+    "index": [
+      {
+        "component": "OpenCLIP ViT-H/14",
+        "mb": 108.168,
+        "mb_per_hour": 17.24
+      },
+      {
+        "component": "OpenCLIP ViT-B/32",
+        "mb": 11.983,
+        "mb_per_hour": 1.91
+      },
+      {
+        "component": "X-CLIP",
+        "mb": 0.0,
+        "mb_per_hour": 0.0
+      },
+      {
+        "component": "SlowFast",
+        "mb": 2.639,
+        "mb_per_hour": 0.421
+      },
+      {
+        "component": "BLIP",
+        "mb": 77.555,
+        "mb_per_hour": 12.361
+      },
+      {
+        "component": "LLaVA-1.5",
+        "mb": 85.372,
+        "mb_per_hour": 13.607
+      },
+      {
+        "component": "YOLO11",
+        "mb": 0.71,
+        "mb_per_hour": 0.113
+      },
+      {
+        "component": "YOLOE-11",
+        "mb": 1.256,
+        "mb_per_hour": 0.2
+      },
+      {
+        "component": "RetinaFace (crop buffer)",
+        "mb": 1316.642,
+        "mb_per_hour": 209.852
+      },
+      {
+        "component": "ArcFace",
+        "mb": 86.412,
+        "mb_per_hour": 13.773
+      },
+      {
+        "component": "HSEmotion",
+        "mb": 1.366,
+        "mb_per_hour": 0.218
+      },
+      {
+        "component": "face regions",
+        "mb": 173.368,
+        "mb_per_hour": 27.632
+      }
+    ],
+    "query": {
+      "config": "configs/full_office.yaml",
+      "collection": 2893,
+      "queries": 608,
+      "components": {
+        "scene_embedding": {
+          "model": "openclip_vit_h14",
+          "prompting": false
+        },
+        "caption": {
+          "model": "llava_1_5_7b",
+          "do_sample": false
+        },
+        "objects": {
+          "detector": "yolo11"
+        },
+        "face_regions": {
+          "mode": "clip_regions",
+          "query": "phrases"
+        },
+        "identity": {},
+        "motion": {
+          "model": "slowfast_k400"
+        }
+      },
+      "signals": [
+        {
+          "signal": "scene_embedding",
+          "median_ms": 6.838,
+          "p95_ms": 11.303
+        },
+        {
+          "signal": "caption",
+          "median_ms": 11.495,
+          "p95_ms": 11.827
+        },
+        {
+          "signal": "objects",
+          "median_ms": 8.854,
+          "p95_ms": 11.715
+        },
+        {
+          "signal": "face_regions",
+          "median_ms": 0.002,
+          "p95_ms": 10.532
+        },
+        {
+          "signal": "identity",
+          "median_ms": 1.956,
+          "p95_ms": 4.114
+        },
+        {
+          "signal": "motion",
+          "median_ms": 7.7,
+          "p95_ms": 11.086
+        }
+      ],
+      "phrases": {
+        "median_ms": 4.658,
+        "p95_ms": 6.539
+      },
+      "fusion": {
+        "median_ms": 0.194,
+        "p95_ms": 1.009
+      }
+    },
+    "elapsed_min": 34.0
+  }
+}

@@ -1,0 +1,85 @@
+1
+00:00:06,881 --> 00:00:09,971
+(Sheldon:)Here's the problem with teleportation.
+
+2
+00:00:12,721 --> 00:00:14,641
+(Leonard:)Lay it on me.
+
+3
+00:00:14,806 --> 00:00:16,596
+Assuming a device could be invented...
+
+4
+00:00:16,766 --> 00:00:20,436
+...which would identify the state of matter
+of an individual in one location...
+
+5
+00:00:20,603 --> 00:00:23,443
+...and transmit that to a distant location
+for reassembly...
+
+6
+00:00:23,606 --> 00:00:25,856
+...you wouldn't have
+transported the individual...
+
+7
+00:00:26,026 --> 00:00:31,156
+(Sheldon:)...you would have destroyed him in one
+location and re-created him in another.
+
+8
+00:00:32,240 --> 00:00:34,370
+(Leonard:)How about that.
+
+9
+00:00:35,160 --> 00:00:36,790
+(Sheldon:)I would never use a transporter.
+
+10
+00:00:36,953 --> 00:00:39,623
+(Sheldon:)The original Sheldon
+would have to be disintegrated...
+
+11
+00:00:39,789 --> 00:00:42,539
+(Sheldon:)...in order to create a new Sheldon.
+
+12
+00:00:43,001 --> 00:00:47,091
+(Leonard:)Would the new Sheldon be in any way
+an improvement on the old Sheldon?
+
+13
+00:00:48,006 --> 00:00:50,296
+(Sheldon:)No, he would be exactly the same.
+
+14
+00:00:50,467 --> 00:00:52,347
+(Leonard:)That is a problem.
+
+15
+00:00:52,510 --> 00:00:53,760
+So you see it too?
+
+16
+00:00:54,721 --> 00:00:56,851
+(Dr Gablehouser(arriving):)Dr. Hofstadter, Dr. Cooper.
+
+17
+00:00:57,015 --> 00:00:58,225
+BOTH:
+Dr. Gablehauser.
+
+18
+00:00:58,391 --> 00:01:00,771
+(Gablehouser:)Gentlemen,
+I'd like you to meet Dennis Kim.
+
+19
+00:01:00,935 --> 00:01:03,775
+Dennis is a highly sought-after
+doctoral candidate.
+

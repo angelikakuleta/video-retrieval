@@ -1,0 +1,135 @@
+1
+00:00:00,427 --> 00:00:02,157
+(Zack:)Penny?
+
+2
+00:00:02,162 --> 00:00:03,392
+Oh. Zack, hi!
+
+3
+00:00:03,397 --> 00:00:04,667
+(Penny:)You guys remember Zack.
+
+4
+00:00:04,665 --> 00:00:05,795
+(Howard:)Yeah, hey, buddy.
+- Hello. - Hey.
+
+5
+00:00:05,799 --> 00:00:07,669
+(Zack:)Hey, did you two
+get married?
+
+6
+00:00:07,668 --> 00:00:08,968
+(Penny:)We did.
+Yeah, mm-hmm.
+
+7
+00:00:08,969 --> 00:00:11,199
+(Zack:)To each other?
+
+8
+00:00:12,472 --> 00:00:13,902
+Yes. (chuckles)
+
+9
+00:00:13,907 --> 00:00:16,107
+Cool. 'Cause other than
+when you broke up with him
+
+10
+00:00:16,109 --> 00:00:17,809
+(Zack:)and dated me, then
+broke up with me,
+
+11
+00:00:17,811 --> 00:00:20,741
+(Zack:)and then dated me one more
+time before going back to him,
+
+12
+00:00:20,747 --> 00:00:22,717
+(Zack:)I was always rooting
+for you two.
+
+13
+00:00:22,716 --> 00:00:24,346
+(Raj:)Thanks.
+
+14
+00:00:24,351 --> 00:00:25,851
+(Zack:)So how's the
+science world?
+
+15
+00:00:25,853 --> 00:00:27,283
+(Penny:)What are you
+guys up to?
+
+16
+00:00:27,287 --> 00:00:29,687
+W-We've actually been
+working on a prototype
+
+17
+00:00:29,690 --> 00:00:31,220
+(Howard:)for a navigation
+system we invented.
+
+18
+00:00:31,225 --> 00:00:33,025
+(Leonard:)But we won't bore you
+with the details.
+
+19
+00:00:33,026 --> 00:00:35,196
+(Zack:)Are you kidding?
+I love science.
+
+20
+00:00:35,195 --> 00:00:38,795
+(Zack:)Einstein, Stephen Hawking,
+Mike deGrasse Tyson.
+
+21
+00:00:39,666 --> 00:00:41,796
+(Amy:)Mike deGrasse Tyson?
+
+22
+00:00:41,802 --> 00:00:44,502
+(Howard:)Yeah, you know,
+the boxer who grew a mustache
+
+23
+00:00:44,504 --> 00:00:47,104
+(Howard:)and became a scientist.
+
+24
+00:00:47,107 --> 00:00:48,377
+(Zack:)So what's your
+invention?
+
+25
+00:00:48,375 --> 00:00:51,575
+(Howard:)Well, we're using
+quantum vortices
+
+26
+00:00:51,578 --> 00:00:53,778
+(Howard:)to replace gyroscopes
+in guidance systems.
+
+27
+00:00:53,780 --> 00:00:55,480
+(Leonard:)What's neat is
+that they can maintain
+
+28
+00:00:55,482 --> 00:00:57,152
+(Leonard:)angular momentum indefinitely.
+
+29
+00:00:57,150 --> 00:00:59,350
+(Leonard:)Angular momentum.
+

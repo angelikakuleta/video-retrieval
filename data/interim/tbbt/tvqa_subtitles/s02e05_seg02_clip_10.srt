@@ -1,0 +1,81 @@
+1
+00:00:00,065 --> 00:00:02,025
+Look, question two:
+
+2
+00:00:02,193 --> 00:00:04,443
+"When are roadways most slippery?"
+
+3
+00:00:04,612 --> 00:00:06,992
+(Sheldon:)There are three answers,
+none of which are correct.
+
+4
+00:00:07,156 --> 00:00:11,206
+The correct answer is, "When covered by
+liquid sufficient to reduce the coefficient...
+
+5
+00:00:11,368 --> 00:00:14,118
+...to static friction between the tire
+and the road to zero.
+
+6
+00:00:14,288 --> 00:00:17,538
+(Sheldon:)But not so deep as to introduce
+a new source of friction."
+
+7
+00:00:21,796 --> 00:00:24,336
+(DMV Lady:)Here's your learner's permit. Go away.
+
+8
+00:00:25,591 --> 00:00:29,091
+(Sheldon:)But I'm not done. I have many
+additional concerns about these questions.
+
+9
+00:00:29,261 --> 00:00:32,601
+- Don't make me climb over this counter.
+- All right, come on. Let's go.
+
+10
+00:00:34,225 --> 00:00:35,895
+WOMAN:
+Next.
+
+11
+00:00:36,060 --> 00:00:37,640
+(Sheldon:)Aced it.
+
+12
+00:00:40,272 --> 00:00:44,152
+(Howard:)Okay. That's it. Let's boot it up.
+
+13
+00:00:44,318 --> 00:00:45,568
+(Leonard:)Booting.
+
+14
+00:00:46,320 --> 00:00:48,200
+(Howard:)This is a state-of-the-art simulator.
+
+15
+00:00:48,364 --> 00:00:50,954
+(Howard:)I adapted it from something
+a friend designed for the Army.
+
+16
+00:00:51,116 --> 00:00:53,036
+Is that why I appear to be in Fallujah...
+
+17
+00:00:53,202 --> 00:00:55,832
+(Sheldon:)...behind the wheel
+of an up-armored Humvee?
+
+18
+00:00:56,247 --> 00:00:59,027
+(Howard:)I haven't configured it yet.
+

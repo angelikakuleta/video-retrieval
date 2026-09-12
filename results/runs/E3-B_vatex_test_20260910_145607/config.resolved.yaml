@@ -1,0 +1,42 @@
+experiment: E3-B
+dataset: vatex
+seed: 1234
+segmentation: null
+frames:
+  step_s: 1.25
+  dedup_cosine: 0.9
+components:
+  scene_embedding:
+    enabled: true
+    model: openclip_vit_h14
+    prompting: false
+  caption:
+    enabled: true
+    model: blip
+    do_sample: false
+  objects:
+    enabled: false
+    detector: yoloe_promptfree
+  face_regions:
+    enabled: false
+    mode: clip_regions
+    query: phrases
+  identity:
+    enabled: false
+  motion:
+    enabled: false
+    model: slowfast_k400
+scoring:
+  scope: full_collection
+  normalization: zscore
+  weights:
+    mode: uniform
+    manual: null
+  query_time_detection: null
+evaluation:
+  report_by:
+  - requirements
+  - complexity
+  - kinetics_vocab
+matching: null
+split: test

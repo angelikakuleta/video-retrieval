@@ -1,0 +1,80 @@
+1
+00:00:00,450 --> 00:00:02,450
+(Sheldon:)Did you pick one?
+
+2
+00:00:02,450 --> 00:00:03,890
+(Leonard:)Yep.
+
+3
+00:00:06,390 --> 00:00:08,890
+(Sheldon:)Is this your card?
+
+4
+00:00:08,890 --> 00:00:10,160
+(Leonard:)Nope.
+
+5
+00:00:10,160 --> 00:00:12,360
+(Sheldon:)Drat.
+
+6
+00:00:13,500 --> 00:00:15,830
+(Sheldon:)Is this your card?
+
+7
+00:00:15,830 --> 00:00:18,000
+(Priya:)No.
+
+8
+00:00:18,000 --> 00:00:20,070
+(Sheldon:)I'll be right back.
+
+9
+00:00:29,030 --> 00:00:30,430
+(Sheldon:)Pick a card, Sheldon.
+
+10
+00:00:32,030 --> 00:00:35,870
+(Sheldon:)Now look at it,
+and put it back in the deck.
+
+11
+00:00:37,910 --> 00:00:39,440
+(Sheldon:)Now do you remember your card?
+
+12
+00:00:39,440 --> 00:00:41,540
+(Sheldon:)Of course I do, I have
+an eidetic memory.
+
+13
+00:00:41,540 --> 00:00:43,310
+(Sheldon:)My apologies.
+
+14
+00:00:43,310 --> 00:00:45,780
+(Sheldon:)Now shuffle the cards.
+
+15
+00:00:45,780 --> 00:00:48,280
+(Sheldon:)Shuffling.
+
+16
+00:00:48,280 --> 00:00:50,020
+(Sheldon:)Wait here.
+
+17
+00:00:52,400 --> 00:00:55,490
+(Sheldon:)Processing image,
+cross-referencing...
+
+18
+00:00:55,490 --> 00:00:57,260
+(Leonard:)Whatcha doin'?
+
+19
+00:00:57,260 --> 00:01:00,290
+(Sheldon:)I'm reverse engineering
+Wolowitz's magic trick.
+

@@ -1,0 +1,301 @@
+{
+  "name": "pool_sensitivity",
+  "when": "2026-09-10T12:07:36",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "split": "test",
+    "per_query": [
+      1,
+      2
+    ],
+    "draws": 60,
+    "seed": 1234,
+    "assumed_share": {
+      "tbbt": 0.11,
+      "office": 0.05
+    },
+    "datasets": {
+      "office": {
+        "pool_fragments": 1843,
+        "pool_queries": 61,
+        "baseline": {
+          "opisy scen": 9.836065573770492,
+          "obiekty": -6.557377049180335,
+          "ruch": -3.2786885245901676,
+          "twarze": -4.918032786885251,
+          "tozsamosc": 3.2786885245901565
+        },
+        "baseline_order": [
+          "opisy scen",
+          "tozsamosc",
+          "ruch",
+          "twarze",
+          "obiekty"
+        ],
+        "sweep": [
+          {
+            "share": 0.05,
+            "draws": 60,
+            "order_changed": 0.13333333333333333,
+            "sign_changed": 0.0,
+            "best_changed": 0.0,
+            "max_abs_shift": 3.28,
+            "mean_contributions": {
+              "opisy scen": 9.562841530054644,
+              "obiekty": -6.420765027322411,
+              "ruch": -3.1693989071038278,
+              "twarze": -4.8087431693989116,
+              "tozsamosc": 3.2513661202185724
+            }
+          },
+          {
+            "share": 0.1,
+            "draws": 60,
+            "order_changed": 0.18333333333333332,
+            "sign_changed": 0.03333333333333333,
+            "best_changed": 0.0,
+            "max_abs_shift": 4.92,
+            "mean_contributions": {
+              "opisy scen": 8.907103825136613,
+              "obiekty": -6.502732240437163,
+              "ruch": -3.0874316939890716,
+              "twarze": -4.75409836065574,
+              "tozsamosc": 2.896174863387974
+            }
+          },
+          {
+            "share": 0.2,
+            "draws": 60,
+            "order_changed": 0.38333333333333336,
+            "sign_changed": 0.08333333333333333,
+            "best_changed": 0.0,
+            "max_abs_shift": 8.2,
+            "mean_contributions": {
+              "opisy scen": 8.169398907103828,
+              "obiekty": -6.0109289617486334,
+              "ruch": -3.2513661202185777,
+              "twarze": -4.617486338797813,
+              "tozsamosc": 3.278688524590164
+            }
+          },
+          {
+            "share": 0.3,
+            "draws": 60,
+            "order_changed": 0.4666666666666667,
+            "sign_changed": 0.25,
+            "best_changed": 0.0,
+            "max_abs_shift": 6.56,
+            "mean_contributions": {
+              "opisy scen": 8.114754098360656,
+              "obiekty": -6.147540983606556,
+              "ruch": -3.0327868852458995,
+              "twarze": -4.5628415300546425,
+              "tozsamosc": 2.5136612021857934
+            }
+          },
+          {
+            "share": 0.5,
+            "draws": 60,
+            "order_changed": 0.7166666666666667,
+            "sign_changed": 0.35,
+            "best_changed": 0.08333333333333333,
+            "max_abs_shift": 11.48,
+            "mean_contributions": {
+              "opisy scen": 7.5683060109289615,
+              "obiekty": -5.300546448087431,
+              "ruch": -2.759562841530055,
+              "twarze": -4.562841530054644,
+              "tozsamosc": 2.2950819672131155
+            }
+          },
+          {
+            "share": 0.75,
+            "draws": 60,
+            "order_changed": 0.8333333333333334,
+            "sign_changed": 0.43333333333333335,
+            "best_changed": 0.2,
+            "max_abs_shift": 13.11,
+            "mean_contributions": {
+              "opisy scen": 5.300546448087433,
+              "obiekty": -5.382513661202186,
+              "ruch": -2.4863387978142075,
+              "twarze": -3.715846994535518,
+              "tozsamosc": 1.8032786885245902
+            }
+          },
+          {
+            "share": 1.0,
+            "draws": 60,
+            "order_changed": 0.9166666666666666,
+            "sign_changed": 0.5666666666666667,
+            "best_changed": 0.21666666666666667,
+            "max_abs_shift": 14.75,
+            "mean_contributions": {
+              "opisy scen": 5.109289617486339,
+              "obiekty": -4.344262295081967,
+              "ruch": -2.5683060109289624,
+              "twarze": -3.251366120218579,
+              "tozsamosc": 1.5573770491803278
+            }
+          }
+        ]
+      },
+      "tbbt": {
+        "pool_fragments": 1773,
+        "pool_queries": 61,
+        "baseline": {
+          "opisy scen": 8.196721311475407,
+          "obiekty": -3.2786885245901676,
+          "ruch": -3.2786885245901676,
+          "twarze": -6.557377049180335,
+          "tozsamosc": 4.91803278688524
+        },
+        "baseline_order": [
+          "opisy scen",
+          "tozsamosc",
+          "obiekty",
+          "ruch",
+          "twarze"
+        ],
+        "sweep": [
+          {
+            "share": 0.05,
+            "draws": 60,
+            "order_changed": 0.2,
+            "sign_changed": 0.0,
+            "best_changed": 0.0,
+            "max_abs_shift": 3.28,
+            "mean_contributions": {
+              "opisy scen": 8.114754098360658,
+              "obiekty": -3.2786885245901614,
+              "ruch": -3.142076502732238,
+              "twarze": -6.530054644808745,
+              "tozsamosc": 5.136612021857925
+            }
+          },
+          {
+            "share": 0.1,
+            "draws": 60,
+            "order_changed": 0.23333333333333334,
+            "sign_changed": 0.03333333333333333,
+            "best_changed": 0.03333333333333333,
+            "max_abs_shift": 4.92,
+            "mean_contributions": {
+              "opisy scen": 7.568306010928965,
+              "obiekty": -3.1147540983606516,
+              "ruch": -3.4972677595628374,
+              "twarze": -6.3934426229508174,
+              "tozsamosc": 4.726775956284156
+            }
+          },
+          {
+            "share": 0.11,
+            "draws": 60,
+            "order_changed": 0.35,
+            "sign_changed": 0.0,
+            "best_changed": 0.0,
+            "max_abs_shift": 4.92,
+            "mean_contributions": {
+              "opisy scen": 7.841530054644811,
+              "obiekty": -3.169398907103821,
+              "ruch": -3.142076502732237,
+              "twarze": -6.284153005464479,
+              "tozsamosc": 5.054644808743173
+            }
+          },
+          {
+            "share": 0.2,
+            "draws": 60,
+            "order_changed": 0.36666666666666664,
+            "sign_changed": 0.08333333333333333,
+            "best_changed": 0.03333333333333333,
+            "max_abs_shift": 8.2,
+            "mean_contributions": {
+              "opisy scen": 7.896174863387979,
+              "obiekty": -3.005464480874315,
+              "ruch": -3.032786885245899,
+              "twarze": -6.12021857923497,
+              "tozsamosc": 4.699453551912572
+            }
+          },
+          {
+            "share": 0.3,
+            "draws": 60,
+            "order_changed": 0.4666666666666667,
+            "sign_changed": 0.15,
+            "best_changed": 0.06666666666666667,
+            "max_abs_shift": 9.84,
+            "mean_contributions": {
+              "opisy scen": 7.7049180327868845,
+              "obiekty": -2.73224043715847,
+              "ruch": -2.5136612021857925,
+              "twarze": -5.382513661202185,
+              "tozsamosc": 4.234972677595629
+            }
+          },
+          {
+            "share": 0.5,
+            "draws": 60,
+            "order_changed": 0.6,
+            "sign_changed": 0.3,
+            "best_changed": 0.16666666666666666,
+            "max_abs_shift": 11.48,
+            "mean_contributions": {
+              "opisy scen": 6.092896174863389,
+              "obiekty": -3.3879781420765016,
+              "ruch": -2.0765027322404364,
+              "twarze": -5.382513661202185,
+              "tozsamosc": 3.6338797814207653
+            }
+          },
+          {
+            "share": 0.75,
+            "draws": 60,
+            "order_changed": 0.75,
+            "sign_changed": 0.5333333333333333,
+            "best_changed": 0.31666666666666665,
+            "max_abs_shift": 11.48,
+            "mean_contributions": {
+              "opisy scen": 5.327868852459016,
+              "obiekty": -2.6229508196721314,
+              "ruch": -1.9672131147540983,
+              "twarze": -5.0,
+              "tozsamosc": 3.278688524590164
+            }
+          },
+          {
+            "share": 1.0,
+            "draws": 60,
+            "order_changed": 0.8166666666666667,
+            "sign_changed": 0.8333333333333334,
+            "best_changed": 0.26666666666666666,
+            "max_abs_shift": 18.03,
+            "mean_contributions": {
+              "opisy scen": 5.0,
+              "obiekty": -1.8852459016393437,
+              "ruch": -1.420765027322404,
+              "twarze": -3.825136612021857,
+              "tozsamosc": 1.8852459016393444
+            }
+          }
+        ]
+      }
+    }
+  }
+}

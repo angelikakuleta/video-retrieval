@@ -1,0 +1,199 @@
+{
+  "metric": "recall@10",
+  "split": "dev",
+  "reference": "E1-A",
+  "contrast": [
+    "requirements:wymaga_scenerii"
+  ],
+  "control": [],
+  "datasets": [
+    "tbbt",
+    "office"
+  ],
+  "skipped": [],
+  "runs": {
+    "E1-A": {
+      "tbbt": "results\\runs\\E1-A_tbbt_dev_20260908_012526",
+      "office": "results\\runs\\E1-A_office_dev_20260908_012431"
+    },
+    "E1-B": {
+      "tbbt": "results\\runs\\E1-B_tbbt_dev_20260908_012540",
+      "office": "results\\runs\\E1-B_office_dev_20260908_012448"
+    },
+    "E1-C": {
+      "tbbt": "results\\runs\\E1-C_tbbt_dev_20260908_012555",
+      "office": "results\\runs\\E1-C_office_dev_20260908_012509"
+    }
+  },
+  "results": {
+    "E1-B": {
+      "per_dataset": {
+        "office": {
+          "n": 6,
+          "mean": 0.012837837837837818,
+          "low": -0.03021317722216279,
+          "high": 0.055888852897838424,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.7110091743119266,
+          "reference_value": 0.6972477064220184
+        },
+        "tbbt": {
+          "n": 6,
+          "mean": 0.061866301524745565,
+          "low": 0.009954499199554191,
+          "high": 0.11377810384993695,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.6490384615384616,
+          "reference_value": 0.5865384615384616
+        }
+      },
+      "pooled": {
+        "n": 12,
+        "mean": 0.03735206968129169,
+        "low": 0.005376073639549825,
+        "high": 0.06932806572303356,
+        "method": "t"
+      },
+      "pooled_datasets": [
+        "office",
+        "tbbt"
+      ]
+    },
+    "E1-C": {
+      "per_dataset": {
+        "office": {
+          "n": 6,
+          "mean": 0.0057261807261807145,
+          "low": -0.04298619620616263,
+          "high": 0.05443855765852407,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.7018348623853211,
+          "reference_value": 0.6972477064220184
+        },
+        "tbbt": {
+          "n": 6,
+          "mean": 0.013859058925472604,
+          "low": -0.046815367670451274,
+          "high": 0.07453348552139648,
+          "method": "t",
+          "unit": "episode",
+          "value": 0.6009615384615384,
+          "reference_value": 0.5865384615384616
+        }
+      },
+      "pooled": {
+        "n": 12,
+        "mean": 0.00979261982582666,
+        "low": -0.022082560558794533,
+        "high": 0.04166780021044785,
+        "method": "t"
+      },
+      "pooled_datasets": [
+        "office",
+        "tbbt"
+      ]
+    }
+  },
+  "contrasts": {
+    "requirements:wymaga_scenerii": {
+      "E1-B": {
+        "per_dataset": {
+          "office": {
+            "n": 6,
+            "mean": 0.06226335327566229,
+            "low": -0.13018369238670688,
+            "high": 0.2547103989380315,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.8142857142857143,
+            "matching_reference": 0.7714285714285715,
+            "rest": 0.6621621621621622,
+            "rest_reference": 0.6621621621621622,
+            "matching_delta": 0.058531746031746046,
+            "rest_delta": -0.003731607243916246
+          },
+          "tbbt": {
+            "n": 6,
+            "mean": 0.032364638534715245,
+            "low": -0.11003589187650756,
+            "high": 0.17476516894593805,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.6923076923076923,
+            "matching_reference": 0.6153846153846154,
+            "rest": 0.6230769230769231,
+            "rest_reference": 0.5692307692307692,
+            "matching_delta": 0.08468182144652732,
+            "rest_delta": 0.05231718291181208
+          }
+        },
+        "pooled": {
+          "n": 12,
+          "mean": 0.047313995905188776,
+          "low": -0.05090950654679143,
+          "high": 0.14553749835716898,
+          "method": "t"
+        },
+        "pooled_datasets": [
+          "office",
+          "tbbt"
+        ]
+      },
+      "E1-C": {
+        "per_dataset": {
+          "office": {
+            "n": 6,
+            "mean": 0.08307748538011696,
+            "low": -0.0608321323084363,
+            "high": 0.2269871030686702,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.8,
+            "matching_reference": 0.7714285714285715,
+            "rest": 0.6554054054054054,
+            "rest_reference": 0.6621621621621622,
+            "matching_delta": 0.06845238095238097,
+            "rest_delta": -0.014625104427735994
+          },
+          "tbbt": {
+            "n": 6,
+            "mean": 0.111941509202805,
+            "low": -0.11424892797943599,
+            "high": 0.338131946385046,
+            "method": "t",
+            "unit": "episode",
+            "matching": 0.6923076923076923,
+            "matching_reference": 0.6153846153846154,
+            "rest": 0.5461538461538461,
+            "rest_reference": 0.5692307692307692,
+            "matching_delta": 0.08654384830855417,
+            "rest_delta": -0.025397660894250818
+          }
+        },
+        "pooled": {
+          "n": 12,
+          "mean": 0.09750949729146098,
+          "low": -0.012339588514798175,
+          "high": 0.20735858309772015,
+          "method": "t"
+        },
+        "pooled_datasets": [
+          "office",
+          "tbbt"
+        ]
+      }
+    }
+  },
+  "verdict": {
+    "winner": "E1-B",
+    "qualified": [
+      "E1-B"
+    ],
+    "reason": "the only candidate that beat the reference",
+    "series": 2,
+    "provisional": false
+  }
+}

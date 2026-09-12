@@ -1,0 +1,78 @@
+1
+00:00:00,060 --> 00:00:01,830
+(Leonard:)We're actually
+scanning equations
+
+2
+00:00:01,830 --> 00:00:03,200
+(Leonard:)and getting good results.
+
+3
+00:00:03,200 --> 00:00:05,520
+(Sheldon:)Oh, well then,
+by all means, carry on.
+
+4
+00:00:05,520 --> 00:00:07,430
+(Sheldon:)I wouldn't want
+to impede your progress.
+
+5
+00:00:07,440 --> 00:00:09,940
+(Leonard:)Howard, did you solve
+the install time problem yet?
+
+6
+00:00:09,940 --> 00:00:11,470
+(Howard:)No. It's a little tricky.
+
+7
+00:00:11,470 --> 00:00:13,440
+(Howard:)I'm gonna try having it pick up
+the libraries dyn...
+
+8
+00:00:20,730 --> 00:00:22,320
+(Leonard:)What are you doing?!
+
+9
+00:00:22,320 --> 00:00:26,120
+(Sheldon:)Playing the theremin.
+
+10
+00:00:27,660 --> 00:00:30,890
+(Leonard:)No. I mean, what are you
+doing with a theremin?
+
+11
+00:00:30,890 --> 00:00:33,430
+(Sheldon:)Playing it.
+
+12
+00:00:33,430 --> 00:00:36,660
+(Sheldon:)I've loved the theremin
+from the first moment
+
+13
+00:00:36,660 --> 00:00:38,800
+I heard the original
+Star Trek theme.
+
+14
+00:00:38,800 --> 00:00:40,270
+(Sheldon:)And it's been killing me
+
+15
+00:00:40,270 --> 00:00:43,240
+(Sheldon:)that it just sits in my closet,
+gathering dust.
+
+16
+00:00:57,220 --> 00:00:59,520
+(Leonard:)Sheldon!
+We're working here!
+
+17
+00:00:59,520 --> 00:01:00,790
+(Sheldon:)That's all right.
+

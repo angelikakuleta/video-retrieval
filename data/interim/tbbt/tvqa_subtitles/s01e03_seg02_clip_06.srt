@@ -1,0 +1,67 @@
+1
+00:00:00,734 --> 00:00:02,734
+Okay. Uh, let me ask you this.
+
+2
+00:00:03,111 --> 00:00:05,111
+(Sheldon:)When I learn that I'm a robot...
+
+3
+00:00:05,280 --> 00:00:09,030
+(Sheldon:)...would I be bound by
+Asimov's Three Laws of Robotics?
+
+4
+00:00:09,451 --> 00:00:13,451
+(Raj:)You might be bound by them right now.
+
+5
+00:00:16,249 --> 00:00:17,249
+(Howard:)That's true.
+
+6
+00:00:17,417 --> 00:00:21,877
+- Have you ever harmed a human being?
+- Of course not.
+
+7
+00:00:22,047 --> 00:00:25,257
+(Howard:)Have you ever harmed yourself,
+except in cases where a human being...
+
+8
+00:00:25,425 --> 00:00:27,095
+(Howard:)...would have been endangered?
+
+9
+00:00:27,260 --> 00:00:29,760
+(Sheldon:)- Well, no.
+- I smell robot.
+
+10
+00:00:33,433 --> 00:00:37,353
+- Hey, what's going on?
+- Internet's been down for half an hour.
+
+11
+00:00:39,648 --> 00:00:41,228
+(Raj:)Also, Sheldon may be a robot.
+
+12
+00:00:43,276 --> 00:00:45,866
+So how did it go with Leslie?
+
+13
+00:00:46,029 --> 00:00:50,369
+(Leonard:)Oh, we tried kissing,
+but the Earth didn't move.
+
+14
+00:00:50,534 --> 00:00:54,954
+(Leonard:)I mean, any more than the 383 miles
+that it was gonna move anyway.
+
+15
+00:00:56,790 --> 00:00:59,020
+(Sheldon:)Oh, I've seen that look before.
+

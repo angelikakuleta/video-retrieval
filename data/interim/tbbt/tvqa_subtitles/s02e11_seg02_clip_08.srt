@@ -1,0 +1,81 @@
+1
+00:00:00,533 --> 00:00:02,533
+(Sheldon:)If I were to give you this gift basket...
+
+2
+00:00:02,702 --> 00:00:05,032
+(Sheldon:)...based on that action alone
+and no other data...
+
+3
+00:00:05,204 --> 00:00:10,124
+(Sheldon:)...infer and describe the hypothetical
+relationship that exists between us.
+
+4
+00:00:11,544 --> 00:00:12,964
+(Assistant:)Excuse me?
+
+5
+00:00:13,963 --> 00:00:15,503
+(Leonard:)Here.
+
+6
+00:00:15,756 --> 00:00:20,136
+(Sheldon:)Now are we friends? Colleagues? Lovers?
+
+7
+00:00:20,553 --> 00:00:22,223
+(Sheldon:)Are you my grandmother?
+
+8
+00:00:24,140 --> 00:00:26,140
+(Assistant:)I don't understand
+what you're talking about...
+
+9
+00:00:26,308 --> 00:00:28,938
+(Assistant:)...and you're making me
+a little uncomfortable.
+
+10
+00:00:29,186 --> 00:00:32,066
+(Howard:)See? Sounds just like you and Penny.
+We'll take it.
+
+11
+00:00:37,570 --> 00:00:38,860
+(David:)Hey, Leonard. Come, join us.
+
+12
+00:00:39,029 --> 00:00:42,489
+(Leonard:)Oh, hey, Dave. And Penny.
+What a surprise.
+
+13
+00:00:42,658 --> 00:00:45,198
+Hey, Leonard. Dave was showing me
+around the university.
+
+14
+00:00:45,369 --> 00:00:47,329
+(Penny:)You know, this place is unbelievable.
+
+15
+00:00:47,496 --> 00:00:50,956
+(Leonard:)Yeah, I know. I've been offering
+to show you around for a year and a half.
+
+16
+00:00:51,500 --> 00:00:53,000
+(Leonard:)You always said you had yoga.
+
+17
+00:00:53,669 --> 00:00:56,589
+- I never said that.
+- Maybe I heard you wrong.
+
+18
+00:00:56,756 --> 00:01:00,026
+A lot of words sound like "yoga."
+

@@ -1,0 +1,115 @@
+1
+00:00:00,550 --> 00:00:02,870
+(Leonard:)or using the
+Schrodinger equation?
+
+2
+00:00:02,870 --> 00:00:05,090
+(Sheldon:)Howard doesn't.
+He's only an engineer.
+
+3
+00:00:06,470 --> 00:00:09,580
+(Leonard:)I was thinking,
+we could write a little app
+
+4
+00:00:09,580 --> 00:00:11,280
+(Leonard:)that would use
+handwriting recognition,
+
+5
+00:00:11,280 --> 00:00:13,550
+(Leonard:)and then run it through a
+symbolic evaluation engine.
+
+6
+00:00:13,550 --> 00:00:14,850
+(Leonard:)You just use your smartphone,
+
+7
+00:00:14,850 --> 00:00:18,020
+(Leonard:)take a picture
+of the equation and bam!
+
+8
+00:00:18,020 --> 00:00:22,120
+(Raj:)You know what's a great app?
+The one that makes fart noises.
+
+9
+00:00:25,830 --> 00:00:27,930
+(Sheldon:)You know, Leonard,
+
+10
+00:00:27,930 --> 00:00:29,700
+(Sheldon:)that's actually
+a valid idea.
+
+11
+00:00:29,700 --> 00:00:31,130
+(Sheldon:)Very good.
+
+12
+00:00:31,130 --> 00:00:34,640
+(Leonard:)Can you say that and not
+make it sound like I'm a cat
+
+13
+00:00:34,640 --> 00:00:37,370
+(Leonard:)who learned
+how to use the toilet?
+
+14
+00:00:37,370 --> 00:00:39,240
+(Howard:)No.
+
+15
+00:00:39,240 --> 00:00:41,210
+(Sheldon:)The two achievements
+are equally surprising
+
+16
+00:00:41,210 --> 00:00:42,680
+(Sheldon:)and equally admirable,
+
+17
+00:00:42,680 --> 00:00:43,980
+(Sheldon:)though if pressed,
+
+18
+00:00:43,980 --> 00:00:46,410
+(Sheldon:)I'd have to give
+a slight edge to the cat.
+
+19
+00:00:46,410 --> 00:00:48,220
+(Sheldon:)I'll save you the pain
+and nervousness
+
+20
+00:00:48,220 --> 00:00:49,580
+(Sheldon:)of waiting for the answer.
+
+21
+00:00:49,580 --> 00:00:53,720
+(Sheldon:)I agree to be part of
+your project. Congratulations.
+
+22
+00:00:53,720 --> 00:00:55,790
+(Leonard:)Oh, yay for me.
+
+23
+00:00:55,790 --> 00:00:58,480
+(Leonard:)What about you guys?
+
+24
+00:00:58,480 --> 00:00:59,610
+(Leonard:)I can't promise anything,
+
+25
+00:00:59,610 --> 00:01:01,900
+(Leonard:)but people do make money
+off stuff like this.
+

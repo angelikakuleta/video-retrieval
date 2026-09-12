@@ -1,0 +1,70 @@
+1
+00:00:00,478 --> 00:00:02,808
+(Penny:)How about we just have
+a little quiet time now?
+
+2
+00:00:03,397 --> 00:00:04,437
+(Sheldon:)All right.
+
+3
+00:00:05,691 --> 00:00:07,521
+[SHELDON WHIMPERS]
+
+4
+00:00:09,987 --> 00:00:12,367
+(Sheldon:)I'm sorry.
+I'm finding your reckless nonchalance...
+
+5
+00:00:12,531 --> 00:00:15,201
+(Sheldon:)...regarding the check-engine light
+to be very troubling.
+
+6
+00:00:19,330 --> 00:00:20,870
+(Penny(Pulling over):)Get out.
+
+7
+00:00:22,166 --> 00:00:25,416
+(Sheldon:)I have to tell you that while I do have
+a theoretical understanding...
+
+8
+00:00:25,586 --> 00:00:27,336
+...of an internal-combustion engine...
+
+9
+00:00:27,505 --> 00:00:30,175
+(Sheldon:)...I'm not sure
+I'm capable of performing diagnostics.
+
+10
+00:00:30,341 --> 00:00:32,171
+I said, "Get out."
+
+11
+00:00:32,343 --> 00:00:34,133
+(Sheldon:)Okay, I'll give it a shot.
+
+12
+00:00:48,818 --> 00:00:50,778
+(Sheldon:)Oh, Leonard, there you are.
+
+13
+00:00:50,945 --> 00:00:52,325
+(Sheldon:)I'm ready to go home.
+
+14
+00:00:54,156 --> 00:00:55,326
+(Leonard:)I just got here.
+
+15
+00:00:55,491 --> 00:00:57,411
+(Sheldon:)Good. Perfect timing.
+
+16
+00:00:57,868 --> 00:01:01,328
+(Leonard:)Sheldon, I told you, I only have access
+to the free-electron laser at night.
+

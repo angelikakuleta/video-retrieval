@@ -1,0 +1,54 @@
+experiment: full_swap_caption
+dataset: tbbt
+seed: 1234
+segmentation:
+  strategy: shots_histogram
+  min_len_s: 3.0
+  max_len_s: 15.0
+  window_s: 10.0
+  histogram_threshold: 0.5
+  transnet_threshold: null
+frames:
+  step_s: 1.25
+  dedup_cosine: 0.9
+components:
+  scene_embedding:
+    enabled: true
+    model: openclip_vit_h14
+    prompting: false
+  caption:
+    enabled: true
+    model: blip
+    do_sample: false
+  objects:
+    enabled: true
+    detector: yolo11
+  face_regions:
+    enabled: true
+    mode: clip_regions
+    query: phrases
+  identity:
+    enabled: true
+  motion:
+    enabled: true
+    model: slowfast_k400
+scoring:
+  scope: full_collection
+  normalization: zscore
+  weights:
+    mode: uniform
+    manual: null
+  query_time_detection: null
+evaluation:
+  report_by:
+  - requirements
+  - complexity
+matching:
+  measure: top1
+  threshold: 0.8054
+  threshold_by_vocab:
+    objects_yolo11: 0.8054
+    objects_yoloe_promptfree: 0.733
+    expressions_hsemotion: 0.8048
+    actions_kinetics400: 0.8017
+split: test

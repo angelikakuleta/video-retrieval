@@ -1,0 +1,100 @@
+1
+00:00:00,354 --> 00:00:02,024
+(Bernadette:)and one thing leads to another.
+
+2
+00:00:02,022 --> 00:00:04,592
+(Amy:)I do know what that's like.
+I really do.
+
+3
+00:00:07,228 --> 00:00:08,798
+(Leonard:)I'm not seeing anyone
+
+4
+00:00:08,796 --> 00:00:10,896
+(Leonard:)using liquid helium
+vortices like this.
+
+5
+00:00:10,898 --> 00:00:12,768
+(Howard:)I'm not finding
+anything either.
+
+6
+00:00:12,766 --> 00:00:13,996
+That's a good sign.
+
+7
+00:00:14,001 --> 00:00:15,931
+(Sheldon:)Oh, wait, I found something.
+
+8
+00:00:15,936 --> 00:00:17,306
+(Howard:)Damn. What is it?
+
+9
+00:00:17,304 --> 00:00:20,174
+(Sheldon:)This video.
+The baby panda sneezes,
+
+10
+00:00:20,174 --> 00:00:23,144
+(Sheldon:)and the mama panda
+gets so scared.
+
+11
+00:00:26,580 --> 00:00:28,380
+(Leonard:)Can you focus
+on what we're talking about?
+
+12
+00:00:28,382 --> 00:00:29,812
+(Penny:)All right.
+
+13
+00:00:29,817 --> 00:00:32,347
+(Sheldon:)Look, now,
+this may be the rum talking,
+
+14
+00:00:32,353 --> 00:00:35,283
+(Sheldon:)but as long as the unpinning
+rate of the vortices
+
+15
+00:00:35,289 --> 00:00:37,759
+(Sheldon:)is kept within 1.1 and 1.3,
+
+16
+00:00:37,758 --> 00:00:41,128
+(Sheldon:)the Magnus force issue
+should be negligible.
+
+17
+00:00:42,596 --> 00:00:46,366
+(Raj:)Even drunk, he's still smarter
+than all of us.
+
+18
+00:00:46,367 --> 00:00:48,297
+(Sheldon:)And stronger.
+
+19
+00:00:48,302 --> 00:00:51,772
+Yeah. Who wants to see me
+beat up the bartender?
+
+20
+00:00:52,606 --> 00:00:54,406
+(Leonard:)I'd enjoy that.
+
+21
+00:00:54,408 --> 00:00:56,878
+(Sheldon:)Nah, she's a good kid.
+
+22
+00:00:58,746 --> 00:01:01,416
+(Howard:)If this is a viable thing,
+we could get a patent
+

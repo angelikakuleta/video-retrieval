@@ -1,0 +1,33 @@
+# Base configuration for the VATEX dataset (part 1 of the experiment, no segmentation).
+# One pipeline configuration = one file. Only the scene signal is active;
+# further signals are added as new entries in the `signals` list.
+
+dataset: vatex
+
+model:
+  encoder: ViT-H-14            # base representation (OpenCLIP), as in the thesis
+  weights: laion2b_s32b_b79k
+
+frames:
+  step: 1.25                  # time grid for frame sampling
+  similarity_threshold: 0.9   # dropping frames nearly identical to the previous one
+
+signals:
+  - name: scene
+    weight: 1.0               # one active signal -> the weights sum to one
+
+evaluation:
+  ks: [1, 5, 10]              # Recall@K thresholds reported in the thesis
+
+paths:
+  clips: data/raw/vatex/test                           # source material (outside the repo)
+  report: data/interim/vatex/vatex_report_test.csv     # acquisition register of the test part
+  descriptions: data/interim/vatex/work/vatex_descriptions_test.csv
+  split: data/interim/vatex/vatex_split_test.csv       # K400 leak + class split (E2)
+  # ready annotations: 1 description/clip, the whole leak-filtered test split
+  # (2489). The dev part is a separate draw from the VATEX training split and
+  # serves only the matching threshold and the motion check -- see queries_dev
+  queries_test: data/annotations/vatex/vatex_queries_test.jsonl
+  check: data/annotations/vatex/vatex_check.jsonl      # 10 descriptions/clip, ok clips 2560
+  cache: data/cache/vatex                              # embeddings and FAISS index (outside the repo)
+  results: results/reports/vatex_check.json

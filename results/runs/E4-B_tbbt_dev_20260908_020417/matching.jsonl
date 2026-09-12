@@ -1,0 +1,557 @@
+{"desc_id": 6163, "signal": "objects", "phrase": "bag", "forms": ["paper bags", "bag"], "class_id": 55, "class_name": "cake", "confidence": 0.6542, "accepted": false}
+{"desc_id": 6163, "signal": "objects", "phrase": "grocery", "forms": ["groceries", "grocery"], "class_id": 72, "class_name": "refrigerator", "confidence": 0.656, "accepted": false}
+{"desc_id": 6163, "signal": "objects", "phrase": "hallway", "forms": ["hallway"], "class_id": 61, "class_name": "toilet", "confidence": 0.6676, "accepted": false}
+{"desc_id": 6164, "signal": "objects", "phrase": "apartment", "forms": ["apartment"], "class_id": 55, "class_name": "cake", "confidence": 0.6291, "accepted": false}
+{"desc_id": 6164, "signal": "objects", "phrase": "bag", "forms": ["paper bag", "bag"], "class_id": 28, "class_name": "suitcase", "confidence": 0.6584, "accepted": false}
+{"desc_id": 6164, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 6164, "signal": "objects", "phrase": "shopping", "forms": ["shopping"], "class_id": 55, "class_name": "cake", "confidence": 0.6329, "accepted": false}
+{"desc_id": 12475, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 12475, "signal": "objects", "phrase": "elbow", "forms": ["elbow"], "class_id": 45, "class_name": "bowl", "confidence": 0.6438, "accepted": false}
+{"desc_id": 12475, "signal": "objects", "phrase": "jacket", "forms": ["grey jacket", "jacket"], "class_id": 43, "class_name": "knife", "confidence": 0.6841, "accepted": false}
+{"desc_id": 12475, "signal": "objects", "phrase": "knee", "forms": ["knee"], "class_id": 33, "class_name": "kite", "confidence": 0.6907, "accepted": false}
+{"desc_id": 12502, "signal": "objects", "phrase": "bag", "forms": ["plastic bag", "bag"], "class_id": 28, "class_name": "suitcase", "confidence": 0.662, "accepted": false}
+{"desc_id": 12502, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 12506, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 12506, "signal": "objects", "phrase": "hoodie", "forms": ["grey hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 12506, "signal": "objects", "phrase": "phone", "forms": ["cell phone", "phone"], "class_id": 67, "class_name": "cell phone", "confidence": 1.0, "accepted": true}
+{"desc_id": 12506, "signal": "objects", "phrase": "picture", "forms": ["penny pictures", "picture"], "class_id": 55, "class_name": "cake", "confidence": 0.6077, "accepted": false}
+{"desc_id": 12507, "signal": "objects", "phrase": "door", "forms": ["apartment door", "door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 12507, "signal": "objects", "phrase": "shirt", "forms": ["purple floral shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 12515, "signal": "objects", "phrase": "figurine", "forms": ["figurine"], "class_id": 75, "class_name": "vase", "confidence": 0.7004, "accepted": false}
+{"desc_id": 12515, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 12516, "signal": "objects", "phrase": "shelf", "forms": ["shelf"], "class_id": 74, "class_name": "clock", "confidence": 0.6349, "accepted": false}
+{"desc_id": 12516, "signal": "objects", "phrase": "statue", "forms": ["aquaman statue", "statue"], "class_id": 74, "class_name": "clock", "confidence": 0.6762, "accepted": false}
+{"desc_id": 12517, "signal": "objects", "phrase": "counter", "forms": ["counter"], "class_id": 65, "class_name": "remote", "confidence": 0.6869, "accepted": false}
+{"desc_id": 12517, "signal": "objects", "phrase": "gun", "forms": ["batman squirt gun", "gun"], "class_id": 21, "class_name": "bear", "confidence": 0.7061, "accepted": false}
+{"desc_id": 12532, "signal": "objects", "phrase": "bottle", "forms": ["bottle"], "class_id": 39, "class_name": "bottle", "confidence": 1.0, "accepted": true}
+{"desc_id": 12532, "signal": "objects", "phrase": "cream", "forms": ["cream"], "class_id": 55, "class_name": "cake", "confidence": 0.7023, "accepted": false}
+{"desc_id": 12532, "signal": "objects", "phrase": "sweater", "forms": ["pink sweater", "sweater"], "class_id": 21, "class_name": "bear", "confidence": 0.5525, "accepted": false}
+{"desc_id": 12533, "signal": "objects", "phrase": "cream", "forms": ["cream"], "class_id": 55, "class_name": "cake", "confidence": 0.7023, "accepted": false}
+{"desc_id": 12533, "signal": "objects", "phrase": "pocket", "forms": ["pocket"], "class_id": 7, "class_name": "truck", "confidence": 0.521, "accepted": false}
+{"desc_id": 12533, "signal": "objects", "phrase": "tube", "forms": ["tube"], "class_id": 21, "class_name": "bear", "confidence": 0.654, "accepted": false}
+{"desc_id": 12535, "signal": "objects", "phrase": "arm", "forms": ["arms", "arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 12535, "signal": "objects", "phrase": "can", "forms": ["trash can", "can"], "class_id": 55, "class_name": "cake", "confidence": 0.6807, "accepted": false}
+{"desc_id": 12535, "signal": "objects", "phrase": "hip", "forms": ["hips", "hip"], "class_id": 55, "class_name": "cake", "confidence": 0.6389, "accepted": false}
+{"desc_id": 12535, "signal": "objects", "phrase": "kitchen", "forms": ["kitchen"], "class_id": 69, "class_name": "oven", "confidence": 0.7557, "accepted": false}
+{"desc_id": 12537, "signal": "objects", "phrase": "bowl", "forms": ["glass mixing bowl", "bowl"], "class_id": 45, "class_name": "bowl", "confidence": 1.0, "accepted": true}
+{"desc_id": 12537, "signal": "objects", "phrase": "tray", "forms": ["dish drainer tray", "tray"], "class_id": 45, "class_name": "bowl", "confidence": 0.647, "accepted": false}
+{"desc_id": 13247, "signal": "objects", "phrase": "book", "forms": ["comic book", "book"], "class_id": 73, "class_name": "book", "confidence": 1.0, "accepted": true}
+{"desc_id": 13247, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 13247, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 13247, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 13247, "signal": "objects", "phrase": "sofa", "forms": ["sofa"], "class_id": 57, "class_name": "couch", "confidence": 0.8484, "accepted": true}
+{"desc_id": 13249, "signal": "objects", "phrase": "couch", "forms": ["entire couch", "couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 13249, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 13249, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 13249, "signal": "objects", "phrase": "knee", "forms": ["knees", "knee"], "class_id": 33, "class_name": "kite", "confidence": 0.6907, "accepted": false}
+{"desc_id": 13249, "signal": "objects", "phrase": "magazine", "forms": ["magazine"], "class_id": 43, "class_name": "knife", "confidence": 0.6559, "accepted": false}
+{"desc_id": 13257, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 13257, "signal": "objects", "phrase": "flight", "forms": ["three flights", "flight"], "class_id": 33, "class_name": "kite", "confidence": 0.7186, "accepted": false}
+{"desc_id": 13257, "signal": "objects", "phrase": "shirt", "forms": ["green shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 13257, "signal": "objects", "phrase": "stair", "forms": ["stairs", "stair"], "class_id": 57, "class_name": "couch", "confidence": 0.6526, "accepted": false}
+{"desc_id": 13258, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 13258, "signal": "objects", "phrase": "laptop", "forms": ["laptop"], "class_id": 63, "class_name": "laptop", "confidence": 1.0, "accepted": true}
+{"desc_id": 13272, "signal": "objects", "phrase": "desk", "forms": ["desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 13272, "signal": "objects", "phrase": "sign", "forms": ["number 2 sign", "sign"], "class_id": 11, "class_name": "stop sign", "confidence": 0.7082, "accepted": false}
+{"desc_id": 13275, "signal": "objects", "phrase": "door", "forms": ["front door", "door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 13275, "signal": "objects", "phrase": "shirt", "forms": ["blue shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 20156, "signal": "objects", "phrase": "armchair", "forms": ["armchair"], "class_id": 56, "class_name": "chair", "confidence": 0.8318, "accepted": true}
+{"desc_id": 20156, "signal": "objects", "phrase": "bottle", "forms": ["water bottle", "bottle"], "class_id": 39, "class_name": "bottle", "confidence": 1.0, "accepted": true}
+{"desc_id": 20156, "signal": "objects", "phrase": "cap", "forms": ["cap"], "class_id": 15, "class_name": "cat", "confidence": 0.5869, "accepted": false}
+{"desc_id": 20156, "signal": "objects", "phrase": "jacket", "forms": ["grey jacket", "jacket"], "class_id": 43, "class_name": "knife", "confidence": 0.6841, "accepted": false}
+{"desc_id": 20156, "signal": "objects", "phrase": "room", "forms": ["living room", "room"], "class_id": 57, "class_name": "couch", "confidence": 0.7056, "accepted": false}
+{"desc_id": 20157, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 20157, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 20157, "signal": "objects", "phrase": "shirt", "forms": ["black shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 20157, "signal": "objects", "phrase": "shoulder", "forms": ["'s shoulder", "shoulder"], "class_id": 21, "class_name": "bear", "confidence": 0.5499, "accepted": false}
+{"desc_id": 20160, "signal": "objects", "phrase": "accessory", "forms": ["accessories", "accessory"], "class_id": 55, "class_name": "cake", "confidence": 0.6147, "accepted": false}
+{"desc_id": 20160, "signal": "objects", "phrase": "bed", "forms": ["bed"], "class_id": 59, "class_name": "bed", "confidence": 1.0, "accepted": true}
+{"desc_id": 20160, "signal": "objects", "phrase": "head", "forms": ["head"], "class_id": 21, "class_name": "bear", "confidence": 0.6636, "accepted": false}
+{"desc_id": 20160, "signal": "objects", "phrase": "shoulder", "forms": ["shoulder"], "class_id": 21, "class_name": "bear", "confidence": 0.5499, "accepted": false}
+{"desc_id": 20165, "signal": "objects", "phrase": "chin", "forms": ["chin"], "class_id": 15, "class_name": "cat", "confidence": 0.5954, "accepted": false}
+{"desc_id": 20165, "signal": "objects", "phrase": "hand", "forms": ["left hand", "hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 20165, "signal": "objects", "phrase": "turtleneck", "forms": ["maroon turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 20166, "signal": "objects", "phrase": "desk", "forms": ["desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 20166, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 20166, "signal": "objects", "phrase": "turtleneck", "forms": ["maroon turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 20170, "signal": "objects", "phrase": "glass", "forms": ["glasses", "glass"], "class_id": 40, "class_name": "wine glass", "confidence": 0.6932, "accepted": false}
+{"desc_id": 20170, "signal": "objects", "phrase": "turtleneck", "forms": ["maroon turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 20171, "signal": "objects", "phrase": "desk", "forms": ["desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 20171, "signal": "objects", "phrase": "turtleneck", "forms": ["maroon turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 20172, "signal": "objects", "phrase": "desk", "forms": ["desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 20172, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 20172, "signal": "objects", "phrase": "turtleneck", "forms": ["maroon turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 20176, "signal": "objects", "phrase": "rope", "forms": ["rope"], "class_id": 65, "class_name": "remote", "confidence": 0.703, "accepted": false}
+{"desc_id": 20177, "signal": "objects", "phrase": "bed", "forms": ["bed"], "class_id": 59, "class_name": "bed", "confidence": 1.0, "accepted": true}
+{"desc_id": 20179, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 20179, "signal": "objects", "phrase": "office", "forms": ["'s office", "office"], "class_id": 33, "class_name": "kite", "confidence": 0.6865, "accepted": false}
+{"desc_id": 20181, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 20181, "signal": "objects", "phrase": "turtleneck", "forms": ["maroon turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 20183, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 20183, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 20183, "signal": "objects", "phrase": "turtleneck", "forms": ["maroon turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 20184, "signal": "objects", "phrase": "pen", "forms": ["pen"], "class_id": 15, "class_name": "cat", "confidence": 0.658, "accepted": false}
+{"desc_id": 20184, "signal": "objects", "phrase": "turtleneck", "forms": ["maroon turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 21110, "signal": "objects", "phrase": "bag", "forms": ["bags", "bag"], "class_id": 26, "class_name": "handbag", "confidence": 0.7404, "accepted": false}
+{"desc_id": 21110, "signal": "objects", "phrase": "hoodie", "forms": ["purple hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 21110, "signal": "objects", "phrase": "shoulder", "forms": ["shoulders", "shoulder"], "class_id": 76, "class_name": "scissors", "confidence": 0.5643, "accepted": false}
+{"desc_id": 21567, "signal": "objects", "phrase": "doorknob", "forms": ["doorknob"], "class_id": 72, "class_name": "refrigerator", "confidence": 0.6744, "accepted": false}
+{"desc_id": 21567, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 21567, "signal": "objects", "phrase": "shirt", "forms": ["green shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 27730, "signal": "objects", "phrase": "shaft", "forms": ["elevator shaft", "shaft"], "class_id": 65, "class_name": "remote", "confidence": 0.6292, "accepted": false}
+{"desc_id": 27730, "signal": "objects", "phrase": "tape", "forms": ["yellow tape", "tape"], "class_id": 62, "class_name": "tv", "confidence": 0.6063, "accepted": false}
+{"desc_id": 27731, "signal": "objects", "phrase": "door", "forms": ["elevator door", "door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 27731, "signal": "objects", "phrase": "sign", "forms": ["sign"], "class_id": 11, "class_name": "stop sign", "confidence": 0.7082, "accepted": false}
+{"desc_id": 27750, "signal": "objects", "phrase": "finger", "forms": ["finger"], "class_id": 55, "class_name": "cake", "confidence": 0.6546, "accepted": false}
+{"desc_id": 27750, "signal": "objects", "phrase": "nose", "forms": ["nose"], "class_id": 65, "class_name": "remote", "confidence": 0.6822, "accepted": false}
+{"desc_id": 27750, "signal": "objects", "phrase": "shirt", "forms": ["turquoise shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 27753, "signal": "objects", "phrase": "table", "forms": ["table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 27753, "signal": "objects", "phrase": "wristwatch", "forms": ["wristwatch"], "class_id": 74, "class_name": "clock", "confidence": 0.6951, "accepted": false}
+{"desc_id": 27755, "signal": "objects", "phrase": "arm", "forms": ["arms", "arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 27755, "signal": "objects", "phrase": "hoodie", "forms": ["orange hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 27757, "signal": "objects", "phrase": "glass", "forms": ["glass"], "class_id": 55, "class_name": "cake", "confidence": 0.6869, "accepted": false}
+{"desc_id": 27757, "signal": "objects", "phrase": "hoodie", "forms": ["orange hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 27757, "signal": "objects", "phrase": "wine", "forms": ["wine"], "class_id": 55, "class_name": "cake", "confidence": 0.6791, "accepted": false}
+{"desc_id": 28102, "signal": "objects", "phrase": "shirt", "forms": ["blue shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 28106, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 28106, "signal": "objects", "phrase": "keyboard", "forms": ["keyboard"], "class_id": 66, "class_name": "keyboard", "confidence": 1.0, "accepted": true}
+{"desc_id": 28106, "signal": "objects", "phrase": "lap", "forms": ["lap"], "class_id": 63, "class_name": "laptop", "confidence": 0.5784, "accepted": false}
+{"desc_id": 28106, "signal": "objects", "phrase": "sweater", "forms": ["orange sweater", "sweater"], "class_id": 51, "class_name": "carrot", "confidence": 0.5742, "accepted": false}
+{"desc_id": 28111, "signal": "objects", "phrase": "blazer", "forms": ["black blazer", "blazer"], "class_id": 43, "class_name": "knife", "confidence": 0.666, "accepted": false}
+{"desc_id": 28111, "signal": "objects", "phrase": "lap", "forms": ["lap"], "class_id": 63, "class_name": "laptop", "confidence": 0.5784, "accepted": false}
+{"desc_id": 28111, "signal": "objects", "phrase": "napkin", "forms": ["red napkin", "napkin"], "class_id": 43, "class_name": "knife", "confidence": 0.6259, "accepted": false}
+{"desc_id": 28112, "signal": "objects", "phrase": "box", "forms": ["purple transporter box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 28112, "signal": "objects", "phrase": "toy", "forms": ["toy"], "class_id": 65, "class_name": "remote", "confidence": 0.7107, "accepted": false}
+{"desc_id": 28115, "signal": "objects", "phrase": "bag", "forms": ["paper bag", "bag"], "class_id": 28, "class_name": "suitcase", "confidence": 0.6584, "accepted": false}
+{"desc_id": 28115, "signal": "objects", "phrase": "shirt", "forms": ["blue shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 28115, "signal": "objects", "phrase": "table", "forms": ["coffee table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 28116, "signal": "objects", "phrase": "box", "forms": ["purple transporter box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 28116, "signal": "objects", "phrase": "chair", "forms": ["chair"], "class_id": 56, "class_name": "chair", "confidence": 1.0, "accepted": true}
+{"desc_id": 28120, "signal": "objects", "phrase": "blazer", "forms": ["mustard blazer", "blazer"], "class_id": 43, "class_name": "knife", "confidence": 0.666, "accepted": false}
+{"desc_id": 28120, "signal": "objects", "phrase": "ear", "forms": ["'s ear", "ear"], "class_id": 15, "class_name": "cat", "confidence": 0.7064, "accepted": false}
+{"desc_id": 28120, "signal": "objects", "phrase": "restaurant", "forms": ["restaurant"], "class_id": 61, "class_name": "toilet", "confidence": 0.6837, "accepted": false}
+{"desc_id": 28122, "signal": "objects", "phrase": "box", "forms": ["purple transporter box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 28122, "signal": "objects", "phrase": "figurine", "forms": ["spock figurine", "figurine"], "class_id": 75, "class_name": "vase", "confidence": 0.7004, "accepted": false}
+{"desc_id": 28122, "signal": "objects", "phrase": "table", "forms": ["table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 28130, "signal": "objects", "phrase": "box", "forms": ["figurine box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 28130, "signal": "objects", "phrase": "pajama", "forms": ["plaid pajamas", "pajama"], "class_id": 46, "class_name": "banana", "confidence": 0.5515, "accepted": false}
+{"desc_id": 28131, "signal": "objects", "phrase": "figurine", "forms": ["spock figurine", "figurine"], "class_id": 75, "class_name": "vase", "confidence": 0.7004, "accepted": false}
+{"desc_id": 28131, "signal": "objects", "phrase": "pajama", "forms": ["plaid pajamas", "pajama"], "class_id": 46, "class_name": "banana", "confidence": 0.5515, "accepted": false}
+{"desc_id": 28131, "signal": "objects", "phrase": "toy", "forms": ["toy"], "class_id": 65, "class_name": "remote", "confidence": 0.7107, "accepted": false}
+{"desc_id": 28135, "signal": "objects", "phrase": "box", "forms": ["purple box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 28135, "signal": "objects", "phrase": "desk", "forms": ["desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 28135, "signal": "objects", "phrase": "figurine", "forms": ["spock figurine", "figurine"], "class_id": 75, "class_name": "vase", "confidence": 0.7004, "accepted": false}
+{"desc_id": 28136, "signal": "objects", "phrase": "bed", "forms": ["bed"], "class_id": 59, "class_name": "bed", "confidence": 1.0, "accepted": true}
+{"desc_id": 28136, "signal": "objects", "phrase": "eye", "forms": ["eyes", "eye"], "class_id": 15, "class_name": "cat", "confidence": 0.73, "accepted": false}
+{"desc_id": 28136, "signal": "objects", "phrase": "pajama", "forms": ["plaid pajamas", "pajama"], "class_id": 46, "class_name": "banana", "confidence": 0.5515, "accepted": false}
+{"desc_id": 28137, "signal": "objects", "phrase": "box", "forms": ["purple box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 28137, "signal": "objects", "phrase": "lid", "forms": ["lid"], "class_id": 55, "class_name": "cake", "confidence": 0.6489, "accepted": false}
+{"desc_id": 28137, "signal": "objects", "phrase": "pajama", "forms": ["plaid pajamas", "pajama"], "class_id": 46, "class_name": "banana", "confidence": 0.5515, "accepted": false}
+{"desc_id": 28146, "signal": "objects", "phrase": "food", "forms": ["food"], "class_id": 55, "class_name": "cake", "confidence": 0.7429, "accepted": false}
+{"desc_id": 28146, "signal": "objects", "phrase": "table", "forms": ["dining table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 1.0, "accepted": true}
+{"desc_id": 28147, "signal": "objects", "phrase": "table", "forms": ["dining table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 1.0, "accepted": true}
+{"desc_id": 28148, "signal": "objects", "phrase": "oven", "forms": ["oven"], "class_id": 69, "class_name": "oven", "confidence": 1.0, "accepted": true}
+{"desc_id": 28148, "signal": "objects", "phrase": "pan", "forms": ["pan"], "class_id": 21, "class_name": "bear", "confidence": 0.6853, "accepted": false}
+{"desc_id": 28148, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 34348, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 34348, "signal": "objects", "phrase": "glass", "forms": ["glass"], "class_id": 55, "class_name": "cake", "confidence": 0.6869, "accepted": false}
+{"desc_id": 34348, "signal": "objects", "phrase": "hair", "forms": ["messy hair", "hair"], "class_id": 55, "class_name": "cake", "confidence": 0.7098, "accepted": false}
+{"desc_id": 34348, "signal": "objects", "phrase": "liquor", "forms": ["liquor"], "class_id": 40, "class_name": "wine glass", "confidence": 0.6775, "accepted": false}
+{"desc_id": 37765, "signal": "objects", "phrase": "drink", "forms": ["drink"], "class_id": 55, "class_name": "cake", "confidence": 0.7387, "accepted": false}
+{"desc_id": 37765, "signal": "objects", "phrase": "fountain", "forms": ["water fountain", "fountain"], "class_id": 61, "class_name": "toilet", "confidence": 0.7064, "accepted": false}
+{"desc_id": 37766, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 37766, "signal": "objects", "phrase": "turtleneck", "forms": ["brown turtleneck", "turtleneck"], "class_id": 70, "class_name": "toaster", "confidence": 0.5895, "accepted": false}
+{"desc_id": 37767, "signal": "objects", "phrase": "arm", "forms": ["arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 37767, "signal": "objects", "phrase": "shoulder", "forms": ["'s shoulders", "shoulder"], "class_id": 76, "class_name": "scissors", "confidence": 0.5616, "accepted": false}
+{"desc_id": 39958, "signal": "objects", "phrase": "doorway", "forms": ["doorway"], "class_id": 72, "class_name": "refrigerator", "confidence": 0.645, "accepted": false}
+{"desc_id": 39958, "signal": "objects", "phrase": "stair", "forms": ["stairs", "stair"], "class_id": 57, "class_name": "couch", "confidence": 0.6526, "accepted": false}
+{"desc_id": 39966, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 39966, "signal": "objects", "phrase": "doorway", "forms": ["doorway"], "class_id": 72, "class_name": "refrigerator", "confidence": 0.645, "accepted": false}
+{"desc_id": 39972, "signal": "objects", "phrase": "doorway", "forms": ["doorway"], "class_id": 72, "class_name": "refrigerator", "confidence": 0.645, "accepted": false}
+{"desc_id": 39972, "signal": "objects", "phrase": "sign", "forms": ["yellow sign", "sign"], "class_id": 11, "class_name": "stop sign", "confidence": 0.7082, "accepted": false}
+{"desc_id": 39973, "signal": "objects", "phrase": "doorway", "forms": ["doorway"], "class_id": 72, "class_name": "refrigerator", "confidence": 0.645, "accepted": false}
+{"desc_id": 39973, "signal": "objects", "phrase": "sign", "forms": ["large yellow sign", "sign"], "class_id": 11, "class_name": "stop sign", "confidence": 0.7082, "accepted": false}
+{"desc_id": 39975, "signal": "objects", "phrase": "crotch", "forms": ["crotch"], "class_id": 46, "class_name": "banana", "confidence": 0.6175, "accepted": false}
+{"desc_id": 39975, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 39975, "signal": "objects", "phrase": "leg", "forms": ["legs", "leg"], "class_id": 15, "class_name": "cat", "confidence": 0.6632, "accepted": false}
+{"desc_id": 39977, "signal": "objects", "phrase": "crotch", "forms": ["crotch"], "class_id": 46, "class_name": "banana", "confidence": 0.6175, "accepted": false}
+{"desc_id": 39977, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 39977, "signal": "objects", "phrase": "room", "forms": ["living room", "room"], "class_id": 57, "class_name": "couch", "confidence": 0.7056, "accepted": false}
+{"desc_id": 39985, "signal": "objects", "phrase": "cheese", "forms": ["cheese"], "class_id": 53, "class_name": "pizza", "confidence": 0.7815, "accepted": false}
+{"desc_id": 39985, "signal": "objects", "phrase": "slice", "forms": ["slice"], "class_id": 33, "class_name": "kite", "confidence": 0.6304, "accepted": false}
+{"desc_id": 39987, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 39990, "signal": "objects", "phrase": "arm", "forms": ["arms", "arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 39990, "signal": "objects", "phrase": "step", "forms": ["step"], "class_id": 21, "class_name": "bear", "confidence": 0.6507, "accepted": false}
+{"desc_id": 39991, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 39991, "signal": "objects", "phrase": "shoulder", "forms": ["'s shoulder", "shoulder"], "class_id": 21, "class_name": "bear", "confidence": 0.5499, "accepted": false}
+{"desc_id": 39992, "signal": "objects", "phrase": "bed", "forms": ["bed"], "class_id": 59, "class_name": "bed", "confidence": 1.0, "accepted": true}
+{"desc_id": 39992, "signal": "objects", "phrase": "knee", "forms": ["knee"], "class_id": 33, "class_name": "kite", "confidence": 0.6907, "accepted": false}
+{"desc_id": 50302, "signal": "objects", "phrase": "office", "forms": ["office"], "class_id": 33, "class_name": "kite", "confidence": 0.6865, "accepted": false}
+{"desc_id": 50303, "signal": "objects", "phrase": "hallway", "forms": ["hallway"], "class_id": 61, "class_name": "toilet", "confidence": 0.6676, "accepted": false}
+{"desc_id": 53161, "signal": "objects", "phrase": "bag", "forms": ["bag"], "class_id": 55, "class_name": "cake", "confidence": 0.6542, "accepted": false}
+{"desc_id": 53161, "signal": "objects", "phrase": "blouse", "forms": ["red and dark blue blouse", "blouse"], "class_id": 61, "class_name": "toilet", "confidence": 0.6424, "accepted": false}
+{"desc_id": 53161, "signal": "objects", "phrase": "food", "forms": ["chinese food", "food"], "class_id": 55, "class_name": "cake", "confidence": 0.7429, "accepted": false}
+{"desc_id": 53161, "signal": "objects", "phrase": "island", "forms": ["kitchen island", "island"], "class_id": 60, "class_name": "dining table", "confidence": 0.7083, "accepted": false}
+{"desc_id": 53164, "signal": "objects", "phrase": "carton", "forms": ["four chinese food cartons", "carton"], "class_id": 33, "class_name": "kite", "confidence": 0.6624, "accepted": false}
+{"desc_id": 53164, "signal": "objects", "phrase": "counter", "forms": ["kitchen counter", "counter"], "class_id": 65, "class_name": "remote", "confidence": 0.6869, "accepted": false}
+{"desc_id": 54231, "signal": "objects", "phrase": "paper", "forms": ["paper"], "class_id": 55, "class_name": "cake", "confidence": 0.665, "accepted": false}
+{"desc_id": 54231, "signal": "objects", "phrase": "piece", "forms": ["piece"], "class_id": 21, "class_name": "bear", "confidence": 0.623, "accepted": false}
+{"desc_id": 54231, "signal": "objects", "phrase": "table", "forms": ["side table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 54231, "signal": "objects", "phrase": "table", "forms": ["living room table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 54232, "signal": "objects", "phrase": "paper", "forms": ["paper"], "class_id": 55, "class_name": "cake", "confidence": 0.665, "accepted": false}
+{"desc_id": 54232, "signal": "objects", "phrase": "piece", "forms": ["piece"], "class_id": 21, "class_name": "bear", "confidence": 0.623, "accepted": false}
+{"desc_id": 54232, "signal": "objects", "phrase": "ponytail", "forms": ["two ponytails", "ponytail"], "class_id": 17, "class_name": "horse", "confidence": 0.6808, "accepted": false}
+{"desc_id": 54260, "signal": "objects", "phrase": "cake", "forms": ["cake"], "class_id": 55, "class_name": "cake", "confidence": 1.0, "accepted": true}
+{"desc_id": 54260, "signal": "objects", "phrase": "piece", "forms": ["piece"], "class_id": 21, "class_name": "bear", "confidence": 0.623, "accepted": false}
+{"desc_id": 54260, "signal": "objects", "phrase": "shirt", "forms": ["green and grey shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 54260, "signal": "objects", "phrase": "table", "forms": ["coffee table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 54261, "signal": "objects", "phrase": "chest", "forms": ["chest"], "class_id": 28, "class_name": "suitcase", "confidence": 0.6826, "accepted": false}
+{"desc_id": 54261, "signal": "objects", "phrase": "shirt", "forms": ["shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 54262, "signal": "objects", "phrase": "head", "forms": ["head"], "class_id": 21, "class_name": "bear", "confidence": 0.6636, "accepted": false}
+{"desc_id": 54262, "signal": "objects", "phrase": "shirt", "forms": ["shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 54263, "signal": "objects", "phrase": "shirt", "forms": ["shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 54264, "signal": "objects", "phrase": "chest", "forms": ["chest"], "class_id": 28, "class_name": "suitcase", "confidence": 0.6826, "accepted": false}
+{"desc_id": 54264, "signal": "objects", "phrase": "shirt", "forms": ["green and grey shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 54265, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 54265, "signal": "objects", "phrase": "shirt", "forms": ["shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 54265, "signal": "objects", "phrase": "torso", "forms": ["torso"], "class_id": 75, "class_name": "vase", "confidence": 0.6283, "accepted": false}
+{"desc_id": 54268, "signal": "objects", "phrase": "body", "forms": ["body"], "class_id": 73, "class_name": "book", "confidence": 0.6752, "accepted": false}
+{"desc_id": 54268, "signal": "objects", "phrase": "head", "forms": ["head"], "class_id": 21, "class_name": "bear", "confidence": 0.6636, "accepted": false}
+{"desc_id": 54268, "signal": "objects", "phrase": "shirt", "forms": ["shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 54269, "signal": "objects", "phrase": "chest", "forms": ["'s bare chest", "chest"], "class_id": 28, "class_name": "suitcase", "confidence": 0.6826, "accepted": false}
+{"desc_id": 54269, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 54269, "signal": "objects", "phrase": "room", "forms": ["room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 54270, "signal": "objects", "phrase": "coffee", "forms": ["coffee"], "class_id": 15, "class_name": "cat", "confidence": 0.7174, "accepted": false}
+{"desc_id": 54270, "signal": "objects", "phrase": "mug", "forms": ["travel mug", "mug"], "class_id": 41, "class_name": "cup", "confidence": 0.7259, "accepted": false}
+{"desc_id": 54270, "signal": "objects", "phrase": "pot", "forms": ["coffee pot", "pot"], "class_id": 70, "class_name": "toaster", "confidence": 0.6667, "accepted": false}
+{"desc_id": 54273, "signal": "objects", "phrase": "chest", "forms": ["'s bare chests", "chest"], "class_id": 28, "class_name": "suitcase", "confidence": 0.6826, "accepted": false}
+{"desc_id": 54277, "signal": "objects", "phrase": "door", "forms": ["'s door", "door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 54277, "signal": "objects", "phrase": "jacket", "forms": ["beige jacket", "jacket"], "class_id": 43, "class_name": "knife", "confidence": 0.6841, "accepted": false}
+{"desc_id": 54279, "signal": "objects", "phrase": "apartment", "forms": ["apartment"], "class_id": 55, "class_name": "cake", "confidence": 0.6291, "accepted": false}
+{"desc_id": 54279, "signal": "objects", "phrase": "shirt", "forms": ["white shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 54279, "signal": "objects", "phrase": "vest", "forms": ["yellow vest", "vest"], "class_id": 9, "class_name": "traffic light", "confidence": 0.6555, "accepted": false}
+{"desc_id": 55081, "signal": "objects", "phrase": "drink", "forms": ["drink"], "class_id": 55, "class_name": "cake", "confidence": 0.7387, "accepted": false}
+{"desc_id": 55081, "signal": "objects", "phrase": "glass", "forms": ["glass"], "class_id": 55, "class_name": "cake", "confidence": 0.6869, "accepted": false}
+{"desc_id": 55081, "signal": "objects", "phrase": "wine", "forms": ["white wine", "wine"], "class_id": 40, "class_name": "wine glass", "confidence": 0.767, "accepted": false}
+{"desc_id": 55083, "signal": "objects", "phrase": "table", "forms": ["table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 55084, "signal": "objects", "phrase": "head", "forms": ["head"], "class_id": 21, "class_name": "bear", "confidence": 0.6636, "accepted": false}
+{"desc_id": 55084, "signal": "objects", "phrase": "laptop", "forms": ["laptop"], "class_id": 63, "class_name": "laptop", "confidence": 1.0, "accepted": true}
+{"desc_id": 55084, "signal": "objects", "phrase": "shirt", "forms": ["purple shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 55084, "signal": "objects", "phrase": "skype", "forms": ["skype"], "class_id": 47, "class_name": "apple", "confidence": 0.7266, "accepted": false}
+{"desc_id": 55085, "signal": "objects", "phrase": "shirt", "forms": ["purple shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 55086, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 55086, "signal": "objects", "phrase": "lap", "forms": ["'s lap", "lap"], "class_id": 63, "class_name": "laptop", "confidence": 0.5784, "accepted": false}
+{"desc_id": 55086, "signal": "objects", "phrase": "laptop", "forms": ["red laptop", "laptop"], "class_id": 63, "class_name": "laptop", "confidence": 1.0, "accepted": true}
+{"desc_id": 55086, "signal": "objects", "phrase": "shirt", "forms": ["purple shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 55090, "signal": "objects", "phrase": "point", "forms": ["points", "point"], "class_id": 65, "class_name": "remote", "confidence": 0.7466, "accepted": false}
+{"desc_id": 55090, "signal": "objects", "phrase": "room", "forms": ["restaurant dining room", "room"], "class_id": 60, "class_name": "dining table", "confidence": 0.6939, "accepted": false}
+{"desc_id": 55091, "signal": "objects", "phrase": "bag", "forms": ["laptop bag", "bag"], "class_id": 24, "class_name": "backpack", "confidence": 0.7309, "accepted": false}
+{"desc_id": 55091, "signal": "objects", "phrase": "jacket", "forms": ["purple jacket", "jacket"], "class_id": 43, "class_name": "knife", "confidence": 0.6841, "accepted": false}
+{"desc_id": 55091, "signal": "objects", "phrase": "shoulder", "forms": ["shoulder"], "class_id": 21, "class_name": "bear", "confidence": 0.5499, "accepted": false}
+{"desc_id": 55091, "signal": "objects", "phrase": "step", "forms": ["steps", "step"], "class_id": 18, "class_name": "sheep", "confidence": 0.6789, "accepted": false}
+{"desc_id": 55092, "signal": "objects", "phrase": "glass", "forms": ["funny novelty glasses", "glass"], "class_id": 55, "class_name": "cake", "confidence": 0.6869, "accepted": false}
+{"desc_id": 55092, "signal": "objects", "phrase": "hat", "forms": ["red hat", "hat"], "class_id": 55, "class_name": "cake", "confidence": 0.6783, "accepted": false}
+{"desc_id": 55092, "signal": "objects", "phrase": "jacket", "forms": ["red puffer jacket", "jacket"], "class_id": 43, "class_name": "knife", "confidence": 0.6841, "accepted": false}
+{"desc_id": 55093, "signal": "objects", "phrase": "hat", "forms": ["red hat", "hat"], "class_id": 55, "class_name": "cake", "confidence": 0.6783, "accepted": false}
+{"desc_id": 55093, "signal": "objects", "phrase": "jacket", "forms": ["red puffer jacket", "jacket"], "class_id": 43, "class_name": "knife", "confidence": 0.6841, "accepted": false}
+{"desc_id": 55093, "signal": "objects", "phrase": "stair", "forms": ["stairs", "stair"], "class_id": 57, "class_name": "couch", "confidence": 0.6526, "accepted": false}
+{"desc_id": 55106, "signal": "objects", "phrase": "hallway", "forms": ["hallway"], "class_id": 61, "class_name": "toilet", "confidence": 0.6676, "accepted": false}
+{"desc_id": 55106, "signal": "objects", "phrase": "shirt", "forms": ["orange shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 55106, "signal": "objects", "phrase": "wall", "forms": ["wall"], "class_id": 21, "class_name": "bear", "confidence": 0.6679, "accepted": false}
+{"desc_id": 55962, "signal": "objects", "phrase": "building", "forms": ["building"], "class_id": 21, "class_name": "bear", "confidence": 0.5948, "accepted": false}
+{"desc_id": 56265, "signal": "objects", "phrase": "chat", "forms": ["video chat", "chat"], "class_id": 64, "class_name": "mouse", "confidence": 0.7209, "accepted": false}
+{"desc_id": 56265, "signal": "objects", "phrase": "laptop", "forms": ["laptop"], "class_id": 63, "class_name": "laptop", "confidence": 1.0, "accepted": true}
+{"desc_id": 56265, "signal": "objects", "phrase": "right", "forms": ["right"], "class_id": 21, "class_name": "bear", "confidence": 0.5831, "accepted": false}
+{"desc_id": 56265, "signal": "objects", "phrase": "thumb", "forms": ["thumb"], "class_id": 73, "class_name": "book", "confidence": 0.6212, "accepted": false}
+{"desc_id": 56266, "signal": "objects", "phrase": "chat", "forms": ["video chat", "chat"], "class_id": 64, "class_name": "mouse", "confidence": 0.7209, "accepted": false}
+{"desc_id": 56266, "signal": "objects", "phrase": "eye", "forms": ["eyes", "eye"], "class_id": 15, "class_name": "cat", "confidence": 0.73, "accepted": false}
+{"desc_id": 61811, "signal": "objects", "phrase": "kitchen", "forms": ["kitchen"], "class_id": 69, "class_name": "oven", "confidence": 0.7557, "accepted": false}
+{"desc_id": 61811, "signal": "objects", "phrase": "shirt", "forms": ["plaid blue and white shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 61812, "signal": "objects", "phrase": "bottle", "forms": ["bottle"], "class_id": 39, "class_name": "bottle", "confidence": 1.0, "accepted": true}
+{"desc_id": 61812, "signal": "objects", "phrase": "desk", "forms": ["cleaned desk", "desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 61812, "signal": "objects", "phrase": "rag", "forms": ["rag"], "class_id": 33, "class_name": "kite", "confidence": 0.6209, "accepted": false}
+{"desc_id": 61812, "signal": "objects", "phrase": "room", "forms": ["room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 61812, "signal": "objects", "phrase": "spray", "forms": ["spray"], "class_id": 7, "class_name": "truck", "confidence": 0.6193, "accepted": false}
+{"desc_id": 61816, "signal": "objects", "phrase": "car", "forms": ["silver car", "car"], "class_id": 2, "class_name": "car", "confidence": 1.0, "accepted": true}
+{"desc_id": 61817, "signal": "objects", "phrase": "garage", "forms": ["garage"], "class_id": 65, "class_name": "remote", "confidence": 0.6619, "accepted": false}
+{"desc_id": 61817, "signal": "objects", "phrase": "underwear", "forms": ["underwear"], "class_id": 43, "class_name": "knife", "confidence": 0.5714, "accepted": false}
+{"desc_id": 61819, "signal": "objects", "phrase": "car", "forms": ["silver car", "car"], "class_id": 2, "class_name": "car", "confidence": 1.0, "accepted": true}
+{"desc_id": 61819, "signal": "objects", "phrase": "wave", "forms": ["bernadette waves", "wave"], "class_id": 65, "class_name": "remote", "confidence": 0.7014, "accepted": false}
+{"desc_id": 61826, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 61826, "signal": "objects", "phrase": "dress", "forms": ["dark blue dress", "dress"], "class_id": 55, "class_name": "cake", "confidence": 0.6437, "accepted": false}
+{"desc_id": 61826, "signal": "objects", "phrase": "glass", "forms": ["glasses", "glass"], "class_id": 40, "class_name": "wine glass", "confidence": 0.6932, "accepted": false}
+{"desc_id": 61826, "signal": "objects", "phrase": "office", "forms": ["office"], "class_id": 33, "class_name": "kite", "confidence": 0.6865, "accepted": false}
+{"desc_id": 61827, "signal": "objects", "phrase": "chair", "forms": ["chair"], "class_id": 56, "class_name": "chair", "confidence": 1.0, "accepted": true}
+{"desc_id": 61827, "signal": "objects", "phrase": "dress", "forms": ["dark blue dress", "dress"], "class_id": 55, "class_name": "cake", "confidence": 0.6437, "accepted": false}
+{"desc_id": 61827, "signal": "objects", "phrase": "glass", "forms": ["glasses", "glass"], "class_id": 40, "class_name": "wine glass", "confidence": 0.6932, "accepted": false}
+{"desc_id": 61827, "signal": "objects", "phrase": "pad", "forms": ["pad"], "class_id": 55, "class_name": "cake", "confidence": 0.6261, "accepted": false}
+{"desc_id": 61827, "signal": "objects", "phrase": "paper", "forms": ["paper"], "class_id": 55, "class_name": "cake", "confidence": 0.665, "accepted": false}
+{"desc_id": 61827, "signal": "objects", "phrase": "utensil", "forms": ["writing utensil", "utensil"], "class_id": 42, "class_name": "fork", "confidence": 0.7869, "accepted": false}
+{"desc_id": 61831, "signal": "objects", "phrase": "dress", "forms": ["dark blue dress", "dress"], "class_id": 55, "class_name": "cake", "confidence": 0.6437, "accepted": false}
+{"desc_id": 61831, "signal": "objects", "phrase": "glass", "forms": ["glasses", "glass"], "class_id": 40, "class_name": "wine glass", "confidence": 0.6932, "accepted": false}
+{"desc_id": 61831, "signal": "objects", "phrase": "office", "forms": ["office"], "class_id": 33, "class_name": "kite", "confidence": 0.6865, "accepted": false}
+{"desc_id": 61831, "signal": "objects", "phrase": "pad", "forms": ["pad"], "class_id": 55, "class_name": "cake", "confidence": 0.6261, "accepted": false}
+{"desc_id": 61831, "signal": "objects", "phrase": "paper", "forms": ["paper"], "class_id": 55, "class_name": "cake", "confidence": 0.665, "accepted": false}
+{"desc_id": 61831, "signal": "objects", "phrase": "utensil", "forms": ["writing utensil", "utensil"], "class_id": 42, "class_name": "fork", "confidence": 0.7869, "accepted": false}
+{"desc_id": 61833, "signal": "objects", "phrase": "box", "forms": ["boxes", "box"], "class_id": 28, "class_name": "suitcase", "confidence": 0.6353, "accepted": false}
+{"desc_id": 61833, "signal": "objects", "phrase": "car", "forms": ["silver car", "car"], "class_id": 2, "class_name": "car", "confidence": 1.0, "accepted": true}
+{"desc_id": 61834, "signal": "objects", "phrase": "box", "forms": ["box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 61834, "signal": "objects", "phrase": "car", "forms": ["silver car", "car"], "class_id": 2, "class_name": "car", "confidence": 1.0, "accepted": true}
+{"desc_id": 61834, "signal": "objects", "phrase": "trunk", "forms": ["trunk"], "class_id": 28, "class_name": "suitcase", "confidence": 0.663, "accepted": false}
+{"desc_id": 61836, "signal": "objects", "phrase": "desk", "forms": ["desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 61836, "signal": "objects", "phrase": "lab", "forms": ["lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6216, "accepted": false}
+{"desc_id": 61836, "signal": "objects", "phrase": "point", "forms": ["points", "point"], "class_id": 65, "class_name": "remote", "confidence": 0.7466, "accepted": false}
+{"desc_id": 61838, "signal": "objects", "phrase": "bedroom", "forms": ["'s bedroom", "bedroom"], "class_id": 33, "class_name": "kite", "confidence": 0.6469, "accepted": false}
+{"desc_id": 61838, "signal": "objects", "phrase": "cover", "forms": ["covers", "cover"], "class_id": 65, "class_name": "remote", "confidence": 0.6846, "accepted": false}
+{"desc_id": 61839, "signal": "objects", "phrase": "computer", "forms": ["computer"], "class_id": 47, "class_name": "apple", "confidence": 0.7319, "accepted": false}
+{"desc_id": 61839, "signal": "objects", "phrase": "lab", "forms": ["'s lab", "lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6232, "accepted": false}
+{"desc_id": 61839, "signal": "objects", "phrase": "shirt", "forms": ["green shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 61840, "signal": "objects", "phrase": "chair", "forms": ["chair"], "class_id": 56, "class_name": "chair", "confidence": 1.0, "accepted": true}
+{"desc_id": 61840, "signal": "objects", "phrase": "lab", "forms": ["lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6216, "accepted": false}
+{"desc_id": 61840, "signal": "objects", "phrase": "screen", "forms": ["computer screens", "screen"], "class_id": 47, "class_name": "apple", "confidence": 0.6113, "accepted": false}
+{"desc_id": 61843, "signal": "objects", "phrase": "computer", "forms": ["'s computer", "computer"], "class_id": 47, "class_name": "apple", "confidence": 0.7319, "accepted": false}
+{"desc_id": 61843, "signal": "objects", "phrase": "lab", "forms": ["lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6216, "accepted": false}
+{"desc_id": 61843, "signal": "objects", "phrase": "table", "forms": ["table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 61847, "signal": "objects", "phrase": "cheek", "forms": ["cheek"], "class_id": 15, "class_name": "cat", "confidence": 0.6091, "accepted": false}
+{"desc_id": 61847, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 61847, "signal": "objects", "phrase": "kiss", "forms": ["kiss"], "class_id": 33, "class_name": "kite", "confidence": 0.7281, "accepted": false}
+{"desc_id": 61847, "signal": "objects", "phrase": "room", "forms": ["room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 61848, "signal": "objects", "phrase": "black", "forms": ["black"], "class_id": 21, "class_name": "bear", "confidence": 0.6727, "accepted": false}
+{"desc_id": 61848, "signal": "objects", "phrase": "door", "forms": ["'s front door", "door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 61848, "signal": "objects", "phrase": "purse", "forms": ["black and white purse", "purse"], "class_id": 26, "class_name": "handbag", "confidence": 0.8072, "accepted": true}
+{"desc_id": 61848, "signal": "objects", "phrase": "table", "forms": ["living room table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 61849, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 61849, "signal": "objects", "phrase": "face", "forms": ["face"], "class_id": 21, "class_name": "bear", "confidence": 0.6788, "accepted": false}
+{"desc_id": 61849, "signal": "objects", "phrase": "mask", "forms": ["medical mask", "mask"], "class_id": 43, "class_name": "knife", "confidence": 0.7256, "accepted": false}
+{"desc_id": 61849, "signal": "objects", "phrase": "napkin", "forms": ["napkin"], "class_id": 43, "class_name": "knife", "confidence": 0.6259, "accepted": false}
+{"desc_id": 62068, "signal": "objects", "phrase": "floor", "forms": ["floor"], "class_id": 55, "class_name": "cake", "confidence": 0.6705, "accepted": false}
+{"desc_id": 62068, "signal": "objects", "phrase": "sweater", "forms": ["red sweater", "sweater"], "class_id": 21, "class_name": "bear", "confidence": 0.5525, "accepted": false}
+{"desc_id": 62068, "signal": "objects", "phrase": "table", "forms": ["living room table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 63696, "signal": "objects", "phrase": "insect", "forms": ["insects", "insect"], "class_id": 64, "class_name": "mouse", "confidence": 0.7264, "accepted": false}
+{"desc_id": 63696, "signal": "objects", "phrase": "mouth", "forms": ["mouth"], "class_id": 79, "class_name": "toothbrush", "confidence": 0.6606, "accepted": false}
+{"desc_id": 63696, "signal": "objects", "phrase": "room", "forms": ["room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 63697, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 63697, "signal": "objects", "phrase": "insect", "forms": ["insects", "insect"], "class_id": 64, "class_name": "mouse", "confidence": 0.7264, "accepted": false}
+{"desc_id": 63697, "signal": "objects", "phrase": "room", "forms": ["room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 63699, "signal": "objects", "phrase": "neck", "forms": ["'s neck", "neck"], "class_id": 15, "class_name": "cat", "confidence": 0.6388, "accepted": false}
+{"desc_id": 63699, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 65660, "signal": "objects", "phrase": "rock", "forms": ["rocks", "rock"], "class_id": 65, "class_name": "remote", "confidence": 0.6747, "accepted": false}
+{"desc_id": 65660, "signal": "objects", "phrase": "space", "forms": ["space"], "class_id": 1, "class_name": "bicycle", "confidence": 0.683, "accepted": false}
+{"desc_id": 65660, "signal": "objects", "phrase": "toy", "forms": ["toy"], "class_id": 65, "class_name": "remote", "confidence": 0.7107, "accepted": false}
+{"desc_id": 65662, "signal": "objects", "phrase": "monster", "forms": ["monster"], "class_id": 46, "class_name": "banana", "confidence": 0.7635, "accepted": false}
+{"desc_id": 65662, "signal": "objects", "phrase": "rock", "forms": ["rock"], "class_id": 15, "class_name": "cat", "confidence": 0.5982, "accepted": false}
+{"desc_id": 66656, "signal": "objects", "phrase": "restaurant", "forms": ["restaurant"], "class_id": 61, "class_name": "toilet", "confidence": 0.6837, "accepted": false}
+{"desc_id": 66686, "signal": "objects", "phrase": "armpit", "forms": ["armpits", "armpit"], "class_id": 4, "class_name": "airplane", "confidence": 0.4823, "accepted": false}
+{"desc_id": 66686, "signal": "objects", "phrase": "cloth", "forms": ["cloth"], "class_id": 33, "class_name": "kite", "confidence": 0.6658, "accepted": false}
+{"desc_id": 66686, "signal": "objects", "phrase": "restaurant", "forms": ["restaurant"], "class_id": 61, "class_name": "toilet", "confidence": 0.6837, "accepted": false}
+{"desc_id": 66687, "signal": "objects", "phrase": "restaurant", "forms": ["restaurant"], "class_id": 61, "class_name": "toilet", "confidence": 0.6837, "accepted": false}
+{"desc_id": 66687, "signal": "objects", "phrase": "shoulder", "forms": ["shoulder"], "class_id": 21, "class_name": "bear", "confidence": 0.5499, "accepted": false}
+{"desc_id": 66689, "signal": "objects", "phrase": "hand", "forms": ["'s hand", "hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 66689, "signal": "objects", "phrase": "table", "forms": ["restaurant table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 68975, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 68975, "signal": "objects", "phrase": "mailbox", "forms": ["mailboxes", "mailbox"], "class_id": 12, "class_name": "parking meter", "confidence": 0.7042, "accepted": false}
+{"desc_id": 68975, "signal": "objects", "phrase": "shirt", "forms": ["pink and purple shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 68989, "signal": "objects", "phrase": "hoodie", "forms": ["green hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 69009, "signal": "objects", "phrase": "container", "forms": ["container"], "class_id": 41, "class_name": "cup", "confidence": 0.7307, "accepted": false}
+{"desc_id": 69009, "signal": "objects", "phrase": "cricket", "forms": ["cricket"], "class_id": 46, "class_name": "banana", "confidence": 0.7113, "accepted": false}
+{"desc_id": 69427, "signal": "objects", "phrase": "box", "forms": ["purple box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 69427, "signal": "objects", "phrase": "island", "forms": ["kitchen island", "island"], "class_id": 60, "class_name": "dining table", "confidence": 0.7083, "accepted": false}
+{"desc_id": 69429, "signal": "objects", "phrase": "box", "forms": ["purple box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 69429, "signal": "objects", "phrase": "desk", "forms": ["desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 69429, "signal": "objects", "phrase": "door", "forms": ["front door", "door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 69429, "signal": "objects", "phrase": "figurine", "forms": ["spock figurine", "figurine"], "class_id": 75, "class_name": "vase", "confidence": 0.7004, "accepted": false}
+{"desc_id": 69435, "signal": "objects", "phrase": "box", "forms": ["purple box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 69435, "signal": "objects", "phrase": "island", "forms": ["kitchen island", "island"], "class_id": 60, "class_name": "dining table", "confidence": 0.7083, "accepted": false}
+{"desc_id": 69436, "signal": "objects", "phrase": "box", "forms": ["purple toy box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 69436, "signal": "objects", "phrase": "foot", "forms": ["feet", "foot"], "class_id": 21, "class_name": "bear", "confidence": 0.6371, "accepted": false}
+{"desc_id": 69437, "signal": "objects", "phrase": "arm", "forms": [", rubs 's arm", "arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 69437, "signal": "objects", "phrase": "hoodie", "forms": ["red hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 69440, "signal": "objects", "phrase": "lab", "forms": ["lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6216, "accepted": false}
+{"desc_id": 69440, "signal": "objects", "phrase": "mouth", "forms": ["mouth"], "class_id": 79, "class_name": "toothbrush", "confidence": 0.6606, "accepted": false}
+{"desc_id": 69440, "signal": "objects", "phrase": "retainer", "forms": ["retainer"], "class_id": 65, "class_name": "remote", "confidence": 0.6135, "accepted": false}
+{"desc_id": 69443, "signal": "objects", "phrase": "lab", "forms": ["lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6216, "accepted": false}
+{"desc_id": 69443, "signal": "objects", "phrase": "solder", "forms": ["solder"], "class_id": 70, "class_name": "toaster", "confidence": 0.5751, "accepted": false}
+{"desc_id": 69445, "signal": "objects", "phrase": "equipment", "forms": ["equipment"], "class_id": 47, "class_name": "apple", "confidence": 0.7305, "accepted": false}
+{"desc_id": 69445, "signal": "objects", "phrase": "lab", "forms": ["lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6216, "accepted": false}
+{"desc_id": 69445, "signal": "objects", "phrase": "room", "forms": ["room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 69445, "signal": "objects", "phrase": "shelf", "forms": ["shelves", "shelf"], "class_id": 74, "class_name": "clock", "confidence": 0.6349, "accepted": false}
+{"desc_id": 69447, "signal": "objects", "phrase": "equipment", "forms": ["equipment"], "class_id": 47, "class_name": "apple", "confidence": 0.7305, "accepted": false}
+{"desc_id": 69447, "signal": "objects", "phrase": "lab", "forms": ["lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6216, "accepted": false}
+{"desc_id": 69447, "signal": "objects", "phrase": "table", "forms": ["table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 69449, "signal": "objects", "phrase": "iron", "forms": ["soldering iron", "iron"], "class_id": 46, "class_name": "banana", "confidence": 0.7116, "accepted": false}
+{"desc_id": 69449, "signal": "objects", "phrase": "lab", "forms": ["lab"], "class_id": 55, "class_name": "cake", "confidence": 0.6216, "accepted": false}
+{"desc_id": 69449, "signal": "objects", "phrase": "wiring", "forms": ["electrical wiring", "wiring"], "class_id": 65, "class_name": "remote", "confidence": 0.7354, "accepted": false}
+{"desc_id": 69450, "signal": "objects", "phrase": "food", "forms": ["food"], "class_id": 55, "class_name": "cake", "confidence": 0.7429, "accepted": false}
+{"desc_id": 69450, "signal": "objects", "phrase": "mouth", "forms": ["mouth"], "class_id": 79, "class_name": "toothbrush", "confidence": 0.6606, "accepted": false}
+{"desc_id": 69450, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 69450, "signal": "objects", "phrase": "stop", "forms": ["stop"], "class_id": 11, "class_name": "stop sign", "confidence": 0.7546, "accepted": false}
+{"desc_id": 69453, "signal": "objects", "phrase": "bed", "forms": ["bed"], "class_id": 59, "class_name": "bed", "confidence": 1.0, "accepted": true}
+{"desc_id": 69453, "signal": "objects", "phrase": "cover", "forms": ["covers", "cover"], "class_id": 65, "class_name": "remote", "confidence": 0.6846, "accepted": false}
+{"desc_id": 69453, "signal": "objects", "phrase": "rock", "forms": ["rocks", "rock"], "class_id": 65, "class_name": "remote", "confidence": 0.6747, "accepted": false}
+{"desc_id": 69453, "signal": "objects", "phrase": "space", "forms": ["space"], "class_id": 1, "class_name": "bicycle", "confidence": 0.683, "accepted": false}
+{"desc_id": 69470, "signal": "objects", "phrase": "beer", "forms": ["beer"], "class_id": 46, "class_name": "banana", "confidence": 0.718, "accepted": false}
+{"desc_id": 69470, "signal": "objects", "phrase": "blouse", "forms": ["pink blouse", "blouse"], "class_id": 61, "class_name": "toilet", "confidence": 0.6424, "accepted": false}
+{"desc_id": 69470, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 69470, "signal": "objects", "phrase": "table", "forms": ["coffee table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 69471, "signal": "objects", "phrase": "arm", "forms": ["'s arms", "arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 69471, "signal": "objects", "phrase": "puppy", "forms": ["puppy"], "class_id": 77, "class_name": "teddy bear", "confidence": 0.693, "accepted": false}
+{"desc_id": 70062, "signal": "objects", "phrase": "arm", "forms": ["hulk arms", "arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 70062, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 70062, "signal": "objects", "phrase": "shirt", "forms": ["green shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 71317, "signal": "objects", "phrase": "apartment", "forms": ["apartment"], "class_id": 55, "class_name": "cake", "confidence": 0.6291, "accepted": false}
+{"desc_id": 71317, "signal": "objects", "phrase": "hoodie", "forms": ["grey hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 71318, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 71318, "signal": "objects", "phrase": "ear", "forms": ["ears", "ear"], "class_id": 15, "class_name": "cat", "confidence": 0.7064, "accepted": false}
+{"desc_id": 71319, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 71319, "signal": "objects", "phrase": "key", "forms": ["key"], "class_id": 15, "class_name": "cat", "confidence": 0.6661, "accepted": false}
+{"desc_id": 71319, "signal": "objects", "phrase": "pocket", "forms": ["pocket"], "class_id": 7, "class_name": "truck", "confidence": 0.521, "accepted": false}
+{"desc_id": 71319, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 71426, "signal": "objects", "phrase": "comfort", "forms": ["comfort"], "class_id": 55, "class_name": "cake", "confidence": 0.6585, "accepted": false}
+{"desc_id": 71426, "signal": "objects", "phrase": "couch", "forms": ["blue couch", "couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 71426, "signal": "objects", "phrase": "pillow", "forms": ["yellow pillow", "pillow"], "class_id": 59, "class_name": "bed", "confidence": 0.7272, "accepted": false}
+{"desc_id": 71427, "signal": "objects", "phrase": "cup", "forms": ["blue coffee cup", "cup"], "class_id": 41, "class_name": "cup", "confidence": 1.0, "accepted": true}
+{"desc_id": 71427, "signal": "objects", "phrase": "cup", "forms": ["yellow cup", "cup"], "class_id": 41, "class_name": "cup", "confidence": 1.0, "accepted": true}
+{"desc_id": 71427, "signal": "objects", "phrase": "kitchen", "forms": ["kitchen"], "class_id": 69, "class_name": "oven", "confidence": 0.7557, "accepted": false}
+{"desc_id": 71428, "signal": "objects", "phrase": "couch", "forms": ["blue couch", "couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 71428, "signal": "objects", "phrase": "sweater", "forms": ["pink sweater", "sweater"], "class_id": 21, "class_name": "bear", "confidence": 0.5525, "accepted": false}
+{"desc_id": 73057, "signal": "objects", "phrase": "sink", "forms": ["sink"], "class_id": 71, "class_name": "sink", "confidence": 1.0, "accepted": true}
+{"desc_id": 73057, "signal": "objects", "phrase": "toilet", "forms": ["toilet"], "class_id": 61, "class_name": "toilet", "confidence": 1.0, "accepted": true}
+{"desc_id": 73058, "signal": "objects", "phrase": "bathroom", "forms": ["bathroom"], "class_id": 61, "class_name": "toilet", "confidence": 0.8277, "accepted": true}
+{"desc_id": 73058, "signal": "objects", "phrase": "head", "forms": ["head"], "class_id": 21, "class_name": "bear", "confidence": 0.6636, "accepted": false}
+{"desc_id": 73058, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 73059, "signal": "objects", "phrase": "book", "forms": ["book"], "class_id": 73, "class_name": "book", "confidence": 1.0, "accepted": true}
+{"desc_id": 73059, "signal": "objects", "phrase": "canteen", "forms": ["canteen"], "class_id": 48, "class_name": "sandwich", "confidence": 0.6169, "accepted": false}
+{"desc_id": 73059, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 73059, "signal": "objects", "phrase": "table", "forms": ["'s table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 73080, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 73080, "signal": "objects", "phrase": "hand", "forms": ["hands", "hand"], "class_id": 47, "class_name": "apple", "confidence": 0.7013, "accepted": false}
+{"desc_id": 73080, "signal": "objects", "phrase": "shirt", "forms": ["turquoise shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 73082, "signal": "objects", "phrase": "head", "forms": ["heads", "head"], "class_id": 21, "class_name": "bear", "confidence": 0.6636, "accepted": false}
+{"desc_id": 73082, "signal": "objects", "phrase": "refrigerator", "forms": ["refrigerator"], "class_id": 72, "class_name": "refrigerator", "confidence": 1.0, "accepted": true}
+{"desc_id": 73165, "signal": "objects", "phrase": "door", "forms": ["front door", "door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 73165, "signal": "objects", "phrase": "hoodie", "forms": ["purple hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 73165, "signal": "objects", "phrase": "room", "forms": ["room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 73165, "signal": "objects", "phrase": "rush", "forms": ["rush"], "class_id": 46, "class_name": "banana", "confidence": 0.711, "accepted": false}
+{"desc_id": 73165, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 73185, "signal": "objects", "phrase": "book", "forms": ["comic book", "book"], "class_id": 73, "class_name": "book", "confidence": 1.0, "accepted": true}
+{"desc_id": 73185, "signal": "objects", "phrase": "face", "forms": ["'s face", "face"], "class_id": 21, "class_name": "bear", "confidence": 0.6788, "accepted": false}
+{"desc_id": 73186, "signal": "objects", "phrase": "chair", "forms": ["living room chair", "chair"], "class_id": 56, "class_name": "chair", "confidence": 1.0, "accepted": true}
+{"desc_id": 73186, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 73187, "signal": "objects", "phrase": "bag", "forms": ["bag"], "class_id": 55, "class_name": "cake", "confidence": 0.6542, "accepted": false}
+{"desc_id": 73187, "signal": "objects", "phrase": "shirt", "forms": ["blue shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 75515, "signal": "objects", "phrase": "ear", "forms": ["ear"], "class_id": 15, "class_name": "cat", "confidence": 0.7064, "accepted": false}
+{"desc_id": 75515, "signal": "objects", "phrase": "phone", "forms": ["phone"], "class_id": 15, "class_name": "cat", "confidence": 0.664, "accepted": false}
+{"desc_id": 75515, "signal": "objects", "phrase": "pocket", "forms": ["pocket"], "class_id": 7, "class_name": "truck", "confidence": 0.521, "accepted": false}
+{"desc_id": 75515, "signal": "objects", "phrase": "shirt", "forms": ["plaid orange shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 75515, "signal": "objects", "phrase": "store", "forms": ["comic store", "store"], "class_id": 65, "class_name": "remote", "confidence": 0.6614, "accepted": false}
+{"desc_id": 75516, "signal": "objects", "phrase": "bike", "forms": ["bike"], "class_id": 55, "class_name": "cake", "confidence": 0.66, "accepted": false}
+{"desc_id": 75516, "signal": "objects", "phrase": "flight", "forms": ["flight"], "class_id": 33, "class_name": "kite", "confidence": 0.7186, "accepted": false}
+{"desc_id": 75516, "signal": "objects", "phrase": "hallway", "forms": ["hallway"], "class_id": 61, "class_name": "toilet", "confidence": 0.6676, "accepted": false}
+{"desc_id": 75516, "signal": "objects", "phrase": "shirt", "forms": ["green shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 75516, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 75516, "signal": "objects", "phrase": "stair", "forms": ["stairs", "stair"], "class_id": 57, "class_name": "couch", "confidence": 0.6526, "accepted": false}
+{"desc_id": 75625, "signal": "objects", "phrase": "glass", "forms": ["glasses", "glass"], "class_id": 40, "class_name": "wine glass", "confidence": 0.6932, "accepted": false}
+{"desc_id": 75625, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 75625, "signal": "objects", "phrase": "sofa", "forms": ["sofa"], "class_id": 57, "class_name": "couch", "confidence": 0.8484, "accepted": true}
+{"desc_id": 75625, "signal": "objects", "phrase": "table", "forms": ["coffee table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 75626, "signal": "objects", "phrase": "arm", "forms": ["arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 75626, "signal": "objects", "phrase": "book", "forms": ["comic book", "book"], "class_id": 73, "class_name": "book", "confidence": 1.0, "accepted": true}
+{"desc_id": 75626, "signal": "objects", "phrase": "shirt", "forms": ["green shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 75626, "signal": "objects", "phrase": "sofa", "forms": ["sofa"], "class_id": 57, "class_name": "couch", "confidence": 0.8484, "accepted": true}
+{"desc_id": 84985, "signal": "objects", "phrase": "bread", "forms": ["bread"], "class_id": 54, "class_name": "donut", "confidence": 0.7757, "accepted": false}
+{"desc_id": 84985, "signal": "objects", "phrase": "can", "forms": ["green can", "can"], "class_id": 55, "class_name": "cake", "confidence": 0.6807, "accepted": false}
+{"desc_id": 84985, "signal": "objects", "phrase": "mayo", "forms": ["mayo"], "class_id": 55, "class_name": "cake", "confidence": 0.6379, "accepted": false}
+{"desc_id": 84985, "signal": "objects", "phrase": "slice", "forms": ["slice"], "class_id": 33, "class_name": "kite", "confidence": 0.6304, "accepted": false}
+{"desc_id": 84986, "signal": "objects", "phrase": "bag", "forms": ["bag"], "class_id": 55, "class_name": "cake", "confidence": 0.6542, "accepted": false}
+{"desc_id": 84986, "signal": "objects", "phrase": "forehead", "forms": ["forehead"], "class_id": 55, "class_name": "cake", "confidence": 0.5747, "accepted": false}
+{"desc_id": 84986, "signal": "objects", "phrase": "neck", "forms": ["neck"], "class_id": 15, "class_name": "cat", "confidence": 0.6388, "accepted": false}
+{"desc_id": 84986, "signal": "objects", "phrase": "pea", "forms": ["frozen peas", "pea"], "class_id": 21, "class_name": "bear", "confidence": 0.7102, "accepted": false}
+{"desc_id": 84989, "signal": "objects", "phrase": "hand", "forms": ["'s hand", "hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 84989, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 84990, "signal": "objects", "phrase": "ground", "forms": ["ground"], "class_id": 55, "class_name": "cake", "confidence": 0.5577, "accepted": false}
+{"desc_id": 84992, "signal": "objects", "phrase": "can", "forms": ["green can", "can"], "class_id": 55, "class_name": "cake", "confidence": 0.6807, "accepted": false}
+{"desc_id": 84992, "signal": "objects", "phrase": "island", "forms": ["kitchen island", "island"], "class_id": 60, "class_name": "dining table", "confidence": 0.7083, "accepted": false}
+{"desc_id": 84992, "signal": "objects", "phrase": "sweater", "forms": ["purple sweater", "sweater"], "class_id": 21, "class_name": "bear", "confidence": 0.5525, "accepted": false}
+{"desc_id": 85002, "signal": "objects", "phrase": "arm", "forms": ["arm"], "class_id": 21, "class_name": "bear", "confidence": 0.6686, "accepted": false}
+{"desc_id": 85006, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 85013, "signal": "objects", "phrase": "underwear", "forms": ["'s superman underwear", "underwear"], "class_id": 43, "class_name": "knife", "confidence": 0.5714, "accepted": false}
+{"desc_id": 85015, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 85020, "signal": "objects", "phrase": "blouse", "forms": ["yellow blouse", "blouse"], "class_id": 61, "class_name": "toilet", "confidence": 0.6424, "accepted": false}
+{"desc_id": 85020, "signal": "objects", "phrase": "jar", "forms": ["jar"], "class_id": 21, "class_name": "bear", "confidence": 0.662, "accepted": false}
+{"desc_id": 85020, "signal": "objects", "phrase": "lid", "forms": ["lid"], "class_id": 55, "class_name": "cake", "confidence": 0.6489, "accepted": false}
+{"desc_id": 85022, "signal": "objects", "phrase": "computer", "forms": ["computer"], "class_id": 47, "class_name": "apple", "confidence": 0.7319, "accepted": false}
+{"desc_id": 85022, "signal": "objects", "phrase": "notebook", "forms": ["notebook"], "class_id": 65, "class_name": "remote", "confidence": 0.7016, "accepted": false}
+{"desc_id": 85022, "signal": "objects", "phrase": "shirt", "forms": ["black shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 85026, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 85026, "signal": "objects", "phrase": "hoodie", "forms": ["purple hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 85026, "signal": "objects", "phrase": "shoulder", "forms": ["'s shoulder", "shoulder"], "class_id": 21, "class_name": "bear", "confidence": 0.5499, "accepted": false}
+{"desc_id": 85027, "signal": "objects", "phrase": "bedroom", "forms": ["bedroom"], "class_id": 33, "class_name": "kite", "confidence": 0.6469, "accepted": false}
+{"desc_id": 85027, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 85027, "signal": "objects", "phrase": "shirt", "forms": ["black shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 85028, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 85028, "signal": "objects", "phrase": "hoodie", "forms": ["purple hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 85028, "signal": "objects", "phrase": "shoulder", "forms": ["'s left shoulder", "shoulder"], "class_id": 21, "class_name": "bear", "confidence": 0.5499, "accepted": false}
+{"desc_id": 85030, "signal": "objects", "phrase": "hand", "forms": ["hand"], "class_id": 15, "class_name": "cat", "confidence": 0.6256, "accepted": false}
+{"desc_id": 85030, "signal": "objects", "phrase": "shirt", "forms": ["blue shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 85030, "signal": "objects", "phrase": "sweater", "forms": ["purple sweater", "sweater"], "class_id": 21, "class_name": "bear", "confidence": 0.5525, "accepted": false}
+{"desc_id": 85031, "signal": "objects", "phrase": "door", "forms": ["door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 85031, "signal": "objects", "phrase": "room", "forms": ["'s room", "room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 85031, "signal": "objects", "phrase": "shirt", "forms": ["black shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 85034, "signal": "objects", "phrase": "finger", "forms": ["finger"], "class_id": 55, "class_name": "cake", "confidence": 0.6546, "accepted": false}
+{"desc_id": 85034, "signal": "objects", "phrase": "head", "forms": ["head"], "class_id": 21, "class_name": "bear", "confidence": 0.6636, "accepted": false}
+{"desc_id": 85034, "signal": "objects", "phrase": "shirt", "forms": ["black shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 87695, "signal": "objects", "phrase": "shirt", "forms": ["orange shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 87695, "signal": "objects", "phrase": "stair", "forms": ["apartment stairs", "stair"], "class_id": 66, "class_name": "keyboard", "confidence": 0.6524, "accepted": false}
+{"desc_id": 87695, "signal": "objects", "phrase": "step", "forms": ["last step", "step"], "class_id": 65, "class_name": "remote", "confidence": 0.6679, "accepted": false}
+{"desc_id": 87697, "signal": "objects", "phrase": "building", "forms": ["'s apartment building", "building"], "class_id": 21, "class_name": "bear", "confidence": 0.5948, "accepted": false}
+{"desc_id": 87697, "signal": "objects", "phrase": "door", "forms": ["glass doors", "door"], "class_id": 55, "class_name": "cake", "confidence": 0.7077, "accepted": false}
+{"desc_id": 87697, "signal": "objects", "phrase": "jacket", "forms": ["purple jacket", "jacket"], "class_id": 43, "class_name": "knife", "confidence": 0.6841, "accepted": false}
+{"desc_id": 87697, "signal": "objects", "phrase": "shot", "forms": ["shot"], "class_id": 2, "class_name": "car", "confidence": 0.5948, "accepted": false}
+{"desc_id": 88916, "signal": "objects", "phrase": "box", "forms": ["box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 88916, "signal": "objects", "phrase": "lid", "forms": ["plastic lid", "lid"], "class_id": 55, "class_name": "cake", "confidence": 0.6489, "accepted": false}
+{"desc_id": 88916, "signal": "objects", "phrase": "table", "forms": ["table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 88925, "signal": "objects", "phrase": "book", "forms": ["book"], "class_id": 73, "class_name": "book", "confidence": 1.0, "accepted": true}
+{"desc_id": 88925, "signal": "objects", "phrase": "canteen", "forms": ["canteen"], "class_id": 48, "class_name": "sandwich", "confidence": 0.6169, "accepted": false}
+{"desc_id": 88925, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 88926, "signal": "objects", "phrase": "canteen", "forms": ["canteen"], "class_id": 48, "class_name": "sandwich", "confidence": 0.6169, "accepted": false}
+{"desc_id": 88926, "signal": "objects", "phrase": "container", "forms": ["clear container", "container"], "class_id": 41, "class_name": "cup", "confidence": 0.7307, "accepted": false}
+{"desc_id": 88926, "signal": "objects", "phrase": "table", "forms": ["table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 88927, "signal": "objects", "phrase": "cafeteria", "forms": ["cafeteria"], "class_id": 48, "class_name": "sandwich", "confidence": 0.6651, "accepted": false}
+{"desc_id": 88927, "signal": "objects", "phrase": "container", "forms": ["container"], "class_id": 41, "class_name": "cup", "confidence": 0.7307, "accepted": false}
+{"desc_id": 88929, "signal": "objects", "phrase": "book", "forms": ["open book", "book"], "class_id": 73, "class_name": "book", "confidence": 1.0, "accepted": true}
+{"desc_id": 88929, "signal": "objects", "phrase": "butter", "forms": ["butter"], "class_id": 46, "class_name": "banana", "confidence": 0.6664, "accepted": false}
+{"desc_id": 88929, "signal": "objects", "phrase": "canteen", "forms": ["canteen"], "class_id": 48, "class_name": "sandwich", "confidence": 0.6169, "accepted": false}
+{"desc_id": 88929, "signal": "objects", "phrase": "toast", "forms": ["toast"], "class_id": 70, "class_name": "toaster", "confidence": 0.7235, "accepted": false}
+{"desc_id": 89105, "signal": "objects", "phrase": "box", "forms": ["purple box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 89105, "signal": "objects", "phrase": "chair", "forms": ["chair"], "class_id": 56, "class_name": "chair", "confidence": 1.0, "accepted": true}
+{"desc_id": 89105, "signal": "objects", "phrase": "shirt", "forms": ["yellow shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 89106, "signal": "objects", "phrase": "box", "forms": ["purple boxes", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 89106, "signal": "objects", "phrase": "desk", "forms": ["desk"], "class_id": 66, "class_name": "keyboard", "confidence": 0.693, "accepted": false}
+{"desc_id": 89106, "signal": "objects", "phrase": "shirt", "forms": ["yellow shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 89107, "signal": "objects", "phrase": "box", "forms": ["purple box", "box"], "class_id": 21, "class_name": "bear", "confidence": 0.5983, "accepted": false}
+{"desc_id": 89107, "signal": "objects", "phrase": "room", "forms": ["room"], "class_id": 21, "class_name": "bear", "confidence": 0.6574, "accepted": false}
+{"desc_id": 89471, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 89471, "signal": "objects", "phrase": "cross", "forms": ["crosses", "cross"], "class_id": 46, "class_name": "banana", "confidence": 0.7044, "accepted": false}
+{"desc_id": 89471, "signal": "objects", "phrase": "leg", "forms": ["legs", "leg"], "class_id": 15, "class_name": "cat", "confidence": 0.6632, "accepted": false}
+{"desc_id": 89471, "signal": "objects", "phrase": "shirt", "forms": ["red shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 89473, "signal": "objects", "phrase": "couch", "forms": ["couch"], "class_id": 57, "class_name": "couch", "confidence": 1.0, "accepted": true}
+{"desc_id": 89473, "signal": "objects", "phrase": "finger", "forms": ["fingers", "finger"], "class_id": 76, "class_name": "scissors", "confidence": 0.6752, "accepted": false}
+{"desc_id": 89473, "signal": "objects", "phrase": "set", "forms": ["set"], "class_id": 73, "class_name": "book", "confidence": 0.5409, "accepted": false}
+{"desc_id": 89473, "signal": "objects", "phrase": "shirt", "forms": ["green shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 89806, "signal": "objects", "phrase": "hoodie", "forms": ["orange hoodie", "hoodie"], "class_id": 24, "class_name": "backpack", "confidence": 0.6803, "accepted": false}
+{"desc_id": 89806, "signal": "objects", "phrase": "sofa", "forms": ["sofa"], "class_id": 57, "class_name": "couch", "confidence": 0.8484, "accepted": true}
+{"desc_id": 89809, "signal": "objects", "phrase": "closet", "forms": ["closet"], "class_id": 61, "class_name": "toilet", "confidence": 0.721, "accepted": false}
+{"desc_id": 96200, "signal": "objects", "phrase": "closet", "forms": ["closet"], "class_id": 61, "class_name": "toilet", "confidence": 0.721, "accepted": false}
+{"desc_id": 96200, "signal": "objects", "phrase": "shirt", "forms": ["blue and beige shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 96200, "signal": "objects", "phrase": "suitcase", "forms": ["black suitcase", "suitcase"], "class_id": 28, "class_name": "suitcase", "confidence": 1.0, "accepted": true}
+{"desc_id": 96201, "signal": "objects", "phrase": "bear", "forms": ["teddy bear", "bear"], "class_id": 77, "class_name": "teddy bear", "confidence": 1.0, "accepted": true}
+{"desc_id": 96201, "signal": "objects", "phrase": "dresser", "forms": ["dresser"], "class_id": 75, "class_name": "vase", "confidence": 0.6879, "accepted": false}
+{"desc_id": 96202, "signal": "objects", "phrase": "cabinet", "forms": ["open cabinet", "cabinet"], "class_id": 72, "class_name": "refrigerator", "confidence": 0.714, "accepted": false}
+{"desc_id": 96202, "signal": "objects", "phrase": "shirt", "forms": ["green plaid shirt", "shirt"], "class_id": 55, "class_name": "cake", "confidence": 0.71, "accepted": false}
+{"desc_id": 96202, "signal": "objects", "phrase": "vacuum", "forms": ["small vacuum", "vacuum"], "class_id": 78, "class_name": "hair drier", "confidence": 0.6575, "accepted": false}
+{"desc_id": 96270, "signal": "objects", "phrase": "bowl", "forms": ["bowl"], "class_id": 45, "class_name": "bowl", "confidence": 1.0, "accepted": true}
+{"desc_id": 96270, "signal": "objects", "phrase": "content", "forms": ["contents", "content"], "class_id": 65, "class_name": "remote", "confidence": 0.6717, "accepted": false}
+{"desc_id": 96270, "signal": "objects", "phrase": "jar", "forms": ["jar"], "class_id": 21, "class_name": "bear", "confidence": 0.662, "accepted": false}
+{"desc_id": 96270, "signal": "objects", "phrase": "table", "forms": ["coffee table", "table"], "class_id": 60, "class_name": "dining table", "confidence": 0.8256, "accepted": true}
+{"desc_id": 96271, "signal": "objects", "phrase": "game", "forms": ["video game", "game"], "class_id": 55, "class_name": "cake", "confidence": 0.7274, "accepted": false}
+{"desc_id": 96272, "signal": "objects", "phrase": "head", "forms": ["head"], "class_id": 21, "class_name": "bear", "confidence": 0.6636, "accepted": false}

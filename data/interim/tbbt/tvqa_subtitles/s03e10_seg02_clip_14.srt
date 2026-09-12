@@ -1,0 +1,82 @@
+1
+00:00:00,986 --> 00:00:03,276
+(Penny:)-Aristotle?
+-No.
+
+2
+00:00:03,697 --> 00:00:05,327
+(Penny:)-Five?
+-Oh!
+
+3
+00:00:05,657 --> 00:00:08,947
+Oh, then I don't know.
+
+4
+00:00:10,286 --> 00:00:13,786
+(Sheldon:)-Why are you crying?
+-Because I'm stupid.
+
+5
+00:00:13,957 --> 00:00:16,037
+Well, that's no reason to cry.
+
+6
+00:00:17,335 --> 00:00:19,255
+No, one cries because one is sad.
+
+7
+00:00:19,421 --> 00:00:24,131
+(Sheldon:)For example, I cry because
+others are stupid and it makes me sad.
+
+8
+00:00:25,677 --> 00:00:28,677
+(Penny:)Look, can we just please forget
+about all this extra stuff...
+
+9
+00:00:28,847 --> 00:00:31,477
+(Penny:)...and can you just tell me
+what Leonard does?
+
+10
+00:00:31,641 --> 00:00:32,721
+(Howard:)All right.
+
+11
+00:00:32,892 --> 00:00:35,432
+(Sheldon:)Leonard is attempting to learn...
+
+12
+00:00:35,603 --> 00:00:38,193
+(Sheldon:)...why subatomic particles
+move the way they do.
+
+13
+00:00:39,190 --> 00:00:42,780
+(Penny:)Really? That's it?
+Well, that doesn't sound so complicated.
+
+14
+00:00:42,944 --> 00:00:46,154
+(Sheldon:)It's not. That's why Leonard does it.
+
+15
+00:00:48,992 --> 00:00:50,872
+(Penny:)Okay, I just have one question.
+
+16
+00:00:51,036 --> 00:00:53,576
+(Penny:)What exactly are subatomic particles?
+
+17
+00:00:53,747 --> 00:00:56,627
+(Sheldon:)-A good question.
+-Thank you.
+
+18
+00:00:56,791 --> 00:01:00,021
+(Sheldon:)And to answer it, we first must
+ask ourselves, "What is physics?"
+

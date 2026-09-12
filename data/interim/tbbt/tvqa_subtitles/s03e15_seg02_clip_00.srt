@@ -1,0 +1,79 @@
+1
+00:00:05,384 --> 00:00:06,424
+[KNOCK ON DOOR]
+
+2
+00:00:06,594 --> 00:00:10,684
+(Leonard:)-Sheldon, you got a minute?
+-Of course, my good friend. Come in.
+
+3
+00:00:11,641 --> 00:00:13,141
+Yeah, help me out.
+
+4
+00:00:13,309 --> 00:00:17,399
+(Sheldon:)Which ski hat says,
+"Après Super Collider"?
+
+5
+00:00:19,273 --> 00:00:21,403
+(Scene:)Sheldon,
+I'm not taking you to Switzerland.
+
+6
+00:00:21,567 --> 00:00:24,277
+(Sheldon:)Well, of course you are.
+Who else would you take?
+
+7
+00:00:24,737 --> 00:00:27,327
+(Raj:)-Penny.
+-What? That's absurd.
+
+8
+00:00:27,490 --> 00:00:30,910
+(Sheldon:)Penny has no interest
+in subatomic particle research.
+
+9
+00:00:31,285 --> 00:00:33,785
+(Leonard:)Yes, but it'll be Valentine's Day.
+
+10
+00:00:33,955 --> 00:00:38,085
+(Leonard:)We can go sightseeing and skiing
+and make love in front of a roaring fire...
+
+11
+00:00:38,251 --> 00:00:40,961
+(Leonard:)...in the shadow
+of the snow-capped Alps.
+
+12
+00:00:42,588 --> 00:00:45,798
+(Sheldon:)But Penny has no interest
+in subatomic particle research.
+
+13
+00:00:46,634 --> 00:00:48,054
+(Leonard:)I'm sorry, Sheldon.
+
+14
+00:00:48,219 --> 00:00:52,099
+(Sheldon:)Sorry? I've been dreaming about
+going to the Large Hadron Collider...
+
+15
+00:00:52,265 --> 00:00:53,805
+...since I was 9 years old.
+
+16
+00:00:53,975 --> 00:00:58,605
+(Leonard:)I've been dreaming about spending
+Valentine's with a girl since I was 6.
+
+17
+00:00:59,021 --> 00:01:01,061
+(Sheldon:)Shame on you.
+

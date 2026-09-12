@@ -1,0 +1,66 @@
+1
+00:00:00,021 --> 00:00:01,771
+(Leonard:)There we go.
+
+2
+00:00:02,190 --> 00:00:04,150
+(Leonard:)Naked, naked, naked.
+
+3
+00:00:04,317 --> 00:00:07,527
+(Priya:)Wonderful.
+Now I'll take off my clothes.
+
+4
+00:00:08,029 --> 00:00:09,699
+(Leonard:)Cool.
+
+5
+00:00:16,246 --> 00:00:18,376
+(Leonard:)Uh-oh.
+
+6
+00:00:19,416 --> 00:00:20,796
+(Priya:)Here I am, baby.
+
+7
+00:00:20,959 --> 00:00:23,039
+(Priya:)You miss these?
+
+8
+00:00:23,795 --> 00:00:26,545
+(Leonard:)- Damn it.
+- Oh, Leonard. Already?
+
+9
+00:00:27,382 --> 00:00:29,722
+No, no, no.
+
+10
+00:00:32,345 --> 00:00:35,055
+(Leonard:)The screen froze.
+It's probably just buffering.
+
+11
+00:00:35,223 --> 00:00:37,563
+- Just give it a second?
+- Fine.
+
+12
+00:00:45,066 --> 00:00:47,356
+(Leonard:)So how are your mom and dad?
+
+13
+00:00:48,820 --> 00:00:50,990
+l really don't want to talk
+about my parents.
+
+14
+00:00:51,156 --> 00:00:52,946
+(Leonard:)Yeah. Sure, sure.
+
+15
+00:00:54,826 --> 00:00:59,246
+(Sheldon(calling from outside):)If your video's frozen,
+try resetting the TCP/lP stack.
+

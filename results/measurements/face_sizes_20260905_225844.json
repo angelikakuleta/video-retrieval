@@ -1,0 +1,206 @@
+{
+  "name": "face_sizes",
+  "when": "2026-09-05T22:58:44",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "split": "dev",
+    "floor_px": 8,
+    "production_min_face_px": 32,
+    "datasets": {
+      "tbbt": {
+        "faces": 10055,
+        "buckets": [
+          {
+            "range": "<16",
+            "count": 0,
+            "share": 0.0,
+            "mean_score": null
+          },
+          {
+            "range": "16-24",
+            "count": 0,
+            "share": 0.0,
+            "mean_score": null
+          },
+          {
+            "range": "24-32",
+            "count": 59,
+            "share": 0.59,
+            "mean_score": 0.735
+          },
+          {
+            "range": "32-48",
+            "count": 324,
+            "share": 3.22,
+            "mean_score": 0.842
+          },
+          {
+            "range": "48-64",
+            "count": 489,
+            "share": 4.86,
+            "mean_score": 0.9
+          },
+          {
+            "range": "64-96",
+            "count": 1629,
+            "share": 16.2,
+            "mean_score": 0.971
+          },
+          {
+            "range": "96-128",
+            "count": 1559,
+            "share": 15.5,
+            "mean_score": 0.961
+          },
+          {
+            "range": "128-192",
+            "count": 3288,
+            "share": 32.7,
+            "mean_score": 0.987
+          },
+          {
+            "range": ">=192",
+            "count": 2707,
+            "share": 26.92,
+            "mean_score": 0.996
+          }
+        ],
+        "rejected_share": {
+          "16": 0.0,
+          "24": 0.0,
+          "32": 0.59,
+          "40": 1.96,
+          "48": 3.81
+        },
+        "kept_count": {
+          "16": 10055,
+          "24": 10055,
+          "32": 9996,
+          "40": 9858,
+          "48": 9672
+        },
+        "median_side": 149.5,
+        "upscale_to_crop": {
+          "16": 7.0,
+          "24": 4.67,
+          "32": 3.5,
+          "40": 2.8,
+          "48": 2.33
+        },
+        "episodes": [
+          "s01e15",
+          "s03e02",
+          "s04e05",
+          "s05e20",
+          "s07e02",
+          "s09e12"
+        ]
+      },
+      "office": {
+        "faces": 11799,
+        "buckets": [
+          {
+            "range": "<16",
+            "count": 0,
+            "share": 0.0,
+            "mean_score": null
+          },
+          {
+            "range": "16-24",
+            "count": 16,
+            "share": 0.14,
+            "mean_score": 0.69
+          },
+          {
+            "range": "24-32",
+            "count": 138,
+            "share": 1.17,
+            "mean_score": 0.773
+          },
+          {
+            "range": "32-48",
+            "count": 589,
+            "share": 4.99,
+            "mean_score": 0.849
+          },
+          {
+            "range": "48-64",
+            "count": 710,
+            "share": 6.02,
+            "mean_score": 0.897
+          },
+          {
+            "range": "64-96",
+            "count": 1519,
+            "share": 12.87,
+            "mean_score": 0.956
+          },
+          {
+            "range": "96-128",
+            "count": 1299,
+            "share": 11.01,
+            "mean_score": 0.972
+          },
+          {
+            "range": "128-192",
+            "count": 2254,
+            "share": 19.1,
+            "mean_score": 0.983
+          },
+          {
+            "range": ">=192",
+            "count": 5274,
+            "share": 44.7,
+            "mean_score": 0.992
+          }
+        ],
+        "rejected_share": {
+          "16": 0.0,
+          "24": 0.14,
+          "32": 1.31,
+          "40": 3.37,
+          "48": 6.3
+        },
+        "kept_count": {
+          "16": 11799,
+          "24": 11783,
+          "32": 11645,
+          "40": 11401,
+          "48": 11056
+        },
+        "median_side": 175.2,
+        "upscale_to_crop": {
+          "16": 7.0,
+          "24": 4.67,
+          "32": 3.5,
+          "40": 2.8,
+          "48": 2.33
+        },
+        "episodes": [
+          "s02e03",
+          "s03e15",
+          "s05e10",
+          "s07e06",
+          "s08e12",
+          "s09e10"
+        ]
+      }
+    }
+  }
+}

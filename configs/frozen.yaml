@@ -1,0 +1,35 @@
+# Rozstrzygniecia fazy deweloperskiej - jedyne zrodlo dla generatora konfiguracji.
+matching:
+  measure: top1
+
+  # Wartosc uzywana tam, gdzie threshold_by_vocab nie mowi inaczej.
+  threshold: 0.8054
+
+  # Prog kazdego slownika: najnizsza pewnosc, przy ktorej wsrod przyjetych
+  # dopasowan co najmniej 90% jest poprawnych. Zrodlo: 350 par ocenionych recznie
+  threshold_by_vocab:
+    objects_yolo11: 0.8054
+    objects_yoloe_promptfree: 0.733
+    expressions_hsemotion: 0.8048
+    actions_kinetics400: 0.8017
+
+segmentation: # E1
+  strategy: shots_histogram
+  histogram_threshold: 0.5
+  min_len_s: 3.0
+  max_len_s: 15.0
+  window_s: 10.0
+scene_embedding: openclip_vit_h14 # E2
+
+motion: slowfast_k400
+
+# Werdykty E3, E4 i E5
+caption:
+  chosen: llava_1_5_7b
+  rejected: blip
+objects:
+  chosen: yolo11
+  rejected: yoloe_promptfree
+face_regions:
+  chosen: clip_regions
+  rejected: hsemotion

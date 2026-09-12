@@ -1,0 +1,73 @@
+1
+00:00:00,934 --> 00:00:01,954
+(Leonard:)What?
+
+2
+00:00:02,135 --> 00:00:05,965
+(Raj:)Sheldon is a very smart man, and
+he obviously wants to keep this a secret.
+
+3
+00:00:06,139 --> 00:00:07,659
+(Howard:)Yeah, so?
+
+4
+00:00:07,841 --> 00:00:10,671
+(Raj:)What if it's booby-trapped?
+
+5
+00:00:11,044 --> 00:00:13,704
+(Howard:)Don't worry, I'm one step ahead of him.
+
+6
+00:00:13,880 --> 00:00:16,250
+Oh, great, what's your pl...?
+
+7
+00:00:21,355 --> 00:00:23,015
+(Howard:)Are we good?
+
+8
+00:00:23,490 --> 00:00:24,510
+(Leonard:)Yeah.
+
+9
+00:00:31,665 --> 00:00:32,995
+(Raj:)Huh.
+
+10
+00:00:33,700 --> 00:00:36,030
+(Raj:)Forty-three.
+
+11
+00:00:36,203 --> 00:00:37,673
+(Raj:)What the hell does that mean?
+
+12
+00:00:37,838 --> 00:00:39,328
+(Raj:)I don't know.
+
+13
+00:00:39,506 --> 00:00:42,876
+(Howard:)- The solution to an equation?
+- Maybe.
+
+14
+00:00:43,043 --> 00:00:44,913
+(Raj:)It's a prime number.
+
+15
+00:00:45,078 --> 00:00:47,948
+(Raj:)Encryption systems are built
+on prime numbers.
+
+16
+00:00:48,115 --> 00:00:51,605
+(Howard:)What kind of secret
+does Sheldon have to encrypt?
+
+17
+00:00:51,785 --> 00:01:00,025
+(Raj:)He's always been very cagey about what
+he puts in his egg salad to make it so tasty.
+

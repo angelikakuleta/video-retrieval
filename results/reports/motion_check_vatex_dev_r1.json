@@ -1,0 +1,82 @@
+{
+  "metric": "recall@1",
+  "split": "dev",
+  "reference": "E2-A",
+  "contrast": [
+    "kinetics_vocab:yes"
+  ],
+  "control": [],
+  "datasets": [
+    "vatex"
+  ],
+  "skipped": [],
+  "runs": {
+    "E2-A": {
+      "vatex": "results\\runs\\E2-A_vatex_dev_20260909_121052"
+    },
+    "E2-C": {
+      "vatex": "results\\runs\\E2-C_vatex_dev_20260909_121545"
+    }
+  },
+  "results": {
+    "E2-C": {
+      "per_dataset": {
+        "vatex": {
+          "n": 534,
+          "mean": -0.09176029962546817,
+          "low": -0.11797752808988764,
+          "high": -0.06554307116104868,
+          "method": "bootstrap",
+          "unit": "clip",
+          "value": 0.6273408239700374,
+          "reference_value": 0.7191011235955056
+        }
+      },
+      "pooled": {
+        "n": 0,
+        "mean": null,
+        "low": null,
+        "high": null,
+        "method": "t"
+      },
+      "pooled_datasets": []
+    }
+  },
+  "contrasts": {
+    "kinetics_vocab:yes": {
+      "E2-C": {
+        "per_dataset": {
+          "vatex": {
+            "n": 311,
+            "mean": -0.01896096780240221,
+            "low": -0.07124094093478293,
+            "high": 0.033700768650758654,
+            "method": "bootstrap",
+            "unit": "clip",
+            "matching": 0.6012861736334405,
+            "matching_reference": 0.7009646302250804,
+            "rest": 0.6636771300448431,
+            "rest_reference": 0.7443946188340808,
+            "matching_delta": -0.09967845659163987,
+            "rest_delta": -0.08071748878923767
+          }
+        },
+        "pooled": {
+          "n": 0,
+          "mean": null,
+          "low": null,
+          "high": null,
+          "method": "t"
+        },
+        "pooled_datasets": []
+      }
+    }
+  },
+  "verdict": {
+    "winner": "E2-A",
+    "qualified": [],
+    "reason": "no candidate beat the reference - the simplest variant wins",
+    "series": 0,
+    "provisional": true
+  }
+}

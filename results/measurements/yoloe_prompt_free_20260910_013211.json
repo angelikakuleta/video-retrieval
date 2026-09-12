@@ -1,0 +1,31 @@
+{
+  "name": "yoloe_prompt_free",
+  "when": "2026-09-10T01:32:11",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "label": "YOLOE prompt-free: frame",
+    "free_before_gib": 14.5,
+    "time": 0.413,
+    "peak_allocated_gib": 0.29,
+    "peak_reserved_gib": 0.39,
+    "free_after_gib": 14.14,
+    "object_count": 8,
+    "vocab_size": 4585
+  }
+}

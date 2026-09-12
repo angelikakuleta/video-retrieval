@@ -1,0 +1,88 @@
+1
+00:00:00,426 --> 00:00:03,426
+(Howard:)how do you quantify
+the strength of materials?
+
+2
+00:00:03,429 --> 00:00:05,059
+(Sheldon:)Young's modulus.
+
+3
+00:00:05,064 --> 00:00:06,664
+(Raj:)Is that right?
+
+4
+00:00:06,666 --> 00:00:08,796
+(Sheldon:)Yeah.
+
+5
+00:00:10,270 --> 00:00:13,870
+(Howard:)Okay, how do you prevent
+eddy currents in a transformer?
+
+6
+00:00:13,873 --> 00:00:16,203
+(Sheldon:)Laminate the core material.
+
+7
+00:00:16,209 --> 00:00:17,279
+(Leonard:)Come on, give
+him a hard one.
+
+8
+00:00:17,277 --> 00:00:18,977
+That was a hard one.
+
+9
+00:00:20,280 --> 00:00:21,950
+(Sheldon:)All right.
+
+10
+00:00:21,948 --> 00:00:25,388
+(Howard:)How does the flow rate in a pipe
+depend on its diameter?
+
+11
+00:00:26,686 --> 00:00:29,586
+(Howard:)You don't know, do you?
+
+12
+00:00:30,723 --> 00:00:31,793
+(panting)
+
+13
+00:00:31,791 --> 00:00:33,161
+(Howard:)What's the matter, smart guy?
+
+14
+00:00:33,159 --> 00:00:35,559
+(Howard:)Don't know Poiseuille's law?
+
+15
+00:00:35,562 --> 00:00:37,632
+(coughing)
+
+16
+00:00:41,234 --> 00:00:44,464
+(gasps)
+Thank goodness I got it!
+
+17
+00:00:47,140 --> 00:00:49,670
+(Sheldon(coughing several times):)Now I can quit
+checking my stool.
+
+18
+00:00:53,780 --> 00:00:56,480
+(Bernadette:)Okay, what are the
+potential side effects
+
+19
+00:00:56,482 --> 00:00:58,512
+(Bernadette:)for our erectile
+dysfunction drug?
+
+20
+00:00:58,518 --> 00:01:00,988
+(Penny:)Headaches, dizziness and nausea.
+

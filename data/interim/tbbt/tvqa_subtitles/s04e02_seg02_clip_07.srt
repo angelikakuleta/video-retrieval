@@ -1,0 +1,68 @@
+1
+00:00:00,560 --> 00:00:03,490
+(Penny:)Shut up!
+
+2
+00:00:03,490 --> 00:00:05,890
+(Leonard:)Sheldon, are you gonna join us?
+
+3
+00:00:05,890 --> 00:00:07,460
+(Sheldon:)Coming!
+
+4
+00:00:21,840 --> 00:00:24,060
+(Sheldon:)Greetings, friends.
+
+5
+00:00:24,060 --> 00:00:27,100
+(Leonard:)Greetings, whatever
+the hell you are.
+
+6
+00:00:27,100 --> 00:00:30,540
+(Sheldon-bot:)I am a mobile
+virtual presence device.
+
+7
+00:00:30,540 --> 00:00:32,120
+(Sheldon-bot:)Recent events
+
+8
+00:00:32,120 --> 00:00:35,560
+(Sheldon-bot:)have demonstrated to me
+that my body is too fragile
+
+9
+00:00:35,560 --> 00:00:38,060
+(Sheldon-bot:)to endure the vicissitudes
+of the world.
+
+10
+00:00:38,060 --> 00:00:40,530
+(Sheldon-bot:)Until such time as I am able
+
+11
+00:00:40,530 --> 00:00:41,960
+(Sheldon-bot:)to transfer my consciousness,
+
+12
+00:00:41,960 --> 00:00:44,800
+(Sheldon-bot:)I shall remain
+in a secure location
+
+13
+00:00:44,800 --> 00:00:48,150
+(Sheldon-bot:)and interact with the world
+in this manner.
+
+14
+00:00:48,950 --> 00:00:50,340
+(Howard(after Raj whispers to him):)Really? That's
+your question--
+
+15
+00:00:50,340 --> 00:00:59,020
+(Howard(after Raj whispers to him):)when did he
+put a ramp in?
+

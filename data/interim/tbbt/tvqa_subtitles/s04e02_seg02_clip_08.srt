@@ -1,0 +1,86 @@
+1
+00:00:00,150 --> 00:00:02,170
+(Sheldon-bot:)You're in my spot.
+
+2
+00:00:14,540 --> 00:00:17,790
+(Sheldon-bot:)This may seem a little odd
+at first,
+
+3
+00:00:17,790 --> 00:00:20,440
+(Sheldon-bot:)but over time,
+you'll grow accustomed
+
+4
+00:00:20,450 --> 00:00:23,700
+(Sheldon-bot:)to dealing with me
+in this configuration.
+
+5
+00:00:23,700 --> 00:00:26,630
+(Penny:)Yeah, to be honest, I
+don't see much difference.
+
+6
+00:00:26,630 --> 00:00:27,830
+(Leonard:)Thank you.
+
+7
+00:00:27,840 --> 00:00:30,050
+(Sheldon-bot:)That's what I was going for.
+
+8
+00:00:31,340 --> 00:00:34,760
+(Sheldon-bot:)Now, Leonard, tomorrow,
+when we go to work,
+
+9
+00:00:34,760 --> 00:00:36,710
+(Sheldon-bot:)you'll need to allow
+some extra time
+
+10
+00:00:36,710 --> 00:00:38,530
+(Sheldon-bot:)to get me down the stairs.
+
+11
+00:00:38,530 --> 00:00:43,150
+(Sheldon-bot:)For your convenience,
+I disassemble into four pieces.
+
+12
+00:00:43,150 --> 00:00:44,230
+(Leonard:)This is ridiculous.
+
+13
+00:00:44,240 --> 00:00:45,400
+(Leonard:)I'm coming to talk to you.
+
+14
+00:00:45,400 --> 00:00:47,700
+(Sheldon-bot:)You don't know where I am.
+
+15
+00:00:49,110 --> 00:00:51,740
+(Sheldon-bot:)My physical body
+is safely ensconced
+
+16
+00:00:51,740 --> 00:00:54,440
+(Sheldon-bot:)in a secure,
+undisclosed location.
+
+17
+00:00:54,450 --> 00:00:56,050
+(Leonard:)You're in your bedroom.
+
+18
+00:00:56,050 --> 00:00:57,630
+(Sheldon-bot:)No, I'm not.
+
+19
+00:00:57,630 --> 00:01:02,020
+(Leonard:)I can hear your voice
+coming from your bedroom.
+

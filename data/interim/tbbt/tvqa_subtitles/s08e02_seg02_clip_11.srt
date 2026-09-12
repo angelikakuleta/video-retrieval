@@ -1,0 +1,134 @@
+1
+00:00:00,221 --> 00:00:01,791
+(Penny:)Okay.
+
+2
+00:00:01,789 --> 00:00:03,919
+(Penny:)Okay.
+
+3
+00:00:03,924 --> 00:00:05,624
+(Sheldon:)Well, then, uh,
+first things first.
+
+4
+00:00:05,626 --> 00:00:09,396
+(Sheldon:)Um, are you familiar with
+the Brachistochrone problem?
+
+5
+00:00:09,397 --> 00:00:10,867
+(Amy:)I am.
+Good.
+
+6
+00:00:10,865 --> 00:00:13,335
+(Sheldon:)And how it relates
+to the calculus of variations?
+
+7
+00:00:13,334 --> 00:00:14,734
+(Howard:)It's an inverted cycloid.
+
+8
+00:00:14,735 --> 00:00:15,905
+(Sheldon:)Wonderful.
+
+9
+00:00:15,903 --> 00:00:18,073
+(Sheldon:)Now, what about
+Euler-Lagrange theorems?
+
+10
+00:00:18,072 --> 00:00:19,542
+(Howard:)That's where I'm a little fuzzy.
+
+11
+00:00:19,540 --> 00:00:21,440
+Ha! I knew it! All right.
+
+12
+00:00:23,077 --> 00:00:26,177
+(Sheldon:)We have a lot of information
+to cover before your first test.
+
+13
+00:00:26,180 --> 00:00:28,910
+(Sheldon:)Which, by the way,
+is in eight minutes.
+
+14
+00:00:28,916 --> 00:00:31,546
+(Sheldon:)The good news is I'm
+grading on a curve,
+
+15
+00:00:31,552 --> 00:00:34,352
+(Sheldon:)so you're pretty much
+guaranteed a C.
+
+16
+00:00:34,355 --> 00:00:36,155
+♪ All I do is win, win, win ♪
+
+17
+00:00:36,157 --> 00:00:38,027
+♪ No matter what ♪
+What are you doing?
+
+18
+00:00:38,025 --> 00:00:40,395
+♪ Everybody hands go up, up... ♪
+
+19
+00:00:40,394 --> 00:00:42,264
+♪ And they stay there! ♪
+
+20
+00:00:42,263 --> 00:00:43,893
+(Sheldon:)What are you doing?
+
+21
+00:00:43,898 --> 00:00:45,328
+(Howard:)If you're gonna be
+a crappy teacher,
+
+22
+00:00:45,333 --> 00:00:47,233
+(Howard:)then I'm gonna be
+a crappy student.
+
+23
+00:00:47,234 --> 00:00:48,864
+(grunts) ♪ Ludacris going in
+on the verse ♪
+
+24
+00:00:48,869 --> 00:00:50,969
+♪ 'Cause I never been defeated
+and I won't stop now... ♪
+
+25
+00:00:50,971 --> 00:00:53,841
+Will you stop it!
+
+26
+00:00:53,841 --> 00:00:55,211
+(Sheldon:)This is a classroom.
+
+27
+00:00:55,209 --> 00:00:56,639
+This is not American Bandstand.
+
+28
+00:00:56,644 --> 00:00:57,644
+(Penny:)Okay.
+
+29
+00:00:57,645 --> 00:00:58,645
+(Sheldon:)Now, where was I?
+
+30
+00:00:58,646 --> 00:00:59,646
+(Sheldon:)Let's see.
+

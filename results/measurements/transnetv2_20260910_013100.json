@@ -1,0 +1,29 @@
+{
+  "name": "transnetv2",
+  "when": "2026-09-10T01:31:00",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "label": "TransNetV2: 100 frames",
+    "free_before_gib": 14.46,
+    "time": 0.13,
+    "peak_allocated_gib": 0.19,
+    "peak_reserved_gib": 0.27,
+    "free_after_gib": 14.26
+  }
+}

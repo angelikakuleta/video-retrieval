@@ -1,0 +1,73 @@
+1
+00:00:00,900 --> 00:00:04,070
+(Sheldon:)I've extended a friendly,
+casual greeting.
+
+2
+00:00:04,237 --> 00:00:05,657
+(Penny:)Ready to get started?
+
+3
+00:00:05,822 --> 00:00:07,492
+(Sheldon:)One moment.
+
+4
+00:00:11,119 --> 00:00:14,959
+(Sheldon:)Subject appears well-rested
+and enthusiastic.
+
+5
+00:00:15,623 --> 00:00:18,463
+(Sheldon:)Apparently, ignorance is bliss.
+
+6
+00:00:20,295 --> 00:00:23,255
+(Sheldon:)All right, let us begin.
+
+7
+00:00:23,923 --> 00:00:27,303
+(Sheldon:)-Where's your notebook?
+-Um, I don't have one.
+
+8
+00:00:27,468 --> 00:00:29,808
+How are you gonna take notes
+without a notebook?
+
+9
+00:00:29,971 --> 00:00:31,761
+(Penny:)I have to take notes?
+
+10
+00:00:31,931 --> 00:00:34,021
+(Sheldon:)How else are you gonna study
+for the tests?
+
+11
+00:00:34,225 --> 00:00:37,815
+(Penny:)-There's gonna be a test?
+-Tests.
+
+12
+00:00:40,106 --> 00:00:44,156
+(Sheldon:)Here. It's college-ruled.
+I hope that's not too intimidating.
+
+13
+00:00:47,447 --> 00:00:48,827
+(Penny:)-Thank you.
+-You're welcome.
+
+14
+00:00:48,990 --> 00:00:51,160
+(Sheldon:)Now, introduction to physics.
+
+15
+00:00:51,784 --> 00:00:53,784
+(Sheldon:)What is physics?
+
+16
+00:00:53,953 --> 00:01:00,023
+(Sheldon:)Physics comes
+from the ancient Greek word "physika. "
+

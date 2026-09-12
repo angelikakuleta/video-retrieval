@@ -1,0 +1,149 @@
+{"desc_id": 1020001, "signal": "face_regions", "phrase": "lightly", "forms": ["lightly"], "class_id": 6, "class_name": "Sadness", "confidence": 0.5657, "accepted": false}
+{"desc_id": 1020010, "signal": "face_regions", "phrase": "bored", "forms": ["bored"], "class_id": 0, "class_name": "Anger", "confidence": 0.7512, "accepted": false}
+{"desc_id": 1020014, "signal": "face_regions", "phrase": "upset", "forms": ["upset"], "class_id": 6, "class_name": "Sadness", "confidence": 0.7776, "accepted": false}
+{"desc_id": 1020018, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 1020020, "signal": "face_regions", "phrase": "tear", "forms": ["tear"], "class_id": 3, "class_name": "Fear", "confidence": 0.7799, "accepted": false}
+{"desc_id": 1050004, "signal": "face_regions", "phrase": "worried", "forms": ["worried"], "class_id": 6, "class_name": "Sadness", "confidence": 0.77, "accepted": false}
+{"desc_id": 1050008, "signal": "face_regions", "phrase": "sore", "forms": ["sore"], "class_id": 3, "class_name": "Fear", "confidence": 0.6332, "accepted": false}
+{"desc_id": 1050021, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 1050024, "signal": "face_regions", "phrase": "surprised", "forms": ["badly surprised", "surprised"], "class_id": 0, "class_name": "Anger", "confidence": 0.7013, "accepted": false}
+{"desc_id": 1050026, "signal": "face_regions", "phrase": "scared", "forms": ["scared"], "class_id": 0, "class_name": "Anger", "confidence": 0.7616, "accepted": false}
+{"desc_id": 1050027, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 2060020, "signal": "face_regions", "phrase": "close", "forms": ["close"], "class_id": 6, "class_name": "Sadness", "confidence": 0.557, "accepted": false}
+{"desc_id": 2060033, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 2100004, "signal": "face_regions", "phrase": "smile", "forms": ["big smile", "smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 2100007, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 2100009, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 2100015, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 2100016, "signal": "face_regions", "phrase": "alarmed", "forms": ["alarmed"], "class_id": 0, "class_name": "Anger", "confidence": 0.6017, "accepted": false}
+{"desc_id": 2100018, "signal": "face_regions", "phrase": "cry", "forms": ["cry"], "class_id": 0, "class_name": "Anger", "confidence": 0.7677, "accepted": false}
+{"desc_id": 2100030, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 2100032, "signal": "face_regions", "phrase": "close", "forms": ["close"], "class_id": 6, "class_name": "Sadness", "confidence": 0.557, "accepted": false}
+{"desc_id": 2100032, "signal": "face_regions", "phrase": "grimace", "forms": ["grimace"], "class_id": 0, "class_name": "Anger", "confidence": 0.4599, "accepted": false}
+{"desc_id": 2100032, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 2100035, "signal": "face_regions", "phrase": "anger", "forms": ["anger outside", "anger"], "class_id": 0, "class_name": "Anger", "confidence": 1.0, "accepted": true}
+{"desc_id": 3050002, "signal": "face_regions", "phrase": "angry", "forms": ["angry"], "class_id": 0, "class_name": "Anger", "confidence": 0.8761, "accepted": true}
+{"desc_id": 3050003, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 3050009, "signal": "face_regions", "phrase": "disappointed", "forms": ["disappointed"], "class_id": 0, "class_name": "Anger", "confidence": 0.6698, "accepted": false}
+{"desc_id": 3050011, "signal": "face_regions", "phrase": "bored", "forms": ["bored"], "class_id": 0, "class_name": "Anger", "confidence": 0.7512, "accepted": false}
+{"desc_id": 3050014, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh joyfully", "laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 3050014, "signal": "face_regions", "phrase": "long", "forms": ["long"], "class_id": 7, "class_name": "Surprise", "confidence": 0.5121, "accepted": false}
+{"desc_id": 3050015, "signal": "face_regions", "phrase": "outraged", "forms": ["outraged"], "class_id": 0, "class_name": "Anger", "confidence": 0.7179, "accepted": false}
+{"desc_id": 3050017, "signal": "face_regions", "phrase": "excitedly", "forms": ["excitedly"], "class_id": 4, "class_name": "Happiness", "confidence": 0.5467, "accepted": false}
+{"desc_id": 3050019, "signal": "face_regions", "phrase": "frustration", "forms": ["frustration"], "class_id": 0, "class_name": "Anger", "confidence": 0.7958, "accepted": false}
+{"desc_id": 3050031, "signal": "face_regions", "phrase": "close", "forms": ["close"], "class_id": 6, "class_name": "Sadness", "confidence": 0.557, "accepted": false}
+{"desc_id": 3050032, "signal": "face_regions", "phrase": "furious", "forms": ["furious"], "class_id": 0, "class_name": "Anger", "confidence": 0.7607, "accepted": false}
+{"desc_id": 3190003, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh hard", "laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 3190003, "signal": "face_regions", "phrase": "tear", "forms": ["tear"], "class_id": 3, "class_name": "Fear", "confidence": 0.7799, "accepted": false}
+{"desc_id": 3190006, "signal": "face_regions", "phrase": "embarrassed", "forms": ["embarrassed"], "class_id": 6, "class_name": "Sadness", "confidence": 0.6376, "accepted": false}
+{"desc_id": 3190007, "signal": "face_regions", "phrase": "grimace", "forms": ["grimace"], "class_id": 0, "class_name": "Anger", "confidence": 0.4599, "accepted": false}
+{"desc_id": 3190010, "signal": "face_regions", "phrase": "lightly", "forms": ["lightly"], "class_id": 6, "class_name": "Sadness", "confidence": 0.5657, "accepted": false}
+{"desc_id": 3190021, "signal": "face_regions", "phrase": "shock", "forms": ["shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 3190026, "signal": "face_regions", "phrase": "smile", "forms": ["ryan smile", "smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 3190032, "signal": "face_regions", "phrase": "shock", "forms": ["shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 4090001, "signal": "face_regions", "phrase": "cry", "forms": ["dwight cry", "cry"], "class_id": 0, "class_name": "Anger", "confidence": 0.7677, "accepted": false}
+{"desc_id": 4090004, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 4090006, "signal": "face_regions", "phrase": "shock", "forms": ["shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 4090010, "signal": "face_regions", "phrase": "low", "forms": ["low"], "class_id": 6, "class_name": "Sadness", "confidence": 0.5846, "accepted": false}
+{"desc_id": 4090013, "signal": "face_regions", "phrase": "oddly", "forms": ["oddly"], "class_id": 3, "class_name": "Fear", "confidence": 0.6739, "accepted": false}
+{"desc_id": 4090015, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 4090018, "signal": "face_regions", "phrase": "upset", "forms": ["upset"], "class_id": 6, "class_name": "Sadness", "confidence": 0.7776, "accepted": false}
+{"desc_id": 4090018, "signal": "face_regions", "phrase": "worried", "forms": ["worried upset", "worried"], "class_id": 6, "class_name": "Sadness", "confidence": 0.77, "accepted": false}
+{"desc_id": 4090019, "signal": "face_regions", "phrase": "playful", "forms": ["playful"], "class_id": 3, "class_name": "Fear", "confidence": 0.6051, "accepted": false}
+{"desc_id": 4090027, "signal": "face_regions", "phrase": "light", "forms": ["light"], "class_id": 6, "class_name": "Sadness", "confidence": 0.601, "accepted": false}
+{"desc_id": 4090033, "signal": "face_regions", "phrase": "together", "forms": ["back together", "together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 5030010, "signal": "face_regions", "phrase": "close", "forms": ["close"], "class_id": 6, "class_name": "Sadness", "confidence": 0.557, "accepted": false}
+{"desc_id": 5030011, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 5030012, "signal": "face_regions", "phrase": "giggle", "forms": ["giggle"], "class_id": 7, "class_name": "Surprise", "confidence": 0.5395, "accepted": false}
+{"desc_id": 5030012, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 5030013, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 5030023, "signal": "face_regions", "phrase": "smile", "forms": ["tight unconvincing smile", "smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 5030028, "signal": "face_regions", "phrase": "tearful", "forms": ["tearful"], "class_id": 0, "class_name": "Anger", "confidence": 0.7226, "accepted": false}
+{"desc_id": 5030030, "signal": "face_regions", "phrase": "pained", "forms": ["pained"], "class_id": 0, "class_name": "Anger", "confidence": 0.5986, "accepted": false}
+{"desc_id": 5170011, "signal": "face_regions", "phrase": "shocked", "forms": ["shocked"], "class_id": 0, "class_name": "Anger", "confidence": 0.7319, "accepted": false}
+{"desc_id": 5170014, "signal": "face_regions", "phrase": "frustrated", "forms": ["frustrated"], "class_id": 0, "class_name": "Anger", "confidence": 0.7306, "accepted": false}
+{"desc_id": 5170015, "signal": "face_regions", "phrase": "alert", "forms": ["alert"], "class_id": 3, "class_name": "Fear", "confidence": 0.5783, "accepted": false}
+{"desc_id": 5170016, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 5170021, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh widely", "laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 5170023, "signal": "face_regions", "phrase": "oddly", "forms": ["oddly"], "class_id": 3, "class_name": "Fear", "confidence": 0.6739, "accepted": false}
+{"desc_id": 5170025, "signal": "face_regions", "phrase": "angry", "forms": ["angry"], "class_id": 0, "class_name": "Anger", "confidence": 0.8761, "accepted": true}
+{"desc_id": 5170026, "signal": "face_regions", "phrase": "break", "forms": ["break"], "class_id": 3, "class_name": "Fear", "confidence": 0.7725, "accepted": false}
+{"desc_id": 5170028, "signal": "face_regions", "phrase": "close", "forms": ["close"], "class_id": 6, "class_name": "Sadness", "confidence": 0.557, "accepted": false}
+{"desc_id": 5170031, "signal": "face_regions", "phrase": "annoyed", "forms": ["annoyed"], "class_id": 0, "class_name": "Anger", "confidence": 0.7898, "accepted": false}
+{"desc_id": 5170032, "signal": "face_regions", "phrase": "distant", "forms": ["distant blank", "distant"], "class_id": 0, "class_name": "Anger", "confidence": 0.6721, "accepted": false}
+{"desc_id": 6050002, "signal": "face_regions", "phrase": "lightly", "forms": ["lightly"], "class_id": 6, "class_name": "Sadness", "confidence": 0.5657, "accepted": false}
+{"desc_id": 6050020, "signal": "face_regions", "phrase": "shock", "forms": ["shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 6050020, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 6050026, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 6050029, "signal": "face_regions", "phrase": "anxious", "forms": ["anxious nervous", "anxious"], "class_id": 0, "class_name": "Anger", "confidence": 0.7611, "accepted": false}
+{"desc_id": 6050029, "signal": "face_regions", "phrase": "nervous", "forms": ["nervous"], "class_id": 3, "class_name": "Fear", "confidence": 0.7786, "accepted": false}
+{"desc_id": 6090004, "signal": "face_regions", "phrase": "pleased", "forms": ["secretly pleased", "pleased"], "class_id": 4, "class_name": "Happiness", "confidence": 0.664, "accepted": false}
+{"desc_id": 6090008, "signal": "face_regions", "phrase": "worried", "forms": ["worried"], "class_id": 6, "class_name": "Sadness", "confidence": 0.77, "accepted": false}
+{"desc_id": 6090015, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 6090017, "signal": "face_regions", "phrase": "smile", "forms": ["big smile", "smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 6090018, "signal": "face_regions", "phrase": "joyful", "forms": ["joyful"], "class_id": 3, "class_name": "Fear", "confidence": 0.7197, "accepted": false}
+{"desc_id": 6090018, "signal": "face_regions", "phrase": "shock", "forms": ["joyful shock", "shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 6090020, "signal": "face_regions", "phrase": "smiling", "forms": ["smiling"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7093, "accepted": false}
+{"desc_id": 6090022, "signal": "face_regions", "phrase": "disgusted", "forms": ["disgusted"], "class_id": 2, "class_name": "Disgust", "confidence": 0.7336, "accepted": false}
+{"desc_id": 6090022, "signal": "face_regions", "phrase": "smile", "forms": ["disgusted smile", "smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 6090033, "signal": "face_regions", "phrase": "surprise", "forms": ["surprise"], "class_id": 7, "class_name": "Surprise", "confidence": 1.0, "accepted": true}
+{"desc_id": 7140002, "signal": "face_regions", "phrase": "light", "forms": ["light"], "class_id": 6, "class_name": "Sadness", "confidence": 0.601, "accepted": false}
+{"desc_id": 7140009, "signal": "face_regions", "phrase": "smile", "forms": ["smile flirtatiously", "smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 7140010, "signal": "face_regions", "phrase": "long", "forms": ["long"], "class_id": 7, "class_name": "Surprise", "confidence": 0.5121, "accepted": false}
+{"desc_id": 7140018, "signal": "face_regions", "phrase": "disgusted", "forms": ["disgusted"], "class_id": 2, "class_name": "Disgust", "confidence": 0.7336, "accepted": false}
+{"desc_id": 7140019, "signal": "face_regions", "phrase": "light", "forms": ["light"], "class_id": 6, "class_name": "Sadness", "confidence": 0.601, "accepted": false}
+{"desc_id": 7140023, "signal": "face_regions", "phrase": "uncomfortable", "forms": ["uncomfortable"], "class_id": 3, "class_name": "Fear", "confidence": 0.6982, "accepted": false}
+{"desc_id": 7140035, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 7230003, "signal": "face_regions", "phrase": "shock", "forms": ["shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 7230005, "signal": "face_regions", "phrase": "shock", "forms": ["shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 7230006, "signal": "face_regions", "phrase": "smirk", "forms": ["then suddenly smirk slyly", "smirk"], "class_id": 6, "class_name": "Sadness", "confidence": 0.589, "accepted": false}
+{"desc_id": 7230010, "signal": "face_regions", "phrase": "fit", "forms": ["fit"], "class_id": 3, "class_name": "Fear", "confidence": 0.6992, "accepted": false}
+{"desc_id": 7230014, "signal": "face_regions", "phrase": "cry", "forms": ["cry"], "class_id": 0, "class_name": "Anger", "confidence": 0.7677, "accepted": false}
+{"desc_id": 7230014, "signal": "face_regions", "phrase": "smile", "forms": ["fake smile widely", "smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 7230018, "signal": "face_regions", "phrase": "impatient", "forms": ["impatient"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7191, "accepted": false}
+{"desc_id": 7230020, "signal": "face_regions", "phrase": "excited", "forms": ["excited"], "class_id": 4, "class_name": "Happiness", "confidence": 0.6547, "accepted": false}
+{"desc_id": 7230022, "signal": "face_regions", "phrase": "shock", "forms": ["shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 7230028, "signal": "face_regions", "phrase": "concerned", "forms": ["concerned"], "class_id": 6, "class_name": "Sadness", "confidence": 0.725, "accepted": false}
+{"desc_id": 7230037, "signal": "face_regions", "phrase": "satisfied", "forms": ["satisfied"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7632, "accepted": false}
+{"desc_id": 8040001, "signal": "face_regions", "phrase": "laugh", "forms": ["laugh hard", "laugh"], "class_id": 0, "class_name": "Anger", "confidence": 0.7613, "accepted": false}
+{"desc_id": 8040004, "signal": "face_regions", "phrase": "outraged", "forms": ["outraged"], "class_id": 0, "class_name": "Anger", "confidence": 0.7179, "accepted": false}
+{"desc_id": 8040019, "signal": "face_regions", "phrase": "light", "forms": ["light"], "class_id": 6, "class_name": "Sadness", "confidence": 0.601, "accepted": false}
+{"desc_id": 8040019, "signal": "face_regions", "phrase": "strangely", "forms": ["strangely"], "class_id": 6, "class_name": "Sadness", "confidence": 0.6348, "accepted": false}
+{"desc_id": 8040021, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 8040029, "signal": "face_regions", "phrase": "worried", "forms": ["worried"], "class_id": 6, "class_name": "Sadness", "confidence": 0.77, "accepted": false}
+{"desc_id": 8040034, "signal": "face_regions", "phrase": "uncomfortable", "forms": ["uncomfortable"], "class_id": 3, "class_name": "Fear", "confidence": 0.6982, "accepted": false}
+{"desc_id": 8240004, "signal": "face_regions", "phrase": "excitedly", "forms": ["excitedly"], "class_id": 4, "class_name": "Happiness", "confidence": 0.5467, "accepted": false}
+{"desc_id": 8240005, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 8240008, "signal": "face_regions", "phrase": "tear", "forms": ["tear"], "class_id": 3, "class_name": "Fear", "confidence": 0.7799, "accepted": false}
+{"desc_id": 8240009, "signal": "face_regions", "phrase": "disgusted", "forms": ["disgusted"], "class_id": 2, "class_name": "Disgust", "confidence": 0.7336, "accepted": false}
+{"desc_id": 8240012, "signal": "face_regions", "phrase": "mop", "forms": ["mop"], "class_id": 6, "class_name": "Sadness", "confidence": 0.6596, "accepted": false}
+{"desc_id": 8240013, "signal": "face_regions", "phrase": "smile", "forms": ["fake smile", "smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 8240013, "signal": "face_regions", "phrase": "surprised", "forms": ["surprised"], "class_id": 0, "class_name": "Anger", "confidence": 0.7013, "accepted": false}
+{"desc_id": 8240022, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 8240027, "signal": "face_regions", "phrase": "quiet", "forms": ["quiet"], "class_id": 3, "class_name": "Fear", "confidence": 0.6661, "accepted": false}
+{"desc_id": 8240033, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 8240034, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 9020014, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 9020015, "signal": "face_regions", "phrase": "concerned", "forms": ["concerned"], "class_id": 6, "class_name": "Sadness", "confidence": 0.725, "accepted": false}
+{"desc_id": 9020018, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 9020028, "signal": "face_regions", "phrase": "break", "forms": ["break"], "class_id": 3, "class_name": "Fear", "confidence": 0.7725, "accepted": false}
+{"desc_id": 9020031, "signal": "face_regions", "phrase": "worried", "forms": ["worried"], "class_id": 6, "class_name": "Sadness", "confidence": 0.77, "accepted": false}
+{"desc_id": 9020034, "signal": "face_regions", "phrase": "disgusted", "forms": ["disgusted"], "class_id": 2, "class_name": "Disgust", "confidence": 0.7336, "accepted": false}
+{"desc_id": 9040001, "signal": "face_regions", "phrase": "smile", "forms": ["smile"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7498, "accepted": false}
+{"desc_id": 9040007, "signal": "face_regions", "phrase": "angry", "forms": ["angry"], "class_id": 0, "class_name": "Anger", "confidence": 0.8761, "accepted": true}
+{"desc_id": 9040017, "signal": "face_regions", "phrase": "worried", "forms": ["worried"], "class_id": 6, "class_name": "Sadness", "confidence": 0.77, "accepted": false}
+{"desc_id": 9040018, "signal": "face_regions", "phrase": "together", "forms": ["together"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7546, "accepted": false}
+{"desc_id": 9040020, "signal": "face_regions", "phrase": "light", "forms": ["light"], "class_id": 6, "class_name": "Sadness", "confidence": 0.601, "accepted": false}
+{"desc_id": 9040027, "signal": "face_regions", "phrase": "cool", "forms": ["cool"], "class_id": 3, "class_name": "Fear", "confidence": 0.5873, "accepted": false}
+{"desc_id": 9040027, "signal": "face_regions", "phrase": "displeased", "forms": ["displeased"], "class_id": 0, "class_name": "Anger", "confidence": 0.6629, "accepted": false}
+{"desc_id": 9040042, "signal": "face_regions", "phrase": "outraged", "forms": ["outraged"], "class_id": 0, "class_name": "Anger", "confidence": 0.7179, "accepted": false}
+{"desc_id": 9140003, "signal": "face_regions", "phrase": "shock", "forms": ["shock"], "class_id": 3, "class_name": "Fear", "confidence": 0.7456, "accepted": false}
+{"desc_id": 9140014, "signal": "face_regions", "phrase": "light", "forms": ["light"], "class_id": 6, "class_name": "Sadness", "confidence": 0.601, "accepted": false}
+{"desc_id": 9140020, "signal": "face_regions", "phrase": "angry", "forms": ["angry"], "class_id": 0, "class_name": "Anger", "confidence": 0.8761, "accepted": true}
+{"desc_id": 9140022, "signal": "face_regions", "phrase": "long", "forms": ["long"], "class_id": 7, "class_name": "Surprise", "confidence": 0.5121, "accepted": false}
+{"desc_id": 9140026, "signal": "face_regions", "phrase": "angry", "forms": ["angry"], "class_id": 0, "class_name": "Anger", "confidence": 0.8761, "accepted": true}
+{"desc_id": 9140038, "signal": "face_regions", "phrase": "shocked", "forms": ["shocked"], "class_id": 0, "class_name": "Anger", "confidence": 0.7319, "accepted": false}
+{"desc_id": 9140039, "signal": "face_regions", "phrase": "angry", "forms": ["angry"], "class_id": 0, "class_name": "Anger", "confidence": 0.8761, "accepted": true}
+{"desc_id": 9140039, "signal": "face_regions", "phrase": "satisfied", "forms": ["satisfied"], "class_id": 4, "class_name": "Happiness", "confidence": 0.7632, "accepted": false}
+{"desc_id": 9140040, "signal": "face_regions", "phrase": "angry", "forms": ["angry"], "class_id": 0, "class_name": "Anger", "confidence": 0.8761, "accepted": true}
+{"desc_id": 9140040, "signal": "face_regions", "phrase": "long", "forms": ["long"], "class_id": 7, "class_name": "Surprise", "confidence": 0.5121, "accepted": false}

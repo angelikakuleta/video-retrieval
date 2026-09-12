@@ -1,0 +1,102 @@
+1
+00:00:00,240 --> 00:00:03,560
+(Leonard:)Did something happen today
+that's bothering you?
+
+2
+00:00:03,560 --> 00:00:04,900
+(Sheldon:)Well, I did mention
+
+3
+00:00:04,900 --> 00:00:07,700
+(Sheldon:)the Mars Rover incident
+to that FBI agent
+
+4
+00:00:07,700 --> 00:00:10,440
+(Sheldon:)and probably cost Howard
+his security clearance.
+
+5
+00:00:10,440 --> 00:00:13,540
+(Leonard:)What?
+But why should that keep me up?
+
+6
+00:00:13,540 --> 00:00:15,670
+(Leonard:)Because you feel guilty?
+
+7
+00:00:15,680 --> 00:00:17,510
+(Sheldon:)Interesting.
+
+8
+00:00:17,510 --> 00:00:22,150
+(Sheldon:)So you're saying my insomnia is
+caused by a guilty conscience.
+
+9
+00:00:22,150 --> 00:00:23,850
+(Sheldon:)Actually,
+you don't have insomnia.
+
+10
+00:00:23,850 --> 00:00:25,220
+(Leonard:)You're sleeping now.
+
+11
+00:00:25,220 --> 00:00:26,350
+(Page:)Excuse me?
+
+12
+00:00:26,350 --> 00:00:28,450
+(Leonard:)You're having
+a guilt-ridden dream.
+
+13
+00:00:28,460 --> 00:00:31,120
+(Sheldon:)Do you have any evidence
+to support that hypothesis?
+
+14
+00:00:31,120 --> 00:00:33,860
+(Leonard:)How about that Gorn
+sitting on the couch?
+
+15
+00:00:37,610 --> 00:00:40,370
+(Sheldon:)That seems fairly conclusive.
+
+16
+00:00:40,370 --> 00:00:43,840
+(Sheldon:)No, Gorn, no.
+
+17
+00:00:43,840 --> 00:00:46,660
+(Sheldon:)That's where I sit.
+
+18
+00:00:47,770 --> 00:00:51,080
+(Sheldon:)Thank you for agreeing
+to see me, Agent Page.
+
+19
+00:00:51,080 --> 00:00:55,080
+Thank you for filing a complaint
+with my superior, Dr. Cooper.
+
+20
+00:00:55,080 --> 00:00:57,100
+(Page:)I understand
+you want to recant
+
+21
+00:00:57,100 --> 00:00:59,620
+(Page:)your statement
+about Howard Wolowitz.
+
+22
+00:00:59,620 --> 00:01:02,120
+(Leonard:)Yes.
+Was your statement untrue?
+

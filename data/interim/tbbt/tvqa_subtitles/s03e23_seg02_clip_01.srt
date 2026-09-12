@@ -1,0 +1,76 @@
+1
+00:00:00,494 --> 00:00:03,994
+(Zack:)It sounds easy, but there's a lot of science
+that goes into designing them.
+
+2
+00:00:10,296 --> 00:00:13,216
+(Howard:)Happy now? I'm moving the dirty sock.
+
+3
+00:00:15,218 --> 00:00:16,848
+(Sheldon:)Thank you.
+
+4
+00:00:17,178 --> 00:00:19,678
+(Sheldon:)Raj, keep an eye out for the other one.
+
+5
+00:00:20,681 --> 00:00:23,021
+(Penny:)-Hey, guys. This is my friend Zack.
+ZACK: Hey.
+
+6
+00:00:23,184 --> 00:00:27,184
+(Sheldon:)-Hello.
+-Whoa, is that the laser? It's bitchen.
+
+7
+00:00:28,189 --> 00:00:30,689
+(Sheldon:)Yes. In 1917...
+
+8
+00:00:30,858 --> 00:00:34,448
+(Sheldon:)...when Albert Einstein established
+the theoretic foundation for the laser...
+
+9
+00:00:34,612 --> 00:00:36,952
+(Sheldon:)...in his paper
+Zur Quantentheorie der Strahlung...
+
+10
+00:00:37,114 --> 00:00:41,664
+(Sheldon:)...his fondest hope was that
+the resultant device be "bitchen."
+
+11
+00:00:42,870 --> 00:00:44,250
+(Zack:)Well, mission accomplished.
+
+12
+00:00:47,208 --> 00:00:48,998
+(Leonard:)Let me explain what we're doing here.
+
+13
+00:00:49,168 --> 00:00:51,548
+(Leonard:)In 1969, the astronauts on Apollo 11...
+
+14
+00:00:51,712 --> 00:00:53,502
+...positioned reflectors on the moon.
+
+15
+00:00:53,673 --> 00:00:55,713
+We're gonna shoot a laser
+off one of them...
+
+16
+00:00:55,883 --> 00:00:58,553
+(Leonard:)...and let the light bounce back
+into this photomultiplier.
+
+17
+00:00:58,719 --> 00:01:00,299
+Oh, that's very cool.
+

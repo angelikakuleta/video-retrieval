@@ -1,0 +1,47 @@
+experiment: E1-A
+dataset: office
+seed: 1234
+segmentation:
+  strategy: fixed_window
+  min_len_s: 3.0
+  max_len_s: 15.0
+  window_s: 10.0
+  histogram_threshold: null
+  transnet_threshold: null
+frames:
+  step_s: 1.25
+  dedup_cosine: 0.9
+components:
+  scene_embedding:
+    enabled: true
+    model: openclip_vit_h14
+    prompting: false
+  caption:
+    enabled: false
+    model: llava_1_5_7b
+    do_sample: false
+  objects:
+    enabled: false
+    detector: yoloe_promptfree
+  face_regions:
+    enabled: false
+    mode: clip_regions
+    query: phrases
+  identity:
+    enabled: false
+  motion:
+    enabled: false
+    model: slowfast_k400
+scoring:
+  scope: full_collection
+  normalization: zscore
+  weights:
+    mode: uniform
+    manual: null
+  query_time_detection: null
+evaluation:
+  report_by:
+  - requirements
+  - complexity
+matching: null
+split: dev

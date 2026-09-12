@@ -1,0 +1,46 @@
+1
+00:00:00,138 --> 00:00:02,498
+(Scanner:)Howard Wolowitz--
+access granted.
+
+2
+00:00:02,811 --> 00:00:04,071
+No way!
+Impressive!
+
+3
+00:00:04,076 --> 00:00:05,906
+Oh, my turn! My turn!
+
+4
+00:00:06,711 --> 00:00:08,811
+(Scanner:)Leonard Hofstadter--
+access granted.
+
+5
+00:00:08,814 --> 00:00:11,914
+(Leonard:)I didn't even have
+to take my glasses off!
+
+6
+00:00:15,320 --> 00:00:17,320
+(Scanner(as Leonard and Sheldon try to fool it with one eye each):)Access denied.
+
+7
+00:00:17,322 --> 00:00:19,522
+It knows!
+
+8
+00:00:27,517 --> 00:00:29,587
+(Howard:)Oh, oh, oh, oh, guys,
+hold me upside down!
+
+9
+00:00:38,204 --> 00:00:40,514
+(Scanner:)Howard Wolowitz,
+access granted.
+
+10
+00:00:40,511 --> 00:01:09,451
+Yay!
+

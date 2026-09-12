@@ -1,0 +1,69 @@
+1
+00:00:00,070 --> 00:00:04,570
+(Sheldon-bot:)Using Photoshop, I've
+introduced a few anachronisms.
+
+2
+00:00:04,570 --> 00:00:06,940
+(Sheldon-bot:)See if you can spot all 24.
+
+3
+00:00:06,940 --> 00:00:08,440
+(Sheldon-bot:)I'll give you the first one.
+
+4
+00:00:08,440 --> 00:00:12,740
+(Sheldon-bot:)Madame Curie should not
+be wearing a digital watch.
+
+5
+00:00:12,740 --> 00:00:14,110
+(Sheldon-bot:)And go.
+
+6
+00:00:16,530 --> 00:00:18,150
+(Leonard:)That's it. Bye-bye.
+
+7
+00:00:22,000 --> 00:00:23,120
+(Sheldon-bot(screen switching itself back on):)Bazinga.
+Whoa!
+
+8
+00:00:25,210 --> 00:00:27,510
+(Sheldon-bot:)I have an override switch.
+
+9
+00:00:27,510 --> 00:00:29,130
+(Leonard:)I almost died!
+
+10
+00:00:29,130 --> 00:00:31,630
+(Sheldon-bot :)And I'm safe and sound in bed.
+
+11
+00:00:31,630 --> 00:00:33,800
+(Sheldon-bot :)Who's crazy now?
+
+12
+00:00:33,800 --> 00:00:36,500
+(Leonard:)I'm still going
+to go with you.
+
+13
+00:00:42,360 --> 00:00:44,510
+(Sheldon-bot :)Hello, Professor Hoskins.
+
+14
+00:00:44,510 --> 00:00:47,230
+(Sheldon-bot :)Nice to see you, Mindy.
+
+15
+00:00:47,230 --> 00:00:50,030
+And konnichiwa, Dr. Nakamora.
+
+16
+00:00:50,030 --> 00:01:00,020
+(Sheldon-bot :)Sorry the Swedes
+disproved your theory.
+

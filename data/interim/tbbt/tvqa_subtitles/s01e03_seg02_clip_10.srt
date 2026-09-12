@@ -1,0 +1,97 @@
+1
+00:00:00,060 --> 00:00:02,020
+- Oh, hey, Leonard.
+- Good afternoon, Penny.
+
+2
+00:00:02,187 --> 00:00:04,567
+(Leonard:)So, hi, hey. Uh...
+
+3
+00:00:05,691 --> 00:00:07,691
+(Leonard:)I was wondering
+if you had plans for dinner.
+
+4
+00:00:07,860 --> 00:00:09,240
+Uh, you mean, dinner tonight?
+
+5
+00:00:10,738 --> 00:00:13,318
+(Leonard:)There is an inherent ambiguity
+in the word "dinner."
+
+6
+00:00:13,490 --> 00:00:16,330
+(Leonard:)Technically,
+it refers to the largest meal of the day.
+
+7
+00:00:16,493 --> 00:00:19,033
+(Leonard:)So to clarify here,
+by dinner, I mean supper.
+
+8
+00:00:19,413 --> 00:00:21,203
+- Supper?
+- Or dinner, you know.
+
+9
+00:00:22,499 --> 00:00:25,129
+I was thinking 6:30 if you can go,
+or a different time.
+
+10
+00:00:25,294 --> 00:00:26,464
+Uh, 6:30 is great.
+
+11
+00:00:26,628 --> 00:00:28,088
+(Leonard:)Really?
+
+12
+00:00:30,007 --> 00:00:32,217
+(Penny:)- Great.
+- Yeah, I like hanging out with you guys.
+
+13
+00:00:32,384 --> 00:00:33,424
+(Leonard:)Us guys?
+
+14
+00:00:33,594 --> 00:00:36,474
+Oh, you know, Sheldon, Howard, Raj.
+Who all is coming?
+
+15
+00:00:37,514 --> 00:00:38,934
+(Leonard:)They...
+
+16
+00:00:39,767 --> 00:00:42,057
+(Leonard:)...might all be there.
+
+17
+00:00:43,187 --> 00:00:45,897
+(Leonard:)Or a subset of them might be there.
+
+18
+00:00:46,064 --> 00:00:48,354
+(Leonard:)Algebraically speaking,
+there are too many unknowns.
+
+19
+00:00:48,525 --> 00:00:50,525
+(Leonard:)For example,
+Sheldon had Quizno's for lunch.
+
+20
+00:00:50,694 --> 00:00:53,234
+(Leonard:)Sometimes he finds that filling,
+other times he doesn't.
+
+21
+00:00:53,405 --> 00:00:58,025
+It's no fault of Quizno's.
+They have a varied menu.
+

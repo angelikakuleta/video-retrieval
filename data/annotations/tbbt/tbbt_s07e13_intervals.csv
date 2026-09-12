@@ -1,0 +1,48 @@
+﻿id;type;start;end;desc;tags
+tbbt_s07e13_m001;mask;2.04;3.70;;przejscie
+tbbt_s07e13_001;event;6.06;9.05;Penny walks past Leonard, covering her face with her hand, irritated, holding a glass of wine, while Leonard stands in the living room.;
+tbbt_s07e13_d46844;event;12.83;19.19;Penny, with messy hair, puts her hand on Leonard's right shoulder and pushes him softly.;
+tbbt_s07e13_d46843;event;16.99;20.87;Penny puts her wine glass on the table and gets down on one knee in front of Leonard.;
+tbbt_s07e13_m002;mask;33.54;35.02;;przejscie
+tbbt_s07e13_d18707;event;126.53;130.18;Leonard, in a brown jacket, turns away and rubs his eye with his hand.;
+tbbt_s07e13_d18709;event;156.08;159.75;Penny happily jumps toward Leonard on the sofa to give him a hug.;
+tbbt_s07e13_m003;mask;159.75;185.12;;
+tbbt_s07e13_d37851;event;210.00;224.10;Leonard turns around while walking down the stairs, and extends his arm and hand towards Sheldon behind him.;
+tbbt_s07e13_002;event;210.75;213.47;Sheldon stumbles on the stairs, flailing as he searches for footing, when Leonard suddenly stops him.;
+tbbt_s07e13_d37852;event;233.51;236.70;Sad Sheldon sits down on the stairs, folds his hands on his knees and looks at the floor.;
+tbbt_s07e13_m005;mask;236.70;238.06;;przejscie
+tbbt_s07e13_d37845;event;238.10;245.02;Stuart is leaning on the cashier counter at his comic store, very bored, when he is startled by Bernadette coming into the store.;
+tbbt_s07e13_d37848;event;252.21;257.92;Bernadette takes a comic book out of her purse and shows Stuart.;
+tbbt_s07e13_d37863;event;307.91;313.87;Stuart dumps a whole shoe box full of prescription bottles on the counter in the comic book store, in front of Bernadette.;
+tbbt_s07e13_m006;mask;313.90;315.24;;przejscie
+tbbt_s07e13_d37864;event;320.60;327.59;Amy is looking through a microscope when Howard and Raj walk into her lab.;
+tbbt_s07e13_m007;mask;426.88;428.22;;przejscie
+tbbt_s07e13_d37873;event;428.52;441.92;Penny closes the door and runs down the stairs carrying a box, when she passes Sheldon and goes back to him.;
+tbbt_s07e13_d37871;event;435.73;437.23;Penny, running down the stairs with a box, touches Sheldon on the shoulder while he's sitting on the stairs.;
+tbbt_s07e13_d37872;event;480.92;484.49;Penny smacks her hand against her leg, while holding a box, and then Sheldon runs to her.;
+tbbt_s07e13_m008;mask;486.45;487.80;;przejscie
+tbbt_s07e13_m009;mask;519.77;521.15;;przejscie
+tbbt_s07e13_d37880;event;561.45;564.01;Penny, holds up a hanger with her small work uniform hanging from it, while leaning on the bar and talking on the phone.;
+tbbt_s07e13_m010;mask;572.68;574.00;;przejscie
+tbbt_s07e13_d37875;event;612.30;615.06;Penny jumps into the driver's seat of the car Sheldon is waiting in and closes the door angrily.;
+tbbt_s07e13_m011;mask;685.79;687.14;;przejscie
+tbbt_s07e13_d37835;event;687.14;692.51;Amy working on her computer at the lab, when Bert walks in.;
+tbbt_s07e13_m012;mask;762.03;763.37;;przejscie
+tbbt_s07e13_d37839;event;764.75;770.91;Bernadette walks into comic book store with Stuart and is amazed when she looks around.;
+tbbt_s07e13_d79992;event;805.57;809.18;Stuart walks over to a man sitting in an orange chair, eating popcorn.;
+tbbt_s07e13_m013;mask;865.72;867.03;;przejscie
+tbbt_s07e13_m014;mask;962.07;963.42;;przejscie
+tbbt_s07e13_d87247;event;963.43;965.92;Sheldon and Penny are doing yoga together in a living room, both raise their hands up.;
+tbbt_s07e13_d79985;event;1013.19;1015.28;Leonard comes into the apartment while Penny and Sheldon are exercising in the living room.;
+tbbt_s07e13_d79987;event;1019.18;1021.90;Sheldon stands with one arm stretched straight up and the other arm down at his side, bending  his body backward, looking around uncomfortable.;
+tbbt_s07e13_d79975;event;1034.63;1036.41;Sheldon looks with grimace at Penny while holding a yoga pose.;
+tbbt_s07e13_d79986;event;1040.19;1042.62;Penny lowers her arms and turns her head to Sheldon, who is stopping, stretching his body.;
+tbbt_s07e13_003;event;1042.62;1044.39;Sheldon presses his palms together and bows, standing in socks on a blue mat in the living room.;
+tbbt_s07e13_d79980;event;1108.28;1109.65;Sheldon, in a green shirt, looks dirty at Penny, standing next to him, and shakes his head no.;
+tbbt_s07e13_d79981;event;1120.14;1123.23;Leonard grabs Penny by the arms and walks her back a few steps, while standing in the living room in front of Sheldon.;
+tbbt_s07e13_m015;mask;1151.42;1152.77;;przejscie
+tbbt_s07e13_d79971;event;1153.15;1156.84;Bernadette, angry, enters the toy store and walks up to a man in a grey vest at the counter.;
+tbbt_s07e13_m016;mask;1183.91;1185.23;;przejscie
+tbbt_s07e13_d79972;event;1205.77;1209.45;Bert pounds his left fist on the dashboard of a car.;
+tbbt_s07e13_m017;mask;1214.20;1245.45;;
+tbbt_s07e13_004;event;1211.37;1214.18;A shot of a busy multi-lane highway with cars driving in both directions, trees lining the roadside.;

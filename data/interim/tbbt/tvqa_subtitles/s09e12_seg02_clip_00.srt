@@ -1,0 +1,145 @@
+1
+00:00:01,234 --> 00:00:03,234
+== sync, corrected by elderman ==
+@elder_man
+
+2
+00:00:05,083 --> 00:00:05,913
+(Sheldon:)Hey.
+
+3
+00:00:05,917 --> 00:00:07,157
+(Sheldon:)Hey.
+Hello.
+
+4
+00:00:07,156 --> 00:00:08,326
+(Leonard:)How was your day?
+
+5
+00:00:08,324 --> 00:00:09,424
+(Penny:)Oh, not good.
+
+6
+00:00:09,425 --> 00:00:11,625
+(Penny:)Still couldn't get in
+to see Dr. Gallo.
+
+7
+00:00:11,627 --> 00:00:13,227
+(Sheldon:)A doctor?
+
+8
+00:00:14,197 --> 00:00:15,667
+(Sheldon:)Well, I hope
+you're not contagious.
+
+9
+00:00:15,665 --> 00:00:17,735
+(Sheldon:)I've got a weekend
+in the telescope room
+
+10
+00:00:17,733 --> 00:00:20,403
+(Sheldon:)I've been excited about
+for almost three minutes.
+
+11
+00:00:22,004 --> 00:00:23,274
+(Penny:)I'm not sick.
+It's for work.
+
+12
+00:00:23,272 --> 00:00:25,602
+(Penny:)There's this doctor who refuses
+to see any sales reps.
+
+13
+00:00:25,608 --> 00:00:27,238
+(Penny:)I've been trying
+to get in for months.
+
+14
+00:00:27,243 --> 00:00:28,773
+(Leonard:)Well, did you try
+wearing the shirt
+
+15
+00:00:28,778 --> 00:00:30,408
+(Leonard:)I said was
+inappropriate for work?
+
+16
+00:00:30,413 --> 00:00:33,243
+(Penny:)Well, the doctor's a woman,
+but...
+
+17
+00:00:33,249 --> 00:00:35,449
+(Penny:)yes, because
+you never know.
+
+18
+00:00:36,452 --> 00:00:37,882
+(Howard:)What kind of doctor
+is she?
+
+19
+00:00:37,887 --> 00:00:39,887
+(Penny:)Um, a psychiatrist. Why?
+
+20
+00:00:39,889 --> 00:00:42,289
+(Howard:)Well, what if you make
+an appointment as a patient?
+
+21
+00:00:42,291 --> 00:00:44,021
+(Howard:)Then you'll get to talk to her.
+
+22
+00:00:44,026 --> 00:00:46,126
+(Penny:)Yeah, they already know
+I'm a pharmaceutical sales rep.
+
+23
+00:00:46,128 --> 00:00:47,828
+(Raj:)Oh. What if Leonard
+made an appointment
+
+24
+00:00:47,830 --> 00:00:49,860
+(Raj:)and tried to lay some
+groundwork for you?
+
+25
+00:00:49,865 --> 00:00:51,295
+(Penny:)That's interesting.
+
+26
+00:00:51,300 --> 00:00:53,070
+(Leonard:)I'm not gonna make
+a fake appointment
+
+27
+00:00:53,069 --> 00:00:54,039
+(Leonard:)with a psychiatrist.
+
+28
+00:00:54,036 --> 00:00:55,806
+(Leonard:)What would I say
+is wrong with me?
+
+29
+00:00:55,805 --> 00:00:57,335
+(Raj:)Low self-esteem.
+Social anxiety.
+
+30
+00:00:57,340 --> 00:00:59,670
+(Sheldon:)Sexual insecurity.
+
+31
+00:00:59,675 --> 00:01:02,105
+(Leonard:)None of that is true.
+

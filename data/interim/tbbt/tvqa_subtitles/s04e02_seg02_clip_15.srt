@@ -1,0 +1,104 @@
+1
+00:00:00,490 --> 00:00:02,500
+(Sheldon-bot :)I must speak to him.
+
+2
+00:00:02,500 --> 00:00:03,910
+(Leonard:)Of course you must.
+
+3
+00:00:06,420 --> 00:00:08,620
+(Penny:)You know, there's an
+Olive Garden down the street.
+
+4
+00:00:08,620 --> 00:00:11,170
+(Penny:)You guys should try it sometime.
+
+5
+00:00:11,170 --> 00:00:14,160
+(Sheldon-bot :)Excuse me,
+Mr. Wozniak?
+
+6
+00:00:14,160 --> 00:00:15,330
+(Steve Wozniak:)Oh, hey.
+
+7
+00:00:15,330 --> 00:00:17,230
+(Steve Wozniak:)Nice virtual presence device.
+
+8
+00:00:17,230 --> 00:00:18,210
+(Leonard:)Thank you.
+
+9
+00:00:18,210 --> 00:00:20,760
+(Sheldon-bot :)I just want to say
+I'm a big fan.
+
+10
+00:00:20,770 --> 00:00:24,700
+You're my 15th favorite
+technological visionary.
+
+11
+00:00:24,700 --> 00:00:26,350
+Only 15th?
+
+12
+00:00:26,350 --> 00:00:29,960
+(Sheldon-bot :)It's still six spots
+above Steve Jobs.
+
+13
+00:00:30,880 --> 00:00:32,310
+(Sheldon-bot :)I care neither for turtlenecks
+
+14
+00:00:32,310 --> 00:00:34,180
+(Sheldon-bot :)nor showmanship.
+
+15
+00:00:34,180 --> 00:00:37,550
+(Steve Wozniak:)Yeah, I never got
+that turtleneck thing.
+
+16
+00:00:37,550 --> 00:00:41,480
+(Sheldon-bot :)One of my proudest possessions
+is a vintage 1977 Apple Two.
+
+17
+00:00:41,490 --> 00:00:46,010
+(Sheldon-bot :)Despite the file system
+limitations of Apple DOS 3.3,
+
+18
+00:00:46,010 --> 00:00:48,310
+(Sheldon-bot :)it was a pretty nifty
+little achievement.
+
+19
+00:00:48,310 --> 00:00:50,590
+(Steve Wozniak:)Thanks, we were shooting
+for "nifty."
+
+20
+00:00:51,400 --> 00:00:52,450
+(Steve Wozniak:)You know, if you had it here,
+
+21
+00:00:52,450 --> 00:00:54,050
+(Steve Wozniak:)I'd autograph it for you.
+
+22
+00:00:54,900 --> 00:00:57,280
+(Sheldon-bot:)Don't move
+for 15 to 30 minutes,
+
+23
+00:00:57,280 --> 00:01:01,020
+(Sheldon-bot:)depending on how
+the buses are running.
+

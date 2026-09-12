@@ -1,0 +1,81 @@
+1
+00:00:00,613 --> 00:00:03,403
+(Howard:)Yes, you're delicious caramel too.
+
+2
+00:00:08,496 --> 00:00:10,246
+(Penny:)I will tell you why it's wrong--
+
+3
+00:00:10,415 --> 00:00:12,835
+(Sheldon:)-Excuse me, may I interject?
+-What?
+
+4
+00:00:13,001 --> 00:00:16,091
+(Sheldon:)Biologically speaking,
+Howard is perfectly justified...
+
+5
+00:00:16,254 --> 00:00:20,424
+(Sheldon:)...in seeking out the optimum mate
+for the propagation of his genetic line.
+
+6
+00:00:20,633 --> 00:00:21,673
+(Howard:)Thank you, Sheldon.
+
+7
+00:00:21,843 --> 00:00:24,593
+(Sheldon:)Whether that propagation
+is in the interest of humanity...
+
+8
+00:00:24,762 --> 00:00:27,012
+...is an entirely different question.
+
+9
+00:00:29,142 --> 00:00:34,022
+IRA [OVER RADIO]: This is Ira Flatow and
+you're listening to NPR's Science Friday.
+
+10
+00:00:34,189 --> 00:00:36,859
+(Radio:)Joining us today by phone
+from his office in Pasadena, California...
+
+11
+00:00:37,025 --> 00:00:38,065
+[AIR HISSING]
+
+12
+00:00:38,234 --> 00:00:39,904
+(Radio:)...is Dr. Sheldon Cooper.
+
+13
+00:00:40,069 --> 00:00:42,659
+Oh, this is gonna be a riot.
+
+14
+00:00:42,822 --> 00:00:44,862
+[AIR HISSING]
+
+15
+00:00:45,241 --> 00:00:47,621
+(Radio:)Thanks for being with us today,
+Dr. Cooper.
+
+16
+00:00:47,785 --> 00:00:49,415
+(Sheldon:)My pleasure, Ira.
+
+17
+00:00:49,579 --> 00:00:52,619
+(Ira:)Now, let's talk
+about magnetic monopoles.
+
+18
+00:00:52,790 --> 00:00:57,250
+(Ira:)Can you explain to our audience
+just what a monopole is?
+

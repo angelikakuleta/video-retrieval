@@ -1,0 +1,69 @@
+1
+00:00:00,097 --> 00:00:01,597
+(Howard:)Look at that.
+
+2
+00:00:01,765 --> 00:00:05,105
+Someday, we will tell future generations
+that dating used to be hard.
+
+3
+00:00:07,187 --> 00:00:10,777
+(Amy:)What's baffling me is what you
+could have possibly put on the list.
+
+4
+00:00:10,941 --> 00:00:12,941
+(Amy:)Hair too golden?
+
+5
+00:00:13,443 --> 00:00:15,783
+(Amy:)Laugh too musical?
+
+6
+00:00:15,946 --> 00:00:19,366
+(Amy:)World too much a better place
+for her mere presence in it?
+
+7
+00:00:20,659 --> 00:00:23,659
+(Sheldon:)How about constantly talks
+with food in her mouth?
+
+8
+00:00:24,705 --> 00:00:28,125
+(Amy:)Her heart's full of love,
+no one cares what's in her mouth.
+
+9
+00:00:32,546 --> 00:00:35,466
+(Raj:)So, Siri...
+
+10
+00:00:35,632 --> 00:00:38,302
+(Raj:)...what's happening? How are you?
+
+11
+00:00:39,761 --> 00:00:41,681
+l am well.
+
+12
+00:00:41,847 --> 00:00:43,977
+(Raj:)What are you doing right now?
+
+13
+00:00:44,266 --> 00:00:47,766
+(Siri:)What am I doing? I'm talking with you.
+
+14
+00:00:49,104 --> 00:00:51,524
+(Raj:)You have a beautiful voice.
+
+15
+00:00:51,857 --> 00:00:55,357
+(Siri:)Thank you. It's nice to be appreciated.
+
+16
+00:00:56,194 --> 00:00:59,024
+(Raj:)I bet it is.
+

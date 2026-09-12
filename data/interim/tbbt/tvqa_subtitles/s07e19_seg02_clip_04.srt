@@ -1,0 +1,88 @@
+1
+00:00:00,037 --> 00:00:01,917
+(Amy:)-Included?
+-Yes!
+
+2
+00:00:03,073 --> 00:00:04,573
+(Sheldon:)Not sold separately.
+
+3
+00:00:04,741 --> 00:00:09,051
+(Sheldon:)Although, the PS4
+uses cool new GDDR5 RAM,
+
+4
+00:00:09,213 --> 00:00:12,253
+(Sheldon:)while the Xbox One is still using
+the conventional DDR3 memory.
+
+5
+00:00:12,416 --> 00:00:14,256
+(Amy:)Why would they still
+be using DDR3?
+
+6
+00:00:14,418 --> 00:00:15,918
+(Amy:)Are they nuts?
+
+7
+00:00:17,754 --> 00:00:19,064
+(Sheldon:)See? That's what I thought.
+
+8
+00:00:19,223 --> 00:00:21,723
+(Sheldon:)But then they go and throw in
+an ESRAM buffer.
+
+9
+00:00:21,892 --> 00:00:25,002
+-Whoa. Wait a second. Who's "they"?
+-Xbox.
+
+10
+00:00:25,162 --> 00:00:27,612
+-You're kidding!
+-No, I am not!
+
+11
+00:00:27,764 --> 00:00:29,934
+(Sheldon:)And this ESRAM buffer
+should totally bridge
+
+12
+00:00:30,100 --> 00:00:31,770
+(Sheldon:)the 100-gigabit-per-second
+bandwidth gap
+
+13
+00:00:31,935 --> 00:00:33,075
+(Sheldon:)between the two RAM types.
+
+14
+00:00:33,237 --> 00:00:35,617
+(Amy:)This is a nightmare.
+How will you ever make a decision?
+
+15
+00:00:35,772 --> 00:00:37,842
+I don't know!
+What should I do?
+
+16
+00:00:38,008 --> 00:00:39,848
+(Amy:)Please pass the butter!
+
+17
+00:00:50,420 --> 00:00:52,760
+(Penny:)Okay, it's not me, right?
+This script is terrible.
+
+18
+00:00:52,923 --> 00:00:54,233
+(Penny:)Yeah.
+
+19
+00:00:55,292 --> 00:00:57,132
+I had higher hopes for a movie called
+

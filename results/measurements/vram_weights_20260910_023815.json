@@ -1,0 +1,95 @@
+{
+  "name": "vram_weights",
+  "when": "2026-09-10T02:38:15",
+  "machine": {
+    "python": "3.12.13",
+    "system": "Windows 11",
+    "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+    "torch": "2.13.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "vram_total_gib": 15.92,
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ]
+  },
+  "data": {
+    "rows": [
+      {
+        "model": "TransNetV2",
+        "variant": "--",
+        "weights_gb": 0.03
+      },
+      {
+        "model": "OpenCLIP",
+        "variant": "ViT-H/14",
+        "weights_gb": 3.944
+      },
+      {
+        "model": "OpenCLIP",
+        "variant": "ViT-B/32, openai weights",
+        "weights_gb": 0.605
+      },
+      {
+        "model": "BLIP",
+        "variant": "large",
+        "weights_gb": 1.879
+      },
+      {
+        "model": "LLaVA-1.5",
+        "variant": "7B, FP16",
+        "weights_gb": 14.127
+      },
+      {
+        "model": "SlowFast",
+        "variant": "R50",
+        "weights_gb": 0.138
+      },
+      {
+        "model": "X-CLIP",
+        "variant": "base/32, zero-shot",
+        "weights_gb": 0.786
+      },
+      {
+        "model": "HSEmotion",
+        "variant": "EfficientNet-B0",
+        "weights_gb": 0.016
+      },
+      {
+        "model": "YOLO11",
+        "variant": "large",
+        "weights_gb": 0.101
+      },
+      {
+        "model": "YOLOE-11",
+        "variant": "large",
+        "weights_gb": 0.147
+      },
+      {
+        "model": "YOLOE-11",
+        "variant": "large, promptable",
+        "weights_gb": 0.141
+      },
+      {
+        "model": "MobileCLIP-BLT",
+        "variant": "YOLOE text encoder",
+        "weights_gb": 0.599
+      },
+      {
+        "model": "RetinaFace",
+        "variant": "ResNet-50",
+        "weights_gb": 0.109
+      },
+      {
+        "model": "ArcFace",
+        "variant": "R100 (glintr100)",
+        "weights_gb": 0.261
+      }
+    ]
+  }
+}

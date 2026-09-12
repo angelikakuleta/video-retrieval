@@ -1,0 +1,109 @@
+1
+00:00:00,380 --> 00:00:01,880
+(Sheldon:)You're clearly listed
+as founder.
+
+2
+00:00:01,890 --> 00:00:04,020
+(Leonard:)Well, yes, and you're listed
+
+3
+00:00:04,020 --> 00:00:06,060
+(Leonard:)as Chief Executive Officer,
+
+4
+00:00:06,060 --> 00:00:08,830
+(Leonard:)Chief Financial Officer
+and Chief Operating Officer.
+
+5
+00:00:08,830 --> 00:00:10,440
+(Sheldon:)You missed
+Chief Science Officer,
+
+6
+00:00:10,440 --> 00:00:13,330
+(Sheldon:)Chairman of the Board, and Head
+of the Secret Santa Committee.
+
+7
+00:00:13,330 --> 00:00:15,370
+(Penny:)Okay.
+
+8
+00:00:15,370 --> 00:00:18,120
+(Leonard:)You need to get clear
+on this right now.
+
+9
+00:00:18,120 --> 00:00:20,170
+(Leonard:)I am in charge of this project.
+
+10
+00:00:20,170 --> 00:00:25,790
+(Raj:)Ooh. Leonard's going all
+alpha nerd on Sheldon's ass...
+
+11
+00:00:25,790 --> 00:00:28,280
+(Sheldon:)All right. All right,
+I'm not going to argue with you.
+
+12
+00:00:28,280 --> 00:00:30,460
+(Sheldon:)Sheldon Cooper is nothing
+if not a team player.
+
+13
+00:00:30,460 --> 00:00:32,950
+(Sheldon:)Dr. Hofstadter,
+you have the conn.
+
+14
+00:00:34,850 --> 00:00:36,890
+(Leonard:)Thank you.
+
+15
+00:00:36,890 --> 00:00:38,150
+(Leonard:)I thought we might start
+
+16
+00:00:38,160 --> 00:00:39,840
+(Leonard:)by talking
+about the user interface.
+
+17
+00:00:39,840 --> 00:00:41,390
+(Sheldon:)Oh, dear Lord, we're doomed.
+
+18
+00:00:43,560 --> 00:00:45,830
+(Leonard:)So this button here
+
+19
+00:00:45,830 --> 00:00:48,130
+(Leonard:)will allow you
+to scan a new equation,
+
+20
+00:00:48,130 --> 00:00:49,700
+(Leonard:)but over here,
+you can press this,
+
+21
+00:00:49,700 --> 00:00:52,240
+(Leonard:)and just substitute new values
+for the coefficients.
+
+22
+00:00:52,240 --> 00:00:54,990
+(Sheldon:)Good one, boss.
+
+23
+00:00:57,740 --> 00:00:58,780
+(Raj(pressing button on camera phone. Camera makes a fart noise):)What?
+
+24
+00:00:58,780 --> 00:01:00,140
+(Sheldon:)This diagram.
+
