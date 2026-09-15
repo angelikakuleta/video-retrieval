@@ -50,6 +50,32 @@ def load_run(run_dir: Path | str) -> dict:
             "dataset": config["dataset"], "split": config["split"]}
 
 
+def load_relevance(run: dict | Path | str) -> dict[int, set[str]]:
+    """``desc_id -> set of correct fragments``, read from the run's own file.
+
+    Taken from ``relevance.csv`` rather than recomputed with
+    :func:`src.evaluation.relevance.relevance_sets`, and the difference matters
+    wherever the answer is shown to a reader: this is the set the ranking was
+    actually scored against, so a figure built on it cannot disagree with the
+    metric printed beside it.
+
+    Accepts a run mapping (as :func:`load_run` returns) or the directory itself.
+    A missing file gives an empty mapping -- the caller decides whether that is
+    an interrupted run or a question that does not need relevance.
+    """
+    directory = Path(run["dir"]) if isinstance(run, dict) else Path(run)
+    out: dict[int, set[str]] = defaultdict(set)
+    path = directory / "relevance.csv"
+    if not path.exists():
+        return out
+    import csv
+
+    with open(path, encoding="utf-8-sig", newline="") as handle:
+        for row in csv.DictReader(handle, delimiter=";"):
+            out[int(row["desc_id"])].add(row["fragment_id"])
+    return out
+
+
 def episode_means(per_query: list[dict], metric: str,
                   desc_ids: set[int] | None = None) -> dict[str, float]:
     """Mean of the metric per episode, optionally restricted to some queries."""

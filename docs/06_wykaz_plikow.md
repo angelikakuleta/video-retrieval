@@ -100,6 +100,9 @@ Wszystkie pliki `.py` repozytorium, po katalogach. Opis odpowiada pierwszemu zda
 | [`sensitivity.py`](../src/evaluation/sensitivity.py) | Wrażliwość Recall@10 na wagi sygnałów - przeważanie zapisanych macierzy (6.7.5) |
 | [`tables.py`](../src/evaluation/tables.py) | Formatowanie tabel wynikowych rozdziału 6 do czytania w notatniku |
 | [`figures.py`](../src/evaluation/figures.py) | Skład rysunków pracy: paleta, znaczniki, `usetex`, zapis do `results/figures/` - wspólny dla notatników, które rysują |
+| [`examples.py`](../src/evaluation/examples.py) | Przykłady jakościowe: zamrożony wykaz sześciu przypadków, złożenie rankingów z katalogów przebiegów, populacja kandydatów i plik wyboru w `results/reports/examples/` |
+| [`thumbnails.py`](../src/evaluation/thumbnails.py) | Klatki fragmentu próbkowane na osi treści, w pamięci podręcznej `data/cache/thumbnails/` - jedyny krok przykładów, który rusza nagranie |
+| [`sheets.py`](../src/evaluation/sheets.py) | Rysunki przykładów: siatka kadrów rysowana w milimetrach, jeden plik na konfigurację, głębokość rankingu z `selection.csv` |
 
 ### `src/runners/` - Orkiestracja przebiegu
 
@@ -187,6 +190,7 @@ Wszystkie pliki `.py` repozytorium, po katalogach. Opis odpowiada pierwszemu zda
 | experiments/test_results.ipynb | tabele rozdziału 6 dla każdego eksperymentu na części testowej |
 | experiments/test_summary.ipynb | wkłady zbiorczo, aktywacja, PB3, PB4, wrażliwość na wagi, koszt, kontrola kompletności; dwa rysunki |
 | experiments/test_appendix.ipynb | wszystkie miary wszystkich konfiguracji, podzbiory, K400, tabela przejść, wykaz materiału |
+| experiments/examples.ipynb | rysunki z przykładami działania systemu; czyta gotowe przebiegi, dekoduje tylko klatki |
 | experiments/threshold.ipynb | progi dopasowania, sprawdzian list kontrolnych, aktywacja na dev; nagłówek niesie instrukcję oceny ręcznej |
 | prepare_data/office_02_annotations.ipynb | rejestr, zakresy korpusu, szkielet znaczników i pliki zapytań; *The Office* nie ma kroku kandydatów, więc jego ścieżka jest o jeden notatnik krótsza niż TBBT |
 | prepare_data/tbbt_01 / tbbt_03 | dobór odcinków i rejestr; statystyki adnotacji liczy `tbbt_03`, tam, gdzie powstają pliki, które je niosą |

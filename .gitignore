@@ -195,9 +195,9 @@ cython_debug/
 .abstra/
 
 # Visual Studio Code
-#   Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
+#   Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore
 #   that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
-#   and can be added to the global gitignore or merged into this file. However, if you prefer, 
+#   and can be added to the global gitignore or merged into this file. However, if you prefer,
 #   you could uncomment the following to ignore the entire vscode folder
 # .vscode/
 # Temporary file for partial code execution
@@ -277,6 +277,15 @@ desktop.ini
 # --- Measurements: the structure stays, and so do the run results (small, and they are the evidence) ---
 !results/measurements/
 
+# --- Qualitative example sheets: frames of the series, never pushed ---
+# The contact sheets of the appendix are composed of stills decoded from the
+# recordings, and this repository is public. The recordings themselves are
+# covered by data/processed/ above; a figure BUILT from them redistributes the
+# same material in another form, so it stays local. It is reproducible from the
+# run directories plus the recordings (notebooks/experiments/examples.ipynb),
+# like everything else under data/cache/.
+results/figures/examples/
+
 # --- Environment variables (HF_HOME and the like) ---
 .env
 
@@ -298,3 +307,6 @@ data/interim/*/work/profile_candidates/
 # The Python template above ignores *.log; run logs under
 # results/measurements/ are evidence and stay in the repository.
 !results/measurements/*.log
+
+# --- Working notes for the assistant: local only ---
+CLAUDE.md
