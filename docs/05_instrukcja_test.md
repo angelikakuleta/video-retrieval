@@ -168,8 +168,17 @@ notebooks/experiments/test_summary.ipynb     wkłady zbiorczo, wrażliwość wag
 notebooks/experiments/test_appendix.ipynb    wszystkie miary, podzbiory, przejścia, wykaz materiału
 notebooks/experiments/face_sizes.ipynb       rozkład rozmiarów twarzy
 notebooks/experiments/cost.ipynb             tabela kosztu
+notebooks/experiments/examples.ipynb         rysunki z przykładami działania systemu
 ```
 
 Wszystkie wykonują się na niekompletnym `results/runs/`: wypisują, czego brakuje, zamiast rzucać wyjątkiem. Można je więc uruchamiać w trakcie napływania przebiegów i patrzeć, jak się wypełniają.
 
-Formatowanie liczb do pracy - przecinek dziesiętny, twarda spacja przed jednostką, podpis tabeli nad tabelą - opisuje `01_wytyczne/wymagania_edytorskie.md` w repozytorium pracy.
+## 9. Przykłady jakościowe
+
+Sześć rysunków z przykładami działania systemu - ranking BAZY obok rankingu wariantu, po trzy klatki na każdy pokazany fragment - składa [`notebooks/experiments/examples.ipynb`](../notebooks/experiments/examples.ipynb).
+
+**Nic się tu nie liczy od nowa.** Rankingi pochodzą z `per_query.jsonl`, zbiory poprawnych fragmentów z `relevance.csv` tego samego przebiegu, przedziały czasowe z pamięci podręcznej segmentacji. Żaden model się nie ładuje, więc rysunek pokazuje dokładnie ten ranking, z którego policzono tabele.
+
+**Wybór zapytań jest ręczny i zapisany.** W `results/reports/examples/selection.csv` stoi jeden wiersz na przykład: `desc_id` wybranego zapytania i kolumna `top`, która ustala głębokość rankingu na rysunku. Klasa przykładu - znacznik, złożoność, wariant, kierunek - zostaje w `CASES` w kodzie. `candidates_<przykład>.csv` niesie całą populację, z której wybrano rankingi.
+
+**Rysunki nie wchodzą pod kontrolę wersji.** `results/figures/examples/` jest w `.gitignore`: to klatki nagrań, a repozytorium jest publiczne. Same klatki dekodują się raz do `data/cache/thumbnails/`, kolejne przebiegi czytają już pamięć podręczną.

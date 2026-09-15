@@ -7,7 +7,7 @@ Miejsce, w którym się liczy, przygotowuje adnotacje i podgląda wyniki. Kod, k
 | [`environment_check.ipynb`](environment_check.ipynb) | sprawdzenie każdego komponentu potoku: czy się ładuje, na czym liczy, ile pamięci zajmuje, jak długo trwa |
 | [`vatex_check.ipynb`](vatex_check.ipynb) | kontrola poprawności implementacji potoku bazowego na zbiorze VATEX |
 | `prepare_data/` | droga od materiału do gotowych plików zapytań; jeden notatnik na krok |
-| `experiments/` | liczby z gotowych katalogów przebiegów; nic tam nie liczy na nagraniach |
+| `experiments/` | liczby z gotowych katalogów przebiegów; nic tam nie liczy na nagraniach (wyjątkiem jest [`examples.ipynb`](experiments/examples.ipynb), który dekoduje klatki do rysunków przykładów) |
 
 ---
 
