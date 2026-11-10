@@ -39,12 +39,27 @@ try:
 
         # kernels for the card actually present: sm_120 on the RTX 5080
         # (Blackwell) the environment was built on, sm_89 on the RTX 5000 Ada
-        # of the university server -- the wheel must carry that architecture
+        # of the university server. A cubin serves every later minor revision
+        # of its major architecture (the sm_86 kernels of the cu130 wheel run
+        # on sm_89), and PTX of an older major can be JIT-compiled, so the
+        # exact name need not be in the list.
         major, minor = torch.cuda.get_device_capability(0)
         expected_arch = f"sm_{major}{minor}"
         arch = torch.cuda.get_arch_list()
-        if expected_arch in arch:
-            record(f"Kernels for {expected_arch}", True, f"present ({', '.join(arch)})")
+
+        def serves(entry):
+            kind, _, code = entry.partition("_")
+            if not code.isdigit():
+                return False
+            entry_major, entry_minor = int(code[:-1]), int(code[-1])
+            if kind == "sm":
+                return entry_major == major and entry_minor <= minor
+            return kind == "compute" and entry_major <= major
+
+        usable = [a for a in arch if serves(a)]
+        if usable:
+            record(f"Kernels for {expected_arch}", True,
+                   f"served by {', '.join(usable)} (wheel: {', '.join(arch)})")
         else:
             record(f"Kernels for {expected_arch}", False,
                    f"MISSING. Available: {', '.join(arch)}. Wrong CUDA variant "
