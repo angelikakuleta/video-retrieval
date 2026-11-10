@@ -20,7 +20,7 @@ Poza werdyktami zamrożony jest też **próg dopasowania frazy do nazwy klasy**,
 
 ## Spis treści
 
-0. **[Środowisko i modele pobierane ręcznie](00_srodowisko.md)** - co trzeba dociągnąć poza `conda env create`. Pierwszy krok, zanim cokolwiek ruszy.
+0. **[Środowisko: serwer Linux z GPU i modele pobierane ręcznie](00_srodowisko.md)** - odtworzenie środowiska na serwerze (ta gałąź), układ katalogów danych i to, czego `pip install` nie załatwia. Pierwszy krok, zanim cokolwiek ruszy.
 1. **[Architektura](01_architektura.md)** - jak zbudowany jest potok: fazy, artefakty, sygnały, most między zapytaniem a nazwami klas, fuzja, reguła decyzji.
 2. **[Dane i znaczniki](02_dane_i_znaczniki.md)** - wejście, którego przebieg nie wytworzy, znaczniki wymagań i profile postaci.
 3. **[Warstwa adnotacji](03_warstwa_adnotacji.md)** - droga od opisów źródłowych do plików zapytań, krok po kroku, dla obu seriali i dla VATEX.

@@ -14,7 +14,7 @@ Metodą jest badanie ablacyjne: ten sam potok uruchamiany jest wielokrotnie na t
 
 ## Odtworzenie środowiska
 
-Środowisko przygotowano dla systemu Windows 11 i karty NVIDIA RTX 5080 (architektura Blackwell, `sm_120`).
+Środowisko przygotowano dla systemu Windows 11 i karty NVIDIA RTX 5080 (architektura Blackwell, `sm_120`). Odtworzenie na serwerze Linux z systemowym CUDA, wraz z układem katalogów danych i kontrolą działania, opisuje [`docs/00_srodowisko.md`](docs/00_srodowisko.md) na tej gałęzi.
 
 ```bash
 conda env create -f environment.yml

@@ -2,11 +2,11 @@
   // ===========================================================
   // Interpreter — the `wideo` Conda environment
   // ===========================================================
-  // The same path that was entered in the NVIDIA driver
-  // (CUDA — Sysmem Fallback Policy → Prefer No Sysmem Fallback).
-  // If you ever create the environment under a different name,
-  // fix it HERE and in the driver setting.
-  "python.defaultInterpreterPath": "C:\\Users\\PC\\miniforge3\\envs\\wideo\\python.exe",
+  // Miniforge in the home directory of the Linux server (this branch); on the
+  // Windows machine of the main branch the same path is also entered in the
+  // NVIDIA driver (CUDA - Sysmem Fallback Policy). If you ever create the
+  // environment under a different name, fix it HERE.
+  "python.defaultInterpreterPath": "${userHome}/miniforge3/envs/wideo/bin/python",
   "python.terminal.activateEnvironment": true,
 
   // Conda initializes without friction in cmd; in PowerShell it requires
