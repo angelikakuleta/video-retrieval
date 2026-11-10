@@ -11,7 +11,6 @@ The script checks TWO independent execution engines:
 These two engines have separate CUDA builds and can fail independently of each other.
 """
 
-EXPECTED_ARCH = "sm_120"        # RTX 5080, Blackwell architecture
 MIN_ONNXRUNTIME = (1, 27)       # below this no sm_120 kernels -> silent fallback to CPU
 
 results = []
@@ -38,13 +37,18 @@ try:
     else:
         record("PyTorch sees the GPU", True, torch.cuda.get_device_name(0))
 
+        # kernels for the card actually present: sm_120 on the RTX 5080
+        # (Blackwell) the environment was built on, sm_89 on the RTX 5000 Ada
+        # of the university server -- the wheel must carry that architecture
+        major, minor = torch.cuda.get_device_capability(0)
+        expected_arch = f"sm_{major}{minor}"
         arch = torch.cuda.get_arch_list()
-        if EXPECTED_ARCH in arch:
-            record(f"Kernels for {EXPECTED_ARCH}", True, f"present ({', '.join(arch)})")
+        if expected_arch in arch:
+            record(f"Kernels for {expected_arch}", True, f"present ({', '.join(arch)})")
         else:
-            record(f"Kernels for {EXPECTED_ARCH}", False,
+            record(f"Kernels for {expected_arch}", False,
                    f"MISSING. Available: {', '.join(arch)}. Wrong CUDA variant "
-                   f"(cu126 does not include sm_120 -- cu130 is needed)")
+                   f"(e.g. cu126 does not include sm_120 -- cu130 is needed)")
 
         vram = torch.cuda.get_device_properties(0).total_memory / 1024**3
         record("GPU memory", True, f"{vram:.1f} GB")

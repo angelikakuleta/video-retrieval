@@ -226,14 +226,16 @@ __marimo__/
 # redistributable; the cache is reproducible from code and takes tens of GB.
 data/raw/
 data/processed/
-data/cache/
+# no trailing slash on data/cache: on the GPU server it is a symlink to the NFS
+# array, and a directory-only pattern would leave the link untracked
+data/cache
 # Downloaded/converted model weights (large binaries).
 data/models/
 
-# Exception: the directory structure stays in the repository
+# Exception: the directory structure stays in the repository (data/cache is
+# created by its writers, so it has no placeholder)
 !data/raw/.gitkeep
 !data/processed/.gitkeep
-!data/cache/.gitkeep
 !data/models/.gitkeep
 
 # --- Model weights (downloaded automatically on first run) ---
